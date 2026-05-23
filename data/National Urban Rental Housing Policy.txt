@@ -1,0 +1,1292 @@
+National Urban Rental Housing Policy
+(Draft)
+October, 2015
+Government of India
+Ministry of Housing and Urban Poverty Alleviation
+
+DRAFT
+Table of Contents
+Abbreviations: ........................................................................................................................................ 3
+Definitions: ............................................................................................................................................. 5
+Preamble ................................................................................................................................................. 7
+1. Introduction .................................................................................................................................... 8
+2. Historical context of policy interventions towards Housing in India: ........................................ 8
+3. Initiatives of Ministry of Housing and Urban Poverty Alleviation (MoHUPA):........................... 9
+5. Need for Rental Housing Policy: ................................................................................................. 10
+6. Issues and challenges: ................................................................................................................ 12
+7. National Urban Rental Housing Policy (NURHP), 2015 ............................................................. 14
+7.1. Vision ............................................................................................................................................ 14
+7.2. Policy Objectives: ........................................................................................................................ 14
+7.3. Target groups ............................................................................................................................... 15
+8. Demand and Supply side interventions ..................................................................................... 16
+9. Role of Central Government: ....................................................................................................... 17
+10. Role of State Government: .......................................................................................................... 18
+11. Role of Urban Local Bodies (ULBs): ........................................................................................... 21
+12. Role of other institutions/entities ............................................................................................... 22
+13. Way forward: ................................................................................................................................. 22
+List of Annexures
+Annexure: I - Rental yield across various countries ......................................................................... 24
+Annexure: II - Case studies on Rental Housing from across the World .......................................... 25
+Annexure: III - Do’s and Don’ts for States ......................................................................................... 35
+Annexure: IV - Percentage of Rental Housing in Developed Countries .......................................... 37
+Annexure: V – Models on Rental Housing ......................................................................................... 38
+Annexure: VI – Criteria that may be adopted in identification of target groups for prioritization 40
+Annexure: VII - References ................................................................................................................. 41
+Page 2 of 41
+
+DRAFT
+Abbreviations:
+BSUP : Basic Services for Urban Poor
+CAA : Constitutional Amendment Act
+CBO : Community Based Organisation
+CSR : Corporate Social Responsibility
+EWS : Economically Weaker Section
+ECB : External Commercial Borrowing
+FSI : Floor Space Index
+FAR : Floor Area Ratio
+FDI : Foreign Direct Investment
+GDP : Gross Domestic Product
+GoI : Government of India
+HFI : Housing Finance Institutions
+HRA : House Rent Allowance
+IHSDP : Integrated Housing and Slum Development Programmes
+ISHUP : Interest Subsidy scheme for Housing the Urban Poor
+JnNURM : Jawaharlal Nehru National Urban Renewal Mission
+LIG : Lower Income Group
+MDRH : Market Driven Rental Housing
+MoF : Ministry of Finance
+MoHUPA : Ministry of Housing and Urban Poverty Alleviation
+MIS : Management Information System
+MFI : Micro Finance Institution
+NGO : Non Government Organisation
+NSS : National Service Scheme
+NSSO : National Sample Survey Organisation
+NULM : National Urban Livelihoods Mission
+NURHP: National Urban Rental Housing Policy
+PG : Paying Guest
+PPP : Public Private Partnership
+PRH : Public Rental Housing
+PSU : Public sector Undertaking
+RCA : Rent Control Act
+RRY : Rajiv Rinn Yojana
+RAY : Rajiv Awas Yojana
+REITs : Real Estate Investment Trusts
+Page 3 of 41
+
+DRAFT
+RRMC : Residential Rental Management Company
+RHP : Rental Housing Policy
+RWA : Residential Welfare Association
+SPV : Special Purpose Vehicle
+SRH : Social Rental Housing
+SRHP : State Rental Housing Policy
+SUH : Shelter for Urban Homeless
+TFRH : Task Force on Rental Housing
+ULB : Urban Local Bodies
+UT : Union Territories
+Page 4 of 41
+
+DRAFT
+Definitions:
+1. “Formal rental housing” means rental housing based on an agreement entered into between the
+owner and the tenant, which is registered with the competent authority under the law for the time
+being in force.
+2. “Informal rental housing” means rental housing which is not based on an agreement entered into
+between the owner and the tenant, and is not registered with the competent authority under the law
+for the time being in force.
+3. ‘Market Driven/Private Rental Housing’ means rental housing provided by individual owners or
+institutions/entities or private rental housing operators (such as hostel owners) wherein owners
+finance the construction and management of rental housing, independent of government
+assistance.
+4. “Need Based Rental Housing” means rental housing based on need/requirement of different groups
+(such as students, teachers, working women/men, nurses, construction workers, migrants) who
+have a source of income, but find it difficult to afford the rent towards rental housing.
+5. “Owner” means a person who, for the time being is receiving, or is entitled to receive, the rent of any
+residential rental premises, whether on his own account or on account of or on behalf of, or for the
+benefit of, any other person, or as a trustee, guardian or receiver of any person/institution who
+would so receive the rent or be entitled to receive the rent, if the premises were let to a tenant, and
+shall include his successor-interest;
+6. “Public Rental Housing” means social rental housing that is owned by the government, local
+authority or its entitities;
+7. “Property Manager” means a person or company who is employed by the owner to manage the
+residential rental premises and who represents the owner in his dealings with the tenant.
+8. “Rental Housing” means a property occupied by someone other than the owner, for which the tenant
+pays a periodic mutually agreed rent to the owner.
+9. “Residential Rental Premises” means any building or part of a building which is or is intended to be
+let separately for the purpose of residence of the tenant and includes-
+(a) any fixtures and fittings in such premises for the beneficial enjoyment thereof of the tenant; and
+(b) the garden, grounds, parking, garage, out-houses etc. let out along-with the premises to the
+tenant.
+Page 5 of 41
+
+DRAFT
+10. Explanation:- For the purposes of this definition it is clarified that the definition of ‘residential rental
+premises’ does not include hotels, lodging houses, dharamshalas or inn etc“Shelter” means a
+covered structure that provides protection from the weather or danger for lodging of persons on a
+temporary basis with basic minimum civic facilities such as water, sanitation, electricity etc.
+11. “Social Rental Housing (SRH)” means rental housing in which the rent is set at a level below the
+market rates to make it affordable for poor people (Economically Weaker Section & Low Income
+Group). It may be owned and managed by the government, local authorities, public sector
+undertakings, non-profit organizations, private or any others charitable institutions.
+12. “Incentives” means a payment or concession to stimulate greater output or investment in rental
+housing, which may be fiscal and/or non-fiscal incentives (such as grants, low-interest loans, tax
+abatements etc.) that promotes housing to be accessible to those that cannot afford market rents.
+13. “Tenant” means a person who has entered into a rental housing agreement, for any residential rental
+premises, with the owner, in lieu of rent payable towards the same.
+14. Below Poverty Line (BPL) means a person holding a BPL card issued by the State Government from
+time to time1.
+15. Economically Weaker Section (EWS) means households having an annual income up to Rs.
+3,00,000 (Rupees Three Lakhs)*.
+16. Low Income Group (LIG) means households having an annual income above Rs.3,00,000 (Rupees
+Three Lakhs) and up to Rs.6,00,000 (Rupees Six Lakhs)*.
+*States/UTs shall have the flexibility to redefine the annual income criteria as per local conditions in
+consultation with the Centre2.
+1 Report of the Expert Group to Review the Methodology for Measurement of Poverty, Government of India Planning
+Commission, June, 2014
+*Over the year’s methodology for estimation of poverty were based on the various recommendations made by different
+Working Group/Task Force/Expert Groups consisting of eminent experts in the field of poverty such as Lakdawala
+Committee (1993) Tendulkar Committee (2005), Hashim Committee (May 2010) and Rangarajan Committee (June 2012).
+The poverty lines in 2011-12 at the national level are expressed as monthly per capita consumption expenditure of Rs. 972
+in rural areas and Rs. 1407 in urban areas, both at 2011-12 prices
+2 Pradhan Mantri Awas Yojana, Housing For All (Urban), Scheme Guidelines-2015, Ministry of HUPA
+Page 6 of 41
+
+DRAFT
+Preamble
+Housing is one of the basic necessities of life and the right to housing and adequate shelter is
+guaranteed in the Directive Principles of State Policy enshrined in the Constitution of India. The
+rapid pace of urbanisation in India has resulted in severe shortage of housing and basic services
+like potable water, well laid out drainage system, sewerage network, sanitation facilities, electricity,
+roads and appropriate disposal of solid waste. The urban housing shortage was estimated to be
+18.78 million3 during the 12th Plan period with consequent increase resulting from intense
+urbanisation in future years. Provision of affordable housing has been a priority area for the
+Government of India; however, providing housing to all on ownership basis is difficult and may not
+be possible. The fact that a large percentage of households live in congested condition, indicates
+that a large section of population find decent and adequate housing unaffordable.
+The growing urban housing shortages in India provide the rationale for policy focus on promotion of
+rental housing in urban areas which has been recognized by the National Urban Housing and
+Habitat Policy (NUHHP), 2007. This policy intends to promote sustainable development of
+ownership as well as rental housing stock in the country with a view to ensuring equitable supply of
+rental housing at affordable prices to all sections of society. Given the magnitude of housing
+shortage and budgetary constraints of both the Central and State Governments, it is amply clear
+that efforts of Public Sector alone will not suffice in fulfilling the rental housing demand. In view of
+this scenario, the National Urban Rental Housing Policy (NURHP), 2015 focuses on a multipronged
+approach such as enabling legal and regulatory measures, encourage involvement of Private
+Sector, Cooperative, Non-Governmental Sector, Industrial Sector (for labour housing) and the
+Services/Institutional Sector (for employee housing), to promote rental housing. The Policy seeks
+to promote various types of public-private partnerships for promotion of rental housing in the
+country which will act as a catalytic force to achieve the overall goal of Housing for All by 2022.
+3 Report of the Technical Group On Urban Housing Shortage (TG-12) Urban Housing Shortage (TG-12) (2012-17), Ministry
+of Housing And Urban Poverty Alleviation, Government of India
+Page 7 of 41
+
+DRAFT
+National Urban Rental Housing Policy, 2015
+1. Introduction
+1.1. Urbanization is an undisputed driver of the process of economic growth. In tune with the global trend,
+India is undergoing through a process of rapid urbanisation. Whereas the total population of India has
+grown 3.4 times during the period 1951 to 2011, the urban population has grown 6 times during the
+same period i.e. from 62.4 million (1951) to 377.1 million (2011). The increasing pace of the
+urbanisation process could be gauged from the fact that whereas the overall population of the country
+grew by 17.64% during the decade 2001-2011, the urban population increased by 31.8% during this
+period.
+1.2. Housing is not mere provision of four walls and a roof but it also requires to be supplemented by
+access to basic amenities such as water and sanitation, thereby offering a sense of privacy, safety,
+dignity and better living. The right to housing and adequate shelter as guaranteed in the Directive
+Principles of State Policy enshrined in the Constitution places an obligation on the Governments to
+ensure housing for all. With the rapidly increasing population of urban areas, the gap between supply
+and demand of the housing has been ever widening with increasing prices of real estate sector.
+Urbanisation in India is characterised with massive shortage of housing specifically towards the
+Economically Weaker Section (EWS) and Lower Income Groups (LIG), who are heavily dependent on
+governmental support for housing.
+2. Historical context of policy interventions towards Housing in India:
+2.1. The policies of urban development and housing in India have had a long journey since independence.
+In early 1950s, the pressure of urban population and lack of housing along with basic services was an
+issue of great concern to the Government as well as to the civil society. It has generally been the
+responsibility of States to intervene towards meeting the housing requirements of the vulnerable
+sections of society and to create an enabling environment for provision of shelter to all on a
+sustainable basis.
+2.2. As part of the First Five Year Plan (1951-56), concrete governmental initiatives began with a focus on
+institution-building and housing for weaker sections of society. Government undertook construction of
+houses for Government employees and industrial workers (through Industrial Housing Scheme). The
+urban land was getting scarce for provision of housing especially for the middle and low income
+Page 8 of 41
+
+DRAFT
+groups, resulting in the government enacting the Urban Land (Ceiling & Regulation) Act, 1976.
+Housing and Urban Development Corporation (HUDCO) was set up in 1970 to provide affordable
+housing and provide specialized attention to critical segments of infrastructure development in cities
+and towns.
+2.3. In the late 80’s and early 90’s, Government envisaged a larger role for the private sector in the
+construction of housing, whereas government focused on mobilization of resources, provision for
+subsidized housing for the poor and acquisition of land. The National Housing Bank (NHB) was set up
+as a wholly owned subsidiary of Reserve Bank of India (RBI), in 1988 under the National Housing Bank
+Act, 1987 to expand the base of housing finance. These were coupled with schemes aimed at provision
+of housing and basic services for the urban poor.
+2.4. The first National Housing Policy was announced in 1988 to eradicate houselessness and
+improve the housing conditions. Thereafter a revised National Housing Policy was announced in 1994
+as a by-product of economic reforms process initiated in 1991. The goal of this policy was to increase
+the supply of land and basic minimum services with a view to promote a healthy environment.
+Subsequently, a Housing and Habitat Policy was unveiled in 1998 with the vision of “shelter for all”
+and better quality of life to all citizens by using the potential of public, private and household sectors.
+The key objective of the policy was on creating strong Public–Private Partnership (PPP) for tackling
+the housing problem.
+2.5. The National Urban Housing and Habitat Policy (NUHHP) 2007 was formulated with the goal
+of `Affordable Housing for All’ with special emphasis on vulnerable sections of society such as
+Scheduled Castes/Scheduled Tribes, Backward Classes, Minorities and the Urban Poor. The spotlight
+was on ‘habitat development’ with a ‘Regional Planning Approach’ with the role of Government as a
+‘facilitator’ and ‘regulator.’ The NUHHP-2007 lays emphasis on earmarking of land for EWS/LIG groups
+in new housing projects while retaining Governments role in social housing so that affordable housing
+is made available for EWS and LIG categories either on ownership or on rental basis.
+3. Initiatives of Ministry of Housing and Urban Poverty Alleviation (MoHUPA):
+3.1. The Central and State Governments incentivise the housing sector in order to ensure greater
+home ownership. Ministry of Housing and Urban Poverty Alleviation (MoHUPA) has had various
+programmes in the housing sector at different point of time namely Environmental Improvement of
+Urban Slums (EIUS) Scheme, National Slum Development Programme (NSDP), Valmiki Ambedkar
+Page 9 of 41
+
+DRAFT
+Awas Yojana (VAMBAY), Basic Service for Urban Poor (BSUP) and Integrated Housing & Slum
+Development Program (IHSDP) under Jawaharlal Nehru National Urban Renewal Mission (JnNURM),
+Rajiv Awas Yojana (RAY), Interest Subsidy Scheme for Urban Poor (ISHUP)/Rajiv Rinn Yojana (RRY)
+etc.
+4. Ministry of Housing and Urban Poverty Alleviation (MoHUPA) had constituted a Task Force on Rental
+Housing (TFRH)4 to suggest measures to give a fillip to rental housing . The task force had given
+thirteen recommendations which have been considered in formulation of the National Urban Rental
+Housing Policy, 2015.
+5. Need for Rental Housing Policy:
+5.1. As illustrated in the historical context of Housing Polices the focus of most of the policy/programmatic
+interventions of Government are oriented towards home ownership which is unlikely to solve the
+housing shortage in urban India keeping in view that majority of the urban housing shortage pertains to
+EWS and LIG categories. Although provision of affordable housing has been a priority area for the
+Government of India since independence, providing housing to all on ownership basis is difficult and or
+may not be feasible. These poor households live in congested conditions indicating that housing is
+unaffordable for a large section of population, be it ownership or rental. Even after interventions such
+as subsidies for housing loans and tax concessions, this segment cannot afford to own a house due to
+low disposable income, irregular income, ever increasing real estate prices etc. Further, affordability
+gap created by filtering5 and lack of creditworthiness of the urban poor prevents access to housing
+loan/finance. Banks are not very active in sanctioning small ticket-size loans and the reduction in the
+Outstanding Housing loans to the low income segments reflects that the housing loans to weaker
+sections is decreasing every year i.e. upto Rs. 2 lakh – from 2% to 1%, upto Rs. 5 lakh – from 14% to
+9%, up to Rs.10 lakh from 34% to 26% during 2012-13 to 2013-14 (source: National Housing Bank).
+As per National Sample Survey Organisation (NSSO), urban residents pay around 6.2% of their total
+expenditure on house rent, which has increased three fold from 2004-05 to 2011-126. The Income Tax
+Act provides exemption of tax deduction for House Rent Allowance (HRA) for an employee which is
+4 Details available in the website: http://mhupa.gov.in/ under What’s New category
+5 Filtering is a process in which people in higher incomes occupy houses meant for lower income groups as they are more
+affordable even though slightly congested and in the process enhance the rates, mainly rents.
+6 Key Indicators of Households Consumer Expenditure in India: NSSO 68th Round (July 2011-June 2012), Ministry of Statistics
+and Programme Implementation, GoI.
+Page 10 of 41
+
+DRAFT
+around 40% on the basic salary. It is estimated that, the urban poor might be paying monthly 30% of
+their income as house rent without any incentives.
+5.2. On one hand, there is huge housing shortage (urban) and on the other hand there are massive stocks
+of vacant houses. As per census 2011 data, 11.09 million houses are vacant in urban areas. While
+exact reasons for the vacant properties are hard to ascertain it is felt that low rental yield, fear of
+repossession, lack of incentives etc. are the possible reasons. If these vacant houses are made
+available for rental housing, then some, if not most of the urban housing shortage, could be
+addressed. There is no specific strategy/policy to deliberate on issues related to rental housing which
+is required for a systematic growth. The National Commission of Urbanisation has also highlighted the
+need to take curative steps to prevent landlords from keeping their houses vacant7.
+5.3. In the absence of affordable rental housing options, growing families are forced to live in overcrowded
+houses which lead to slum like situations. Rental housing can provide an opportunity to the tenants as
+well as enable a steady source of income to the owners that converts urban land into an investment.
+5.4. Time is appropriate to supplement ownership housing by a strong, vibrant and sustainable inclusion of
+Rental Housing market with different models to address diverse housing needs for various segments
+of the population. The country needs to encourage rental housing as an additional option for housing
+to all sections of the society, particularly to the EWS/LIG, migrants and vulnerable groups who may not
+be able to afford a home even with various incentives for ownership housing. Apart from the
+affordability standpoint, rental housing is desirable for a number of reasons.
+5.5. As per Census 2011, over 27% of urban residents of the country are living on rent and most of them
+are informal in nature. The NSSO report has highlighted that, 25% of the hired dwelling units are
+informal and only 5% are formal8. As all the States in India are governed by their respective Rent
+Control Acts (RCA) which is skewed towards tenant protection, a fixed rent with limited options to
+increase rentals etc. has resulted in rental housing being economically unattractive and thereby
+creating an informal market. A ceiling on rents further reduced the quality and quantity of housing.
+These laws not only restrict supply but also drive away legitimate seekers of rental housing which
+force tenants into unrecorded and informal arrangements.
+7 Report of the National Commission on Urbanization, August 1988, Volume-V, Part IV
+8 NSSO 65th Round Report on Housing Conditions and Amenities in India (2008-09)
+Page 11 of 41
+
+DRAFT
+5.6. Migrants to urban areas form the single largest population segment that needs housing in the cities. A
+number of migrants come for varying durations of stay whehter in search of employment or education.
+In 2007-08, the National Sample Survey (NSS) measured the migration rate (the proportion of
+migrants in the population) in urban areas at 35%. The Census of India data shows that 10.98 million
+people significantly migrated internally from Rural to Urban, 9.01 million Urban to Urban and 5.33
+million from Urban to Rural areas between 1961 to 1971. Further, these rates have increased to 21.74
+million, 15.16 million and 6.58 million people respectively in 20019. Further, if not all, some urban
+residents may already have a house or a piece of land in their respective place of domicile and may
+not need (or be interested) in ownership housing in urban areas and would look for affordable rental
+accommodation. The reasons for migration vary significantly; amongst male migrants it is 37.6% on
+account of work/employment whereas for females it is 64.9% due to marriage. The proportion of males
+moving with household is 25.1% and the proportion of females moving with household is 18.9%. Since
+most of the male migration happens in the form of single individuals (rather than with family) they
+prefer to stay in affordable rental accommodation that allows them to minimise housing cost. Hence,
+addressing affordability issues of housing through promoting rental housing is necessary for inclusive
+urban development. Rental housing may also contribute towards preventing future growth of slums by
+providing affordable housing option to poor migrants. Rental housing provides options closer to the
+place of work and has the potential to improve their productivity.
+5.7. Renting of homes is treated as a “commercial” activity which increases property tax for individuals and
+service taxes for institutional rental housing operators (i.e. Hostels/PGs/Dormitories etc.) wherein
+electricity and utility rates are calculated at par with commercial properties, hence reducing the rental
+yield. Higher outflow due to commercial treatment deters the growth of rental housing.
+6. Issues and challenges:
+6.1. Further, the rent control law indirectly discriminates against the small owners/ underprivileged
+residents of urban India. Housing loan payments can be deducted from Income Tax, but not rent paid
+specially by the poor and vulnerable section of the society. In most cities rental yields have not kept
+pace with the increase in prices of real estate. Rental yields were at levels of 6% or so in Mumbai
+9 Migration Tables D- Census, 2001
+Page 12 of 41
+
+DRAFT
+during 2006, around 3.5% in 2009 and 1.5% in 201110. At current yields there is limited participation of
+the investors in the rental housing market. According to ‘Savills World Research study11 despite
+continued growth in Mumbai, it has moderately negative rental growth combined with very low net
+yields (detail enclosed at Annexure-I). The main factors preventing investment in rental housing are
+rent control laws; unrealistically low rental yields; poor maintenance of rental stocks; low quantity of
+housing constructed for rental purposes; holding back unoccupied houses for fear of losing control
+etc.12. RCA has resulted in substantial reduction in residential construction for rent and all new
+residential developments are built invariably for sale13.
+6.2. Rental housing has the potential to minimise the capital requirement on the part of government as well
+as to promote inclusive growth. The “High Level Task Force on Affordable Housing for All, 2008” also
+endorsed the need for rental housing and recommended fostering an environment that would make
+rental housing for EWS and LIG categories of households; Public-Private Partnership (PPP) in the
+production and management of rental housing; along with setting up of a regulator to track rents and
+fix prices etc.
+6.3. Further on account of urbanisation coupled with demographic shifts, existing housing shortage has
+created a demand for massive investment in housing. This capital requirement can be fulfilled by
+bringing public and private sector participation through appropriate policies, review/modification in the
+existing rules/regulations to bring transparency and accountability in the system to enable public and
+private investment. The growth of service sector, rising aspirations of young population, frequent
+change of job and dynamic growth potential with flexible career opportunities will create greater
+demand for rental housing which is likely to grow over the years especially in urban areas which are a
+pool/hub of new and global opportunities. By adopting a systematic approach to housing by including
+rental housing a balanced approach may be ensured that will support future growth. It is with this
+background that the National Urban Rental Housing (NURHP) Policy has been formulated.
+10 Report on Policy and Interventions to Spur Growth of Rental Housing in India, Task Force on Rental Housing, September,
+2013
+11 Insights, World Cities Review, H2, 2013, Yolande Barnes, Director of Savills World Research
+12 The Report of the National Commission on Urbanisation, August 1988, Vol-I
+13The Report of the National Commission on Urbanisation, August 1988, Interim Report, Jan 1987: State Housing Boards no
+longer construct any rental housing i.e. during 70’s Madhya Pradesh Housing Board sold away thousands of rental units to
+industrial workers as it could no longer afford to maintain them on the rent that prevailed, the perception of most house owners
+that once the house is given on rent, it will never be available to the owner this advertisements stating that company lease are
+preferred are a pointer to this because it was felt that a company might vacate a building, whereas an individual tenant never
+would that’s why rental market has tended to be restricted and supply of rental housing extremely limited.
+Page 13 of 41
+
+DRAFT
+7. National Urban Rental Housing Policy (NURHP), 2015
+7.1. Vision
+‘To create a vibrant, sustainable and inclusive rental housing market in India’.
+7.2. Policy Objectives:
+The broad objectives of the NURHP, 2015 are:
+7.2.1. To create adequate rental housing stock by promoting Social Rental Housing (SRH) with direct or
+indirect support from Government (State) with special focus on affordability of vulnerable groups
+and urban poor.
+7.2.1.1. To promote Shelter facilities for the most vulnerable groups within the homeless population such
+as single women and their dependent minor children, aged, infirm, disabled, mentally challenged
+etc.
+7.2.1.2. To promote Social Rental Housing for urban poor (EWS and LIG as defined by Government of
+India from time to time) as a viable alternative housing option.
+7.2.1.3. To promote Need Based Rental Housing (short/mid/long term basis) for specific target groups
+such as migrant labour, single women, single men, students (any other target group as defined by
+the State) who have the ability to pay only up to a certain amount of monthly rent14.
+7.2.2. To promote Market Driven Rental Housing (MDRH may or may not be eligible for direct benefits
+from government):
+7.2.2.1. To promote Private Rental Housing (PRH) as an interim measure towards aspirational home
+buyers.
+7.2.2.2. To enable Institutional Rental Housing (Hostels/PGs/dormitories) for working class with special
+focus on low earning employees working with Government/PSUs/Corporate
+houses/Industries/NGOs etc (any other category as defined by the State Government from time
+to time).
+7.2.3. To remove legal, financial and administrative barriers for facilitating access to tenure, land,
+finance and technology.
+7.2.4. To enable formalization/regularization of Rental Housing on pan India basis through adoption of
+Model Tenancy Act, 2015 of Ministry of HUPA.
+7.2.5. To facilitate fund flow from government and private sector through innovative financial
+Instruments to incentivise rental housing.
+7.2.6. To promoting Public-Private Partnership (PPP) to construct, manage, maintain and operate rental
+housing stock (Cooperative societies, Neighbourhood Associations, Resident Welfare
+Associations etc.).
+14 As defined by Government of India from time to time, physical definition of minimum space or habitable area to be adopted as
+per National Building Code (NBC)
+Page 14 of 41
+
+DRAFT
+7.3. Target groups
+7.3.1. Shelter for the Homeless: Shelter for the homeless, street children, destitute and other vulnerable
+groups of the society will be covered under the Shelter for Homeless (SUH) scheme under the
+National Urban Livelihoods Mission (NULM)15.
+7.3.2. Social Rental Housing (SRH) for Urban Poor: Social rental housing which caters to the urban poor
+needs to be devised based on international experiences (enclosed at Annexure-II & V- Models on
+Rental Housing). Special thrust will be given on the following target groups:
+ Below Poverty Line (BPL), Economically Weaker Section (EWS) and Low Income Group (LIG)
+households.
+ Tenant due to constraints (Annexure-VI Criteria that may be adopted in identification of target
+groups for prioritization)
+7.3.3. Need Based Rental Housing for various target groups i.e. migrant labour, working women,
+working men, students, transgender, single women, widow or any other group as identified
+by the States.
+ Migrant labour: People who migrate temporally to different cities/towns in search of
+employment/livelihood. Most of these segments are either industrial or construction labourers
+dependent on rental accommodation.
+ Students/working women/man: This segment usually stays for 6 months to 5 years preferably
+at a single location. Mostly depend on hostels provided by educational institutes or private
+hostel operators or individual owners providing paying guest accommodation.
+ PSU/Government Housing: People employed by PSUs or Government Department (both
+Central and State), but not provided with accommodation. Characterised as economically
+better off as compared to other migrants, this segment depends on low cost rental housing
+that exists in the open market and prefer ownership housing after retirement and can hence
+be categorised as aspiring home buyers.
+ States/UTs can come up with their own methodology for identification and prioritising the
+target groups for rental housing interventions especially for the social and need based target
+15 http://mhupa.gov.in/NULM_Mission/NULM_Mission.htm
+Page 15 of 41
+
+DRAFT
+groups taking into consideration the SECC data along with possibility of linking with Unique
+Identity (Annexure-VI: Criteria that may be adopted in identification of target groups for
+prioritization).
+7.3.4. Market Based Rental Housing: It is presumed that, the rental housing requirement of other
+categories i.e. Middle and Higher Income Groups (such as employees of
+Central/State/ULBs/PSUs/NGOs/Corporate houses/industries/private sector institutions) will be
+catered to by the market forces keeping in view their affordability.
+8. Demand and Supply side interventions
+For creation of a vibrant, sustainable and inclusive rental housing market in India following action
+points/interventions are proposed:
+8.1. Interventions proposed for demand generation in the rental housing sector:
+8.1.1. Identification of various target groups and assessment of their preferences/likely demands through
+primary and secondary survey.
+8.1.2. Government at all levels to act as an enabler and facilitator to promote rental housing through
+policies and regulations.
+8.1.3. Provide incentives (fiscal and non-fiscal) to the tenants i.e. tax exemptions, housing vouchers etc.
+8.1.4. Encourage creation of institutional owners such as REITs, Corporate firms, Not-for-profit entities,
+Municipal Housing Companies, PSUs etc.
+8.2. Interventions proposed to increase supply in the rental housing sector:
+8.2.1. Undertake regulatory reforms such as implementation of Model Tenancy Act, 2015.
+8.2.2. Encourage Public Private Partnership (PPP), Special Purpose Vehicle (SPVs), Residential Rental
+Management Companies (RRMCs) for creation of Social/Need Based rental Housing.
+8.2.3. Design programme/schemes and earmark budgets/identify funding sources along with dovetailing
+of CSR and other funds (Labour Cess funds) etc. for creation of Social/Need based Rental Housing
+Scheme.
+8.2.4. Earmarking certain percentage of dwelling units for Social/Need Based Rental Housing under
+various Central/State level Housing Schemes.
+Page 16 of 41
+
+DRAFT
+8.2.5. Mandatory registration of rental housing specially Social/Need Based Rental Housing.
+8.2.6. Promote Information technology (IT) enabled platforms for access to rental housing stock such as
+online portals/database for Social/Need based rental housing.
+8.2.7. Provide incentives (fiscal and non-fiscal) to the owners i.e. tax exemptions both direct and indirect
+by Central, State and ULBs, maintenance allowance etc.
+8.2.8. Reduce transaction costs and informality through IT enabled platforms.
+8.2.9. Prepare strategy/action plan for bringing vacant/locked properties into the rental housing stock.
+In order to take forward the aforesaid interventions the role of various stakeholders is outlined below:
+9. Role of Central Government:
+Government of India (GoI) will support States/UTs in following aspects:
+9.1. Act as a ‘facilitator’ and ‘enabler’ for promoting rental housing.
+9.2. Advise/guide States/UTs to adopt and implement NURHP, 2015 and extend support in preparing
+State specific Policy on Rental Housing.
+9.3. Encourage States to repeal/amend their respective Rent Control Acts and adopt the Draft Model
+Tenancy Act, 2015.
+9.4. Facilitate income tax concessions for institutional owners that create mass rental housing especially
+catering to the affordable SRH sector.
+9.5. Encourage States to provide subsidies for low income tenants (e.g. Rental Housing Vouchers16) and
+finance for private owners who provide low-income rental housing or for improvement of existing low
+quality rental housing.
+9.6. Develop economically viable rental housing models (such as Rent-to Own Scheme, Shared
+Ownership Scheme, PPP Model, Rental Voucher Scheme, Rental Allowance Scheme etc.).
+9.7. Extend fiscal and non-fiscal concessions for rental housing including that for PPP in rental housing.
+16 Rental Housing Vouchers: Transfer a certain amount of subsidy to the urban poor for meeting their housing costs, vouchers
+(equivalent of cash) provided to the urban poor, vouchers could be used by the urban poor to top up the rent they are paying
+to move into a habitable space.
+Page 17 of 41
+
+DRAFT
+9.8. Encouraging building of mass rental housing either for own employees or for other socially vulnerable
+section of the society under Corporate Social Responsibility (CSR), by allowing 100% deduction of
+the capital expenditure17 incurred.
+9.9. Create a separate category of depreciation for Hostels and Dormitories.
+9.10. Recognise and award best/innovative practices adopted by the States/private sector/implementing
+agencies for their contributions on rental housing sector and disseminate related success stories.
+9.11. Encourage Residential Real Estate Investment Trust (RREITs).
+9.12. Facilitate adoption of the Model Tenancy Act, 2015.
+9.13. Facilitate modification in the legal and regulatory mechanism namely in Lease/Rent Agreement,
+Building Permissions etc.
+9.14. Coordinate with other respective Ministries on issues related to rental housing sector i.e. Ministry of
+Labour and Employment (MoL&E), Ministry of Urban Development (MoUD), Ministry of Finance
+(MoF) etc.
+10. Role of State Government:
+10.1. ‘Housing’ being a State subject, it is the primary responsibility of State Governments to ensure
+housing for all. Following important action are to be taken by the State/Urban Local Bodies
+(ULBs)18 in this regard:
+10.2. Develop State Rental Housing Policy in consultation with the respective Urban Local Bodies
+(ULBs) based on local needs and demand assessment.
+10.3. To undertake appropriate reforms and create conducive environment to make Social Rental
+Housing viable.
+10.4. Earmark/reserve certain percentage of newly build flats/units/FSI/land within large housing projects
+at affordable rent especially for SRH (of a certain size and scale) in Master/statutory plans.
+10.5. Create an online portal of database on rental housing stock, vacant houses/properties.
+17 Capital expenditures (CAPEX) are expenditures altering the future of the business, incurred when a business spends money
+either to buy fixed assets or to add to the value of an existing fixed asset with a useful life extending beyond the taxable year.
+18 *Do’s and Don’ts for States while formulating State Policy/Schemes on rental housing (Annexure-III)
+Page 18 of 41
+
+DRAFT
+10.6. Facilitate online system for mandatory registration, enquiry on rental housing at State/ULB level
+such as availability of rental properties, price, location etc.
+10.7. Provide incentives like exemption from stamp duty, registration charge etc to boost Social Rental
+Housing19 (affordable rent as decided by the State) projects.
+10.8. Advice Urban Local Bodies (ULBs) and other entities to treat SRH properties like hostels (including
+private hostels) as residential properties for the purpose of calculating property tax, and towards
+other chares like electricity/water charges etc.
+10.9. Provide support to public and private agencies for effective planning and execution of social rental
+housing programmes/schemes.
+10.10. Exempt property tax for predefined period (say for 5 to 10 years) for Social Rental Housing
+properties.
+10.11. Ensure convergence of various housing and livelihood generation schemes/programmes at various
+levels.
+10.12. Develop strategy to deal with the vacant/locked properties in consultation with various stakeholders
+and come up with options/alternatives.
+10.13. Facilitate Rental Housing Projects especially Social Rental Housing Projects by creating Special
+Purpose Vehicles (SPVs)/ offering loans on lower interest rates allocate certain percentage of fund
+especially for Social Rental Housing / offer opportunity to buy back from private sector affordable
+housing builders and to make it available on rent, rent to own.
+10.14. Repeal/amend existing Rent Control Legislations and adopt the Draft Model Tenancy Act, 2015
+(of MoHUPA) to create a conducive atmosphere towards enhancing investment opportunity in
+rental housing sector. The Model Tenancy Act, 2015 suggests:
+ Entering into contractual agreements balancing the rights and responsibilities of owners and
+tenants.
+ Introducing smooth online registration process and grievance redressal mechanism to
+enable growth of rental housing.
+19Affordable Rental Housing (defined above as flats less than 60 sq. mt) including Affordable Hostels and Dormitories (total
+charges less than pre defined per month per bed at current prices) and Captive Employee Housing should get cost benefits so
+as to improve Yields/Margins- Task Force on Rental Housing (TFRH), MoHUPA.
+Page 19 of 41
+
+DRAFT
+ Provide for fast adjudication process for resolution of disputes through rent tribunals.
+ Repossession of the premises by the owner through rent courts.
+10.15. Adopt/amend/formulate appropriate legislations/rules for creation of institutions to operate,
+maintain and management of rental housing stock, both social and market based.
+10.16. Prepare customised strategy/action plan to address the issues of vacant/locked houses through a
+time bound action plan.
+10.17. To promote Residential Rental Management Companies (RRMC) to bring efficiency especially in
+operation, maintenance and management of large scale rental housing projects/schemes.
+10.18. To encourage formation of cooperative societies, municipal housing companies, neighbourhood
+associations, not for profit entities or other entities that would create, operate, maintain and
+manage rental housing stock..
+10.19. To take initiative towards a gradual shift from existing rental market to formal vibrant rental housing
+market by promoting voluntary registration drives through appropriate fiscal and non-fiscal
+incentives at local level.
+10.20. To encourage employers to offer Rental Housing / Rent-to-Own facilities to their employees (i.e.
+specific grants / financial assistance, loans at lower interest rates etc).
+10.21. To encourage corporate houses, charity organisations, RWAs, NGOs to initiate rental housing
+projects targeting the urban poor.
+10.22. Initiate programmes to create/support system that accelerate rental housing projects specialty
+social/need based rental housing category.
+10.23. Build capacity of various stakeholders in planning and implementation of housing projects/schemes
+with special focus on Rental Housing.
+10.24. Promote use of local technology/design based on the local know how and needs for housing in
+general and rental housing in particular.
+Page 20 of 41
+
+DRAFT
+11. Role of Urban Local Bodies (ULBs):
+11.1. The Urban Local Bodies shall take pro-active lead role in drafting and implementing the State
+policy on urban rental housing i.e. assessment of the present situation to analyse and prepare
+strategies (short, mid and long term) with support of State Government and other stakeholders.
+11.2. To identify target groups and total requirements for social/need based rental housing with the
+support of State Government.
+11.3. To prioritise interventions/strategies to construct, maintain, manage and operate rental housing
+stocks addressing Social/Need based rental Housing.
+11.4. To implement Central and State sector schemes/programmes, pertaining to Rental Housing at the
+city level.
+11.5. To reduce the informality by rationalizing transaction costs in rental housing and to simplify
+registration process in a time bound manner.
+11.6. To develop/adopt fast track dispute resolution mechanisms through a systematic and exclusive
+online portal on rental housing.
+11.7. To developing innovative Public Private Partnership (PPP) projects for creation of rental housing
+stock based on the local dynamics.
+11.8. Treat rental housing stocks at par with owner occupied premises in terms of property tax treatment
+and calculating other utility charges (water/electricity etc).
+11.9. Make a separate budgetary provision for rental housing projects/schemes.
+11.10. Create innovative models on rental housing to supplement/compliment Central/State
+policies/programmes.
+11.11. To constitute Municipal Housing Companies to create social/need based rental housing stocks and
+undertakes construction of affordable rental housing to promote socially diverse neighbourhoods.
+11.12. Allocate land for social and need based rental housing projects.
+Page 21 of 41
+
+DRAFT
+12. Role of other institutions/entities
+12.1. Banks and Housing Finance Institutions (HFIs) may promote innovative financial instruments to
+finance Social Rental Housing Schemes.
+12.2. Corporate/Private Sector may take up staff housing and undertake Social/Need Based Rental
+Housing as part of Corporate Social Responsibility (CSR).
+12.3. Co- operative Housing Sector and Non-Government Organizations’ (NGO) may encourage rental
+housing societies and housing federations to actively participate in promoting rental housing and
+provide information to tenants and encourage development of tenant associations by active
+participation of NGO’s.
+12.4. State Public Agencies like Housing Boards/Development Authorities may create appropriate SRH.
+13. Way forward:
+Access to housing has emerged as one of the most daunting challenges of the 21st Century in
+many countries including India. Due to lack of focused policy intervention towards rental housing,
+low yields, informality and poor quality of spaces, rental housing has been often confined to
+margins.
+Past interventions by the State Governments towards providing rental housing to its employees or
+to the poor/migrants has not been successful owing to lack of mechanisms for operations and
+maintenance and lack of funding to sustain these interventions. Therefore the formal rental sector
+deserves greater attention and expertise, as properly developed rental markets can play a
+formidable role in promoting affordable and decent quality housing especially for the socially and
+economically weaker sections of the society. Compared to developed countries where large scale
+institutional rental housing developers play a vital role, India still has a long way to go in creating
+the rental space and mainstream rental housing as a part of formal Housing market and an
+alternative to ownership housing.
+The Draft NURHP, 2015 is a stepping stone towards realizing the vision to create a vibrant,
+sustainable and inclusive rental housing market in India. Government of India along with State
+Governments may develop various models on rental housing and start earmarking budgets to
+mainstream rental housing in India. As the respective housing markets are different, States/UTs will
+have to come up with their own rental housing policy along with schemes with different models on
+Page 22 of 41
+
+DRAFT
+rental housing (i.e. rent to own, shared ownership, model on management of rental properties with
+private partners in raising necessary funds, resources etc.) especially towards providing
+Social/Need Based Rental Housing. The states should also necessarily come up with criteria of
+identification of target tenants for whom it would like to provide rental housing and support.
+***************
+Page 23 of 41
+
+DRAFT
+Annexure: I - Rental yield across various countries
+Source: Insights World Cities Review, H2, 2013, Savills
+Page 24 of 41
+
+DRAFT
+Annexure: II - Case studies on Rental Housing from across the World
+1. United States of America:
+1.1. Housing Choice Vouchers:
+Housing Choice Vouchers programme allowing tenants to seek their own housing from private landlords,
+rather than confining low-income tenants to public housing ghettos.
+United States of America, in the early 1970 started Section 8 Housing Choice Voucher program (originally
+called certificates) aimed at low-income rental housing as part of their federal housing policy. It supplements
+rent payments for approximately 2.2 million low-income families and individuals. Recipients choose a house
+or apartment available in the private market and contribute roughly 30% of their incomes toward rent, with the
+program paying the difference up to a locally defined “payment standard.” When families first receive a
+voucher, they are responsible for finding a house or apartment that meets the program’s housing quality
+standards with a landlord who is willing to participate in the program. Some recipients are able to remain in
+their original housing unit by convincing the landlord to accept subsidy payments from the Section 8 program.
+Once they find a qualified housing unit, families or individuals can begin receiving housing assistance.
+Similar income vouchers for lower income groups are also being administered in South Korea
+The housing choice voucher program is the federal government's major program for assisting very low-
+income families, the elderly, and the disabled to afford decent, safe, and sanitary housing in the private
+market. Since housing assistance is provided on behalf of the family or individual, participants are able to find
+their own housing, including single-family homes, townhouses and apartments. The participant is free to
+choose any housing that meets the requirements of the program and is not limited to units located in
+subsidized housing projects.
+Housing choice vouchers are administered locally by public housing agencies (PHAs). The PHAs receive
+federal funds from the U.S. Department of Housing and Urban Development (HUD) to administer the
+voucher program. A family that is issued a housing voucher is responsible for finding a suitable housing unit
+of the family's choice where the owner agrees to rent under the program. This unit may include the family's
+present residence. Rental units must meet minimum standards of health and safety, as determined by the
+PHA.
+A housing subsidy is paid to the landlord directly by the PHA on behalf of the participating family. The family
+then pays the difference between the actual rent charged by the landlord and the amount subsidized by the
+program. Under certain circumstances, if authorized by the PHA, a family may use its voucher to purchase a
+modest home.
+1.2. Low Income Tax credit (LIHTC)
+In US, Low-Income Housing Tax Credit (LIHTC) is the nation’s largest and most successful affordable rental
+housing production programme. LIHTC Program is an indirect Federal subsidy used to finance the
+development of affordable rental housing for low-income households. Having financed more than 2 million
+homes since 1987 and more than 1,20,000 annually in recent years. Approximately,90% of all affordable
+rental housing is financed through LIHTC.
+For further details following links may be seen:
+http://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/programs/hcv/about/fact_sheet
+http://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/programs/hcv/about
+http://portal.hud.gov/hudportal/HUD
+http://www.census.gov/programs-surveys/ahs.html
+http://www.usa.gov/Citizen/Topics/Family-Homes.shtml
+Page 25 of 41
+
+DRAFT
+2. Australia:
+2.1. Affordable Housing:
+Australians for Affordable Housing is a coalition of over 60 national housing, welfare and community sector
+organisations. The coalition will highlight the problem of housing affordability and call on all levels of government
+to make the changes necessary to ensure all Australians can find an affordable home. Governments at all levels
+influence the housing market through tax incentives, first home owners grants, affordable housing programs,
+planning controls and rent assistance.
+As government housing policy is to ensure that all Australian households can access affordable housing and that
+government action needs to be coordinated to deliver that goal. To do this a clear national plan to deliver
+affordable housing to all Australians that include:
+ Investment in more low cost rental housing;
+ More opportunities for low income households to get into home ownership;
+ Better financial assistance for low income renters;
+ Initiatives to make home ownership more achievable for first home buyers;
+ Changing the housing investment tax arrangements that drive up house prices; and
+ A single cabinet level housing minister who is responsible for delivering these changes.
+2.2. National Rental Affordable Scheme:
+ The Government has launched National Rental Affordability scheme (NRAS) to help increase the supply
+of affordable rental dwellings by up to 50,000 by 2012, with a further 50,000 to be made available post
+July 2012 subject to demand.
+ Rent for these properties will be charged at 20% below the market rate for eligible tenant.
+ Australian Government will provide funding to increase the supply of affordable rental dwellings; reduce
+rental costs for low to moderate income households; and encourage large scale investment and
+innovative delivery of affordable housing.
+ This scheme offers annual incentives for a period of 10 years and the two key elements of the scheme
+are :
+ A Commonwealth Government incentive of $6000 per dwelling per year refundable tax offset or
+payment; and
+ A State or Territory Government incentive of $2000 per dwelling per year in direct or in kind financial
+support.
+Page 26 of 41
+
+DRAFT
+2.3. Eligibility criteria:
+ Must be an Australian citizen, have permanent residency or have been issued with a temporary
+protection or bridging visa
+ Must be a Queensland resident or provide evidence of a definite need to move to Queensland.
+ Household members must not own or part-own property within Australia or overseas. This includes
+residential or commercial property, land, mobile home or caravan (permanently connected to
+utilities)
+ Household’s combined liquid assets, meaning money in the bank, shares, investments and
+superannuation pay-outs, must not exceed $84,812.50 for a single person or $105,375.00 for two
+or more household members
+2.4. Important points:
+ Household income cannot exceed initial income limit at the point of application.
+ Tenants whose income exceeds the relevant upper income limit for their household type for two
+consecutive eligibility years cease to be eligible tenants.
+ Income eligibility limits for the National Rental Affordability Scheme are higher than those for social
+housing.
+ Income levels above are assessed on the total income for a household, not individuals within the
+household.
+ Yearly rent increases for scheme properties are capped at the rental component of the Consumer
+Price Index (CPI).
+ Tenants renting a property through the Scheme may be eligible for rent assistance, subject to the
+normal Centre link eligibility criteria.
+ The appointed tenancy managers of Scheme properties will select which eligible applicants will be
+housed through the Scheme.
+ The department has no involvement in the management of these tenancies.
+For further details following links may be seen:
+http://www.housing.wa.gov.au/housingoptions/rentaloptions/nras/Pages/default.aspx
+https://www.dss.gov.au/our-responsibilities/housing-support/programmes-services/national-rental-affordability-scheme
+https://www.sa.gov.au/topics/housing-property-and-land/housing/renting-and-letting/national-rental-affordability-
+scheme-nras
+http://www.hpw.qld.gov.au/Housing/PartnershipInitiatives/NationalRentalAffordabilityScheme/Pages/default.aspx
+http://en.wikipedia.org/wiki/National_Rental_Affordability_Scheme
+http://en.wikipedia.org/wiki/Public_housing_in_Australia
+http://www.dhw.wa.gov.au/HousingDocuments/Rental_Policy_Manual.pdf
+https://life.curtin.edu.au/local/docs/UL_AS_G_RentingHomeWA.pdf
+Page 27 of 41
+
+DRAFT
+3. Ireland:
+The Republic of Ireland in particular has large-scale of immigration, with 4,20,000 foreign nationals as of 2006,
+about 10% of the population. A quarter of births (24%) in 2009 were to mothers born outside of Ireland.
+Chinese and Nigerians, along with people from other African countries, have accounted for a large proportion
+of the non–European Union migrants to Ireland.
+3.1. Rental Housing Scheme:
+This scheme enables the purchase of a new or a second-hand home on the open market with the local
+authority or the not-for-profit housing agency initially taking at least 40% stake, which they rent to the
+beneficiaries. The individual funds their equity stake through a local authority loan and committed to take out
+all the equity in the property over 25 years. They make payments on a mortgage for the part they own and pay
+rent to the local authority for the other part. Irish housing policy also aims to enhance the role of private rental
+sector by reforming tenancy legislation.
+Interest on borrowings for the purchase, improvement or repair of any rented residential property can be offset
+against rental income and tax relief can be claimed on capital expenditure on refurbishment of rented
+residential accommodation after April 2001. The stamp duty for letting houses has been abolished.
+Social security recipients may be entitled to receive a supplementary welfare allowance, a rent supplement to
+cover the substantial part of the average market rent in their local area.
+Under Rental Accommodation Scheme introduced in 2004, local authority will progressively take over
+responsibility for procuring new rental accommodation on a long term basis for approximately 30,000 house
+rent supplement recipients transferred to them. The scheme is run by local authorities and makes the final
+decision regarding who is eligible under the scheme. In general, people who are getting Rent Supplement for
+more than 18 months are considered for RAS.
+Under the scheme local authorities draw up contracts with landlords to provide housing for an agreed term for
+people with a long-term housing need. The local authority pays the rent directly to the landlord. Tenant to pay
+continue rent to the respective local authority, not to landlord.
+The key elements of the scheme are:
+• Local authorities pay the full rent to the landlord on behalf of the tenant.
+• Landlords must register tenancies with the Private Residential Tenancies Board (PRTB) and the tenancies
+are governed by the Residential Tenancies Act 2004.
+• The property must meet minimum standards for private rental accommodation.
+• Deposits are not required since the local authority has entered into a contract with the landlord.
+For further details following links may be seen:
+http://www.citizensinformation.ie/en/housing/owning_a_home/help_with_buying_a_home/shared_ownership.html
+http://www.ucd.ie/geary/static/publications/workingpapers/gearywp201306.pdf
+http://en.wikipedia.org/wiki/ESB_Group
+http://www.habitatireland.ie/2015/01/importance-housing/?gclid=CK2T8omh88UCFREsjgodTXUAJw
+http://ireland.angloinfo.com/housing/renting-accommodation/
+http://www.citizensinformation.ie/en/housing/local_authority_and_social_housing/rental_accommodation_scheme.html
+Page 28 of 41
+
+DRAFT
+4. China:
+The government of China has promoted the commercialization of housing in urban areas since 1978.
+Property development has become big business in China, with new cities and suburbs springing up with new
+apartments and house prices have rocketed in recent times.
+4.1. Rental housing:
+The Chinese government provides old flats on rental at a very low price and called 'Lian Zu Fang' (literally
+'low-rent house' or 'low-rent housing’). It has another popular scheme called the “Public Rental Housing”
+(PRH) scheme which is the first attempt to use non-ownership housing to solve the housing problem of
+people, mainly focusing on relieving the accommodation stress of local young staff and migrant workers who
+have relatively low income.
+China has introduced a series of tax exemptions for companies responsible for building and managing public
+rental-housing projects, on state. Low-income rental housing is led by government, using rent subsidies and
+direct providing low-rent housing. Rental housing subsidies mean that the government will provide different
+rent subsidies to eligible family based on rent standards. Fund mobilisation for rental housing done through
+following measured:
+ A special fund has been created in the governmental fiscal budget for rental housing;
+ Creation of a low-rent housing guarantee fund;
+ After the complete construction of public rental housing project, the management cost, maintenance
+fee and capital cost are paid by rent.
+ Country is also exploring new ways like Real Estate Investment Trusts (REITs) to expand the
+financing channel for public rental housing.
+ There are also private funds that raise funds exclusively for public rental housing
+ Incentives for developers and investors to participate in PRH construction
+Since the price difference between public rental housing and commercial housing, the local government is
+bound to provide a series of preferential policies to attract more companies to join.
+4.2. Some of the incentives are:
+ The developers negotiate with the authority about land price in case they are building rental housing;
+ The government does not levy any tax on urban land use for land developed for public rental
+housing. It does not levy stamp duty for the construction of such projects, and waives both taxes and
+stamp duties in cases where a property-management firm buys apartments for use as public rental
+housing.
+ Exemptions are also offered on deed tax and property tax
+ There are some beneficial rules for public rental housing, such as 50%-70% discounts for land
+transfer fee, and 1.5 to 2 times of residential floor area ratio compared with commercial housing.
+For further details following links may be seen:
+http://en.wikipedia.org/wiki/Housing_in_China
+http://www.chinadaily.com.cn/bizchina/07house.html
+http://www.chinalawandpractice.com/Article/2660697/Channel/7576/Public-Rental-Housing-Scheme-brings-
+opportunities.html
+http://www.diva-portal.org/smash/get/diva2:437080/FULLTEXT01.pdf
+http://www.lincolninst.edu/pubs/1871_Affordable-Housing-in-China
+Page 29 of 41
+
+DRAFT
+5. United Kingdom:
+Ministry was set up to coordinate a mass council housing program to overcome a huge housing shortfall.
+However, as the housing markets have matured over the last 50 years, there has been a Government policy
+aimed to increase social rented housing in favour of home ownership and to increasing withdrawal of state
+capital subsidies. This has resulted in a significant decline in the affordable rented sector. The private rented
+sector has started playing an increasingly important role in satisfying housing need, supported by revenue
+benefit funding from the Government.
+Additionally, Housing Associations, which are more than 1,500 in the UK, have also begun to promote ‘rent to
+buy’ schemes, in which aspiring buyers can let/rent an affordable new-build home for up to five years, while
+they amass a deposit to secure a loan to buy the same. These government-backed schemes offer discounted
+rent of no more than 80% of what tenants would pay on the open market and often less and some tenants
+even return some of the rent for use as part of the deposit when they graduate to ownership. In most cases,
+the buyer in such schemes can expect to be allowed to buy on a shared ownership basis, purchasing only as
+much of the property as they can afford, and continuing to rent the remaining portion.
+5.1. Major initiatives:
+ Allowing local flexibility on waiting lists, types of tenancies and social tenants’ and landlords’ rights
+and responsibilities.
+ Helping social landlords stop tenancy fraud and anti-social behavior.
+ Providing more affordable housing, including through a new model of affordable rent that allows
+registered housing providers to charge no more than 80% of local market rent.
+ Changing the housing revenue account subsidy system to a new, fair, locally controlled system where
+local authorities are responsible and accountable for their housing services.
+ Funding local authorities to refurbish their housing stock.
+ Supporting tenants to play a bigger role in managing their accommodation through the tenant
+empowerment programme.
+ Encouraging more investment in the private rented sector through schemes like new loan guarantees
+and the Build to Rent Fund.
+For further details following links may be seen:
+http://en.wikipedia.org/wiki/Affordability_of_housing_in_the_United_Kingdom
+http://www.housing.org.uk/
+http://www.ons.gov.uk/ons/dcp171766_373513.pdf
+http://www.jrf.org.uk/sites/files/jrf/migrants-private-rental-sector-full.pdf
+https://www.gov.uk/government/topics/housing
+http://www.jrf.org.uk/sites/files/jrf/1859353622.pdf
+https://www.lse.ac.uk/geographyAndEnvironment/research/london/events/HEIF/HEIF4b_10-11%20
+newlondonenv/prslaunch/Book.pdf
+Page 30 of 41
+
+DRAFT
+6. Canada :
+6.1. Canada Rental Supply Program (CRSP):
+CRSP was introduced in 1981 with the objective of stimulating private rental investment in cities with tight
+rental vacancy rates. It targeted the production of 30,000 new rental dwellings over three years (1982–
+1984). The result of the program was actual production of roughly 24,000 rental units over the three years
+(CMHC, 1988). The mechanism used was an interest-free loan that was designed to reduce the
+amount of investor equity required for the development to be viable. The maximum assistance was
+calculated at the difference between 80% of cost and the level of mortgage financing the project could carry
+at market rents, after allowing for approved operating expenses and a fair return on equity to the investor.
+The maximum amount of the loan was $7,500 per unit. The loan was secured as a second mortgage on
+title and no payments of either principal or interest were required for 15 years. After 15 years, the
+property owner had the option of repaying the original capital amount as a lump sum or amortizing the
+amount with ongoing interest payments at the then prevailing government direct lending rate. There was no
+restriction on rent, but owners were obligated to offer 33% of the units to provinces for rent supplement
+tenants (a separate contract to provide a subsidy lowering net rent to eligible low income tenants. As such,
+the primary objective was to stimulate supply/construction of rental units.
+6.2. Rental assistance (to separately address affordability issues):
+Rent Supplements Rent supplements have been used in Canada as a contractual arrangement with
+landlords to be allocated certain units to eligible low-income households. The contract specified the
+market rent and rate at which this rent can be annually increased (usually an inflation linked rent index).
+Households pay partial rent based on 30% of income, with the program then paying the difference between
+this 30% RGI payment and the market rent. These supplementary payments are made directly to the
+landlord.
+Housing Allowances unlike a rent supplement, a housing allowance does not involve directly contracting
+with a landlord. It leaves recipients to freely choose where they live and to select their own unit. It is
+possible to have minimal condition or size standards in order to ensure the program is not supporting poor
+quality housing. The subsidy payment similarly uses a percentage of income, such as 30% but adds a
+further formulaic element, a “percentage of gap” between the 30% level and actual market rent. So if the
+market rent is $500 and 30% of income is $375, the gap is $125. The percentage of gap covers a specified
+percent of this gap such as 6% (so $75) or 75% ($93.75). The percent of rent in programs in British
+Colombia and Manitoba varies, starting at 90% for the lowest-income recipients declining linearly to 60 % in
+Manitoba). This approach requires the recipient to pay part of the gap and thus induces an element of
+consumer control so that the recipient that is paying part of the cost has incentive to select a lower cost
+unit. The cost is also managed by imposing a maximum rent for eligible assistance.
+Page 31 of 41
+
+DRAFT
+6.3. Non-profit Housing Program (1978–1985):
+The objective was twofold: to generate supply of rental units and to ensure they are made available at rents
+affordable to low-moderate income individuals and families. Eligible developers were non profit corporations
+and cooperatives, in which the distribution of net operating surplus for personal gain was prohibited. Thus
+these corporations have no incentive to generate profit and instead tend to minimize any increase in rent
+levels to an amount necessary to cover break-even costs. Project sponsors/developers were eligible to
+obtain insured mortgage loans covering 100% of capital cost. The resulting operating expenses, plus
+debt servicing expenses, were well above the level that could be covered by low affordable rents.
+Accordingly, an ongoing operating subsidy was provided (with 35-year duration, matching the amortization
+period of the mortgage). During the 1978–1985, form of the operating subsidy was finite, calculated as the
+difference between the amortizing mortgage payment calculated at the prevailing mortgage rate and the
+amount calculated at 2%. The non-profit owner would then charge rents sufficient to cover an effective
+mortgage payment at 2% plus operating expenses. A minimum 15% of units were required to be provided at
+rents set at 25% of tenants gross income (this was raised to 30% in 1991), although in practice most non-
+profit owners significantly exceed the minimum proportion of rent geared to income basis (RGI) units
+(averaging around 40% of all units). The remaining units were rented at a “low end of market (LEM) rent,
+typically about 95% of market rate, so that there was a mix of low and moderate income (avoiding issues of
+concentrated poverty and stigmatization of rental properties).
+For further details:
+Source: Development of the Rental Housing Market in Latin America and the Caribbean by Steve Pomeroy
+Marc Godbout, Inter-American Development Bank (IDB) paper, No. IDB-DP-173, February 2011.
+Page 32 of 41
+
+DRAFT
+7. Germany:
+Germany was one of the best examples of European social housing both quantitatively and qualitatively.
+However, the significance of social housing as a mechanism of urban policy has weakened like in other EU
+countries (e.g. The Netherlands) in last couple of decades. There has been a shift from direct supply of
+houses under ownership to assistance to the families for payment of rents of the houses which has resulted
+in the creation of vast rental market from private owners. All the three tires Federal, State and local bodies
+have defined accountability for housing policy i.e. Federal Government sets the legal framework (tenancy
+law, housing benefits, social assistance). The States (16) participate in the legislation, promote social
+housing (finance the programs) and Municipalities (ULBs) plan city and land use, provide the local
+infrastructure of housing and care for people in need of help on the housing market, develop own social
+housing programmes. Federal governments and States intervene in case of ULBs are unable to meet the
+demand.
+Housing policy in Germany has progressively shifted the focus from the supply of houses to support for
+individual families. Housing Policy is based upon few policy mechanisms or instruments the provisions of
+existing tenancy law are more regulatory in character and have strong protective meaning for the tenants and
+opposite for the house owners. Tenants are protected against eviction; rent increases are capped; and the
+landlord is under duty to maintain dwelling. The landlords are free to choose their tenants, pass on costs of
+refurbishment to the tenant and are entitled to cancel contract in case of serious violations of tenant’s duties.
+Housing benefits for those who are unable to get government sponsored dwelling for themselves and have a
+rental accommodation in the free housing market wherein direct subsidy to the individuals who satisfy a list of
+criteria laid down by the law. Beneficiaries of this assistance must be tenants, to afford satisfactory dwelling
+space. Although this policy instrument is regulated by a federal law, payments to beneficiaries are shared by
+both the federal and state governments in equal ratio. On the other hand home ownership subsidy was on e
+of the biggest and long lasting subsidy programmes in Germany which was effective during 1949-2006. It
+provided subsidy to the ‘first buyers’ to encourage ownership available to individuals through tax deductions.
+Since 1996, this has been modified and paid only to individuals with less than a certain limit. Social Housing
+Policy aimed to eliminate housing shortage, funds up to 80% of cost of site and construction within a
+stipulated framework. Beneficiaries identified through municipalities, are supposed to obey restrictions on
+resale or renting out for a predetermined (medium to long term) period. The houses thus created are a form
+of cooperative housing.
+Social housing law, aimed to eliminate housing shortage, used to fund up to 80% of cost of site and
+construction within a stipulated frame work. Social is only a limited part of the housing stock. Only 9% of
+housing units in the West Berlin and 24% in the East Berlin were classified as ‘social or quasi-social’ housing
+in 2006. The rise of rents makes it impossible for the low-income to afford. In the last decade, stock of social
+housing has reduced in size because of privatization of such stocks by ULBs facing fiscal difficulties. It has
+been estimated that tens of thousands of such public housing units were sold to global institutional investors,
+predominantly US, British or Japanese pension funds.
+This has reflected by the fact that out of 39 million dwellings 60% of the housing stocks are rented premises
+(1 out of 5 households with rented accommodation receives financial assistance for housing) (Source:
+Christiane Drosteet al., Social Housing in Germany, LSE London, 2007). 40% of all households consist of 1
+person only.
+Six Municipal Housing Companies (owned around 17% of the total housing stock of Berlin around
+2,84,000 DUs) were constituted with the following functions:
+ Provide affordable , quality housing
+ Moderating effect of low rents on the whole housing market
+ Promotion of socially diverse neighborhoods
+For further details:
+Source: Study Report, SNPUPR study Programme to Germany-United Kingdom 2014-15, MoHUPA.
+Page 33 of 41
+
+DRAFT
+8. Finland (North Europe):
+Rental Management Company, SATO:
+SATO is a leading Finnish housing investment company. We contribute to growth and evolution in society
+through our provision of housing
+SATO is one of Finland’s leading corporate investors in housing. It owns a total of about 23,500 rentable
+homes in Finland’s largest centres of urban growth and St. Petersburg. Their investment assets have a
+fair value of roughly 2.1 billion Euros.
+SATO’s investment in housing business includes both privately financed and state-subsidised housing
+property, of which the latter is affected by restrictions set by housing legislation both at the company level
+and for individual properties and enjoys state subsidy and interest subsidised credit. This segmentation
+enhances the transparency of operations and reporting related to the state-subsidised housing stock.
+SATO actively buys and sells properties and develops property for Rental purposes. Its yield is around
+6.2% on the fair value of its properties. Using a combination of Rental Income and Income from Asset
+Disposal, SATO has been able to give a healthy 12% return to its Shareholders. SATO’s biggest
+shareholders are Finnish pension insurers and other insurance companies.
+REIT Schemes:
+ Be a Public Listed Company for Rental Housing.
+ Have a minimum equity of 5M€ distributed over 5 separate investors.
+ Minimum holding period: 5 years.
+ At least 80% of its assets have to be invested in residential real-estate.
+ At least 80% of the REIT's gross revenues must come from residential rental income.
+ At least 90% of the REIT's taxable income, excluding unrealised capital gains, to be distributed to
+shareholders through dividends.
+ Corporation is income-tax-exempt, but the shareholders will have to pay individual income tax on
+the dividends.
+ Largest individual shareholder may own less than 10% of company shares.
+For further details following links may be seen:
+http://www.sato.fi/en/housing-solutions/sato-renthome-star-rated-rental-homes
+Page 34 of 41
+
+DRAFT
+Annexure: III - Do’s and Don’ts for States
+Sl. No. Do’s Don’t
+1. Recognise that many urban households live Ignore non-owners and assume that they all wish to
+in rental and shared housing become homeowners now
+2. Consider renting to be one of the various Neglect rental option and focus only on home
+ways to improve housing condition ownership
+3. Estimate number of rental households and Attack landowners as a class; large numbers are
+landlords just poor as their tenants
+4. Evaluate whether regulatory frameworks for Assume that poor households benefit from rent
+rental housing are functioning properly and controls; poor landlords most certainly do not, nor
+producing desirable results do tenants and potential tenants who are not
+covered by those controls
+5. Count the tenant families that live in Demolish or close down poor quality rental
+settlements before beginning a settlement accommodation unless it is dangerous to the
+upgrading project and recognise their special inhabitants
+needs
+6. Produce simple rental contracts templates Assume that long contracts are desirable for every
+that can be brought in local stores kind of tenant
+7. Set up a cheap arbitration and conciliation Assume that the court system provides adequate
+service for landlords and tenants that works protection for either poor tenants or poor landlords
+quickly
+8. Provide credit facilities or subsidies for poor Subsidise only new home buyers
+landlords who wish to extend or improve their
+accommodation
+9. Upgrade the rental properties based on Not consider or recognise the need of existing
+recognising the special needs of the tenant tenants families in the settlement.
+families that live in the settlement
+10. Facilitate online registration of rental Restricted to lengthy manual registration of rental
+properties, property dealers working in properties, property dealers, and grievance
+informal sector, grievance redressal system redressal process
+11. Adopting the Model Tenancy Act, 2015 Continue with the existing Rent Control Act
+12. Incentivise poor owners and tenants through Provide incentives/tax rebates only to the home
+subsidies and tax incentives/rental vouchers owners
+etc.
+13. Treat rental housing properties at par with Not having any consideration or incentives on rental
+residential rates while imposing property tax, housing, treat them at par with commercial
+water and electricity charges. properties like hotels
+14. Develop simple rental agreement templates Have no focus on formal agreements or without
+which can be brought in local market or ULBs standardisation, most of the rental agreements
+with a minimum fees were based on informal agreements
+Page 35 of 41
+
+DRAFT
+15. Most essential items to be included in rental Have non-standard rental agreements
+agreement are:
+ Definition and description of the rental
+unit
+ Duration / timelines of contracts
+ Rent setting and rent increases
+ Procedure for resolving conflicts and
+stability
+ Procedure for termination of contracts
+16. Prepare inventory of vacant and locked Have no strategy or system on vacant and locked
+properties and strategy to deal with the same properties
+17. Create systems that encourage rental Have non-standards or safety measures
+properties that are safe and habitable
+18. Ensure commitments to provide affordable Do not commit to provide affordable rental housing
+rental.
+19. States could consider providing temporary Do not have any incentives or tax exemptions for
+tax exemptions to shift properties currently in property improvement
+the informal sector to the formal sector and
+provide incentives for property improvement
+20. Work out deductibility of main costs such as No deduction for maintenance charges or interest
+maintenance work and interest paid, set paid, depreciation etc.
+standard for economic depreciation of rental
+properties based on the existing condition
+21. Explore possibilities of strengthening of No innovation in insurance for rental housing
+insurance markets for both owners and
+tenants through rental income guarantee or
+insurance scheme where proportion of rental
+income is paid in the event of non-payment
+by the tenant; however govt must be careful
+that the entire burden does not fall on it, and
+strict and transparent insurance standards to
+be set to avoid moral hazards.
+22. Grants, land or infrastructure provided at Do not have any provision to provide grants, lands
+reduced cost in exchange for keeping rents or infrastructure facilities for rental housing
+affordable for EWS/LIG and other vulnerable
+groups as notified by the Government from
+time to time.
+23. Establish Property Management Property Management Institute/company only for
+Institutes/company for large scale owners, commercial properties
+encourage those already in commercial
+property management to start residential
+arms, offer training to small scale or
+individual owners which will increase
+investment opportunities
+Source: Sl. number 1 to 8: A Policy Guide to Rental Housing in Developing Countries Quick Policy Guide-Volume 1, by Alan
+Gilbert, UNHABITAT.
+Page 36 of 41
+
+DRAFT
+Annexure: IV - Percentage of Rental Housing in Developed Countries
+Percentage of total housing stock* Percentage of social housing stock by**
+Country Social rental Private rental Pure public Housing assoc (Limited profit/non-
+sector profit)
+UK 20 10 54 46
+Ireland 7 11 90 10
+USA 3 29 31 69^
+Australia 5 22 85 8
+Canada 6 28 34 66
+Austria 23 17 43 53
+France 16 24 Some^ 90^
+The 35 12 1 99
+Netherlands
+Denmark 19 18 - 100
+Germany 6 51 18 Some^
+Switzerland 6 59 Some^ Some^
+Singapore <10 - 100 -
+Republic of 9 35 Some -
+Korea
+Hong Kong 31 - 100 -
+Note: Housing associations are for profit, non-profit or limited profit organisations that build and/or manage
+low-cost or ‘social’ housing
+*Reminder of total housing stock is predominantly ownership
+**The social housing stock includes both social rental and ownership units
+^Include some for profit associations, co-operatives, modern rent agencies and regulated private landlords,
+Some associations have tenant shareholders.
+Source: International experience in providing affordable housing, IDFC 2011
+Page 37 of 41
+
+DRAFT
+Annexure: V – Models on Rental Housing
+1. Rental housing for the prospective migrants/homeless:
+Slums are created when large number of migrants arrive in the city with limited resources and are unable to
+afford decent accommodation. There is a need to create sufficient number of rental accommodation which
+can be made available to the target groups i.e. migrants, homeless and destitute etc. (i) for families and (ii)
+for single person dormitory. State government along with the Urban Local Bodies may construct rental
+houses up to various sizes for families and single room hostels/dormitories in sufficient numbers which can
+be let out by the Urban Local Bodies or other agencies including private sector to people who cannot afford
+to buy a house initially.
+Such houses can be given on rent up to a certain time on a short to long term basis, thereafter occupants
+(other than tenants such as homeless, destitute, people with special needs, aged etc.) are expected to
+move to their own houses. The ULBs shall manage the rental housing stocks, including identification of
+tenants, rent fixation, ensuring reuse of the stock. Corporate houses under their Corporate Social
+Responsibility (CSR) activities may also be allowed to fund these rental housing.
+2. Rent to own scheme:
+Rent to own housing model typically involves the initial allotment of the unit on a leased basis for a fixed
+number of years. The buyer deposits the monthly rent (equivalent to Equated Monthly Installment) in bank
+account. The EMI contains a certain percentage of rent and rest as thrift. When EMI amount reaches
+certain percentage (i.e.10%) of total unit price, property will be registered on buyer’s name and
+hypothecated to bank and government.
+In case of non-payment of EMI, bank and government will resell property. Thrift amount will be returned to
+buyer without interest. Resale powers lie with bank and government till the completion of tenure. Once
+100% payment is done, property papers are handed over to the buyer by de-hypothecation.
+3. Converting Slums on ULB Land to Rental Housing20:
+Between 9 and 141 million households live in about 33,500 slums in India (Census of India, 2011; MoSPI,
+2013). One of the biggest challenges that slum households face is the security of their tenure. If a slum
+household does not have the legal right to stay on the land it is occupying, it is liable for eviction—a
+phenomenon not so uncommon in large cities and metropolises. Insecurity of tenure also discourages
+households from investing in health, education and other development actions, as any such investment is
+at risk of being lost in the event of displacement or forceful eviction. Nearly 60% of slums across urban
+India are on government owned lands, in which 40% are on lands that belong to Urban Local Bodies
+(ULBs) – municipalities, municipal corporations, town panchayats, municipal councils, etc. In some states
+such as Karnataka, almost 65% of slums are on lands owned by locally elected urban governments
+(MoSPI, 2010).
+20 Making Rental Housing Work: A Case for Slum Households and ULBs, Swastik Harish – Senior Consultant, Indian Institute for
+Human Settlements- June 2015
+Page 38 of 41
+
+DRAFT
+The feasibility of large scale housing intervention in urban areas can be enhanced by rental housing
+mechanisms that can address access to land, questions of tenure as well as operations and maintenance
+of housing assets. Rental housing is also associated with higher workforce participation, since it enhances
+labour mobility through the provision of diverse housing options for low income households at various life
+stages. There is a positive co-relation between rental housing and work force participation as more rental
+housing is associated with higher workforce participation.
+Slums occupying ULB land can be converted to rental housing household as tenant and the ULB as the
+social landlord that rents land to the household. A slum which is on ULB land is made of two asset classes-
+first, the ULB's land, and second, the housing unit, which is clearly an investment made by the household.
+In this context, the ULB can give a 'no eviction guarantee' to the household for 10 years or more, and gain
+rent revenue from the household in exchange for the utilization of the ULB land. The ULB can also upgrade
+the unit, and recover the investment through rent on land. Occupying households pay rent on the land
+occupied, in exchange for a time-bound no-eviction guarantee. They retain ownership of the housing unit
+itself. They can invest further in the house and associated services since they have security of tenure for a
+definite time period. Existing renters in slums maintain their relationship with their landlords, as these
+landlords continue to be the owners of the housing unit, and only become renters of the land. Model
+options: Rent, lease or 'Leave and License' models available and can be applied based on tenability
+analysis and projected land-use. Rent-price (subject to local-level maximum) could be based on land area
+occupied and could be indexed to local rent levels and depreciation value of any infrastructure or unit up-
+gradation provided.
+The key outcome of this proposition is security of tenure for vulnerable slum households. Security of tenure,
+even if for a limited time, allows households to invest in their housing units and reap developmental gains in
+health, education, and income. The Ahmedabad Slum Networking Programme has proven that such no-
+eviction guarantees for about 10 years or so lead to higher levels of income and better health and
+education outcomes. The other critical outcome of this proposition is significant revenue for the ULB. This
+model could generate between 15 and 25 % of the ULBs’ revenue.
+Page 39 of 41
+
+DRAFT
+Annexure: VI – Criteria that may be adopted in identification of target groups for prioritization
+1. Tenants by constraint.
+ Slum dwellers or homeless people squatting
+ Workers who migrated for employment reasons
+ Working families who have no access to credit because they have low or non-existent credit
+records owing to insufficient or irregular income
+ People with special needs
+ Street Children
+ Aged
+ People affected by natural and manmade disaster
+ Socially and economically vulnerable people i.e. deserted women, children etc.
+ Defaulted borrowers
+2. Tenants by choice are usually less numerous:
+ Young couples and singles who want to remain mobile
+ Middle- and upper-income professionals who do not desire home ownership
+ Students
+ People Employed in Government, PSUs and other private sector
+ Empty nesters who want to downsize after their children have grown
+ All other persons who, for work or personal reasons, prefer a short-term residence
+ Others as identified by the State/ULBs
+Page 40 of 41
+
+DRAFT
+Annexure: VII - References
+1. National Housing and Habitat Policy-2007
+2. Report of the High Level Task Force Affordable Housing for All, December 2008
+3. Affordable Housing Task Force Report, November 2012
+4. Draft Model Tenancy Act, 2015
+5. Report of the Technical Group on Urban Housing Shortage (Tg-12) Urban Housing Shortage (TG-
+12) (2012-17), Government of India Ministry of Housing and Urban Poverty Alleviation, National
+Buildings Organization (NBO) www.mhupa.gov.in
+6. A Policy Guide to Rental Housing in Developing Countries Quick Policy Guide-Volume 1, by Alan
+Gilbert, UNHABITAT
+7. Quick Guides for Policy Makers, Housing the Poor in Asian Cities- Rental Housing: A much
+neglected housing option for the poor, UN-HABITAT & UNESCAP, 2008
+8. Rental Housing- Lessons from International Experience and Policies for Emerging Markets by Ira
+Gray Peppercorn and Claude Taffin, The World Bank, 2013
+9. Affordable Rental Housing, Quarterly Research Note, No.15, March 2012 Infrastructure
+Development Finance Company Ltd.
+10. Report of the National Commission on Urbanization, August 1988, Vol-I, II, V
+11. Report of the National Commission on Urbanization, Interim Report, January 1987
+12. Restructuring Housing Agencies in India by K. Dharmarajan & R.M. Kapoor, The Times Research
+Foundation 1997
+13. Making Rental Housing Work: A Case for Slum Households and ULBs, Swastik Harish – Senior
+Consultant, Indian Institute for Human Settlements- June 2015 & Policy brief Instituting Rental
+Housing, IIHS
+Page 41 of 41

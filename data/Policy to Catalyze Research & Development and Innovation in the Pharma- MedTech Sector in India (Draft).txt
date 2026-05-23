@@ -1,0 +1,620 @@
+
+
+Draft Policy to Catalyze Research & Development and
+Innovation in the Pharma- MedTech Sector in India
+1. Preamble
+The pharmaceutical and medical devices sectors in India have shown
+impressive growth over the years. Globally, India Pharmaceutical sector has
+contributed significantly to improve health outcomes while the Indian Medical
+Devices sector is well poised to pursue its constant growing trajectory. The
+Government is committed to promote Indian Pharma-Medtech as globally
+competitive sectors to ensure availability, accessibility and affordability of
+drugs and medical devices in domestic and global markets. One of the key
+policy measures to achieve this objective is to increase attention in India to
+Research & Development and innovation, which accounts for 2/3rd of the global
+pharmaceutical opportunity.
+This “Policy to Catalyze R&D and Innovation in the Pharma- MedTech Sector
+in India” is a commitment to encourage Research & Development (R&D) in
+pharmaceuticals and medical devices and to create an ecosystem for innovation
+in the sector in order for India to become a leader in drug discovery and
+innovative medical devices through incubating an entrepreneurial
+environment. It acknowledges the need for greater emphasis on encouraging
+R&D, through indigenously developed cutting-edge products and technologies
+across the value chain.
+Recognizing that R&D is integral to enhance the benefits of the Pharma –
+Medtech sectors towards meeting the health care needs of the country, a
+comprehensive national policy framework is proposed to build a robust
+ecosystem to ensure the holistic development of R&D and Innovation. The
+sector objectives in turn, can contribute to achieving SDG 03 namely “Ensure
+healthy lives and promote well-being for all at all ages” and specifically the Target
+3.8. “Achieve universal health coverage, including financial risk protection, access to
+quality essential health-care services and access to safe, effective, quality and affordable
+essential medicines and vaccines for all”. The policy is built upon three focus areas,
+namely, strengthening the regulatory framework, incentivizing investments
+and creating a facilitatory ecosystem for Innovation.
+2. Background to the Policy
+1
+
+2.1 India is well recognized as the pharmacy of the world. The
+pharmaceutical industry has played a key role in driving better health
+outcomes across the world by being a large and reliable supplier of affordable
+and high-quality generics drugs. Increased accessibility to affordable drugs in
+India has helped reduce disease burden in the country by 36 percent between
+1990 and 2016 and has also brought down treatment cost for several life-
+threatening diseases to <5% of its original cost. India has also helped improve
+access globally by supplying ~60% of global vaccine supply, 20-22% of generic
+exports, enabling access to AIDS treatment to 37% of patients in Africa in 2009
+compared to just 2% in 2003 and by being the 2nd largest exporter of Ayurveda
+and alternative medicine in the world. The industry has also contributed
+significantly to India's economy by providing employment to 2.7 Mn people,
+generating USD 13 Bn in trade surplus every year, and USD 2 Bn in FDI inflows
+to pharmaceutical industry in the period 2015 to 2018. The focus on high quality
+is borne out by the presence of largest number of USFDA accredited
+manufacturing plants outside of the US. Indian pharmaceutical industry’s
+contribution has become even more prominent in 2020 as India has supported
+the global battle against COVID-19 pandemic by maintaining drug supplies to
+about 200 countries even during the darkest days of the pandemic.
+2.2. Over the years, Biopharmaceuticals is becoming a key driver for growth in
+global Pharmaceuticals, with increasing emergence of biologics and
+biosimilars. The global biosimilar market opportunity is expected to grow to
+USD 70 bn by 20271 . In India the biopharmaceuticals sector is reported to have
+delivered a 5 year CAGR of 50% and likely to grow strongly. There are about
+100 biosimilar approved in the Indian market till October 2020 and Industry
+reports another 40+ biosimilars in the clinical development stage. In the
+response to the pandemic, Indian industry has come forward to develop and
+manufacture bio-specific antibodies with some companies developing expertise
+in Antibody Drug Conjugate (ADC) and Monoclonal antibodies (MAB). The
+Vaccine sector in India with proven capacity for manufacturing at scale,
+(catering to 62% of global vaccine demand) is also benefitted by talented
+vaccine developers that have been at the forefront of the fight against COVID
+19. Innovation and R&D will be key to retaining global leadership in vaccine
+sector and growing the biopharmaceuticals segment.
+1 Source: Association of Biotechnology led enterprises (ABLE)
+2
+
+2.3. The medical devices sector, is a sunrise segment in Indian
+manufacturing sector, with over 750-800 domestic medical devices
+manufacturers having an average investment of $2.3–2.7 Mn and turnover of
+$6.2-6.9 Mn. The sector itself is highly diversified as it covers a range of
+products from reagents to radiotherapy equipment. The Indian medical device
+Industry is heterogeneous, consisting of large multinationals as well as small
+and medium enterprises (SMEs) and is growing at an unprecedented scale.
+Around 65% of the medical device manufacturers in India are domestic players
+operating in the consumables segment and catering to local consumption with
+limited exports. In addition, there are notable private sector firms
+manufacturing stents, dialyzers, x ray machines etc. While currently there is a
+high degree of import dependence for high end equipment, yet, the Indian
+medical devices sector is playing a key role in driving better health outcomes
+by providing innovative and affordable products and solutions at scale. During
+the recent pandemic period, the industry demonstrated capacity for scale,
+innovation and cost efficiency in manufacture of ventilators, diagnostic kits,
+followed by pulse oximeters, oxygen concentrators and similar equipment. The
+well-developed IT ecosystem in India affords added advantage to
+diversification in the medical devices space.
+2.4. Despite these strong fundamentals, there are areas of concern that need to
+be addressed for the sustained growth of the Pharma-Medtech sector with
+attendant benefits to Health care systems. On the Pharmaceuticals side, the
+strong presence in generics market is vulnerable to the high degree of import
+dependence in APIs and KSMs. The relatively low pace of development of
+Biologics and Biosimilars and other products that capture emerging trends in
+new generation therapeutics is also cause for concern. In the Medtech space, the
+low domestic manufacturing capabilities in High end scanning and imaging
+equipment needs to be addressed.
+2.5. While giving a clarion call for ‘Atmanirbhar Bharat’, the Hon’ble Prime
+Minister highlighted that India can only achieve self-reliance in
+pharmaceuticals and medical devices by strengthening its R&D infrastructure
+that would drive expansion of access to life-saving medicines and help India
+become a global pharmaceuticals and medical devices exports hub. Also, the
+Parliamentary Standing Committee in its 46th Report on ‘Promotion and
+coordination of basic, applied and other research in areas related to
+the Pharmaceutical Sector’ in July, 2018 recommended for institutionalizing
+3
+
+inter-departmental coordination mechanism, enhancing academia-industry
+linkage, boosting infrastructure, enhancing budget allocation for
+Pharmaceuticals and medical devices Research & Development, concentrating
+on future areas of research, like biologics and re-adjusting policy, rules &
+regulations. In pursuance to the recommendations of the Committee, an Inter-
+Departmental Committee (IDC) was set up by the Department of
+Pharmaceuticals in January, 2019 to institutionalize a robust mechanism to
+ensure efficiency, effectiveness and transparency and coordinate research in a
+collaborative, synchronized and synergized way for optimum utilization of
+funds and to ensure no overlapping and duplication of efforts and resources.
+2.6. More recently, the challenges faced in India and indeed globally during the
+pandemic years of 2020 and 2021 have generated insights that growth must also
+serve the aims to assure drug security, diversify supply chains, increase access
+and develop innovative solutions to meet health care needs at scale. Whereas
+other support, in the form of regulation for safety and quality, financing,
+manufacturing infrastructure, skilled manpower, and cross border cooperation
+will no doubt be necessary for achieving these multiple objectives, Innovation
+and Research will be important contributors for sustaining them.
+3. Opportunities and Objectives
+3.1. The COVID 19 pandemic has brought to the forefront the role of innovation
+in expanding scale, access and affordability of healthcare products. The role of
+innovations in providing vaccines, and medical equipment at scale and of
+quality that can work in countries at different stages of development has been
+critical to management of the pandemic. The benefits of repurposing of drugs
+and the proliferation in monoclonal antibodies have also highlighted the role of
+innovation in tackling global emergencies.
+3.2. At a global level, Pharma and Medtech innovators are moving towards
+application of telemedicine, Artificial Intelligence (AI) & Machine Learning
+(ML), Virtual Reality (VR), Internet of Medical Things (IoMTs),
+Nanotechnology, Robotics & 3D printing, Big data & advanced analytics for
+aided diagnosis, green technology, additive manufacturing, flexible
+production, mobile applications for chronic disease management, digital
+therapeutics, precision medicine, and Medical records etc.
+3.3. Several enablers including a strong local industry, export experience, and
+depth of technical capabilities can help Pharma and Medtech sectors work
+4
+
+towards the vision of “Discover in India” and build a strong ecosystem for
+healthcare innovation. Achieving this vision will not only help India maintain
+its global relevance but also drive several health and economic benefits for the
+country. India although well placed in generics and certain medical devices, is
+yet to demonstrate sustained higher capabilities relating to drug discovery in
+pharmaceuticals, new products in biopharma and high-end medical devices.
+Building this presence can generate substantial health benefit for India by
+enabling development of drugs for India-specific ailments, which do not get
+adequate attention globally (e.g., drug-resistant infections like NDM-1; oral
+cavity cancer, where India accounts for ~30% of diseases burden). It will also
+enhance industry’s contribution to India’s economy (additional USD 10-12 Bn
+in exports every year) and create large pool of white-collar jobs to enhance
+India’s differentiation vis a vis other developing economies.
+3.4. The increased spending on healthcare globally, the increase in the size of
+the Indian middle class, the commitment to Universal Health and the attention
+to schemes such as PM AY, Ayushman Bharat etc. have created a sustained
+demand trajectory for Pharma Medtech sectors. The demand for better
+therapeutic outcomes, the trends in in-home treatment, personalized
+diagnostics and wearables, telemedicine etc have created scope for
+differentiated product and service offerings. To capture these opportunities,
+the Pharma-Medtech sectors would have to move out of comfort zones and
+adopt innovation as a driving feature of their business strategies.
+3.5. Objectives of the Policy: This policy aims to enable a conducive regulatory
+landscape to accelerate research & development and drive targeted funding,
+build strong industry-academia collaboration in line with the global best
+practices and create best-in-class infrastructure for Innovation in Pharma-
+Medtech sectors. The specific objectives of the Policy are listed below:
+3.5.1 To simplify regulatory processes to enable rapid drug discovery and
+development and innovation in medical devices;
+3.5.2 To explore mechanisms to incentivize private sector investment in
+research and evaluate various funding mechanisms – Budgetary
+support, Venture capital, CSR funding etc. and fiscal incentives to
+support innovation;
+3.5.3 To identify mechanisms to strengthen the R&D ecosystem through
+increased collaboration between Industry and Academia; and
+5
+
+3.5.4 To enable integration of the existing policies and programs of various
+departments/ agencies/ institutes in order to develop mechanisms to
+dovetail research as per requirement of the Industry.
+4. Focus Areas
+4.1 The Policy postulates three main areas for focus to achieve the above
+objectives. The first is to create a regulatory environment that facilitates
+innovation and research in product development, expanding the traditional
+regulatory objectives of safety and quality. The second focus area would be to
+incentivize private and public investment in Innovation through a mix of fiscal
+and non-fiscal measures, thereby matching risks with remunerative financing
+options. The third area of focus will be to build an enabling ecosystem designed
+to support innovation and cross sectoral research as a strong institutional
+foundation for sustainable growth in the sector. The following paragraphs
+describe how the measures proposed under these three focus areas to meet the
+policy objectives, largely based on the recommendations in the Report to
+Catalyse R&D and Innovation in Pharma-Medtech.
+4.2 Regulatory Framework: Streamlining Processes/Approvals
+4.2.1. Regulatory frameworks are currently geared towards assuring safety and
+efficacy and do not necessarily differentiate in favour of innovation. The Drug
+Controller General of India in the CDSCO is the licensing authority, but there
+are multiple agencies with different mandates and expertise that an Innovator
+firm has to navigate. In the case of bio-pharmaceuticals, the regulatory scrutiny
+of manipulation of the genetic material is an additional procedure. In the case
+of medical technology, a number of existing standards and licensing approvals
+apply to specific components especially in the electronic and radioactive
+spheres. As a result, clear processes to deal with new products and innovations
+that fall outside the existing standards may be absent. The Clinical Trial Rules
+have been modified in 2020 to deal with some of these issues and the Medical
+Devices Rules have been notified by MOHFW to guide the transition to a fully
+regulated regime. Another major challenge lies in building regulatory capacity
+within government to keep up with the latest advances in science and
+technology and reduce dependence on ad-hoc external inputs. All of this
+contributes to long timelines for grant of approval to innovative products,
+which has been identified as an area of concern.
+6
+
+4.2.2. Therefore, the following measures are contemplated to create a regulatory
+bias in favour of Innovation and original research:
+a. Process optimization: All regulators will be mandated to work together
+to reduce process overlapping and establish timelines for requisite
+approvals. A Common Specific Procedure Pathway (CSPP) would be
+provided for each class of product, which would include checklists,
+prescribed timelines, parallel processing, joint inspections, automatic /
+deemed approvals, and sharing of data across regulators. It shall be the
+aim to bring down the current time taken for regulatory approvals for
+innovative products by at least 50% within the next two years.
+b. Technology based platform: Creation of a single end to end digital portal
+is proposed, which would be used by different departments/ regulators.
+The Portal (single window) to be hosted by CDSCO will offer a single
+interface between Innovator and Regulator. It will function through an
+interconnected system with automated transfer of data across
+departments and agencies and enable upload of all documents on the
+integrated portal. Artificial intelligence backed dossier review and
+deficiency identification using natural language processing (NLP) and
+automated document management workflows will be deployed to
+enhance efficiency and reduce human interface. The technology based
+single point of interaction shall aim to bring transparency, timeliness and
+predictability in processes and outcomes around regulation.
+c. Regulatory Capacity: The policy proposes to strengthen the existing
+institutional capacity of the regulatory bodies (CDSCO) by setting up of
+project management roles to provide dedicated support to the industry
+Innovators. The strengthening of the regulator’s capabilities would
+include building in-house expertise in Biopharmaceuticals and high end
+medical devices. Specialisation will have to be created or in-sourced to
+handle oversight of regulatory functions in respect of New Biological
+Entities and New Chemical Entities, Biologics, Imaging medical
+technologies, New Materials, tele-diagnostics, AI/ML based
+innovations, Sensors, etc. NPPA will be supported to develop greater
+expertise in pricing of new innovative products, while pursuing
+affordability as an overall objective. The policy advocates collaboration
+with relevant international regulatory agencies to enhance expertise of
+Indian regulators for approval of new drugs and medical devices and
+7
+
+ensure a globally harmonized regulatory system; existing MoUs
+available with CDSCO will be reactivated and expanded for this purpose.
+The capacity building of regulators will enable them to introduce
+benchmarked best practices, stay ahead of the curve and add value to the
+expansion of the Pharma- Medtech sectors through Innovation.
+d. Legislation: A review of the multiple legislations impacting research and
+development in Pharmaceuticals and medical devices will be undertaken
+with a view to remove inconsistencies, and redundancies. An illustration
+of measures sought are listed as follows:
+o Products that are cultured and cultivated artificially under controlled
+conditions are essentially not impacting natural resources and
+effectively the biodiversity of the country and hence should be
+exempted from the Biological Diversity Act.
+o Institutional bodies need to be empowered for approving pre-clinical
+protocols, e.g., Institutional Animal Ethics Committee (IAEC) to be on
+par with Institutional Bio- Safety Committee (IBSC) to permit
+regulatory approvals for pre-clinical activities.
+o Enable joint inspection by CDSCO and State FDA (which should be
+conducted only once), in parallel, in case of vaccines and biologics for
+a particular class of product, for marketing authorization
+o Review legislation enabling regulation of all medical devices in a
+phased manner with lead time of 12 months to manufacture for each
+category of medical device - Class A, B, C & D.
+o Create dedicated licensing provisions for Ayurveda, Siddha & Unani
+(ASU) drugs. Explore providing Ayurveda WHO licensing authority
+to have the power to issue WHO GMP certificate.
+o Review DPCO 2013 to enable differential pricing for innovation with
+therapeutic benefits.
+4.3 Funding of Innovation: Incentivizing investment
+TO BE COVERED IN STAKEHOLDERS’ CONSULTATIONS
+4.4 Enabling ecosystem for Innovation and Research
+8
+
+The industry and individual institutes working on Pharma- MedTech research
+are largely working in silos or through informal ad-hoc cooperation and
+therefore need to be supported with a wider ecosystem that systematically
+recognizes, facilitates and rewards Innovation and research. Countries that
+have created such ecosystem are reaping the market benefits and financial
+rewards of innovation. Building Institutional ecosystem also creates a balance
+of equity with efficiency motivations that will align the market and societal
+forces towards the Goal of Universal Health care. The policy therefore proposes
+to address three components of building a robust enabling ecosystem
+including:
+• Strengthening academic industry linkages
+• Collaborating across institutions and sectors
+• Building supporting infrastructure
+4.4.1. Industry-academia linkages: Strengthen academic talent and
+infrastructure
+The academic infrastructure will be strengthened and integrated into a coherent
+framework for building skilled manpower for the Pharma and Medtech sectors.
+Currently Pharmaceutical education is governed by Pharmacy Council of India.
+In addition, NIPERs work as Institutes of national excellence for post graduate
+and doctoral study. The multidisciplinary nature of the medical devices sector
+covering material science, electronics, sensors, biochemistry etc. requires the
+sector to draw upon talent from a wide range of academic institutions including
+the Indian Institutes of technology. Considerable effort is also warranted to
+modernize curriculum in pharmaceutical education to prepare manpower to
+navigate if not lead the technology changes in research and manufacturing. The
+following measures are proposed to be taken up in this respect:
+• Strengthening academic curriculum to make it dynamic and
+contemporary to meet current needs of pharmaceutical and Medtech
+sector, with increased focus on future ready technologies (e.g. Biologics,
+continuous flow technology, use of AI and automation in
+manufacturing.)
+• Institutionalize Industry representation in NIPERs and provide channels
+for varying degree of financial and managerial involvement
+9
+
+• Integrate pharmaceutical education at graduate, post graduate and
+doctoral levels under NIPERs and enhance expertise in
+Biopharmaceutical education
+• Attract global educational institutions of eminence to create centres in
+India, leveraging the provision in the National Education Policy (NEP)
+allowing foreign universities to open campuses in India
+• Purposeful investment in few priority institutes to build ‘Centres of
+excellence’ focused on med-tech innovation and R&D in the country
+• Programs to attract global talent and incentivize local talent in research
+areas through recognition (President’s Award and equivalent), monetary
+awards, fellowships & grants, etc.
+• Encouraging industry to fund research in academic institutions;
+Provision for companies to setup “research fund” for supporting
+research programs at academic institutions and laboratories with tax
+incentives
+• Setup of entrepreneurship incubation centres in academic institutions
+with institutional linkage with Pharma and Med tech industry
+• Design a Bayh Dole like policy to encourage academicians to setup
+independent companies (spin offs) to move academic discoveries into the
+commercial landscape, and ensure fair reward sharing between
+innovators, institutes and industry.
+• Setup a strong governance framework to build trust and accountability;
+To ensure accountability, setup a strong program management to
+monitor and report progress, robust performance framework with
+upfront alignment of objectives and funding linked to outcomes
+4.4.2. Collaborating across institutions and sectors
+While a great deal of the R&D and Innovation that leads to launch of innovative
+medical products takes place in the Industry, a number of Research centres are
+also operating in the Government sector on various aspects of Pharmaceuticals
+and Medical technology and associated fields (an illustrative list is annexed).
+Apart from the NIPERs, the rest of them fall within the Council for Scientific
+and Industrial Research, Department of Biotechnology, Department of Health
+Research and Department of Higher education. There is scope to increase
+10
+
+collaboration across institutions so as to encourage innovation at scale and
+integrate research work across sectors and institutions. Collaboration is also
+required across the entire product development cycle covering drug discovery,
+drug delivery, device design, clinical trials, therapeutic and incremental
+innovations etc. The multiplicity of institutions and programmes supporting
+research and innovation in the pharma- Medtech space makes articulation as
+well as the implementation of research on priority areas challenging. There is
+also a need to align current pharmaceutical R&D focus in line with the disease
+burden of the country and meet evolving priorities such as drug security,
+resilience in value chains and building domestic capacities.
+The following steps are proposed to be taken to integrate the existing policies
+and programs of various departments in order to develop mechanisms to
+dovetail research as per dynamic requirements in healthcare:
+• Identification of Partner Institutions / organizations that would adopt
+the policy through a formal mechanism; these Partner institutions may
+include Research Institutions under various Government departments,
+CoEs set up under various Programs, and Private Research Labs.
+Institutions operating in a wide range of subjects of research would be
+eligible including electronics, instrumentation, Sensors and IoT, Material
+Science, AI/ML, Pharmacology, Biotechnology, Human Genetics etc.
+• Setting up of an Inter-Departmental Research Council on Pharma and
+MedTech to catalyze, facilitate and promote collaboration across
+industry, academia and research institutions across Departments for
+domestic and international collaboration in R&D in Pharma Medtech
+sectors.
+• The Council will have an agile and slim structure with a focus on
+prioritizing areas for research based on national healthcare priorities,
+building synergies and promoting the sharing of information among
+these research bodies, with following functions:
+o Resource Optimization by creating a strong project management
+structure, with representation from government, industry,
+academia to (i) focus on industry relevant research areas, (ii)
+decide priority areas for funding and incentives, and (iii)
+continuously monitor the program and project implementation.
+11
+
+o Create Provision for a Corpus fund for the council to be funded
+jointly by government and industry which can leverage existing
+sources such as NRF
+o Creation of Observatory for R&D prioritization in both
+communicable and non-communicable diseases areas through
+evaluation of disease burden and identification of knowledge gaps
+in disease areas; Observatory to work with regulatory agencies and
+keep them updated on new developments across disease areas
+o Leading the Drug Discovery Mission as a multi-institutional
+initiative by pooling the strengths and talents of research
+institutions under DoP, DHR, DBT and CSIR.
+o Supporting the Common Research Program of NIPERs and
+establishment of Centres of Excellence in selected disease areas.
+• Building an ecosystem model to strengthen R&D establishments, that
+acts as a unique platform for innovation, integrates diverse skill sets, and
+brings together stakeholders of pharmaceuticals/ bio-pharmaceutical /
+biomedical innovation landscape, while ensuring synergy between
+stakeholders across the product innovation pipeline.
+• Taking forward the compelling lesson learnt from Covid-19 to showcase
+India’s strength and prowess in recent times, the policy will promote the
+concept of “Innovate in India”. To achieve this and to promote India as
+an “innovation hub”, the following interventions will be undertaken to
+build a strong brand along with effective dissemination of the same
+among target investors looking at making R&D investments in India in
+this Pharma-Medtech sector:
+o Setting up innovation forums and awards to enable investors to
+have visibility and actively interact with the domestic innovation
+community
+o Encourage the participation of Indian innovation leaders in Global
+Forums to help Indian innovators to gain insights on global market
+access and showcase our country’s strength on global platforms
+o Creating a compelling “Discover in India” vision and actively
+disseminate messages across community, by highlighting the
+initiatives and incentives offered by the Government of India.
+12
+
+4.4.3. Infrastructure: Creation of dedicated ‘Innovation Hub’
+While research institutions in the Government sector have an important role in
+promoting basic and applied research, much of the innovation that leads
+directly to patient benefits takes place through private entrepreneurs and
+innovator firms. Under the Atal Innovation Mission, Government is setting up
+Atal Incubation Centres (AICs), in public and private sector as well as scaling
+up Established Incubation Centres (EICs). A number of Startup Incubators are
+already functioning in life sciences, biotech, medical devices and MedTech
+space under Start up India. However, the current infrastructure is limited and
+concentrated in a few nascent innovation hubs in the country, emphasizing the
+need for more high-quality infrastructure. The following steps will be taken for
+strengthening the infrastructure for innovation in Pharma MedTech Sectors in
+India:
+• Identification and Scale up of selected existing Innovation hubs to
+maturity ensuring co-location of academia, R&D Centers, industry,
+startups, incubators; provide "plug and play" infrastructure and ensure
+requisite financial and regulatory support
+• Establish sub-sector specific new hubs with an anchor investor leading a
+consortium / network of academic institutions, universities, start-ups
+with industries, business schools, clinical settings, funding agencies
+(including VCs) to provide an integrated thrust to research in the country
+in 3-5 years' time frame
+• Promote establishment of health-tech ecosystem within the innovation
+hubs with high end capabilities merging healthcare with the new age
+technologies such as artificial intelligence, digital and analytics, bringing
+together cross sectoral expertise
+• Create a matrix of Therapeutic Segments, including vector borne
+diseases, infectious diseases, non-communicable diseases and lifestyle
+diseases and develop Centres of Excellence within the Innovation Hubs
+focusing on these verticals
+• To ensure a faster availability of testing infrastructure, the empanelment
+of laboratories will be accelerated for testing medical devices, Biologics,
+vaccines, IVDs, diagnostic kits for various functionalities including
+reliability, biocompatibility, bioequivalence, transportation, vibration
+13
+
+and other relevant conformity requirements. NIPERs will be supported
+for increasing testing and certification functions.
+• The establishment of IP Innovation and Patent Offices (IPO) or
+Technology Transfer offices (TTO) in academic institutions, industries
+and incubation centres will be considered in order to support innovators,
+entrepreneurs and start-ups with patent related policies and provisions.
+Patent offices would be attached to the Office of the Controller General
+of Patents, Designs and Trade Marks to bring clarity in patent application
+process, joint ventures and foreign collaborations.
+5. Implementation Framework
+A High-level Task Force will be set up in Department of Pharmaceuticals under
+the Minister for Chemicals and Fertilizers to guide and review the
+implementation of the Policy. The Task Force will draw upon resource persons
+from Departments and Organizations related to the implementation as the
+success of the policy requires coordinated action by several agencies. The
+Implementation will be designed in the form of an Action Plan defining roles,
+responsibilities, activities, targets, and timelines. The Policy has a ten-year
+perspective, and the Action Plan will be broken down to five year and annual
+activities for ease of implementation including spending decisions. The Action
+Plan will list activities in four categories namely Policy decisions, Program
+execution, Collaboration and Communications. The Policy Action Plan will
+cover a Five-year period with Annual Plans with attendant Financing
+framework.
+6. Monitoring and Evaluation
+6.1 The Policy requires the Action Plan to determine the targets on the
+following indicators:
+i. Identification of Priority areas and Research problems measured in Share
+of Research by Identified Institutions in priority areas
+ii. R&D spending by Industry
+iii. New Drug Discovery (including Biopharmaceuticals) measured in
+number of NCE and NBE in the pipeline and approved.
+14
+
+iv. Domestic manufacturing share in identified high end medical equipment
+v. Degree of Backward Integration in API, consumables and Components
+in domestic startups,
+vi. Number of Orphan Drugs introduced in Indian market
+vii. Increased availability of quality Research manpower in priority areas
+viii. Start Ups in Pharma Medtech space incubated by Partner Institutions
+ix. Share of Global exports in non-generics
+x. Share of imports in selected product segments of medical devices
+6.2 A Monitoring and Evaluation Framework would be designed with the
+help of IEO NITI with rational Target setting, resource optimization, portal
+based reporting mechanism. Risk to implementation would be defined and risk
+management plans would be devised for consideration of the High-Level Task
+Force. Industry led Advisory Committee would be set up for continuous
+feedback on the implementation and monitoring. Independent evaluation
+would be carried out at prescribed periodicity against the defined outcomes.
+***
+[1] Annexure 4
+[2] Section 8 of R&D Global Best Practices Document
+[3] Section 9 of R&D Global Best Practices Document
+[4] Section 8 of R&D Global Best Practices Document
+[5] Section 2 of R&D Global Best Practices Document
+15
+
+Annexure 2
+List of Central Institutes conducting research in Health Sciences
+CSIR INSTITUTES
+1. Centre for Cellular and Molecular Biology (www.ccmb.res.in)
+2. Central Drug Research Institute (www.cdriindia.org)
+3. Institute of Genomics and Integrative Biology (www.igib.res.in)
+4. CSIR-Institute of Himalayan Bioresource Technology
+(https://www.ihbt.res.in/en/)
+5. CSIR-Indian Institute of Chemical Biology (http://www.iicb.res.in)
+6. Indian Institute of Chemical Technology (www.iictindia.org)
+7. Indian Institute of Integrative Medicine (www.iiim.res.in)
+8. Indian Institute of Toxicology Research (www.iitrindia.org)
+9. CSIR-Institute of Microbial Technology (https://www.imtech.res.in/)
+10. National Chemical Laboratory (www.ncl.india.org)
+DBT INSTITUTES
+1. National Institute of Immunology (http://www.nii.res.in/)
+2. National Centre for Cell Science (https://www.nccs.res.in/)
+3. National Brain Research Centre (http://www.nbrc.ac.in/newweb/)
+4. Institute of Life Sciences (https://www.ils.res.in/)
+16
+
+5. Rajiv Gandhi Centre for Biotechnology (https://www.rgcb.res.in/)
+6. Institute for Stem Cell Science and Regenerative Medicine
+(https://www.instem.res.in/)
+7. Translational Health Science and Technology Institute
+(https://thsti.res.in/newthsti/)
+8. National Institute of Biomedical Genomics (https://www.nibmg.ac.in/)
+9. Regional Centre for Biotechnology (https://www.rcb.res.in/)
+10. National Institute of Animal Biotechnology (http://niab.org.in/)
+ICMR INSTITUTES
+1. National JALMA Institute for Leprosy & Other Mycobacterial Diseases
+(https://www.jalma-icmr.org.in/)
+2. National Institute of Cancer Prevention and Research
+(https://nicpr.icmr.org.in/)
+3. National Institute of Occupational Health (http://nioh.org/)
+4. National Centre for Disease Informatics and Research
+(https://ncdirindia.org/)
+5. Bhopal Memorial Hospital & Research Centre (http://bmhrc.ac.in/)
+6. National Institute for Research in Environmental Health
+(https://nireh.icmr.org.in/)
+7. National Institute for Research in Tuberculosis (http://www.nirt.res.in/)
+8. National Institute of Malaria Research (https://nimr.org.in/)
+17
+
+9. National Institute of Pathology (http://instpath.gov.in/)
+10. National Institute of Medical Statistics (http://icmr-nims.nic.in/)
+11. National Institute of Nutrition (https://www.nin.res.in/index.html)
+12. National Institute of Cholera and Enteric Diseases
+(http://www.niced.org.in/)
+13. National Institute for Research in Reproductive Health
+(http://nirrh.res.in/)
+14. National Institute of Immunohematology (https://www.niih.org.in/)
+15. National Institute of Virology (https://www.niv.co.in/)
+16. National AIDS Research Institute (https://nari-icmr.res.in/)
+17. Rajendra Memorial Research Institute of Medical Sciences
+(http://www.rmrims.org.in/)
+DRDO INSTITUTES
+1. Defence Bio-engineering & Electro-medical Laboratory
+(https://www.drdo.gov.in/labs-and-establishments/defence-bio-
+engineering-electro-medical-laboratory-debel)
+2. Defence Institute of Bio-Energy Research
+(https://www.drdo.gov.in/labs-and-establishments/defence-institute-
+bio-energy-research-diber)
+3. Defence Institute of High-Altitude Research
+(https://www.drdo.gov.in/labs-and-establishments/defence-institute-
+high-altitude-research-dihar)
+18
+
+4. Defence Institute of Physiology & Allied Sciences
+(https://www.drdo.gov.in/labs-and-establishments/defence-institute-
+physiology-allied-sciences-dipas)
+5. Defence Institute of Psychological Research
+(https://www.drdo.gov.in/labs-and-establishments/defence-institute-
+psychological-research-dipr)
+6. Institute of Nuclear Medicine and Allied Sciences
+(https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-
+medicine-allied-sciences-inmas)
+DOP INSTITUTES
+1. National Institute of Pharmaceutical Education and Research, Mohali
+(http://www.niper.gov.in)
+2. National Institute of Pharmaceutical Education and Research, Hajipur
+(https://www.niperhajipur.ac.in)
+3. National Institute of Pharmaceutical Education and Research, Kolkata
+(http://www.niperkolkata.edu.in)
+4. National Institute of Pharmaceutical Education and Research, Hyderabad
+(http://www.niperhyd.ac.in)
+5. National Institute of Pharmaceutical Education and Research, Guwahati
+(https://niperguwahati.ac.in)
+6. National Institute of Pharmaceutical Education and Research,
+Ahmedabad (https://www.niperahm.ac.in)
+7. National Institute of Pharmaceutical Education and Research, Raebareli
+(http://niperraebareli.edu.in)
+19

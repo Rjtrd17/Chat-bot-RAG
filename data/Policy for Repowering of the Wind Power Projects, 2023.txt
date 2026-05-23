@@ -1,0 +1,638 @@
+No. 238/9/2018-Wind
+Ministry of New and Renewable Energy
+Wind Energy Division .
+Atal Akshaya Urja Bhawan, Lodhi Road, New Delhi-110003
+
+Dated: 7 December, 2023
+
+CIRCULAR
+
+Subject: National Repowering & Life Extension Policy for Wind Power Projects
+- reg.
+
+Ministry of New & Renewable Energy had issued ‘Policy for Repowering of the
+Wind Power Projects’ on 5th August 2016. Based on the stakeholders’ consultation,
+the policy has been revised in order to enable repowering/replacement of older
+generation turbines with newer generation more efficient turbines and refurbishment
+of wind turbines for life extension beyond design life subject to safety and performance
+assessment as per relevant standards.
+
+2. In supersession to the ‘Policy for Repowering of the Wind Power Projects’ dated
+Sth August 2016, the Ministry hereby issues ‘National Repowering & Life Extension
+Policy for Wind Power Projects -2023’ (attached).
+
+(Dr. Rahul Rawat)
+Scientist ‘C’
+To,
+All Concerned.
+
+
+NATIONAL REPOWERING & LIFE EXTENSION POLICY FOR WIND POWER
+PROJECTS
+
+1. Introduction
+
+India started harnessing Wind power in the late eighties backed by indigenous
+manufacturing industry which has shown consistent progress since its inception. The
+share of Wind power in the total installed capacity mix in the country has also
+increased from 21.1 GW as on March 2014 to 44.29 GW as on October 2023.
+
+The Wind turbine generator technology has evolved over these years and individual
+rated capacities of Wind turbines have increased from sub MW scale to multi MW
+scale. Most of the Wind-turbines installed in India up to the year 2000 are of sub MW
+capacity and are at sites having high Wind energy potential. Some of the old Wind
+turbines have already completed their design life while some are approaching the
+end of their design life. These Wind turbines are not only inefficient in comparison to
+the latest technology but also have lower hub heights (in the range of 30- 60m) in
+comparison to hub heights of 120-140 m range being installed now. In order to
+optimally utilize the Wind energy resource available at the respective sites it felt
+necessary to formulate a policy to enable these old wind energy turbines to be
+repowered or refurbished with technological advancements to increase its
+operational life and efficiency, while considering due safety aspects.
+
+The Ministry of New and Renewable Energy had issued ‘Policy for repowering of the
+Wind Power Projects’ on 5th August 2016 in order to create a facilitative framework
+for repowering. A review of the policy has been carried out taking into account
+representations received from various stakeholders, subsequent deliberations and
+stakeholders’ consultation and a revised policy has been prepared. This policy
+enables repowering/replacement of older generation turbines with newer generation
+more efficient turbines even before the design life is over, if the developers/owners
+choose to do so. The revised policy considers refurbishment of wind turbines for life
+extension beyond design life subject to safety and performance assessment as per
+relevant standards. Refurbishment may be done by suitable modifications in the
+turbine components such as gearbox, blades, generator, controller etc.
+
+2. Repowering Potential
+
+Total
+Capacity
+below 2 MW
+
+=|
+
+National Institute of Wind Energy has estimated repowering potential of the country
+details of repowering potential are as under:
+Total Total Total Total
+below 0.5| between between between
+MW 0.5-1 MW | 1-1.5MW | 1.5-2 MW
+1068 1389 731.35 3431.35
+amataka 1417.05 | 3023.35
+
+to be 25.406 GW considering Wind turbines below capacity 2 MW. The state wise
+Capacity | Capacity Capacity Capacity
+1181 2919 1813 1473.5 7386.5
+oh Page 1of11
+
+~
+
+
+
+1457 1352 1805.35 4665.35
+1192 914.9 2933.9
+
+A
+
+Madhya 290 260 1012 1562
+paws | | | LP
+
+Kerala [0 [a J 3] a]
+
+Prades u“
+
+~
+
+Pradesh
+
+Total | 1606.3 | 8276_ | 6449 | 9065.35 | 25396.65 |
+
+National Institute of Wind Energy will issue a repowering potential map of the country
+considering below 2 MW capacity Wind turbines.
+
+=|
+
+3. Title and Enforcement
+
+This policy will be known as the ‘National Repowering & Life Extension Policy for
+Wind Power Projects — 2023’. The policy is being issued in super-session of ‘Policy
+for Repowering of the Wind Power Projects’ issued on 5th August 2016 and will be
+effective from the date of issuance.
+
+4, Objective
+
+The objective of the repowering & life extension policy is optimum utilization of Wind
+energy resource by maximizing energy (kWh) yield per sq.km of the project area and
+utilizing the latest state-of-the art onshore Wind turbine technologies.
+
+5. Eligibility
+
+This policy lays out conditions for developers to go for repowering or refurbishment
+for ensuring life extension of old Wind turbines. The following Wind turbines are
+eligible for repowering/refurbishment under the policy:
+
+i. All Wind turbines which are not in compliance with the quality control order
+issued by this Ministry; or
+
+ii. | have completed their design life as certified under the Type Test Certificate in
+accordance with the applicable relevant standards; or
+
+iii. | The Wind turbines of rated capacity below 2 MW;
+
+iv. Based on commercial/voluntary consideration after 15 years of installation.
+
+Note: Wind turbines which are to be replaced within the period of its design life
+due to malfunctioning, issues in workmanship, safety etc., shall also require to be
+repowered or refurbished.
+
+6. Repowering/Refurbished Project
+
+A repowering/refurbished project is a project which satisfies one or more of the
+eligibility conditions mentioned at clause 5 above and the annual energy generation
+
+<u eh d . Page 2 of 11
+
+
+of the repowered/refurbished wind project is enhanced by at least 1.5 times as
+compared to actual generation of the old wind power project;
+
+Note: For the purpose of arriving at the actual generation of the old wind power
+project, the actual average generation for the last three years (from the date of
+disconnection from the grid) before which the project was taken for
+repowering/refurbishment will be considered and such repowered/refurbished project
+shall satisfy the above condition within a maximum period of 3 years from the date of
+commissioning.
+
+A repowering project can be classified into two categories:
+i. Standalone Project — A Wind power project having a single or group of Wind
+turbines owned by a single entity
+
+ii Aggregation Project — A Wind power project having a group of Wind turbines
+owned by multiple owners with shared common infrastructure.
+
+In case the project owner opts for life extension of the wind turbines, then in such a
+case the refurbishment carried out for ensuring life extension shall be considered
+under the category of standalone project.
+
+7. Implementation Arrangements
+
+The repowering or refurbishment projects would be implemented through the
+respective State Nodal Agency/Organization involved in promotion of Wind energy in
+the State or the Central Nodal Agency appointed by the Central Government.
+
+(i) Standalone Project
+
+a. Project owner may submit the Detailed Project Report (DPR) for
+repowering/refurbishment the old project to concerned SNA/CNA for
+verification; or
+
+b. State Nodal Agencies (SNAs)/Central Nodal Agency (CNA) shall also identify
+the potential turbines for repowering and elicit interest from the potential
+Project Owner to submit the DPR.
+
+c. The refurbishment of turbines for ensuring life extension shall be done by the
+developer with the consent from SNA. The turbine shall be assessed and
+certified by the certification agency for quality and safe operation. The
+assessment of the turbines shall be carried out as per the UL 4143: Wind
+Turbine Generator Lifetime Extension standard or any such standards issued
+by the BIS. Subsequent to the assessment a separate type certificate or
+extension of the previous type certificate shall be issued by the certification
+body. In no case, the total operational life of the refurbished turbines shall
+exceed 40 years from the date of commissioning.
+
+d. Based on the DPR, the SNA/CNA will coordinate with the respective STU/
+CTU for availability/ augmentation of the transmission capacity. The additional
+transmission augmentation shall be provided by the respective STU/CTU as
+per available provisions/schemes, if required. Developer shall issue a notice
+
+a any cee Page 3 of 11
+
+
+to CTU/STU 2 (two) years in advance for enhancing the transmission capacity
+as per the proposed repowered capacity of the wind power project.
+Appropriate transmission charges shall be payable as per the prevailing
+regulations.
+
+e. On scrutiny of the project, transmission capacity availability and availability of
+in principle consent of the incumbent DISCOM, SNA/CNA shall provide
+consent letter to Project Owner/Developer.
+
+f. A Notice of the repowering shall be sent to committee being set up under
+Para 8 including DPR. After examining the repowering process, the committee
+will grant a moratorium on supply of power under the PPA for the period of
+repowering up to maximum 02 years.
+
+(ii) Aggregation Project
+
+In case of aggregation projects, the following modalities shall be adopted for
+development of the repowering projects;
+
+a. SNAs/CNA may identify the potential turbines for repowering. In such cases
+SNAs/CNA either nominate any State/Central PSEs as Wind Repowering
+Project Aggregators (WRPA) to repower the project or elicit interest from
+private developers for the same. The selection of the private developer as
+WRPA shall be through a transparent mechanism based on minimum
+technical & financial criteria. The indicative parameters for selection of WRPA
+may include Quality Assurance Certificate, Financial turnover, Experience,
+Repowering plan, Old asset evaluation, Consent agreement from the
+existing owners, Indication of land rights arrangement, Asset disposal plan
+etc.
+
+b. Amongst the existing owners of wind power projects any one owner/developer
+may act as WRPA with or without partnership with other project developer.
+The proposing owner shall identify potential turbines for repowering and
+submit a proposal to the SNAs/CNA along with consent letters from all the
+identified turbine owners.
+
+« Responsibilities of WRPA:
+
+a. Preparation of a detailed project report (DPR) for land acquisition and
+development of the site for repowering project.
+
+b. Acquisition/ leasing/ purchase of additional land, if required.
+
+c. Obtaining clearance from state/ centre or any other concerned agency for
+decommissioning/ development of the project.
+
+d. Acquisition of all assets at the site including Wind turbine and associated
+equipment, internal transmission infrastructure, land and power evacuation
+rights, compensate asset owners for their future loss of revenue for the
+balance life of the project, if any. The valuation of such functional/non-
+functional projects assets shall be done in accordance with the standard
+market practices. In this regard an indicative methodology for valuation of
+
+assets is given at Annex.
+Cal y : Page 4 of 11
+
+
+e.
+
+WRPA shall also be responsible for decommissioning of the existing assets,
+removal, and lawful disposal of all scrap from the site, including disposal of
+the Wind turbine blades. The turbine blades shall be disposed as per the
+applicable norms of MoEFCC and CPCB/ SPCB and a certificate from
+appropriate authority need to be produced to that effect.
+
+Prepare the site without any encumbrances for development of Wind project
+as if it is a Greenfield project.
+
+Procedure followed shall be as follows:
+
+Note:
+
+WRPA shall submit the Detailed Project Report to concerned SNA/CNA.
+
+Based on the DPR, the SNA/CNA shall coordinate with the respective
+STU/CTU for availability/ augmentation of the transmission capacity, if
+required, and facilitate the acquisition of additional land, if required. The
+additional transmission augmentation shall be provided by the respective
+STU/CTU as per available provisions/schemes, if required. Developer shall
+issue a notice to CTU/STU 2 (two) years in advance for enhancing the
+transmission capacity as per the proposed repowered capacity of the wind
+power project. Appropriate transmission charges shall be payable as per the
+prevailing regulations.
+
+On scrutiny of the project and transmission capacity availability, SNA/CNA
+shall provide consent letter to concerned WRPA after obtaining in principle
+conseni of the incumbent DISCOM.
+
+The repowering may be carried out by the WRPA either through open bids or
+by themselves on EPC basis. A Notice of the repowering shall be sent to
+committee being set up under Para 8 including DPR. After examining the
+repowering process, the committee will grant a moratorium on supply of
+power under the PPA for the period of repowering up to maximum 02 years.
+
+In case of In-STS connected Wind turbines, SNA shall identify the potential
+turbines for repowering/refurbishment and carry out required activities as
+mentioned above.
+
+In case of ISTS connected Wind turbines, CNA shall identify the potential
+turbines for repowering/refurbishment and carry out required activities as
+mentioned above.
+
+8. Repowering Implementation Framework
+
+Within one month of announcement of this policy, MNRE shall appoint a monitoring
+and advisory committee (named as “Wind Repowering Committee (WRC)”) in
+accordance with the provisions of this policy to assist MNRE in implementation of the
+Repowering/Refurbishment Policy. The broad terms of reference of the WRC will
+include the following;
+
+To act as a bridge between industry stakeholders and state/central Govt.
+organizations
+To facilitate the ministry in effective implementation of the repowering
+
+policy
+oh 4 , Page 5 of 11
+
+
+To recommend specific policy/regulatory interventions in order to realize
+the repowering potential.
+
+To monitor the progress of various repowering/refurbishment projects
+under this policy.
+
+The Members of the Committee shall include:
+
+i.
+if.
+iii.
+iv.
+
+Vv.
+
+Joint Secretary (Wind), MNRE - Chairman
+
+Representatives of IREDA, SECI — Member
+
+Representative of Central Transmission Utility - Member
+
+Three independent experts from Wind sector -Member (to be nominated by
+MNRE)
+
+Representative of NIWE — Member Secretary
+
+The committee will co-opt members from the respective state while taking up
+specific issues on repowering/refurbishment project of a particular state.
+
+9. Arrangement for Power Purchase
+
+a.
+
+The power generated corresponding to average of last three years
+generation (measured at metering point) prior to repowering/refurbishment
+would continue to be procured as per the terms of PPA in-force till the tenure
+of the PPA.
+
+The existing PPA tenure shall be extended by a period equal to the
+repowering/refurbishment or a period of maximum period of two (2) years
+excluding Force Majeure events whichever is lower.
+
+Incumbent DISCOM shall neither have any right over the additional power
+generated nor shall have any obligation to purchase the additional power
+generated after repowering/refurbishment.
+
+The additional power generated can be sold by the developer/owner as per
+his will — in the power exchange, or through bilateral agreement or by entering
+into short/medium/ long term PPA as per the existing laws/rules. There will be
+no obligation to compulsorily supply the power to any DISCOM/procurer at
+any fixed rates.
+
+. A Wind farm/turbine undergoing repowering/refurbishment would be
+
+exempted from supplying Power to the Purchasing entity (DISCOM) during
+the period of execution of repowering on the recommendation of the
+committee set up under para 8, subject to that the repowering period shall not
+exceed 2 years excluding Force Majeure events from the date of consent
+letter issued by CNA/SNA.
+
+The DISCOMs/PPA owners will be given at least 1 year notice before the
+repowering work begins by the developer, so that they can tie up alternate
+sources of power for the intervening period.
+
+The old PPA can be terminated with mutual consent.
+
+tals .
+
+Page 6 of 11
+
+
+10. Benefits/Incentives:
+
+i. REC/PFC/IREDA will provide loans for repowering on the same terms and
+conditions as laid down for new projects.
+
+ii. In addition, for repowering projects Indian Renewable Energy Development
+Agency (IREDA) will provide an additional interest rate rebate of 0.25% over
+and above the interest rate available to the new Wind projects being financed
+by IREDA. IREDA may also devise a suitable financial product catering to
+debt financing for repowering of wind power projects.
+
+ii. All fiscal and financial benefits available to the new Wind projects shall be
+available to the repowering project as per applicable conditions.
+
+iv. The developer will have the liberty for micro siting based on an optimized
+energy output.
+
+11. Data Management
+
+i. NIWE shall create and maintain a project data base of all old projects with
+relevant information about the project such as ownership, technology, turbine
+details, connected SS, land ownership etc.
+
+ii. | NIWE shall also collect performance related data for all the sites and analyse
+to identify poor performing sites for repowering/refurbishment in accordance
+with the quality control order.
+
+ii. © SNAs/CNA along with SLDCs shall provide all necessary data to NIWE for
+this purpose
+
+iv. NIWE shall coordinate with SNAs/CNA and maintain data of decommissioned
+projects which shall be updated on quarterly basis.
+
+12. Project Commissioning Schedule:
+
+The repowering/refurbishment projects shall be commissioned within a period of 24
+(twenty-four) months from the date of consent letter from CNA/SNA or consumer
+entity. Part commissioning and early commissioning of the project shall be allowed.
+
+13. Power to amend and review
+
+If any difficulty arises in giving effect to any provision of this Policy or interpretation of
+the Policy or modification to the Policy, Ministry of New & Renewable Energy is
+empowered to do the same, with the approval of Minister, New & Renewable
+Energy. Further, Ministry of New & Renewable Energy may review the policy from
+time to time to ensure effective implementation of this policy.
+
+eg.
+
+Page 7 of 11
+
+
+Annex
+
+It is noted that the PPAs for Wind power projects are generally signed for long time
+period (20/25 years) or renewed up to 25 years on short term basis (1 or 2 years). In
+such cases, the existing owners deciding to go for repowering may be losing the
+‘future revenue from their projects. Such potential financial loss needs to be
+compensated. In addition, Wind Repowering Project Aggregator (WRPA) would incur
+cost on decommissioning and disposal of the old Wind assets. The said cost may be
+partly compensated by the income from sale of scrap material. Accordingly, following
+equations may be considered for ‘Repowering Site Preparation Cost (RSPC)’.
+
+RSPC = Terminal Valuation + Decommissioning Cost — Income from sale of
+scrap material
+
+Where:
+Terminal Valuation = PPA Value + PPA Termination Incentive
+
+“PPA value” can be estimated as an amount equal to the Net Present Value (NPV)
+of net revenue from the anticipated generation in the remaining years (as per PPA).
+
+PPA value = NPV of ye + Gy) -— (OM)
+
+k=1
+wherein;
+
+t = Tariff as per PPA in case of sale to DISCOM or third party. In case of
+captive consumption, tariff as per tariff order(s) of the appropriate commission
+for the year commissioning of project may be considered. In case of absence
+of both PPA and tariff order, a nominal tariff such as APPC of the concerned
+state for the project may be considered.
+
+G= Average annual generation may be calculated by taking the average of
+energy delivered in last three (3) years at the delivery point (as defined in the
+PPA) or at SS level.
+
+OM= Annual O& M cost (OM) may be considered as per SERC/CERC tariff
+Orders. In case of absence of the appropriate SERC/CERC tariff orders O&M
+expenses for the first year of the control period shall be 2% of the wind turbine
+original capital cost (CAPEX) and shall be escalated at the rate of 5% per
+annum over the tariff period.
+
+n = No of remaining years for completion of PPA
+
+PPA Termination Incentive means the incentive provided to the asset owner over
+and above the PPA value. The rate of incentive will be as mutually agreed by both
+the parties, preferably 10 % of PPA Value.
+
+Page 8 of 11
+
+
+Decommissioning cost would include costs associated with dismantling Wind
+turbines, site clearance and disposal of blades.
+
+Decommissioning cost = DS +SC+ DB
+Wherein;
+
+DS = Cost incurred for dismantling Wind turbine
+SC = Cost incurred for clearing the site
+
+DB = Cost incurred for disposal of blades.
+
+Income from sale of scrap material may be considered on the basis of
+SERC/CERC tariff orders. In case of absence of appropriate order, the income shall
+be assumed to be 10% of the original capital cost.
+
+ely.
+
+Page 9 of 11
+
+
+Indicative Valuation Model
+
+(Model, Costs and calculations given below are indicative only and may not be
+considered as benchmark.)
+
+Assumptions:
+
+Project Type: Sale to Utility
+Type of Turbine: 1000 KW
+
+PLF: 12.3%
+
+Annual Generation: 1077480 kWh
+O & M Expense: 9 Lakhs
+
+O & M Escalation: 5%
+
+PPA Tariff (t): 3.00 (INR/kWh)
+Escalation rate for Decommissioning Cost: 3%
+Discount Rate for NPV: 10%
+
+PPA Termination Incentive: 10% of PPA Value
+
+24 e
+
+1077.4) 1077.4
+
+27.64
+
+Expected
+
+revenue
+
+(For last 10
+
+ear of PPA 16 Yr 17% Yr 18 Yr} 19h Yr, 20! Yr] 24st yr) 2209 Yr) 234 Yr
+
+Annual Generatio p A | 1077.4|1077.4| 1077.4| 1077.4| 1077.4] 1077.4] 1077.4) 1077.4
+nin
+O&M 18.71] 19.65 20.63] 21.66 22.74 23.88] 25.07| 26.33
+INR Lakhs
+Revenue C=t*A 32.32] 32.32} 32.321 32.32] 32.32} 32.32) 32.32| 32.32
+INR Lakhs
+Net Revenue D=C-B 13.61] 12.68] 11.70] 10.66
+ENR teists) Lakhs
+
+es ee
+PPA 10
+
+PPA Value @ 10
+% discount rate 59.42| 51.75] 44.241 36.97/ 30.00] 23.42) 17.32} 11.80
+
+— I
+
+|
+Decommissioning
+cost 25.00} 25.751 26.52} 27.32! 28.14) 28.98) 29.85} 30.75) 31.67
+INR Lakhs
+Income from sale
+50.00! 50.00} 50.00) 50.00} 50.00) 50.00) 50.00} 50.00
+
+of scrap
+Page 10 of 11
+
+32.32
+
+Qi] Nh
+Nl ©
+wl o
+No | ©
+
+4.6
+
+od
+@
+oO
+
+THe
+
+98
+
+&
+o
+o
+
+S
+
+0.3
+
+oO
+
+PPA Value + PPA
+Termination Incent
+
+7.6
+
+a
+
+50.00
+
+ol wo
+lo) No
+fo) fon)
+Oo Le]
+
+INR Lakhs
+
+
+
+(INR Lakhs)= PPA
+Value + Terminati
+
+ion Inc. + Income fr
+om Scrap - Deco
+mmissioning
+
+J=G+I-H mre 81.17) 72. ian 54.86], 46.78) 39. Eoin 20.68
+
+Page 11 of 11

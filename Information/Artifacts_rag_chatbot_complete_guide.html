@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAG Chatbot — Complete Step-by-Step Guide</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,sans-serif;color:#1a1a1a;background:#f9f8f6;font-size:14px;line-height:1.6;padding:24px 16px 48px}
+.container{max-width:860px;margin:0 auto}
+h1{font-size:22px;font-weight:600;margin-bottom:4px}
+.subtitle{font-size:13px;color:#73726c;margin-bottom:20px}
+.badge{display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:4px;letter-spacing:.3px}
+.badge-blue{background:#E6F1FB;color:#185FA5}
+.badge-teal{background:#E1F5EE;color:#0F6E56}
+.badge-amber{background:#FAEEDA;color:#BA7517}
+.badge-purple{background:#EEEDFE;color:#534AB7}
+.badge-coral{background:#FAECE7;color:#993C1D}
+.badge-green{background:#EAF3DE;color:#3B6D11}
+.nav{display:flex;gap:6px;flex-wrap:wrap;padding:12px 0 0;border-bottom:1px solid #e0dfd8;margin-bottom:0}
+.nav button{padding:7px 14px;border:1px solid #e0dfd8;border-bottom:none;border-radius:6px 6px 0 0;background:#f0efe8;color:#73726c;font-size:12px;cursor:pointer;transition:all .15s;font-family:inherit;font-weight:400}
+.nav button.active{background:#fff;color:#1a1a1a;font-weight:500;border-color:#c0bfb8}
+.nav button:hover:not(.active){color:#1a1a1a;background:#fff}
+.panel{display:none;padding:20px 0 32px}
+.panel.active{display:block}
+.section-title{font-size:15px;font-weight:500;color:#1a1a1a;margin:24px 0 12px;display:flex;align-items:center;gap:8px}
+.section-title:first-child{margin-top:0}
+.step-block{border:1px solid #e0dfd8;border-radius:10px;margin-bottom:10px;overflow:hidden;background:#fff}
+.step-header{display:flex;align-items:flex-start;gap:12px;padding:13px 16px;cursor:pointer;user-select:none}
+.step-header:hover{background:#f9f8f6}
+.step-num{width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;flex-shrink:0;margin-top:1px}
+.step-title{flex:1;font-size:13.5px;font-weight:500;line-height:1.4}
+.step-sub{font-size:11.5px;color:#73726c;font-weight:400;margin-top:2px}
+.step-arrow{color:#aaa;font-size:12px;margin-top:4px;transition:transform .2s}
+.step-block.open .step-arrow{transform:rotate(90deg)}
+.step-body{display:none;padding:4px 16px 16px 52px;font-size:13px;line-height:1.7;color:#5a5956}
+.step-block.open .step-body{display:block}
+.step-body p{margin-bottom:8px}
+.step-body p:last-child{margin-bottom:0}
+.cmd{background:#f4f3ef;border:1px solid #e0dfd8;border-radius:6px;padding:10px 14px;font-family:'Courier New',monospace;font-size:12px;color:#1a1a1a;margin:8px 0;white-space:pre-wrap;line-height:1.6;position:relative}
+.cmd .cmt{color:#9c9a92}
+.copy-btn{position:absolute;top:8px;right:8px;font-size:10px;padding:2px 7px;border:1px solid #c0bfb8;border-radius:4px;background:#fff;color:#73726c;cursor:pointer;font-family:inherit}
+.copy-btn:hover{color:#1a1a1a}
+.note{border-left:3px solid #c0bfb8;border-radius:0 6px 6px 0;padding:10px 14px;margin:8px 0;font-size:12.5px;line-height:1.6}
+.note.info{border-color:#185FA5;background:#E6F1FB;color:#0C447C}
+.note.warn{border-color:#BA7517;background:#FAEEDA;color:#633806}
+.note.success{border-color:#3B6D11;background:#EAF3DE;color:#27500A}
+.arch-row{display:flex;gap:8px;margin:12px 0;flex-wrap:wrap}
+.arch-box{flex:1;min-width:80px;padding:10px;border-radius:8px;text-align:center;font-size:11.5px;font-weight:500;border:1px solid #e0dfd8}
+.arch-arrow{display:flex;align-items:center;color:#aaa;font-size:16px;flex-shrink:0}
+.file-tree{font-family:'Courier New',monospace;font-size:12px;line-height:2;padding:10px 14px;background:#f4f3ef;border-radius:6px;margin:8px 0;color:#5a5956}
+.file-tree .dir{color:#1a1a1a;font-weight:500}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0}
+@media(max-width:500px){.two-col{grid-template-columns:1fr}}
+.mini-card{background:#f9f8f6;border:1px solid #e0dfd8;border-radius:8px;padding:12px}
+.mini-card h4{font-size:12.5px;font-weight:500;margin-bottom:6px}
+.mini-card p{font-size:12px;color:#73726c;line-height:1.6}
+.tool-compare{border:1px solid #e0dfd8;border-radius:8px;overflow:hidden;margin:12px 0}
+.tool-row{display:grid;grid-template-columns:110px 1fr 1fr;border-bottom:1px solid #e0dfd8;font-size:12px}
+.tool-row:last-child{border-bottom:none}
+.tool-row div{padding:8px 10px;line-height:1.5}
+.tool-row div:nth-child(2){border-left:1px solid #e0dfd8}
+.tool-row div:nth-child(3){border-left:1px solid #e0dfd8}
+.tool-head{background:#f4f3ef;font-weight:500;font-size:11px;color:#73726c}
+.url-chip{display:inline-block;font-size:11px;background:#f4f3ef;border:1px solid #e0dfd8;border-radius:4px;padding:2px 7px;font-family:'Courier New',monospace;color:#5a5956;word-break:break-all}
+.endpoint-row{background:#f9f8f6;border-radius:6px;padding:8px 12px;margin:6px 0;font-size:12px;display:flex;gap:8px;align-items:flex-start;flex-wrap:wrap}
+.method{font-family:'Courier New',monospace;font-weight:500;font-size:11px;padding:1px 6px;border-radius:3px}
+.get{background:#EAF3DE;color:#3B6D11}.post{background:#E6F1FB;color:#185FA5}
+.checklist{list-style:none;padding:0;margin:8px 0}
+.checklist li{padding:4px 0;font-size:12.5px;display:flex;gap:8px;align-items:flex-start}
+.checklist li::before{content:"☐";color:#aaa;flex-shrink:0;margin-top:1px}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>RAG Chatbot — Complete Step-by-Step Guide</h1>
+<p class="subtitle">Build, integrate &amp; test a Retrieval-Augmented Generation chatbot with open-source tools + Indian government APIs</p>
+
+<div class="nav" id="nav">
+  <button class="active" onclick="showTab('rag',this)">1. Build RAG Chatbot</button>
+  <button onclick="showTab('api',this)">2. API Integration</button>
+  <button onclick="showTab('govt',this)">3. Govt APIs (India)</button>
+  <button onclick="showTab('test',this)">4. Test Without Access</button>
+</div>
+
+<!-- PANEL 1 -->
+<div class="panel active" id="tab-rag">
+  <div class="arch-row">
+    <div class="arch-box" style="background:#E6F1FB;border-color:#185FA5;color:#185FA5">Your Data<br><span style="font-size:10px;font-weight:400">PDF, CSV, DB, Web</span></div>
+    <div class="arch-arrow">→</div>
+    <div class="arch-box" style="background:#E1F5EE;border-color:#0F6E56;color:#0F6E56">Chunking<br><span style="font-size:10px;font-weight:400">Split &amp; preprocess</span></div>
+    <div class="arch-arrow">→</div>
+    <div class="arch-box" style="background:#FAEEDA;border-color:#BA7517;color:#BA7517">Embeddings<br><span style="font-size:10px;font-weight:400">Convert to vectors</span></div>
+    <div class="arch-arrow">→</div>
+    <div class="arch-box" style="background:#EEEDFE;border-color:#534AB7;color:#534AB7">Vector Store<br><span style="font-size:10px;font-weight:400">Chroma / FAISS</span></div>
+    <div class="arch-arrow">→</div>
+    <div class="arch-box" style="background:#EAF3DE;border-color:#3B6D11;color:#3B6D11">LLM Answer<br><span style="font-size:10px;font-weight:400">Generate response</span></div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-blue">PHASE 1</span> Environment Setup</div>
+
+  <div class="step-block" id="s1">
+    <div class="step-header" onclick="toggle('s1')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">1</div>
+      <div><div class="step-title">Install Python &amp; create virtual environment</div><div class="step-sub">Isolate your project dependencies cleanly</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <p>First, confirm Python 3.10+ is installed. Then create a clean virtual environment so packages don't conflict with system Python.</p>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Check Python version first</span>
+python3 --version
+
+<span class="cmt"># Create virtual environment named 'ragenv'</span>
+python3 -m venv ragenv
+
+<span class="cmt"># Activate it (Linux/Mac)</span>
+source ragenv/bin/activate
+
+<span class="cmt"># On Windows use:</span>
+ragenv\Scripts\activate</div>
+      <div class="note info">All subsequent pip installs must be done inside this activated environment. If you close the terminal, re-run the activate command.</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="s2">
+    <div class="step-header" onclick="toggle('s2')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">2</div>
+      <div><div class="step-title">Install all required libraries</div><div class="step-sub">LangChain + ChromaDB + Ollama or OpenAI</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Core RAG stack</span>
+pip install langchain langchain-community langchain-core
+pip install chromadb
+pip install sentence-transformers
+pip install pypdf unstructured
+pip install python-dotenv
+pip install fastapi uvicorn
+
+<span class="cmt"># OPTION A: OpenAI (paid)</span>
+pip install langchain-openai openai
+
+<span class="cmt"># OPTION B: Ollama (free, runs locally)</span>
+pip install langchain-ollama</div>
+      <div class="note warn">Save a requirements.txt: <code>pip freeze &gt; requirements.txt</code></div>
+    </div>
+  </div>
+
+  <div class="step-block" id="s3">
+    <div class="step-header" onclick="toggle('s3')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">3</div>
+      <div><div class="step-title">Set up Ollama (free local LLM, no API key needed)</div><div class="step-sub">Best for development without cost</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Install Ollama (Linux)</span>
+curl -fsSL https://ollama.com/install.sh | sh
+
+<span class="cmt"># Pull a model</span>
+ollama pull llama3.2        <span class="cmt"># 2GB RAM, fast</span>
+ollama pull mistral         <span class="cmt"># 4GB RAM, good quality</span>
+ollama pull llama3.1:8b     <span class="cmt"># 8GB RAM, best</span>
+
+<span class="cmt"># Start Ollama service</span>
+ollama serve
+
+<span class="cmt"># Test it works (new terminal)</span>
+ollama run llama3.2 "Say hello"</div>
+      <div class="note success">Ollama automatically serves a REST API at http://localhost:11434</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="s4">
+    <div class="step-header" onclick="toggle('s4')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">4</div>
+      <div><div class="step-title">Create project structure</div><div class="step-sub">Organised folders for data, code, and vector DB</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button>mkdir rag_chatbot && cd rag_chatbot
+mkdir data vectorstore
+touch .env ingest.py chatbot.py api.py</div>
+      <div class="file-tree"><span class="dir">rag_chatbot/</span>
+├── <span class="dir">data/</span>           ← your source files
+├── <span class="dir">vectorstore/</span>    ← auto-created by ChromaDB
+├── .env            ← OPENAI_API_KEY=sk-...
+├── ingest.py       ← Step 5: load &amp; index data
+├── chatbot.py      ← Step 6: ask questions
+└── api.py          ← Step 7: wrap as REST API</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-teal">PHASE 2</span> Data Ingestion Pipeline</div>
+
+  <div class="step-block" id="s5">
+    <div class="step-header" onclick="toggle('s5')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">5</div>
+      <div><div class="step-title">Write the data ingestion script (ingest.py)</div><div class="step-sub">Load → chunk → embed → store in ChromaDB</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># ingest.py</span>
+from langchain_community.document_loaders import (
+    PyPDFLoader, DirectoryLoader
+)
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+
+loader = DirectoryLoader("data/", glob="**/*.pdf",
+    loader_cls=PyPDFLoader, show_progress=True)
+documents = loader.load()
+print(f"Loaded {len(documents)} pages")
+
+splitter = RecursiveCharacterTextSplitter(
+    chunk_size=500, chunk_overlap=50,
+    separators=["\n\n", "\n", ".", " "]
+)
+chunks = splitter.split_documents(documents)
+print(f"Created {len(chunks)} chunks")
+
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
+
+vectordb = Chroma.from_documents(
+    documents=chunks,
+    embedding=embeddings,
+    persist_directory="./vectorstore"
+)
+vectordb.persist()
+print("Vector store created!")</div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button">python ingest.py</div>
+      <div class="note info">First run downloads the embedding model (~90MB). The vectorstore/ folder stores your indexed data permanently.</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="s6">
+    <div class="step-header" onclick="toggle('s6')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">6</div>
+      <div><div class="step-title">Build the chatbot (chatbot.py)</div><div class="step-sub">Query → retrieve chunks → LLM generates answer</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># chatbot.py</span>
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_ollama import ChatOllama
+from langchain.chains import RetrievalQA
+from langchain.prompts import PromptTemplate
+
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
+vectordb = Chroma(persist_directory="./vectorstore",
+                  embedding_function=embeddings)
+retriever = vectordb.as_retriever(
+    search_type="similarity", search_kwargs={"k": 4}
+)
+
+PROMPT = PromptTemplate(
+    input_variables=["context", "question"],
+    template="""You are a helpful assistant. Use ONLY the context below.
+If the answer is not in context, say "I don't know based on provided data."
+
+Context: {context}
+Question: {question}
+Answer:"""
+)
+
+llm = ChatOllama(model="llama3.2", temperature=0)
+qa_chain = RetrievalQA.from_chain_type(
+    llm=llm, chain_type="stuff", retriever=retriever,
+    chain_type_kwargs={"prompt": PROMPT},
+    return_source_documents=True
+)
+
+print("RAG Chatbot ready. Type 'quit' to exit.\n")
+while True:
+    query = input("You: ")
+    if query.lower() == "quit": break
+    result = qa_chain.invoke({"query": query})
+    print(f"\nBot: {result['result']}")
+    for doc in result['source_documents']:
+        print(f"  Source: {doc.metadata.get('source','?')}")
+    print()</div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button">python chatbot.py</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-amber">PHASE 3</span> Open Source Tool Options</div>
+
+  <div class="step-block" id="s7">
+    <div class="step-header" onclick="toggle('s7')">
+      <div class="step-num" style="background:#FAEEDA;color:#BA7517">7</div>
+      <div><div class="step-title">RAG framework comparison</div><div class="step-sub">LangChain vs LlamaIndex vs Haystack vs AnythingLLM</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="tool-compare">
+        <div class="tool-row tool-head"><div>Tool</div><div>Best for</div><div>Complexity</div></div>
+        <div class="tool-row"><div><strong>LangChain</strong></div><div>Custom pipelines, flexible, most examples online</div><div>⭐⭐⭐ Medium</div></div>
+        <div class="tool-row"><div><strong>LlamaIndex</strong></div><div>Document-heavy apps, structured data, agents</div><div>⭐⭐⭐ Medium</div></div>
+        <div class="tool-row"><div><strong>Haystack</strong></div><div>Production pipelines, enterprise search</div><div>⭐⭐⭐⭐ High</div></div>
+        <div class="tool-row"><div><strong>AnythingLLM</strong></div><div>No-code GUI, instant setup — great for testing</div><div>⭐ Easy</div></div>
+        <div class="tool-row"><div><strong>PrivateGPT</strong></div><div>100% local, privacy-first, offline</div><div>⭐⭐ Easy-Med</div></div>
+      </div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># AnythingLLM — fastest way to see RAG (Docker)</span>
+docker pull mintplexlabs/anythingllm
+docker run -d -p 3001:3001 \
+  -v anythingllm_storage:/app/server/storage \
+  mintplexlabs/anythingllm
+<span class="cmt"># Open http://localhost:3001</span></div>
+    </div>
+  </div>
+
+  <div class="step-block" id="s8">
+    <div class="step-header" onclick="toggle('s8')">
+      <div class="step-num" style="background:#FAEEDA;color:#BA7517">8</div>
+      <div><div class="step-title">Vector store options</div><div class="step-sub">ChromaDB vs FAISS vs Weaviate vs Qdrant</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="tool-compare">
+        <div class="tool-row tool-head"><div>Vector DB</div><div>Use when</div><div>Setup</div></div>
+        <div class="tool-row"><div><strong>ChromaDB</strong></div><div>Local dev, &lt;1M docs, built-in persistence</div><div>pip install, zero config</div></div>
+        <div class="tool-row"><div><strong>FAISS</strong></div><div>Maximum speed, in-memory, large datasets</div><div>pip install faiss-cpu</div></div>
+        <div class="tool-row"><div><strong>Weaviate</strong></div><div>Production, GraphQL API, filtering</div><div>Docker / cloud</div></div>
+        <div class="tool-row"><div><strong>Qdrant</strong></div><div>Production, fast, rich filtering, REST API</div><div>Docker / cloud</div></div>
+        <div class="tool-row"><div><strong>pgvector</strong></div><div>Already use PostgreSQL</div><div>PostgreSQL extension</div></div>
+      </div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt"># Switch to FAISS</span>
+pip install faiss-cpu
+
+<span class="cmt"># In ingest.py:</span>
+from langchain_community.vectorstores import FAISS
+vectordb = FAISS.from_documents(chunks, embeddings)
+vectordb.save_local("./vectorstore")
+
+<span class="cmt"># In chatbot.py:</span>
+vectordb = FAISS.load_local("./vectorstore", embeddings,
+    allow_dangerous_deserialization=True)</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-purple">PHASE 4</span> Advanced Tuning</div>
+
+  <div class="step-block" id="s9">
+    <div class="step-header" onclick="toggle('s9')">
+      <div class="step-num" style="background:#EEEDFE;color:#534AB7">9</div>
+      <div><div class="step-title">Add conversation memory (chat history)</div><div class="step-sub">So bot remembers previous turns</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Replace RetrievalQA with ConversationalRetrievalChain</span>
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationBufferWindowMemory
+
+memory = ConversationBufferWindowMemory(
+    k=5, memory_key="chat_history", return_messages=True
+)
+qa_chain = ConversationalRetrievalChain.from_llm(
+    llm=llm, retriever=retriever, memory=memory,
+    return_source_documents=True
+)
+<span class="cmt"># Query: qa_chain.invoke({"question": query})</span></div>
+    </div>
+  </div>
+
+  <div class="step-block" id="s10">
+    <div class="step-header" onclick="toggle('s10')">
+      <div class="step-num" style="background:#EEEDFE;color:#534AB7">10</div>
+      <div><div class="step-title">Improve retrieval with metadata filtering</div><div class="step-sub">Filter by date, category, file name, etc.</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Add metadata during ingestion</span>
+for chunk in chunks:
+    chunk.metadata.update({
+        "category": "policy",
+        "year": "2024",
+        "department": "finance"
+    })
+
+<span class="cmt"># Filter during retrieval</span>
+retriever = vectordb.as_retriever(
+    search_kwargs={
+        "k": 4,
+        "filter": {"category": "policy"}
+    }
+)</div>
+    </div>
+  </div>
+</div>
+
+<!-- PANEL 2 -->
+<div class="panel" id="tab-api">
+  <div class="section-title"><span class="badge badge-blue">PART A</span> Wrap your chatbot as a REST API</div>
+
+  <div class="step-block" id="a1">
+    <div class="step-header" onclick="toggle('a1')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">1</div>
+      <div><div class="step-title">Create FastAPI server (api.py)</div><div class="step-sub">Expose your RAG chatbot as an HTTP endpoint</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># api.py</span>
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from typing import Optional
+import uvicorn, uuid, time
+
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_ollama import ChatOllama
+from langchain.chains import RetrievalQA
+from langchain.prompts import PromptTemplate
+
+app = FastAPI(title="RAG Chatbot API", version="1.0")
+app.add_middleware(CORSMiddleware,
+    allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
+
+@app.on_event("startup")
+async def startup():
+    global qa_chain
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2")
+    vectordb = Chroma(persist_directory="./vectorstore",
+                      embedding_function=embeddings)
+    retriever = vectordb.as_retriever(search_kwargs={"k": 4})
+    llm = ChatOllama(model="llama3.2", temperature=0)
+    PROMPT = PromptTemplate(
+        input_variables=["context","question"],
+        template="Context: {context}\n\nQuestion: {question}\nAnswer:"
+    )
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=llm, retriever=retriever,
+        chain_type_kwargs={"prompt": PROMPT},
+        return_source_documents=True
+    )
+
+class QueryRequest(BaseModel):
+    question: str
+    session_id: Optional[str] = None
+
+class QueryResponse(BaseModel):
+    answer: str
+    sources: list
+    session_id: str
+    processing_time_ms: int
+
+@app.post("/api/chat", response_model=QueryResponse)
+async def chat(req: QueryRequest):
+    if not req.question.strip():
+        raise HTTPException(400, "Question cannot be empty")
+    start = time.time()
+    result = qa_chain.invoke({"query": req.question})
+    elapsed = int((time.time() - start) * 1000)
+    sources = [{
+        "file": doc.metadata.get("source","?"),
+        "page": doc.metadata.get("page","?"),
+        "content": doc.page_content[:200]
+    } for doc in result["source_documents"]]
+    return QueryResponse(
+        answer=result["result"], sources=sources,
+        session_id=req.session_id or str(uuid.uuid4()),
+        processing_time_ms=elapsed
+    )
+
+@app.get("/health")
+async def health():
+    return {"status": "ok"}
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)</div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button">uvicorn api:app --reload --port 8000</div>
+      <div class="note success">FastAPI auto-generates interactive docs at http://localhost:8000/docs</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="a2">
+    <div class="step-header" onclick="toggle('a2')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">2</div>
+      <div><div class="step-title">API endpoints reference</div><div class="step-sub">All available routes and their structure</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="endpoint-row"><span class="method get">GET</span> <span class="url-chip">/health</span> — Check if server is running</div>
+      <div class="endpoint-row"><span class="method post">POST</span> <span class="url-chip">/api/chat</span> — Send question, get answer + sources</div>
+      <div class="endpoint-row"><span class="method get">GET</span> <span class="url-chip">/docs</span> — Interactive Swagger UI</div>
+      <div class="endpoint-row"><span class="method get">GET</span> <span class="url-chip">/redoc</span> — Alternative API documentation</div>
+      <p style="margin-top:10px">Request body for <code>/api/chat</code>:</p>
+      <div class="cmd">{"question": "What is the leave policy?",
+ "session_id": "user-123"}</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="a3">
+    <div class="step-header" onclick="toggle('a3')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">3</div>
+      <div><div class="step-title">Add API key authentication</div><div class="step-sub">Secure your API before exposing it</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Add to api.py</span>
+from fastapi.security import APIKeyHeader
+from fastapi import Depends
+import os
+
+API_KEY_HEADER = APIKeyHeader(name="X-API-Key")
+VALID_KEYS = {os.getenv("API_KEY_1", "dev-key-change-me")}
+
+async def verify_api_key(key: str = Depends(API_KEY_HEADER)):
+    if key not in VALID_KEYS:
+        raise HTTPException(403, "Invalid API key")
+    return key
+
+<span class="cmt"># Add to endpoint signature:</span>
+@app.post("/api/chat")
+async def chat(req: QueryRequest, key=Depends(verify_api_key)):
+    ...</div>
+      <div class="note warn">Set API keys in your .env file, never hardcode them.</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="a4">
+    <div class="step-header" onclick="toggle('a4')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">4</div>
+      <div><div class="step-title">Dockerize for deployment</div><div class="step-sub">Package everything so it runs anywhere</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt"># Dockerfile</span>
+FROM python:3.11-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
+EXPOSE 8000
+CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]</div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button">docker build -t rag-chatbot .
+docker run -p 8000:8000 \
+  -v $(pwd)/vectorstore:/app/vectorstore \
+  -e API_KEY_1=your-secret-key \
+  rag-chatbot</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-teal">PART B</span> Integrate into your app</div>
+
+  <div class="step-block" id="a5">
+    <div class="step-header" onclick="toggle('a5')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">5</div>
+      <div><div class="step-title">Call from JavaScript / React / Next.js</div><div class="step-sub">Frontend integration code</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt">// JavaScript / React</span>
+const askChatbot = async (question, sessionId) => {
+  const res = await fetch("http://localhost:8000/api/chat", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-API-Key": process.env.NEXT_PUBLIC_RAG_API_KEY
+    },
+    body: JSON.stringify({ question, session_id: sessionId })
+  });
+  if (!res.ok) throw new Error("API error: " + res.status);
+  return res.json();
+};
+
+<span class="cmt">// Usage:</span>
+const { answer, sources } = await askChatbot(
+  "What is the refund policy?", "user-session-abc"
+);</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="a6">
+    <div class="step-header" onclick="toggle('a6')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">6</div>
+      <div><div class="step-title">Add streaming responses (real-time typing effect)</div><div class="step-sub">Tokens stream as LLM generates them</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt"># Streaming endpoint in api.py</span>
+from fastapi.responses import StreamingResponse
+
+@app.post("/api/chat/stream")
+async def chat_stream(req: QueryRequest):
+    async def generate():
+        for chunk in llm.stream(req.question):
+            yield f"data: {chunk.content}\n\n"
+        yield "data: [DONE]\n\n"
+    return StreamingResponse(generate(),
+        media_type="text/event-stream",
+        headers={"Cache-Control": "no-cache"})
+
+<span class="cmt">// JavaScript — consume stream</span>
+const es = new EventSource("/api/chat/stream?q=your-question");
+es.onmessage = (e) => {
+  if (e.data === "[DONE]") return es.close();
+  setAnswer(prev => prev + e.data);
+};</div>
+    </div>
+  </div>
+</div>
+
+<!-- PANEL 3 -->
+<div class="panel" id="tab-govt">
+  <div class="note info" style="margin-bottom:16px">India's main open data platforms: <strong>data.gov.in</strong> (OGD Platform), <strong>NDAP</strong> (ndap.niti.gov.in — the new NITIFORSTATES), and ministry-specific APIs. All are free with registration.</div>
+
+  <div class="section-title"><span class="badge badge-blue">PLATFORM 1</span> data.gov.in — Open Government Data</div>
+
+  <div class="step-block" id="g1">
+    <div class="step-header" onclick="toggle('g1')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">1</div>
+      <div><div class="step-title">Register and get your API key on data.gov.in</div><div class="step-sub">3-minute process, free forever</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <ul class="checklist">
+        <li>Go to <span class="url-chip">https://data.gov.in</span></li>
+        <li>Click "Register" → fill name, email, organization</li>
+        <li>Verify email → Login to dashboard</li>
+        <li>Click your name → "My Account" → "API"</li>
+        <li>Click "Generate API Key" → copy the key</li>
+        <li>Save it in your .env as <span class="url-chip">DATAGOV_API_KEY=...</span></li>
+      </ul>
+      <div class="note warn">The API key gives you access to 5000+ datasets across all Indian government ministries.</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="g2">
+    <div class="step-header" onclick="toggle('g2')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">2</div>
+      <div><div class="step-title">Find the right dataset and its API ID</div><div class="step-sub">Every dataset has a unique resource ID for the API</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <ul class="checklist">
+        <li>Go to <span class="url-chip">https://data.gov.in/catalogs</span></li>
+        <li>Search for your topic (e.g. "population", "agriculture", "school")</li>
+        <li>Click on the dataset → look for "API" tab</li>
+        <li>Copy the <strong>Resource ID</strong> (e.g. <span class="url-chip">6176ee09-3d56-4a3b-8115-21841daa7f85</span>)</li>
+      </ul>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Example API call</span>
+curl "https://api.data.gov.in/resource/RESOURCE_ID?api-key=YOUR_KEY&format=json&limit=10"</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="g3">
+    <div class="step-header" onclick="toggle('g3')">
+      <div class="step-num" style="background:#E6F1FB;color:#185FA5">3</div>
+      <div><div class="step-title">Full Python integration with data.gov.in</div><div class="step-sub">Fetch, filter, paginate — complete code</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># datagov_client.py</span>
+import requests, json, os
+from dotenv import load_dotenv
+load_dotenv()
+
+API_KEY = os.getenv("DATAGOV_API_KEY")
+BASE_URL = "https://api.data.gov.in/resource"
+
+def fetch_data(resource_id, filters=None, limit=100, offset=0):
+    params = {
+        "api-key": API_KEY,
+        "format": "json",
+        "limit": limit,
+        "offset": offset
+    }
+    if filters:
+        for key, value in filters.items():
+            params[f"filters[{key}]"] = value
+    
+    r = requests.get(f"{BASE_URL}/{resource_id}",
+                     params=params, timeout=30)
+    r.raise_for_status()
+    return r.json()
+
+def fetch_all_pages(resource_id, filters=None, page_size=500):
+    all_records, offset = [], 0
+    while True:
+        data = fetch_data(resource_id, filters, page_size, offset)
+        records = data.get("records", [])
+        total = int(data.get("total", 0))
+        all_records.extend(records)
+        offset += len(records)
+        print(f"Fetched {offset}/{total} records...")
+        if offset >= total or not records: break
+    return all_records
+
+<span class="cmt"># Usage</span>
+data = fetch_data("YOUR_RESOURCE_ID", limit=10)
+print("Total:", data.get("total"))
+print("Sample:", json.dumps(data["records"][0], indent=2))
+
+<span class="cmt"># Filter by state</span>
+gujarat = fetch_data("RESOURCE_ID", filters={"state": "Gujarat"})
+
+<span class="cmt"># Fetch all and save</span>
+all_data = fetch_all_pages("RESOURCE_ID")
+with open("data/govdata.json","w") as f:
+    json.dump(all_data, f, indent=2)</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-teal">PLATFORM 2</span> NDAP — National Data Analytics Platform</div>
+
+  <div class="step-block" id="g4">
+    <div class="step-header" onclick="toggle('g4')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">4</div>
+      <div><div class="step-title">Register on NDAP (ndap.niti.gov.in)</div><div class="step-sub">NITI Aayog's platform — 700+ indicators, state-level data</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <ul class="checklist">
+        <li>Go to <span class="url-chip">https://ndap.niti.gov.in</span></li>
+        <li>Click "Sign Up" — use your email/mobile + OTP</li>
+        <li>Login → go to "Developer" or "API Access" section</li>
+        <li>Request API access (may need approval for bulk usage)</li>
+        <li>Explore datasets at <span class="url-chip">https://ndap.niti.gov.in/info</span></li>
+      </ul>
+      <div class="note info">NDAP covers health, education, agriculture, economy — all at district and state level.</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="g5">
+    <div class="step-header" onclick="toggle('g5')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">5</div>
+      <div><div class="step-title">Query NDAP datasets with Python</div><div class="step-sub">Fetch state/district indicators programmatically</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt"># ndap_client.py</span>
+import requests
+
+NDAP_BASE = "https://ndap.niti.gov.in/api/v1"
+TOKEN = "Bearer YOUR_NDAP_TOKEN"
+headers = {"Authorization": TOKEN, "Content-Type": "application/json"}
+
+def list_datasets():
+    return requests.get(f"{NDAP_BASE}/datasets", headers=headers).json()
+
+def get_indicator(dataset_id, state_code=None, year=None):
+    params = {"dataset_id": dataset_id}
+    if state_code: params["state_code"] = state_code
+    if year: params["year"] = year
+    return requests.get(f"{NDAP_BASE}/data",
+                        headers=headers, params=params).json()
+
+def search(keyword):
+    return requests.get(f"{NDAP_BASE}/search",
+                        headers=headers, params={"q": keyword}).json()
+
+<span class="cmt"># Example: Gujarat literacy rate</span>
+results = search("literacy rate")
+gujarat_literacy = get_indicator("EDU_LITERACY_001",
+    state_code="GJ", year="2021")
+print(gujarat_literacy)</div>
+    </div>
+  </div>
+
+  <div class="step-block" id="g7">
+    <div class="step-header" onclick="toggle('g7')">
+      <div class="step-num" style="background:#E1F5EE;color:#0F6E56">6</div>
+      <div><div class="step-title">Ingest government API data into your RAG chatbot</div><div class="step-sub">Bridge govt data with your chatbot pipeline — key integration step</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt"># govt_rag_ingest.py</span>
+import requests, json
+from langchain.schema import Document
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+
+API_KEY = "YOUR_DATAGOV_KEY"
+
+def fetch_and_ingest(resource_id, description):
+    <span class="cmt"># Fetch from data.gov.in</span>
+    url = f"https://api.data.gov.in/resource/{resource_id}"
+    resp = requests.get(url, params={
+        "api-key": API_KEY, "format": "json", "limit": 500})
+    data = resp.json()
+    
+    <span class="cmt"># Convert each row to a text Document</span>
+    docs = []
+    for record in data.get("records", []):
+        text = f"{description}:\n"
+        text += "\n".join([f"{k}: {v}" for k,v in record.items()])
+        docs.append(Document(page_content=text, metadata={
+            "source": f"data.gov.in/{resource_id}",
+            "type": "government_data",
+            "description": description
+        }))
+    
+    <span class="cmt"># Chunk and embed</span>
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=500, chunk_overlap=50)
+    chunks = splitter.split_documents(docs)
+    
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2")
+    vectordb = Chroma(persist_directory="./vectorstore",
+                      embedding_function=embeddings)
+    vectordb.add_documents(chunks)
+    vectordb.persist()
+    print(f"Added {len(chunks)} chunks from {description}")
+
+<span class="cmt"># Example usage</span>
+fetch_and_ingest(
+    "6176ee09-3d56-4a3b-8115-21841daa7f85",
+    "India State Population Census 2021"
+)</div>
+      <div class="note success">After this, your chatbot can answer "What is Gujarat's literacy rate?" using live official government data.</div>
+    </div>
+  </div>
+</div>
+
+<!-- PANEL 4 -->
+<div class="panel" id="tab-test">
+  <div class="note warn" style="margin-bottom:16px">No app or website access? Test everything via terminal (curl), Python scripts, Postman desktop, or FastAPI's built-in Swagger UI.</div>
+
+  <div class="section-title"><span class="badge badge-coral">METHOD 1</span> Test with curl (zero install)</div>
+
+  <div class="step-block" id="t1">
+    <div class="step-header" onclick="toggle('t1')">
+      <div class="step-num" style="background:#FAECE7;color:#993C1D">1</div>
+      <div><div class="step-title">Test your RAG API with curl commands</div><div class="step-sub">Works in any terminal — no browser needed</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button><span class="cmt"># Test health check</span>
+curl http://localhost:8000/health
+
+<span class="cmt"># Test the chat endpoint</span>
+curl -X POST http://localhost:8000/api/chat \
+  -H "Content-Type: application/json" \
+  -H "X-API-Key: your-api-key" \
+  -d '{"question": "What is the leave policy?"}' \
+  | python3 -m json.tool
+
+<span class="cmt"># Test data.gov.in API directly</span>
+curl "https://api.data.gov.in/resource/RESOURCE_ID?api-key=YOUR_KEY&format=json&limit=5"
+
+<span class="cmt"># Test Ollama is running</span>
+curl http://localhost:11434/api/generate \
+  -d '{"model":"llama3.2","prompt":"Hello","stream":false}'
+
+<span class="cmt"># Save response to file for inspection</span>
+curl -X POST http://localhost:8000/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"question":"test"}' -o response.json</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-coral">METHOD 2</span> Automated Python test script</div>
+
+  <div class="step-block" id="t2">
+    <div class="step-header" onclick="toggle('t2')">
+      <div class="step-num" style="background:#FAECE7;color:#993C1D">2</div>
+      <div><div class="step-title">Write automated test scripts</div><div class="step-sub">Test multiple questions, check response quality</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button"><span class="cmt"># test_rag.py</span>
+import requests
+
+BASE_URL = "http://localhost:8000"
+HEADERS = {"Content-Type": "application/json",
+           "X-API-Key": "your-api-key"}
+
+TEST_QUESTIONS = [
+    "What is the main topic of the documents?",
+    "Summarise the key policies mentioned.",
+    "What is the procedure for leave application?",
+    "List all departments mentioned.",
+    "What are the working hours?"
+]
+
+print("=" * 60)
+for i, question in enumerate(TEST_QUESTIONS, 1):
+    print(f"\nTest {i}: {question}")
+    print("-" * 40)
+    resp = requests.post(f"{BASE_URL}/api/chat",
+        headers=HEADERS,
+        json={"question": question},
+        timeout=60
+    )
+    if resp.status_code == 200:
+        data = resp.json()
+        print(f"Answer: {data['answer'][:300]}...")
+        print(f"Sources: {[s['file'] for s in data['sources']]}")
+        print(f"Time: {data['processing_time_ms']}ms")
+    else:
+        print(f"ERROR {resp.status_code}: {resp.text}")
+print("\nTest complete!")</div>
+      <div class="cmd"><button class="copy-btn" onclick="copyCmd(this)">copy</button">python test_rag.py</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-coral">METHOD 3</span> Postman desktop (GUI)</div>
+
+  <div class="step-block" id="t3">
+    <div class="step-header" onclick="toggle('t3')">
+      <div class="step-num" style="background:#FAECE7;color:#993C1D">3</div>
+      <div><div class="step-title">Set up Postman for API testing</div><div class="step-sub">Desktop app — full GUI, save test collections</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <ul class="checklist">
+        <li>Download from <span class="url-chip">https://postman.com/downloads</span></li>
+        <li>New → Collection → "RAG Chatbot"</li>
+        <li>Add Request → POST → URL: <span class="url-chip">http://localhost:8000/api/chat</span></li>
+        <li>Headers tab: Key=<span class="url-chip">X-API-Key</span> Value=your-key</li>
+        <li>Headers tab: Key=<span class="url-chip">Content-Type</span> Value=<span class="url-chip">application/json</span></li>
+        <li>Body tab → raw → JSON → paste: <code>{"question":"your test question"}</code></li>
+        <li>Click "Send" → see response in bottom panel</li>
+      </ul>
+      <div class="note info">Use Postman Environments to switch between localhost and production URL.</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-green">METHOD 4</span> FastAPI Swagger UI</div>
+
+  <div class="step-block" id="t4">
+    <div class="step-header" onclick="toggle('t4')">
+      <div class="step-num" style="background:#EAF3DE;color:#3B6D11">4</div>
+      <div><div class="step-title">Use FastAPI Swagger docs (auto-generated)</div><div class="step-sub">Available at /docs when your server is running</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <ul class="checklist">
+        <li>Start server: <span class="url-chip">python api.py</span></li>
+        <li>Open browser → <span class="url-chip">http://localhost:8000/docs</span></li>
+        <li>Click <span class="url-chip">POST /api/chat</span> → "Try it out"</li>
+        <li>Fill in the request body → click "Execute"</li>
+        <li>See full response, status code, and curl equivalent</li>
+      </ul>
+      <div class="note success">Zero-effort browser-based API tester, automatically generated from your code.</div>
+    </div>
+  </div>
+
+  <div class="section-title"><span class="badge badge-green">PRODUCTION CHECKLIST</span></div>
+
+  <div class="step-block" id="t5">
+    <div class="step-header" onclick="toggle('t5')">
+      <div class="step-num" style="background:#EAF3DE;color:#3B6D11">5</div>
+      <div><div class="step-title">Before going to production — complete checklist</div><div class="step-sub">Security, performance, monitoring, deployment</div></div>
+      <div class="step-arrow">▶</div>
+    </div>
+    <div class="step-body">
+      <div class="two-col">
+        <div class="mini-card"><h4>Security</h4>
+          <ul class="checklist">
+            <li>API keys in .env, not in code</li>
+            <li>Rate limiting per IP/key</li>
+            <li>CORS restricted to your domain</li>
+            <li>HTTPS via nginx + SSL</li>
+            <li>Input validation &amp; max length</li>
+          </ul>
+        </div>
+        <div class="mini-card"><h4>Performance</h4>
+          <ul class="checklist">
+            <li>Load RAG chain once at startup</li>
+            <li>Add response caching (Redis)</li>
+            <li>Async endpoints (FastAPI async)</li>
+            <li>Optimise chunk size (test 300–800)</li>
+            <li>Use GPU if available</li>
+          </ul>
+        </div>
+        <div class="mini-card"><h4>Monitoring</h4>
+          <ul class="checklist">
+            <li>Log every query + response time</li>
+            <li>Track source relevance scores</li>
+            <li>Add /metrics (Prometheus)</li>
+            <li>Set up error alerts</li>
+          </ul>
+        </div>
+        <div class="mini-card"><h4>Deployment</h4>
+          <ul class="checklist">
+            <li>Docker + docker-compose</li>
+            <li>nginx as reverse proxy</li>
+            <li>Systemd service (auto-restart)</li>
+            <li>Backup vectorstore/ regularly</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div><!-- end container -->
+
+<script>
+function showTab(id, btn) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  btn.classList.add('active');
+}
+function toggle(id) {
+  document.getElementById(id).classList.toggle('open');
+}
+function copyCmd(btn) {
+  const code = btn.parentElement.innerText.replace(/^copy\n?/, '').replace(/^copied!\n?/, '');
+  navigator.clipboard.writeText(code).then(() => {
+    btn.textContent = 'copied!';
+    setTimeout(() => btn.textContent = 'copy', 2000);
+  });
+}
+</script>
+</body>
+</html>

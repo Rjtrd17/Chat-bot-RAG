@@ -1,0 +1,2154 @@
+Draft STIP Doc 1.4
+Science, Technology, and
+Innovation Policy
+Government of India
+Ministry of Science & Technology
+Department of Science & Technology
+December, 2020
+
+Draft STIP Doc 1.4 Dec 2020
+Science, Technology, and Innovation Policy (STIP)
+Table of Contents
+EXECUTIVE SUMMARY 2
+I. Building a robust Science, Technology and Innovation Ecosystem for an Atmanirbhar
+Bharat 7
+II. Evolution of STI Policies in India 9
+III. Chapters 11
+Chapter 1: Open Science 11
+Chapter 2: Capacity Development 14
+Chapter 3: Financing STI 19
+Chapter 4: Research 24
+Chapter 5: Innovation and Entrepreneurship 27
+Chapter 6: Technology Development and Indigenisation 33
+Chapter 7: Equity and Inclusion 39
+Chapter 8: Science Communication and Public Engagement 43
+Chapter 9: International STI Engagement 47
+Chapter 10: STI Governance 52
+Chapter 11: STI Policy Governance 57
+IV. Implementation Framework 61
+V. Monitoring, Evaluation and Feedback Framework 61
+VI. Vision 61
+1
+
+Draft STIP Doc 1.4 Dec 2020
+Science, Technology, Innovation Policy (STIP)
+Executive Summary
+Science, Technology and Innovation (STI) are the key drivers for economic growth and
+human development. For India to march ahead on a sustainable development pathway to
+include economic development, social inclusion and environmental sustainability for
+achieving an “Atmanirbhar Bharat'', a greater emphasis will be given on promoting traditional
+knowledge system, developing indigenous technologies and encouraging grass root
+innovation.. The emergence of disruptive and impactful technologies poses new challenges
+and simultaneously greater opportunities. The COVID-19 pandemic provided a compelling
+opportunity for Research and Development (R&D) institutions, academia and industry to
+work in unison for sharing of purpose, synergy, collaboration and cooperation.
+The new Science, Technology, Innovation Policy aims to bring about profound changes
+through short-term, medium-term, and long-term mission mode projects by building a
+nurtured ecosystem that promotes research and innovation on the part of both individuals and
+organizations. It aims to foster, develop, and nurture a robust system for evidence and
+stakeholder-driven STI planning, information, evaluation, and policy research in India. The
+policy will identify and address strengths and weaknesses of the Indian STI ecosystem to
+catalyse socio-economic development of the country and also make the Indian STI ecosystem
+globally competitive.
+A broad summary of Science, Technology and Innovation Policy (STIP) is given as under-
+1. STIP will lead to the establishment of a National STI Observatory that will act as a
+central repository for all kinds of data related to and generated from the STI
+ecosystem. It will encompass an open centralised database platform for all financial
+schemes, programmes, grants and incentives existing in the ecosystem. The
+Observatory will be centrally coordinated and organized in distributed, networked and
+interoperable manner among relevant stakeholders.
+2. A future-looking, all-encompassing Open Science Framework will be built to provide
+access to scientific data, information, knowledge, and resources to everyone in the
+country and all who are engaging with the Indian STI ecosystem on an equal
+partnership basis. All data used in and generated from publicly-funded research will
+be available to everyone under FAIR (findable, accessible, interoperable and reusable)
+terms. A dedicated portal to provide access to the outputs of such publicly-funded
+research will be created through Indian Science and Technology Archive of Research
+(INDSTA). Additionally, full text of final accepted author versions of manuscripts
+(postprints and optionally preprints) supported through public funding will be
+deposited to an institutional or central repository. The policy will create pathways for
+2
+
+Draft STIP Doc 1.4 Dec 2020
+the Government to negotiate with journal publishers for a “one nation, one
+subscription” policy whereby, in return for one centrally-negotiated payment, all
+individuals in India will have access to journal articles.
+3. Strategies to improve STI education making it inclusive at all levels and more
+connected with the economy and society will be developed through processes of skill
+building, training and infrastructure development. Engaged Universities will be
+created to promote interdisciplinary research to address community needs. Higher
+Education Research Centres (HERC) and Collaborative Research Centres (CRC) will
+be established to provide research inputs to policymakers and bring together
+stakeholders. Online learning platforms will be developed using Information and
+Communication Technology (ICT) to address the issue of accessibility and to promote
+research and innovation at all levels. Teaching-learning centres (TLCs) will be
+established to upskill faculty members which in turn will improve the quality of
+education.
+4. With an aim to expand the financial landscape of the STI ecosystem, each department/
+ministry in the central, the state and the local governments, public sector enterprises,
+private sector companies and startups will set up an STI unit with a minimum
+earmarked budget to pursue STI activities. Extramural funding will be diversified and
+enhanced to double the share of extramural R&D support of the Central government
+agencies in the Gross Domestic Expenditure on R&D (GERD) in the next five years.
+Each State will earmark a percentage of the state allocation for STI-related activities
+under a separate budget head. Foreign Multi National Companies (MNCs) will
+collaborate with domestic private and public sector entities on projects aligned to
+national needs and priorities. STI investments will be increased through boosting
+fiscal incentives, enhancing support to industry, especially Medium Small Micro
+Enterprises (MSMEs), for pursuing research through innovation support schemes and
+other relevant means on a need basis. Hybrid funding models with enhanced
+participation from public and private sectors will be created through the Advanced
+Missions in Innovative Research Ecosystem (ADMIRE) initiative. To ensure
+systematic governance of the expanded STI financing landscape, an STI Development
+Bank will be set up to facilitate a corpus fund for investing in direct long term
+investments in select strategic areas on various long and medium-term projects,
+commercial ventures, start-ups, technology diffusion and licensing etc. General
+Financial Rules (GFR) will be suitably amended for large scale mission mode
+programmes and projects of national importance and to facilitate ease of doing
+research. Efficient disbursement, communication, monitoring and evaluation
+mechanisms (time-bound peer reviews along with technical and transactional audits)
+will be set up to support conducive investment.
+5. The policy aims to create a fit for purpose, accountable research ecosystem promoting
+translational as well as foundational research in India in alignment with global
+standards. Research and Innovation Excellence Frameworks (RIEF) will be developed
+3
+
+Draft STIP Doc 1.4 Dec 2020
+to enhance the quality of research along with promotion of engagements with relevant
+stakeholders. Proper guidelines will be formulated to enhance the operating and safety
+protocols related to R&D. Research culture will be reoriented to recognize social
+impacts along with academic achievements.
+6. The policy envisions strengthening of the overall innovative ecosystem, fostering
+Science & Technology (S&T)- enabled entrepreneurship, and improving participation
+of the grassroots levels in the research and innovation ecosystem. An institutional
+architecture to integrate Traditional Knowledge Systems (TKS) and grassroots
+innovation into the overall education, research and innovation system will be
+established. Collaborations between grassroots innovators and scientists will be
+facilitated through joint research projects, fellowships and scholarships. Grassroots
+innovators will also be supported for registration, claiming the Intellectual Property
+Right (IPR), filing of patent, or any type of legal claim with the help of Higher
+Education Institute (HEIs). Advanced tools based on Artificial Intelligence (AI) and
+machine learning will be used for curation, preservation and maintenance of heritage
+knowledge.
+7. The policy will promote technology self-reliance and indigenization to achieve the
+larger goal of “Atmanirbhar Bharat”. A two-way approach of indigenous development
+of technology as well as technology indigenization will be adopted and focused upon
+in alignment with national priorities, like sustainability and social benefit, and
+resources. International engagements will be facilitated to gain essential know-how
+towards creation and development of indigenious technologies. A Technology
+Support Framework will be created to facilitate this development. A Strategic
+Technology Board (STB) will be constituted to act as a link connecting different
+strategic departments. A Strategic Technology Development Fund (STDF) will be
+created to incentivize the private sector and HEIs. Spin-off technologies resulting
+from the larger projects will be commercialized and used for civilian purposes.
+Knowledge and evidence driven approach will be used for identifying critical sectors
+for the development of disruptive technologies.
+8. The policy provides renewed impetus to the mainstreaming of equity and inclusion
+within the STI ecosystem. An India-centric Equity & Inclusion (E&I) charter will be
+developed for tackling all forms of discrimination, exclusions and inequalities in STI
+leading to the development of an institutional mechanism. An inclusive culture will be
+facilitated through equal opportunity for women along with candidates from rural-
+remote areas, marginalised communities, differently-abled individuals including
+Divyangjans, irrespective of their socio-economic backgrounds, proportionate
+representation of women in selection/ evaluation committees, addressing of ageism
+related issues and consideration of experienced women scientists for leadership roles
+and regular gender and social audits in academic and professional organizations. The
+Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ+) community will be included
+4
+
+Draft STIP Doc 1.4 Dec 2020
+in gender equity conversations with special provisions to safeguard their rights and
+promote their representation and retention in STI.
+9. The policy will work towards mainstreaming science communication and public
+engagement through the development of capacity building avenues through creative
+and cross-disciplinary platforms, research initiatives, and outreach platforms. Locally
+relevant and culturally-context-specific models will be developed along with
+promoting cross disciplinary research in Science Communication. To improve
+Science teaching, the engagements between science communication and science
+pedagogy will be facilitated. Entertainment platforms such as television (TV),
+community radio, comics etc. will be explored to take science to the last mile. Non-
+Governmental Organizations (NGOs) and Civil Society groups will be involved
+through popular science programmes and citizen science projects at local and regional
+levels. Science Media Centres will be established at national and regional levels to
+connect scientists with media persons and science communicators.
+10. STIP charts pathways to a dynamic, evidence-informed and proactive international
+S&T engagement strategy. Engagement with the Diaspora will be intensified through
+attracting the best talent back home through fellowships, internships schemes and
+research opportunities expanded and widely promoted across different ministries.
+Appropriate facilitating channels will be created for remote contribution as well. An
+engagement portal exclusively for the Indian scientific diaspora will be created. ‘S&T
+for Diplomacy’ will be complemented with Diplomacy for S&T ’. International
+Knowledge Centres, preferably virtual, will be established to promote global
+knowledge and talent exchange. The number of S&T Counsellors will be increased
+with redefinition and revitalisation of their roles.
+11. A decentralized institutional mechanism balancing top-down and bottom-up
+approaches, focussing on administrative and financial management, research
+governance, data and regulatory frameworks and system interconnectedness, will be
+formulated for a robust STI Governance. Appropriate mechanisms will be set up at
+the highest levels for the overall (including inter-sectoral, inter-ministerial, Centre-
+State and inter-State) governance of the STI ecosystem. A robust Research and
+Innovation (R&I) governance framework will be set up to facilitate, stimulate and
+coordinate R&D activities across the sectors. A Capacity Building Authority will be
+set up to help plan, design, implement and monitor capacity building programmes at
+the national and state level. A strong STI collaboration framework to strengthen
+existing channels and create new ones for enhanced interconnectedness among all
+relevant stakeholders at the domestic and global levels will be created, promoting
+inter-institutional, inter-ministerial, interdepartmental and cross-sectoral vertical and
+horizontal linkages and multi-stakeholder partnerships, to pursue projects in
+alignment with the national priorities.
+5
+
+Draft STIP Doc 1.4 Dec 2020
+12. The policy outlines the institutional mechanism for STI policy governance along with
+the implementation strategy and roadmap and monitoring and evaluation framework
+for the policy and programs and their interlinkages. To serve all the aspects of STI
+policy governance and to provide the knowledge support to institutionalised
+governance mechanisms , a STI Policy Institute will be established to build and
+maintain a robust interoperable STI metadata architecture. It will conduct and
+promote nationally and internationally relevant STI policy research and strengthen the
+science advice mechanism at national, sub-national and international levels. It will
+develop long term capacity building programs for STI policy through training and
+fellowships. An implementation strategy and roadmap will be devised for STI policy
+and programs along with continuous monitoring and timely evaluation mechanisms.
+The Science, Technology and Innovation Policy will be guided by the following broad vision;
+(i) To achieve technological self-reliance and position India among the top three
+scientific superpowers in the decade to come.
+(ii) To attract, nurture, strengthen and retain critical human capital through a ‘people
+centric’ science, technology and innovation (STI) ecosystem.
+(iii) To double the number of Full-Time Equivalent (FTE) researchers, Gross Dimestic
+Expenditture on R&D (GERD) and private sector contribution to the GERD every
+5 years.
+(iv) To build individual and institutional excellence in STI with the aspiration to
+achieve the highest level of global recognitions and awards in the coming decade.
+To capture the aspirations of a new, future-ready India, by ensuring active participation,
+shared responsibility and equitable ownership of all stakeholders; transforming the national
+STI landscape maintaining the delicate balance between fortifying India’s indigenous
+capacity and nurturing meaningful global interconnectedness.
+6
+
+Draft STIP Doc 1.4 Dec 2020
+Science, Technology, Innovation Policy (STIP)
+I. Building a robust Science, Technology and Innovation
+Ecosystem for an Atmanirbhar Bharat
+Science, technology and innovation (STI) are the key drivers for economic growth and
+human development. As India marches ahead on a sustainable development pathway that
+includes economic development, social inclusion and environmental sustainability towards
+achieving an “Atmanirbhar Bharat”, a greater emphasis will be given on promoting
+traditional knowledge systems, developing indigenous technologies and encouraging
+grassroots innovations.. The emergence of disruptive and impactful technologies poses newer
+challenges but brings great opportunities. A compelling lesson from COVID-19 has been an
+unprecedented sharing of purpose, synergy, collaboration and cooperation that R&D
+institutions, academia and industry have demonstrated. The new Science, Technology and
+Innovation Policy (STIP) must harness the learnings and synergies from the new scenario to
+take India on a new path of rapid economic and social development aligned with national
+priorities and global competitiveness.
+This policy aims to bring about profound changes through short-term, medium-term, and
+long-term mission mode projects. The aspirations of the STIP policy in building a nurtured
+ecosystem that promotes research and innovation on the part of both individuals and
+organizations are:
+1. To foster, develop, and nurture a robust system for evidence and stakeholder-driven
+STI planning, information, evaluation, and policy research in India.
+2. Enhancing financial resources for STI activities with a long-term vision through
+public and private financing.
+3. To address the transformative strengths and weaknesses of the Indian R&D
+ecosystem in order to create a purposeful and accountable research ecosystem that
+addresses the socio-economic need of the country and at the same time make the
+country globally competitive.
+4. To accelerate research (including multidisciplinary and interdisciplinary research)and
+innovation in the HEIs in the country, and make education at all levels more inclusive
+and connected with the economy and the society. In this regard, STIP fully endorses
+the new National Education Policy (NEP) 2020, and wishes to ensure synergetic
+efforts of both policies towards this goal.
+5. To enhance capacity development for inculcating and promoting scientific temper
+across the country’s people through equity, gender parity and inclusiveness catering to
+the diverse needs of the country.
+6. To develop scientific literature and media across Indian languages and geographies to
+maximize the number of people that participate in and contribute to the scientific
+discussions and processes in the country.
+7
+
+Draft STIP Doc 1.4 Dec 2020
+7. To promote open science and enable access to all outputs and data from public-funded
+research and empower STI through means of effective ethical and regulatory
+frameworks.
+8. To facilitate interconnectedness and collaboration between the different stakeholders
+in the STI ecosystem which will enable the addressing of complex issues requiring a
+multidisciplinary approach, efficient utilization of resources, and translation of
+research into applications.
+9. To aim for collective and inclusive global development through international S&T
+engagement, by maximizing the scope for indigenization, sustainability, and global
+competitiveness.
+10. To strengthen technological development to address the socio-economic needs of the
+country and leverage India’s position at the global level in all technology areas with
+special emphasis on sustainable technologies, strategic technologies, and mega-
+science and thereby reduce the dependence on import of technologies.
+11. To strengthen India’s competitiveness in STI and promote science diplomacy
+internationally / at a global level so that the nation continues to maintain a competitive
+edge in science, technology, innovation and research, globally.
+12. To strengthen the STI ecosystem to build resilience for the future social and economic
+disruptions.
+13. To ensure a clean environment for the country’s people and its future generations,
+through green initiatives based in science that promote sustainability and clean
+energy, water, air, rivers, forests, parks, and neighborhoods.
+14. To build an enabling ecosystem for seeding, sustenance, and growth of STI-enabled
+entrepreneurship in India.
+15. To strengthen national water, agriculture, food, and nutrition security as well as
+ensuring employment generation through a robust STI enabling the environment to
+ensure better lives for citizens, enhancing incomes for farmers, labourers and artisans,
+and to create resilient and liveable human settlements, while sustaining natural
+resources and safeguarding public health.
+16. To catalyse the application of science to create a secure, clean, inclusive and equitable
+energy system, reduce energy poverty, increase resilience against supply disruptions
+and climate risks, and enable the transition to a cost-effective carbon future.
+17. To enable innovation for better health outcomes and assured universal healthcare, that
+is responsive to the needs of the people and that ensures the health security of the
+nation
+18. To strengthen India’s domestic supply chain management system in order to reduce
+its reliance on imports of goods and services, improve its exports capacity and
+ultimately improve its global value chain.
+19. To seed, fund, and foster suitable and robust initiatives at HEIs, including
+collaborations with government and with industry, in order to promote all these
+critical aspirations.
+8
+
+Draft STIP Doc 1.4 Dec 2020
+II. Evolution of STI Policies in India
+STI plays a significant role in fostering socio-economic and political development globally
+and benefitting all the sectors through scientific and technological advances. STI acts as a key
+determinant in addressing socio-economic challenges related to critical sectors such as health,
+environment, education, food, energy, climate change, water etc. Indian Science and
+Technology policies post-independent India were predominantly rooted in the ideas of self-
+reliance and indigenous development across the sectors. Through such endeavours India’s
+capacity for inclusive and cost-effective innovation has been recognized in the global
+innovation discourse.
+Four national S&T policies, Scientific Policy Resolution, 1958 (SPR1958), Technology
+Policy Statement (TPS) 1983, STP2003, STIP2013 have guided the evolution of India’s STI
+ecosystem. The first policy on science was adopted by India through the (SPR1958) which
+laid the foundation for scientific enterprise and scientific temper in India. S&T were seen as
+vehicles for the onward journey towards socio-economic transformation and nation-building.
+By 1980, India had developed advanced scientific and technological infrastructure in the
+areas of space, industrial research, nuclear energy, defence research, biotechnology,
+agriculture, and health. Subsequently, with a focus to achieve technological competence and
+self-reliance through the promotion and development of indigenous technologies, the TPS
+was launched in 1983. It resulted in the establishment of the Technology Development Fund
+and the formation of Technology, Information Forecasting, and Assessment Council
+(TIFAC). These S&T policies took recourse to mass education and cultivation of science and
+scientific research in HEIs for attaining technological competence. Economic liberalization
+and globalization brought new challenges and opportunities in Science and Technology.
+From 2000 onwards, India focused on the conversion of knowledge into wealth and value,
+addressing socio-economic needs of the country and to amalgamate science, technology, and
+innovation (STI). Accordingly, Science and Technology Policy 2003 brought together the
+areas of S&T with the aim of increasing the investment required for R&D and innovation
+in the areas impacting the economy and society. This led to the emergence of a strong
+institutional mechanism through the creation of Scientific and Engineering Research Board
+(SERB) under the ambit of DST to promote scientific and engineering research in the
+country. The period following the S&T Policy 2003 is marked by a significant increase in
+R&D Investment, a rise in publication ranking, and a steady increase in institutional and
+human capacity. As a result, the decade of 2010 to 2020 was declared as the ‘Decade of
+Innovation’ with the agenda to create a 21st Century National Innovation Ecosystem, to build
+innovative institutions and mindsets for national progress. Science, Technology, and
+Innovation Policy 2013 (STIP 2013) was formulated with the aim of positioning India
+among the top five global scientific powers. The key features of this policy were to promote a
+S&T -led innovation ecosystem in the country, attracting private sectors into R&D and
+linking STI to socio-economic priorities. The 12th Five-year plan (2012-17) focused on the
+9
+
+Draft STIP Doc 1.4 Dec 2020
+creation and development of R&D facilities, building technology partnerships with states,
+large scale investment in Mega Science projects, etc.
+India is rapidly evolving with changing national and international dynamics. In the past
+decade, the scope of policy instruments and regulatory environment has changed
+significantly, resulting in a rise in the country's performance in terms of per capita R&D
+expenditure, publications, patents, and quality of research publications, etc. Private sector
+investment is also consistently rising in STI activities. There has been a notable rise in the
+participation of women in R&D. A plethora of schemes have been implemented by the
+government to support and stimulate R&D culture among students and young researchers.
+Through previous S&T policies, India has been successful in building a robust STI
+ecosystem. However, the new challenges today necessitate a different policy making
+approach. The current pandemic has catalysed the need for a new policy instrument that
+amalgamates profound and incremental approaches. Such a policy must adequately prioritize
+and strategize across the STI landscape in alignment with United Nations - Sustainable
+Development Goals (UN-SDGs) through a balance of short term mission-mode projects
+along with long-term ones. There is a need to increase public funding and private investment
+in R&D, boost existing FTE, build and empower critical infrastructure, improve governance
+of STI initiatives, intensify global linkages in the STI sector, develop indigenous technologies
+in key areas such as health, agriculture, energy, environment etc. Additionally, technology
+capacity also needs to be enhanced to make India scientifically self-reliant and ready for
+unpredictable exigencies. Thus, this policy instrument in its design and objective aims to be
+evidence-driven, inclusive and bottom-up for the well-being of the nation and its people with
+socio-economic and environmental considerations.
+10
+
+Draft STIP Doc 1.4 Dec 2020
+III. Chapters
+Chapter 1: Open Science
+1.1 National STI Observatory
+1.2 Indian Science and Technology Archive of Research
+1.3 Open Data
+1.4 Open Access
+1.5 One Nation, One Subscription
+1.6 Indian Journals
+1.7 Research Facilities
+1.8 Open Educational Resources
+1.9 Libraries
+1.10 Learning Spaces
+Priority Issues
+To promote open science, the public will have the right to access all outputs from research
+funded by the central government or the state governments, either directly or through funding
+agencies, or institutions supported by the central government or the state governments
+(hereinafter referred to as “publicly funded research”). The right to access will include, but
+not be limited to, scholarly publications, research data1 and resources such as research
+infrastructures2, instruments, computing facilities, libraries, learning spaces, etc.
+Background
+Open Science fosters more equitable participation in science through diverse steps like
+increasing access to research outputs, more transparency and accountability in research,
+inclusiveness, better resource utilisation through minimal restrictions on reuse of research
+outputs and infrastructure, and ensuring constant exchange of knowledge between producers
+and users of knowledge. It is important to make publicly-funded research output and
+resources available to all to foster learning and innovation. STIP aspires to build an
+ecosystem where research data, infrastructure, resources and knowledge are accessible to all.
+1 Research Data: The term research data is defined as “recorded factual material/data that is obtained from
+observations, experiments, surveys, analysis and other research activities of government-funded research
+projects and deemed as objective and necessary to validate research findings,” as per the the definition of
+research data in US OMB Circular A-110 (Steering Committee of the National Science and Technology Council
+2018).
+2 Research Infrastructure is not a universally defined term. Research infrastructure means facilities, resources
+and related services that are used by the scientific community to conduct research. (European Commission:
+Legal framework for a European Research Infrastructure Consortium – ERIC Practical Guidelines, DOI:
+10.2777/79873)
+11
+
+Draft STIP Doc 1.4 Dec 2020
+A future-looking, all-encompassing Open Science Framework will be built to provide
+access to scientific data, information, knowledge, and resources to everyone in the country
+and all who are engaging with the Indian STI ecosystem on an equal partnership basis. This
+framework will be largely community-driven and supported with necessary institutional
+mechanisms and operational modalities. Supporting tools and applications will be developed
+in all regional languages to widen the scope of accessibility and for meaningful use of data.
+Interoperability and shared ownership, among the national stakeholders and international
+partners, will be the key characteristics of this framework.
+1.1 A National STI Observatory as a central repository for all kinds of data related to and
+generated from the STI ecosystem will be established. The observatory will be centrally
+coordinated and organized in distributed, networked and interoperable manner among the
+stakeholders. Cross-cutting interoperable digital platforms within the observatory will be
+organized into verticals, including but not limited to: (i) establishing knowledge and data
+repositories; (ii) setting up a computational grid; (iii) developing a virtual communication and
+interaction platform; (iv) enabling virtual access of equipment, laboratories and other
+physical resources, talent mapping; (v) conducting analyses on projects, funding, outcomes,
+technological capabilities, Technology Readiness Levels and Business Readiness Levels
+(TRLs & BRLs); and (vi) establishing evaluation, accreditation, ranking and rating protocols
+for benchmarking.
+1.2 A dedicated portal, Indian Science and Technology Archive of Research (INDSTA),
+will be developed to provide access, specifically, to the outputs of all publicly-funded
+research (including manuscripts, research data, supplementary information, research
+protocols, review articles, conference proceedings, monographs, book chapters, etc.).
+INDSTA will be an integral part and connecting channel of the proposed national STI
+observatory. INDSTA will be an open-access portal, interoperable with other repositories and
+will facilitate interactions between researchers and users of the platform. It will have state-of-
+the-art facilities, including storage, and features to facilitate flexible text and data mining,
+querying, and visualization.
+1.3 Open Data Policy for Publicly Funded Research: All data used in and generated from
+public-funded research will be available to everyone (larger scientific community and public)
+under FAIR3 (findable, accessible, interoperable and reusable) terms. Wherever applicable,
+exceptions will be made on grounds of privacy, national security and Intellectual Property
+Rights (IPR). Even in such situations, suitably anonymised and/or redacted data will be made
+available. In all cases, where the data cannot be released to the general public, there will be a
+mechanism to release it to bonafide/authorised researchers.
+3 FAIR "Facets": Data should be Findable, Data should be Accessible, Data should be Interoperable, Data
+should be Re-usable (https://www.force11.org/fairprinciples).
+12
+
+Draft STIP Doc 1.4 Dec 2020
+1.4 Open Access: Full text of final accepted author versions of manuscripts (postprints4 and
+optionally preprints5) along with supplementary materials, which are the result of public
+funding or performed in publicly funded institutions, or were performed using infrastructure
+built with the support of public funds will be deposited, immediately upon acceptance, to an
+institutional repository or central repository.
+1.5 One Nation, One Subscription: The Government of India will negotiate with journal
+publishers for a “one nation, one subscription” policy whereby, in return for one centrally-
+negotiated payment, all individuals in India will have access to journal articles. This will
+replace individual institutional journal subscriptions.
+1.6 Indian Journals: Proactive steps will be taken to improve awareness and visibility of
+Indian journals, and where required, will facilitate the creation of digital versions of print
+journals to make them more accessible to the international scientific community.
+Concentrated efforts will also be made to prevent the publication of fake journals.
+1.7 Research Facilities: All public-funded scientific resources will be made shareable and
+accessible nationally with the use of digital platforms. These scientific resources include, but
+are not limited to research infrastructures, laboratory facilities and instruments, ICT and AI-
+based resources and high-performance computing facilities.
+1.8 Open Educational Resources: Public-funded open educational resources will be made
+available under minimally restrictive open content license, with the right of attribution
+preserved and translations (especially regional languages) permitted.
+1.9 Libraries: Libraries at public-funded institutions will be accessible to the public, subject
+only to reasonable security protocols. The public library system will be expanded to all
+districts with the help of technological interventions.
+1.10 Learning Spaces: Learning spaces will be made universally accessible, based on
+international guidelines and standards, especially for people with special needs. Open and
+equitable access to all learning spaces (including conference rooms and other infrastructure to
+exchange and combine ideas) will be facilitated through a meaningful balance of traditional
+methods and modern approaches. Emphasis will be given to create and strengthen more
+community-driven learning spaces.
+4 Post-Print- A “postprint” is any version approved by peer review.
+https://mitpress.mit.edu/books/open-access
+5 Pre-print- A “preprint” is any version of an article prior to peer review, such as a draft circulating among
+colleagues or the version submitted to a journal.https://mitpress.mit.edu/books/open-access
+13
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 2: Capacity Development
+2.1 Education and Research
+2.2 Skill Building and Training
+2.3 Infrastructure
+Priority Issues
+The aspirations of STIP are to fulfil multifarious responsibilities to function collaboratively
+with all stakeholders; to promote holistic growth and development by developing scientific
+temperament, quality, access, equity, incorporating citizenship education; to promote
+linkages between higher education and industry to revamp economic systems; and to build
+R&D infrastructure, its effective usage with easy and equitable access, is another aspect of
+strengthening the STI ecosystem. Effective use of advanced technologies is much needed for
+capacity building to improve learning outcomes, quality of science education, and equitable
+access, leading to excellence in research and development and innovation. Promoting a more
+significant interface between science and technology, humanities, and social sciences
+disciplines is the need of the hour, which will enhance collaboration between S&T
+departments, the industry as well as educational institutions to promote entrepreneurial skills
+in vocational education.
+Background
+STIP aspires to reach towards sustained investments in science and technology that are
+necessary to inculcate and promote scientific temper, nurture innovations, and cater to the
+diverse needs of the country. The policy aims to give an impetus to individuals and
+institutions in achieving top global awards and recognitions over the next decade.This section
+outlines strategies to accelerate research and innovation in the country, improve our
+education system and teaching-and-learning through research, and make education at all
+levels more inclusive and connected with the economy and society. This includes as well as
+adds to the initiatives in these directions described in NEP 2020.
+2.1 Education and Research
+There is a need to build an ecosystem in India that is neither dependent nor borrowed but
+reliant on its own resources, strength and resolution with a pyramidal structure resting on a
+broad base and not on its apex. Education and research should provide that foundation against
+failure by inculcating true scientific temper, discipline and honesty, national pride, adherence
+to the principles of justice, gender parity, ethical practices and spirit of fair competition and
+brotherhood.
+14
+
+Draft STIP Doc 1.4 Dec 2020
+A new culture of Atmanirbharta (self-reliance) that includes Atmavishwas (self-confidence),
+Atmasamman (self-respect) and Atmachintan (self-assessment) must be inculcated among
+students at all educational levels.
+2.1.1. Cluster School and Innovation hubs in partnership with higher education institutes,
+private industries and local communities will be created, for sharing resources and capacities
+relevant to curriculum renewal and faculty development. Innovation and Design Thinking
+will be introduced in the curriculum. Upcoming and existing innovation related programmes
+[such as Atal Tinkering Labs and Million Minds Augmenting National Aspirations and
+Knowledge (MANAK)] will be developed synergistically across schools for better results.
+Such programmes will be scaled up with a 10 year future looking strategy. These networked
+initiatives should focus upon addressing different concerns of society.
+Innovation and Entrepreneurship Centres will be established starting from the
+undergraduate level of university education. Research in innovation practices will be made a
+mandatory component of university/college teachers’ professional development programme;
+The programme will provide faculty development programmes in Innovation and Design
+Thinking. It will encourage and facilitate university/college teachers for international
+research collaborations/exchange programmes in STI.
+2.1.2 Creative processes to encourage and engage students in science and technology
+education will be designed. A focused strategy will be developed to inspire pursuing of
+science and technology education at all levels through a significant cultural transformation
+within the ecosystem. To enhance Innovation quotient of the country, idea generation and
+idea transformation ability right from early education will be encouraged.
+2.1.3. The policy recommends representation of the ministries of S&T in the working
+groups constituted for the revision of the National Curriculum Framework (NCF) of National
+Education Policy (NEP) 2020. This would ensure designing appropriate curricula for
+promoting science education early on in schooling. Similarly, curricula of the teacher
+education programmes must be synced appropriately to the new learning paradigm.
+2.1.4. A National School and Higher Education Mentorship Program will be
+institutionalized through university-school linkages, showcasing a concerted focus on
+innovation-oriented education at the school and the college levels. This special vehicle
+programme will help the process of scouting and nurturing early talent by providing a
+clear path for career building in science with aspirations for greater achievements. Innovative
+learning programmes like DHRUV maybe widened in scope and scaled up.
+2.1.5 For children with extraordinary intellectual abilities in a specific sphere of activity or
+knowledge having limited opportunities to enter mainstream education, alternative pathways
+will be charted to fully realize the achievement of their potential.
+15
+
+Draft STIP Doc 1.4 Dec 2020
+2.1.6 Students of all educational levels will be given opportunities to get exposure to be part
+of leading science laboratories during the period of end-term breaks as part of Scientific
+Social Responsibility Policy (SSR 2020).
+2.1.7. Distance learning programmes will be strengthened with appropriate technological
+means, in order to improve their quality and reach. Provisions will be made for virtual
+classrooms, equipped with adequate resources and infrastructure.
+2.1.8. National research and innovation programme on Assistive Technologies and
+Learning Resources to be created. The programme will promote the use of technology to
+create interactive personalized learning environments, for students with specific learning
+disabilities at school as well as in Higher Education.
+2.1.9. Research Excellence Framework for HEIs in India (REFI) will be evolved , which
+aims for research assessment to secure the continuation of a holistic, dynamic and responsive
+research base across the full academic spectrum within India’s higher education ecosystem.
+REFI will assess the overall research contributions of HEIs every few years, based on
+parameters of importance for India. Based on the performance in this assessment, block
+research grants are given, with the value of such grants calibrated to provide an incentive for
+HEIs to improve their performance and global standing.
+2.1.10. Facilitate Internationalization of R&D in India to foster brain gain. More innovative
+programmes in line with Visiting Advanced Joint Research (VAJRA) and GIAN (Global
+Initiative of Academic Networks) to be introduced and their scope may be widened for
+international faculty as well as students. Collaborations will be promoted especially across
+the global south, to create an environment for global citizenship education.
+2.1.11. The transition of education to research will be strengthened by including basic know-
+how – and of skills in science communication –of research as a part of every Doctorate of
+Philosophy (PhD) course curriculum. A framework for appropriate training and skill
+building in this realm will be developed for postdoctoral researchers. This will enable them to
+independently build their career in the STI ecosystem.
+2.1.12. Studies will be conducted to analyse and forecast the sectors of demand and scope of
+career building for PhDs and Postdocs to establish a complete mechanism. HEIs will be
+encouraged to design integrated programs in Science, Technology, Engineering and
+Mathematics (STEM) (such as MS-PhD, MD-PhD) to catalyze optimum utilization and
+retention of human resources in the country.
+2.2 Skill Building and Training
+2.2.1. To leverage the engagement of higher education systems with the economy and
+community, all universities will be encouraged to be responsive and respectful to the needs of
+16
+
+Draft STIP Doc 1.4 Dec 2020
+the community by conducting interdisciplinary projects involving scientific and technological
+and social science-based interventions.
+2.2.2. ICT and online platforms for skill building are to be leveraged for active learning
+practices, to promote research and innovation at all levels. Consortiums will be developed for
+the creation of new online courses, simulations, virtual and remote labs for enabling
+immersive experiential learning. A library of virtual resources will be developed through
+community participation for remote areas. National institutes with advanced lab facilities will
+be invited to develop such resources and make it available for others. Virtual Reality
+repository can also be developed for this purpose. The repository will be supported with
+interactive tools, viz. open-source collaborative development platform inviting data
+visualization, data presentation, data analytics, AI, etc. for easy access.
+2.2.3. Development of sector-specific skill-based knowledge support mechanisms for
+regional communities to sustain the traditional skill and geographical indication.
+2.2.4. Inclusion of various groups based on gender, geography, language, disability and
+social order, to be promoted through special schemes, scholarships, need-based training and
+orientation programmes.
+2.2.5. Innovation and Entrepreneurship centres will be established at regional levels in a
+collaborative approach with the participation of local Academic and R&D institutions,
+industries, MSMEs, Startups, etc
+2.2.6. Vocationally certified workforce will be employed and recognised by the industry.
+Such kind of workforce will be incentivised through community grant schemes, by involving
+independent communities and civil society organisations.
+2.2.7. Teaching-Learning Centres (TLCs) will be created in urban and rural areas for
+upskilling of faculty members, to enhance learning experience and engagement, for effective
+outcomes. These centres will research on pedagogy as well as design and implement faculty
+development programmes to improve the quality of learner engagement. Initiative will be
+developed to recognize and nurture talent at an early age by creating roadmaps with the help
+of a network of mentors at state and regional levels.
+2.2.8. Administrative and management training programmes will be organized for faculties
+and scientists to overcome functional silos and enhance efficiency of administrative and
+research activities.
+2.2.9. Increased focus will be put upon skill-building through hands-on training. For this
+purpose, academic institutions will be encouraged to create long-term working relationships
+with regional MSMEs to address locally relevant issues. Skill development opportunities will
+be created in mega-science and related futuristic technology development engagements.
+17
+
+Draft STIP Doc 1.4 Dec 2020
+2.2.10. Formation of a trained management cadre at the national level for planning, assessing,
+communicating and executing educational and research activities in HEIs and research
+organisations. Conducive environment will be created by removing administrative and
+other barriers for talented young people to take up appropriate leadership roles and participate
+in critical decision-making.
+2.3 Infrastructure
+2.3.1. Higher Education Research Centres (HERCs) will be established in reputed
+research-focused universities/institutes in different parts of the country. These centres should
+also assess the overall direction of the higher education system in the country, and provide
+research inputs to policymakers and higher education leaders.
+2.3.2. Collaborative Research Centres (CRCs) will be established, that bring together
+industries, MSMEs, startups, R&D institutions and HEIs with the government. This will
+provide a long term ongoing collaboration between different STI stakeholders, to improve
+industrial research and innovation and enhance global competitiveness.
+2.3.3. Transforming existing R&D institutions to research universities. This will foster
+better linkages between research and education and also enable effective utilization of
+research infrastructure.
+2.3.4. Centre and state governments will adopt a coordinated approach for building and
+enhancing infrastructure for science laboratories, computer labs, language labs, libraries
+etc. This will be achieved through centre-state partnership in order to improve the research
+competency.
+2.3.5. A mechanism for the maintenance of existing R&D infrastructure in academic and
+R&D institutions will be developed ensuring the more efficient and effective utilization of
+existing equipment facilities.
+2.3.6. Establishing independently and professionally managed, self-sustaining equipment
+infrastructures across the country. This will provide easy access and assistance on using the
+Sophisticated and Analytical infrastructure to the Academics, R&D institutions, Industry,
+MSMEs, NGOs, etc.
+2.3.7. In line with the NEP 2020, a mechanism will be created to allow greater academic,
+intellectual and functional autonomy to HEIs; one that is linked to accountability and also
+strengthens Academia-R&D-Industry collaborations.
+18
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 3: Financing STI
+3.1. Expansion of the STI financing landscape
+3.2. Incentivization for STI investments
+3.3. STI collaborative funding model
+3.4. Governance of STI financing landscape
+Priority Issues
+India’s Gross Domestic Expenditure on R&D (GERD) is low in comparison to the developed
+nations and most of the developing countries. There is inadequate private sector investment
+along with inadequate enablers such as direct financial support to the private sector, public
+procurement strategies, incentives to carry out and participate in R&D activities and
+mechanisms for hybrid funding models. There is limited leveraging of foreign STI
+investment and weak overall financial management of the ecosystem.
+Background
+A robust cohesive financial landscape remains at the core of creating an STI-driven
+Atmanirbhar Bharat. It is imperative for this policy to work in tandem with the Fiscal and
+Industrial policies of the Government to attract public as well as private sector contribution to
+the national STI ecosystem leading to its strengthening. This section outlines financial
+strategies to achieve such self-reliance and technology competitiveness in alignment with
+national priorities and aspiration. It recommends the widening of financial outlay through
+enhancement of public and private (domestic and international) STI investments along with
+academic participation with a pivotal role of collaborative funding mechanisms. Fiscal
+incentives and financial support have to be strengthened to stimulate private sector
+participation in the national STI ecosystem. In order to drive strategic technological growth,
+STI investments should be aligned with the critical areas of national priority through a
+centralised programme as outlined in Advanced Missions in Innovative Research Ecosystem
+(ADMIRE) programme. This process will be strengthened by a national STI Financial
+Authority through efficient governance aimed at financial autonomy.
+3.1 Expansion of the STI Funding Landscape
+3.1.1. An STI unit with a minimum earmarked budget will be set up by every department
+of the central, the state and the local governments, public sector enterprises, private sector
+companies and startups to pursue STI activities with the larger goal of uplifting socio-
+economic conditions of all citizens. Each unit will have an operational mechanism and
+dedicated manpower and will develop plans that align with national priorities.
+19
+
+Draft STIP Doc 1.4 Dec 2020
+3.1.2. Diversification and enhancement of extramural funding in alignment with national
+priorities is critical for expanding the STI landscape with respect to R&D activities. The aim
+is to double the share of extramural R&D support of the Central government agencies in the
+GERD in the next five years.
+3.1.3. States will intensify participation in the STI ecosystem through enhanced financial
+engagements. Each State will earmark a percentage of the state allocation for STI-related
+activities under a separate budget head. Interlinkages will be strengthened between the central
+and the state governments in terms of resource mobilization and budget sharing.
+3.1.4. Public financial assistance is essential to invigorate the STI ecosystem through
+increased allocation for innovation ecosystems, infrastructure and critical human resource
+development with a special alignment towards critical sectoral growth.
+3.1.5. Private financing: To build a robust innovation ecosystem, private enterprises along
+with building in-house research capacity, will be encouraged to contribute and collaborate
+with knowledge institutions to pursue market-relevant research through mutually decided
+agreements. Industry clusters will be encouraged and incentivized wherever necessary, to
+engage in collaborative R&D with a special focus on higher TRL projects to aid their
+transition into equivalent BRLs. It is also recognized that Corporate Social Responsibility
+(CSR) funds, as well as voluntary financing by big corporates and Indian multinational
+companies (MNCs) will play a pivotal role as they are utilized to spur contribution to the
+national STI ecosystem and specifically stimulate the research ecosystem in our education
+sector.
+3.1.6. Foreign MultiNational Companies (MNCs): Foreign MNCs play an integral role in
+boosting India’s economy. To gainfully measure and assess the contributions made by
+foreign MNCs in the STI financing landscape, innovative methods to capture them will be
+developed. Opportunities for foreign MNCs to invest in the country’s STI landscape will be
+strengthened and made more accessible. Partnerships and collaborations will be encouraged
+with domestic private (Small and Medium Enterprises [SMEs] and start-ups) and public
+sectors entities (HEIs and research organizations) to work on projects aligned to national
+needs and priorities. The immense potential of foreign MNCs in STI human resource
+development will be explored through envisaging joint training and skill-building
+programmes.
+3.2 Incentivisation for STI investments
+Government-mediated incentivisation mechanisms act as a key stimulator for enhancing
+R&D and innovation in both the private as well as in the public sectors. The incentivisation
+instruments can be understood through its funding and execution patterns. Some of the key
+incentives are underlined below:
+20
+
+Draft STIP Doc 1.4 Dec 2020
+3.2.1. Boosting fiscal incentives for industries investing in STI through incremental R&D
+based tax incentives, tax credit for investing in facilities for commercialization, tax holidays,
+tax waivers, target-based tax incentive for specific domains, tax deduction, expatriate tax
+regimes, remodelling of patent box regime etc. There will be a reassessment of the possibility
+of reviving weighted deduction provisions (of expenditure incurred on in-house R&D).
+3.2.2. Enhancing financial support to industry,especially for MSMEs,for pursuing
+research through innovation support schemes such as matching grants, small business
+innovation grants (under fast track mode), innovation vouchers (SMEs), direct innovation
+grants, risk guarantees,with special focus on high risk projects, revenue-based financing, seed
+grants, loans, research subsidies, equity, research and IPR credits, open innovation scheme
+etc. Innovation bonds along the lines of social impact bonds could be conceptualized to
+incentivize the private sector to invest in STI-based startups. All funding agencies will fix
+portions of their R&D budget to support MSMEs and other technology-oriented start-ups
+with innovative business models in alignment with national needs and priorities. It is
+recommended that financial incentives are provided based on stages of innovation involving
+idea generation, prototype development, pilot innovation and its commercialization.
+3.2.3. Flexible mechanism for supplier development programmes for public procurement
+in all sectors (especially earmarked for Small & Medium Enterprises - SMEs and Start-ups).
+3.2.4. Reassessment of regulatory control on STI landscape to promote innovative
+enterprises. It is recommended that the Central Government re-examine and widen the scope
+of R&D expenditure. Further, the government may determine the right mix of loan, equity
+and grants to assist Indian industries for technology up-gradation and commercialization.
+Further, to attract Foreign Direct Investment (FDI) in STI, reduction in corporate tax rates for
+foreign MNCs, fast track clearances, easing land acquisitions, adequate means for
+incorporating FDI etc. will be explored on a need basis.
+3.3 STI Collaborative Funding Model
+The ADMIRE- Advanced Missions in Innovative Research Ecosystem programme is
+envisaged to achieve greater socio-economic self-reliance and STI leadership. It will be
+characterised by portfolio based funding mechanisms which support distributed and localized
+collaborative mission-oriented projects through a long-term investment strategy withKey
+Performance Indicators (KPI). All stakeholders of the STI ecosystem including public,
+private (local and MNCs), academic and other non-governmental sectors will be impactfully
+engaged in the programme to ensure holistic participation and development of interlinkages.
+The programme will extend to cross-cutting and critical domains that include but are not
+limited to (with special emphasis on critical infrastructure support) strategic areas, areas of
+economic and social security, emerging, sustainable and indigenous technologies and
+traditional knowledge. The programme will also assist and direct public-private partnerships
+for the development of STI knowledge-based infrastructure and creative assets. Under the
+21
+
+Draft STIP Doc 1.4 Dec 2020
+aegis of ADMIRE, industry-led R&D, with government support wherever necessary, will be
+introduced. A Ministry or a group of Ministries in consultation with industry/industry bodies
+will design and execute projects through co-funding mechanisms where they participate
+equally. National laboratories and academia will be made part of the engagement.
+3.4. Governance of STI Financing Landscape
+To undertake efficient governing mechanisms for the STI funding landscape, a national STI
+Financing Authority will be created. The centralised authority will play the following roles:
+3.4.1. Strengthening financial outlay. A corpus fund will be established for investing in
+various long and medium-term projects, commercial ventures, start-ups, technology diffusion
+and licensing etc to address identified priority areas in the STI ecosystem. Central ministries
+and associated departments lacking dedicated R&D units will establish concerned divisions
+to augment the overall R&D budget and scope of allocation. An STI Development Bank
+will be created to direct long term investments in select strategic areas.
+3.4.2. Streamlining STI financial ecosystem through strengthening and providing greater
+autonomy to existing funding organisations with the objective of promoting sector specific
+research along with interdisciplinary and multidisciplinary research. Appropriate mechanisms
+for funding decisions based on accountable peer review and a balanced expert committee
+composition in terms of experience, age and gender will be strengthened. The incentivisation
+system will be characterized by efficient governance to ensure ease in accessibility for private
+players.
+3.4.3. Modification/waiver of General Financial Rules, for large scale mission mode
+programmes and projects of national importance will be explored. A new model for
+funding, implementation and monitoring of such programmes will be developed, either as an
+overarching mechanism or through obtaining cabinet approvals in respect of individual
+programmes. In addition, certain GFRs will be required to be amended for funding of R&D
+projects to facilitate ease of doing research.
+3.4.4. Time-bound peer reviews along with technical and transactional audits will be
+conducted from time to time to monitor public financing across various stakeholders of the
+STI ecosystem. Efficient monitoring and evaluation mechanisms will be put into place for
+gap analysis to support conducive investment in critical S&T areas. Selection of projects and
+release of grants will be based on robust evaluation supported by innovative monitoring
+mechanisms.
+3.4.5. Formulation of a mechanism for timely disbursal of grants and regular networking and
+communication among funding agencies: The disbursal of research grants for scientific
+projects, fellowships to research scholars and stipends to students carrying out advanced
+research and higher education are crucial measures to ensure excellence in scientific research,
+22
+
+Draft STIP Doc 1.4 Dec 2020
+education and innovation. Timely disbursement of such grants and funding is most important
+recognition for good research work. In this respect, a fixed annual evaluation cycle of grants
+and funds disbursal would be effective. Regular interactions and engagements among funding
+agencies also bridge the gaps in communications and disbursement of funding.
+3.4.6. In the Higher Education sector, centralised norms for allocation of overheads will be
+formulated by funding agencies.
+3.4.7. The National STI Observatory6 will encompass an open centralised database platform
+for all financial schemes, programmes, grants and incentives existing in the STI ecosystem.
+6
+Refer to Chapter 1 Section 1.1
+23
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 4: Research
+4.1. Expanding S&T system: Promoting foundational and translational Research
+4.2. Enhancing the quality of research
+4.3. Engaged research
+4.4. Ease of doing research
+Priority Issues
+India should emerge as a globally competitive country in strategic fields of research, while
+simultaneously focusing on unaddressed and under-addressed nationally important problems.
+A special emphasis on R&D activities in the priority areas will address the current
+weaknesses in Indian research and ensure strengthening of key areas relevant to the well-
+being and prosperity of India and its people.
+To become a research leader, India should focus on mission-mode programmes, in priority
+sectors, with technology and innovation deliverables built on a strong foundation of basic
+science; ensure that the research is fit for purpose; enhance the quality of research and also
+increase the ease of doing research.
+Background
+During the last decade, India emerged as a major knowledge producer, ranking in the top five
+countries. However, in terms of impact, India’s scholarly citations helped it gain a place in
+only the top ten countries. Similarly, India also featured in the top ten countries in the total
+number of patent applications filed. However, the research output from India should also be
+seen in the light of the fact that India has significantly lower FTEs (per million population)
+engaged in R&D activities and GERD than the leading countries such as the USA and China.
+The strengths and weaknesses of the Indian R&D ecosystem need to be holistically
+addressed.. This Chapter outlines strategies to transform and create a fit for purpose,
+accountable research ecosystem in India within the ambit of a rapidly changing world.
+4.1. Expanding S&T system: Promoting foundational and translational
+research
+India will strive to expand its share in the global research output. Apart from continuing to
+invest in inputs, it would also strive to create a seamless STI ecosystem by adopting a holistic
+approach that addresses all stakeholders of the ecosystem. To make the R&D system
+forward-looking, seeding of new research fields in advanced areas will be encouraged such as
+Mission on Integrated Child Protection Scheme (ICPS). To address key challenges in fields
+of priority areas of national importance, profound research will be promoted and advocated
+across the STI ecosystem. Quality foundational research in areas of disruptive potential will
+24
+
+Draft STIP Doc 1.4 Dec 2020
+be encouraged. Simultaneously for the relevance of translational research, early direction
+from government and industry and society would be sought.
+Expansion of the S&T system will be done through a focus on 1) priority areas in which India
+should emerge as a world leader, 2) addressing local problems, and 3) engagement and
+participation of industry to ensure R&D also aligns with industry needs.
+4.1.1 Mission mode programmes with deliverables for technology and innovation will be
+established in the priority sectors (e.g. Agriculture, Water, Health, Energy and
+Environment) along with identification of challenges and opportunities in these sectors based
+on current and future needs. Pathways to leverage the resources in order to achieve the goals
+will also be identified.
+4.1.2. Strong collaborations that build quality science for national problems will be
+encouraged and frameworks for such mutually beneficial collaborations will be encouraged at
+both individual and institutional level.
+4.1.3. Team science collaboration will be facilitated between industry and academia,
+with shared financial resources, and risks and benefits. Industry-led R&D programmes in
+priority sectors will also be encouraged through ADMIRE7. Specific technology areas for
+development can be identified by a ministry or a group of ministries in consultation with
+industry/industry bodies.
+4.1.4. Domestic manufacturing capacity in specific areas of priority sectors will be enhanced
+through R&D and technology upgrade.
+4.2. Enhancing the quality of research
+4.2.1. Through Research and Innovation Excellence Frameworks (RIEF)8 , research
+quality will be enhanced by expanding the talent pool and through international
+benchmarking exercise. Joint appointments across government, academia and industry at
+both the national and the international levels will be facilitated to attract the best talent into
+the research ecosystem. Mentoring programmes and supplementary incentivization
+mechanisms will be developed to guide and motivate early career researchers and young
+scientists to realize their potential to conduct meaningful research. Risk-taking in R&D will
+be incentivized and suitably rewarded at the individual and the institutional levels.
+4.2.2. Research culture will be reoriented wherein the quality of research will be
+assessed, recognized and rewarded on the basis of both academic achievement as well as
+social impact. Research ethics will be given due importance.
+7Refer to Chapter 3 Section 3.3
+8
+Refer to Chapter 11 Section 11.2
+25
+
+Draft STIP Doc 1.4 Dec 2020
+4.2.3. Operating and safety protocols related to R&D will be enhanced through the
+formulation of proper guidelines. Minimal safety requirements for labs will be mandated
+for upcoming R&D infrastructure.
+4.3. Engaged research
+The STI ecosystem needs a focus on delivering what is needed, which requires strong
+engagement with stakeholders (industry, academia, R&D labs and social actors). Research
+solutions should address a plurality of solutions for different regions/socio-economic strata
+including a focus on rural problems in the country. It also requires the development of
+products, processes, technology etc. that incorporates engagement, testing and feedback from
+the end-user from an early stage in order to ensure uptake, impact and benefit to the society.
+In addition, a lot of publicly-funded research is largely invisible to target stakeholders such as
+the line ministries who often contract out research that has already been carried out, but of
+which they are unaware. Therefore, indigenous utilization of research outputs will be
+promoted by user-tested development and dissemination of information to the relevant
+stakeholders. To achieve this, a function will be created to scan and share indigenous research
+with stakeholders and promote programmes and approaches that are relevant to line
+ministries. It will also identify gaps and communicate them to research funders. The function
+will also ensure that user-stakeholders are engaged from an early development stage,
+particularly for technology projects.
+4.4. Ease of doing research
+Apart from the primary activity of doing research, researchers also have to spend a
+considerable amount of their time (and resources) on administrative activities related to
+research projects. Journal paywalls, and lack of data and knowledge sharing further hampers
+their ability to freely and easily conduct research activities. To reduce the administrative
+burden on the researchers, digital platforms and e-governance will be used for grant-
+management -all activities from award, funding and utilisation of grants to measurement of
+research outputs. International best practices of grant management will also be explored.
+Access and sharing of knowledge and resources will be improved through the use of online
+platforms such as INDSTA9, implementing open data10 and open access policy11, and by
+enabling access to journals and databases12. Benchmarks for ‘ease of doing research’ will be
+developed so that research activities are adequately funded, are less bureaucratic and
+accountability is in both directions i.e. the donor and the receiver.
+Connecting the invention ecosystem with the innovation ecosystem will be emphasised.
+Further, weakness in the invention and innovation ecosystem will be identified to take
+research into the market and to the community. Both knowledge pull from the invention
+system as well as the knowledge push from the innovation ecosystem are necessary to
+achieve the goal of a vibrant R&D ecosystem in India
+9 Refer to Chapter 1 Subsection 1.2
+10 Refer to Chapter 1 Subsection 1.3
+11 Refer to Chapter 1 Subsection 1.4
+12 Refer to Chapter 1 Subsection 1.5
+26
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 5: Innovation and Entrepreneurship
+5.1. Strengthening Innovation Ecosystem
+5.2. Fostering S&T-Enabled Entrepreneurship
+5.3. Integrating Grassroots Innovation with the Research and Innovation Ecosystem
+Priority Areas
+Strengthening the innovation ecosystem to attain sustainable economic progress and global
+competitiveness. Creating an enabling ecosystem for seeding, sustenance, and growth of
+science and technology entrepreneurship in India. Integrating Traditional Knowledge
+Systems (TKS) and grassroots innovations into the education, research and innovation
+system.
+Background
+Systemic investments in STI are not only critical for creating, shaping, and sustaining the
+future industrial sectors of the nation but also crucial for delivering the benefits of scientific
+research for the economic development of the society at large. There is a need for a
+comprehensive support framework for strengthening and enhancing India’s innovation and
+entrepreneurship landscape by encouraging wider participation in innovation activities, broad
+basing the funding ecosystem, enhancing interconnectedness and streamlining regulatory
+regimes. This Chapter outlines strategies for strengthening the overall innovative ecosystem,
+fostering S&T-enabled entrepreneurship and improving participation of the grassroots levels
+in the research and innovation ecosystem.
+5.1. Strengthening Innovation Ecosystem
+The innovation landscape emanating from the socio-cultural, geographical, economic,
+historical and political contexts will be systematised, strategised and synergised to attain
+sustainable economic progress and global competitiveness. STI efforts and interventions will
+be aligned with policies of different sectors and themes, including education, skill
+development and industrial growth.
+5.1.1. The distinct roles of multiple stakeholders including higher-education institutions,
+research and development organisations, funding agencies, regulatory bodies, non-
+governmental organizations and business enterprises in the innovation ecosystem, will be
+recognised and their inter-linkages are to be strengthened, at the national, the subnational and
+the sectoral levels.
+5.1.2. Industry –Academia linkages will be deepened by joint programmes for both academic
+experts and young scholars with industry practitioners, to harness the expertise and get
+27
+
+Draft STIP Doc 1.4 Dec 2020
+practical exposure. Such linkages at the school and the undergraduate levels will further
+strengthen the foundation laid by the NEP 2020 to foster critical thinking and scientific
+temper. Provisions for extended sabbaticals in academia and industry will be widely
+promoted to support knowledge and expertise exchange between industry and academia.
+5.1.3. Innovation clusters and technology parks will be developed and leveraged for
+collaborative activities, cost sharing and Intellectual Property (IP) creation. The stakeholders
+in these spaces will be incentivised based on performance and periodic assessments.
+5.1.4. Theme-based distributed virtual incubators and accelerators will be created in different
+parts of the country using cluster-based approaches. Such new models of incubators will be
+supported by adequate financial incentives, mentoring and expertise.
+5.1.5. Mission-oriented efforts will be incentivised for tackling various local and/or region-
+specific issues of societal relevance. Cross learnings across states will be encouraged. This
+will address developmental challenges and help in realising Sustainable Development Goals.
+i. The investment will be prioritised in “core R&D” rather than “peripheral R&D”
+especially in the manufacturing sectors.
+ii. Frameworks, scales and measurements will be developed and utilised for assessing
+innovation. These frameworks/surveys will facilitate integration and diffusion of
+innovation-led activities at regional and national levels as well as enhance global
+value chains and networks.
+iii. An ecosystem of R&D and innovation will be created in rural and remote areas,
+particularly in North East, islands and tribal areas. Research and academic institutions
+as well as innovation clusters will be built in such geographical locations.
+iv. For promoting gender inclusion in entrepreneurship, avenues will be created to access
+resources and opportunities for training and mentoring. Equitable provisions will be
+created for the participation of women in entrepreneurial networks/clusters.
+5.1.6. Special focus will be given to creating a conducive environment for sector-specific
+innovation. Overarching bodies with focus on sector-specific-policies, regulation and trade
+agreements will be created/strengthened, that can work as a synergistic agency to bring all
+others on a single platform and push forward the sector-specific agenda with support from the
+government, the academia, the non-profits, the private partners and the industry. This will
+help in avoiding overlaps and in developing connections with all the agencies involved in
+innovation. This will also enable the monitoring and evaluation of the activities. A
+mechanism for coordination on innovation will be developed among various departments and
+ministries such as agriculture, animal husbandry, veterinary sciences, entomology, wildlife
+and forest conservation, health department and related organisations.
+28
+
+Draft STIP Doc 1.4 Dec 2020
+5.2. Fostering S&T-Enabled Entrepreneurship
+S&T-enabled entrepreneurship-technology-driven, innovation-focused enterprises - is critical
+for creating, shaping, and sustaining the future industrial sectors of the country as well as
+delivering the benefits of scientific research for socio-economic development of the society.
+An enabling ecosystem for seeding, sustenance, and growth of science and technology-
+enabled entrepreneurship calls for:
+5.2.1. Investing in basic, foundational, and reliable physical and social infrastructure for
+S&T -enabled entrepreneurship to thrive. This includes investments in key infrastructure
+in HEIs, Scientific R&D laboratories, hospitals, ICT across the country as well as
+complementary mission driven investments in research and development with S&T-enabled
+entrepreneurship in critical technology areas. This also includes promoting entrepreneurship
+education programmes across the country by involving local communities i.e. schools, higher
+educational institutions, non-profit organizations, scientists, entrepreneurs, and other
+stakeholders.
+5.2.2 The policy will put in position enabling mechanisms for development and growth of a
+start-up culture by proactive empowerment, infrastructure building and funding opportunities.
+Incentivization mechanisms will be set up to aid the expeditious conversion of ideas into
+start-ups.
+5.2.3. Inculcating a culture of S&T-enabled entrepreneurship by ensuring provisions for
+an end to end support to promote enterprise creation. This includes creating a continuum
+of well-integrated funding and technology support programmes to support science and
+technology-enabled entrepreneurship from the ideation, proof of concept, and prototype
+development stages to the testing, validation, and manufacturing stages of innovative
+enterprises.This also includes enhancing public procurement, supplier development
+programmes, and corporate open innovation schemes to incentivize innovation from a wide
+range of participants.
+5.2.4. Creation of a nurtured and supportive environment for S&T-enabled
+entrepreneurship and entrepreneurial ideas to flourish and thrive. This includes
+encouraging wide-based participation from stakeholders in the STI ecosystem (private sector,
+public sector enterprises, non-profit organizations, cooperatives, industry associations etc.)
+but also in leveraging existing domain knowledge and expertise of highly successful STI-
+based enterprises and entrepreneurs in reaching scale and impact.
+5.2.5. Reducing systemic risks in S&T-enabled entrepreneurship through clear,
+accessible, and current regulatory guidance and providing funding support across all
+stages of innovation. This includes streamlining overlapping regulatory regimes to ensure
+compliance for meeting product standards, setting quality controls, reducing barriers to risk
+capital by innovation-focused enterprises, and fostering wide-based stakeholder support for
+funding science and technology-enabled entrepreneurship.
+29
+
+Draft STIP Doc 1.4 Dec 2020
+5.2.6. Enhancing consistency, speed, clarity, and transparency in programme delivery
+for early-stage S&T-enabled entrepreneurship. This includes streamlining and
+consolidation of overlapping schemes, enhancing awareness, and reducing bureaucratic
+hurdles in accessing existing schemes. A centralised database on all forms of financial
+incentives will be made available to promote incentives for innovation and enable continuous
+monitoring and evaluation of program performance.
+5.2.7. Creation of globally competitive innovative enterprises by stimulating investment
+towards building indigenous technological capabilities across a diverse range of S&T-
+based entrepreneurial activities. This includes a national level strategic approach to
+incentivize geographical concentrations of interconnected companies and institutions in
+technological and product markets which complements a focussed localized strategy to
+enable flexible structures, incentives, processes and culture towards improving commercial
+viability in science and technology areas.
+5.3. Mainstreaming Grassroots Innovations and Traditional Knowledge
+Systems
+For integrating Traditional Knowledge Systems (TKS) and grassroots innovation into the
+overall education, research and innovation system, an institutional architecture will be
+established in different technical and research institution campuses, to recognise and involve
+grassroots innovators, which in turn will inspire students to innovate. Avenues for
+collaborations between grassroots innovators and scientists will be initiated/facilitated
+through joint research projects, fellowships and scholarships. Also, crowdsourcing will be
+encouraged, wherever possible, to improve the innovative capabilities and productivity.
+5.3.1. Advanced tools based on machine learning and AI will be used for curation,
+preservation and maintenance of heritage knowledge. Scientific and technical collaborations
+of the Ministry of Culture with scientific ministries will be promoted to find solutions for
+recreating and maintaining the heritage and TKS.
+5.3.2. Assessment, testing and vetting of various kinds of traditional knowledge applicable in
+agriculture, biodiversity, healthcare, climate change and other locally relevant thematic areas,
+will be encouraged.
+5.3.3. National strategic resource management through the Medplant E-Consortium of vital
+plants will be created for distribution, availability, sustainability, and vulnerability of vital
+medicinal plants. A focus to secure and sustain the demand-and-supply succession of vital
+medicinal plants of commercial use for allopathic medicines will be facilitated.
+5.3.4. The Grassroots innovators will be supported for registration, claiming the IPR, filing of
+patent, or any type of legal claim with the help of HEIs. Training for marketing their
+30
+
+Draft STIP Doc 1.4 Dec 2020
+innovations, establishing start-ups and market networks in the territories of tribal hamlets and
+placing adequate systems for quality control and standardisation will be developed to support
+grassroots innovations.
+5.3.5. Avenues for entrepreneurship development will be created to foster a vibrant grassroots
+startup ecosystem. Incubators and accelerators will be incentivised to support scaling up and
+commercialisation of grassroots innovations, developed by social R&D organisations. This
+would generate opportunities to innovate full-fledged alternative solutions to local problems.
+5.3.6. Technology Parks will be built to serve as a centre for demonstration, communication
+and technology transfer. It will also be responsible to train personnel on locally relevant
+technology development and management.
+5.3.7. New funding mechanisms will be developed and investment in knowledge
+intermediaries/Extension and Advisory Services (EAS) will be made and knowledge sharing
+platforms will be expanded.
+5.3.8 New fiscal incentives, financial schemes, subsidies will be examined to commercialise
+innovation and catalyze investments into R&D.
+5.3.9. Research efforts will be encouraged for developing cost-effective technologies and
+encourage grassroots innovations to reduce drudgery, address the scarcity of farm labour, and
+improve efficiency in sectors like agriculture, water, and energy.
+31
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 6: Technology Development and
+Indigenisation
+6.1. Technology Indigenisation for Atmanirbhar Bharat
+6.2. Technologies and Sustainability
+6.3. Strategic Technologies
+6.4. Disruptive Technologies
+6.5. Critical Sectors and possible approaches
+6.6. Enhancing technology development in the academic sector
+Priority Issues
+India is largely dependent on the import of technologies in the priority sectors. The TRLs in
+the country is low as compared to its global counterparts due to lack of interface systems,
+inadequate technology capacity, poor quality of research outcomes, weak linkages and
+procurement policy clauses. There are additional challenges in leveraging India’s
+participation in mega-science projects in terms of building technological core competence
+domestically and translating those know-hows to benefit other sectors.
+Major hurdles for India in achieving technology indigenisation are: unbalanced allocation of
+resources between academic and Post-academic Research (PAR), unavailability of trained
+human resources, weak interconnect between stakeholders, lack of effective strategy for
+development, deployment and commercialisation.
+Background
+This chapter outlines strategies for strengthening India’s STI ecosystem to achieve the larger
+goal of “Atmanirbhar Bharat” through technology self-reliance and indigenisation. This will
+play a vital role in enhancing our capability to successfully tackle socio-economic and
+environmental challenges. To achieve this, India needs to embrace a culture which respects
+industrial work by faculty and students, and new technology tools such as artificial
+intelligence, biotechnology, green manufacturing, cybersecurity, and collaborative robotics,
+relearn, implement and build upon traditional methods that are proven in the national context
+and intensify systemic interlinkages to catalyse technology scaling up and mass deployment.
+6.1. Technology Indigenisation for Atmanirbhar Bharat
+Aligned to national priorities along with the aim of achieving a self-reliant economy, a two-
+way approach to technology development will be adopted: a) developing indigenous
+technologies and b) adapting imported technologies. There will be increased focus towards
+promoting efforts in the development and demonstration of indigenous technologies,
+development of capital goods and absorption of imported technologies. Further engagement
+32
+
+Draft STIP Doc 1.4 Dec 2020
+of Indian diaspora in the development of technology through reverse brain drain, circulation,
+and skill transfer will be encouraged.
+A facilitating policy environment will be created to strengthen and scale-up the on-going as
+well as forthcoming large technology missions such as waste-to-wealth, deep sea exploration,
+quantum frontier, AI mission, translation technologies for Indian language and biosciences
+for human health, etc.
+6.1.1 Indigenous Development of Technology
+The policy will focus on the indegenous development of technology premised upon
+assessment and understanding of societal needs keeping in context evolving solutions to
+people-centric problems. Indigenous innovation/development of critical products/components
+will be strengthened by the sharing of work between collaborating agencies, technology
+institutions and industry with funding raised primarily from the stakeholders. Indigenous
+technologies will also be promoted even if better technologies exist internationally.
+Key products or components imported by Indian companies for their manufacturing plants
+will be identified and a provision will be made to fund such product-based R&D with
+industry-academia collaborations or through industry – academia consortiums. Existing
+mechanisms will be strengthened or new mechanisms, if needed, will be evolved to bring in
+Indian industry-both private as well as Public Sector Undertakings (PSUs) to help bridge the
+gap from lab to indigenous manufacturing capacity. This will enhance India’s export
+capacities and strengthen its global value chain.
+6.1.2. Technology Indigenisation
+To strengthen India’s local R&D capabilities in the production of technologies that are
+largely being imported13, infrastructure will be set up and existing mechanisms will be
+strengthened to adapt existing technologies to suit the local needs. This will primarily meet
+the needs of technology production as well as reduce large scale import in selected sectors of
+domestic importance such as electronic hardwares for home appliances, railways, intelligent
+transport, cleantech, defence, etc. Initiatives like building a robust semiconductor ecosystem
+will strengthen India’s position in the strategic sectors.
+6.1.3. International Engagement for Technology Development and Adaptation
+More focus on gaining access to the international knowledge base by importing technology in
+disembodied form as technological know-how will be ensured. All institutions involved in
+13 Indigenization of technology will focus on two major categories:
+a. Indigenization of product (eg. aircrafts, warships, etc.) in large platforms by national R&D labs
+like DRDO, DAE, an so on
+b. Indigenization of individual subcomponents of system (eg. turbines, sensors, etc.) by
+academic labs, industry, and startups
+33
+
+Draft STIP Doc 1.4 Dec 2020
+Mega Science Projects will be required to invest in effective collaboration modality from
+conceptualisation to delivery to acquire the scientific capability which would promote
+indigenous development of technology. Adapting and commercialising technologies based on
+mega science IP can create the momentum needed for the Indian ecosystem with a focus on
+domestic demands and environment. Further, institutional mechanisms will evolve to
+encourage collaborations with the diaspora for technology development. Promotion of global
+to local linkage can only strengthen the Atmanirbhar strategy of the Government.
+6.2. Technologies and Sustainability
+India needs to develop and deploy sustainable technologies at a faster rate to successfully
+tackle the major socio-economic challenges and changing aspirations of the people. Along
+with this India has to develop and deploy those technologies indigenously which aim for
+bringing sustainability and inclusive growth benefiting the society at large. Thus, there is
+a need to create a conducive environment which ensures that sustainable development and
+technological progressions complement each other and enable inclusive and bottom-up
+innovations with collective efforts of various stakeholders including knowledge generators
+and knowledge user agencies and institutions. The policy aims to bring interplay between
+technology and sustainability and its impact on society, environment and economy. It
+attempts to provide pathways to promote sustainable technology development as well as
+achieve sustainability through effective process approach of technology delivery for green
+and affordable technology solutions and absorption for mass application leading to a better
+quality of life and services.
+There will be a technology support framework that will build on the excellence of India’s
+basic level research expertise through assisting small and large public and private players to
+innovate, commercialize and deploy need-based technologies, including indigenous
+technologies, at speed, scale and effectiveness to meet UN-SDGs and national priorities.
+Sector-specific working groups will be formulated to advise on the assessment of key
+sustainable technologies and prioritize UN-SDGs deficits to bridge the systemic gaps across
+the stakeholders. There will be a focus on technologies with a potential for large scale
+change, either in numbers or in enhanced resource use efficiency or management and
+utilization of wastes for a circular economy. This will require the establishment of Guidance
+and Tools to assess technologies across sectors through the Sustainability Guidance
+Platform at national and regional levels, which assesses their social, environmental and
+economic value impacting sustainability at the evolution, deployment and adoption stages.
+Development and promotion of better resource management in priority sectors like water,
+agriculture, climate change, and energy will also be taken up. Both in the urban and rural
+sectors, partnerships to enhance technology investments in smart and sustainable
+communities will be facilitated to ensure CSR and social scientific responsibility together.
+On the other hand, the development of sustainable technologies should be of paramount
+importance for India’s ICT sector. Institutional mechanisms for development and
+34
+
+Draft STIP Doc 1.4 Dec 2020
+promotion or flow of sustainable technologies will be created across the country to
+promote development as well as up-gradation of existing indigenous and traditional
+technologies directed towards the attainment of UN-SDGs and national priorities as well.
+These institutional mechanisms will play a vital role in the validation and certification of
+sustainable technologies for mass scale replication, predictive analytics and adoption at
+the users’ level. Sustainable technology development addressing social and environmental
+concerns will also aim at financial sustainability that will lead to the creation of affordable
+and accessible technologies with a specific focus on frugal innovations and frugal
+technologies with triple bottom line impact. In addition, the use of sustainable technologies
+for resource efficiency will be widely adopted and advocated. This process will involve the
+creation of standard guidelines for collection, handling, processing and recycling of waste
+along with efficient and sustainable use of natural resources by nurturing local skills and
+capacities to the next level.
+6.3. Strategic Technologies
+Acquiring technological capabilities is a dynamic process which is essential for the
+development of a country. The regional and global geopolitics along with the economic
+dynamics and fast-changing technologies trigger the concept of Strategic Technologies for a
+State. India being a fast-developing country and aspiring to become a global superpower
+faces difficult and bigger geopolitical and economic challenges. It is vital for the country to
+increase its technology potential in strategic sectors such as space, nuclear, cyber,
+biotechnology, etc. and hence needs a careful policy approach. Also, whenever India acquires
+technology from abroad, there should be an indigenisation plan for the product so as to avoid
+the import of the same item including its versions in future. This is to emphasize that the
+Country cannot depend on the import of strategic technologies from abroad forever. Strategic
+technologies can be bought only if they are inevitable once but not as a routine. The expertise
+of academic and industry needs to be effectively utilized in the strategic sector and an
+overarching body can play an important role to have better coordination in technology
+selection, development, utilization, commercialization and also establishing coordination
+with different stakeholders.
+6.3.1. Strategic Technology Board (STB)
+An overarching body, “Strategic Technology Board (STB)” will be constituted to act as a
+connecting bridge between different strategic departments and to monitor and recommend
+technologies to be bought or indigenously made in the strategic departments or in private
+sector or in academic institutions in line with self-reliant India. The Board will have the
+responsibility to prepare a roadmap for the strategic requirements of the country and also
+monitor its implementation. The roadmap will guide the development processes leading to
+technology development. It will also be chartered to ensure there is no duplication of
+technology development amongst departments, research institutions and deep participation of
+35
+
+Draft STIP Doc 1.4 Dec 2020
+academics and private sectors in strategic technology development. Both the requirements
+and the technologies will be benchmarked against global status.
+6.3.2. Strategic Technology Development Fund (STDF)
+A Strategic Technology Development Fund (STDF) will be created to encourage the
+private sector and HEIs to develop strategic technologies. It will be managed by the
+independent body Strategic Technology Development Board to avoid conflict of interest. The
+funding will follow a clear policy on the innovation life cycle. Appropriate policy in
+consultation between the Department of Higher Education and the strategic departments will
+be framed to enable the students who have experience in strategic projects more than three
+years, to have the necessary weightage to join the strategic departments.
+Public agencies sponsoring the effort behind any innovation have to play a role in identifying
+an industry partner to take the innovation to market. The STDF will fund twice a year for pre-
+specified goals, provide guidance, and monitor the progress of the project/s continuously,
+while STB will review the project and ensure it is taken for a logical conclusion to utilize the
+technology. An e-platform for selection of innovators and beneficiaries to meet and interact
+will be created to facilitate this process. Identified academic institutions will have a number
+of project posts to work in this area and an appropriate policy may be framed to enable the
+students who have considerable experience in strategic projects to get necessary weightage to
+join the strategic departments.
+6.3.3. Partnership with HEIs and Private Sectors for Strategic Technology
+The strategic sectors will be extended beyond the government departments to HEIs and
+private sectors to enhance innovation in the strategic sector. Departments like the Department
+of Atomic Energy (DAE), Department Of Space (DOS), and Defence Research and
+Development Organization (DRDO) will be tasked to undertake certain developments only
+with industry and academic partners. The induction of industry and HEIs will be restricted
+with protection clauses, in order to enhance the nation’s growth and to avoid dependence on
+other nations for strategic technologies. Institutions will put up necessary infrastructure such
+as security measures to start with. They will be required to follow minimum acceptable
+scientific or ethical standard and safety certification protocol. The potential expertise of the
+academics and industry will be tapped to undertake the design and developments with
+necessary non-disclosure agreements, for the benefit of the country. Further, private
+sectors will be encouraged to compete in the global market space under national guidance. A
+strategic export policy to enable private players to thrive in the international market
+will be formulated.
+36
+
+Draft STIP Doc 1.4 Dec 2020
+6.3.4. Spin-off Technologies for Civilian Use
+Mission oriented projects and technologies developed for the strategic sector lead to a lot of
+spin-off technologies and there is an opportunity for start-ups and government to add
+commercial value to it. A peer group under the guidance of the STB will decide which
+technologies are suitable for such transfer, possibly with the involvement of the
+appropriate industry for cost effectiveness. While all strategic sectors have a mechanism to
+progress spin-off technologies, they will be strengthened to give a boost to the process.
+6.3.5 Strategic technologies and critical data resources: Application to society
+Several strategic technologies and critical data sets such as those produced from geospatial
+activities and studies will have wide ranging applications to the society. Considering the
+country's rich demographic dividend, concentrated efforts will be made to utilize the potential
+of such critical resources to indigenize and innovate key tools, infrastructure and applications.
+6.4. Disruptive Technologies
+Emerging technologies that are disruptive in nature have transformational impact on society,
+economy and environment. The focus will be on innovative strategizing, development,
+standard setting and governance of such technologies keeping in background the lessons
+drawn from other technological interventions.
+6.4.1. Mission mode schemes/programs will be launched to propel the development and
+deployment of frontier disruptive technologies such as blockchain, AI, 3Dimensional (3D)
+printing, Quantum Internet of Things (IOT), etc. that impact society and the economy across
+the sectors.
+6.4.2. A coordinated technology governance mechanism will be put in place to synergize the
+policy decisions among various stakeholders, national as well as global, about technology
+development, procurement and deployment, and involve industry, academia and government.
+6.5. Critical Sectors and possible approaches
+Keeping in mind national priorities, in some key sectors such as agriculture and animal
+husbandry, water, education, biotech, pharma and health, biodiversity, climate change and
+environment, and manufacturing and small-level starts up will be encouraged. The
+Government will use the knowledge and evidence-based approaches by developing a
+cadre of practising scientists and technologists who are dedicated full time to curating
+and updating knowledge and its application in emerging sectors. These teams of
+scientists can work to collect and present the most relevant and important information to
+address current challenges. One possible approach to frame it, could be in the form of fifty
+prestigious science policy fellowships at the mid-career senior level, where academics,
+industry personnel and NGO scientists/technologists will be encouraged to undertake such
+challenges.
+37
+
+Draft STIP Doc 1.4 Dec 2020
+6.6. Enhancing Technology Development in HEIs
+Indian universities normally do not pursue R&D beyond TRL-1. There is a huge gap in the
+domain of commercialisation. Funding mechanisms will be created to pilot the
+technologies developed in academic/research institutes. Understanding of TRL among
+scientists, researchers, developers are different, the languages, risks, and scales of funding are
+different at various levels - university level, industry level, and the grassroots.
+Communication and collaboration gaps among the levels will be bridged to create a
+conducive environment for translational research. Novel ways with institutional linkages for
+translational research leading to new startups and scaling-up opportunities will be recreated
+wherever necessary. Additionally, the funding agencies will be encouraged to introduce
+sector agnostic, but stage-specific schemes supporting all stages of innovation. A provision
+allowing stage-specific lateral entry into the schemes will ensure that a scientist/researcher
+has the clarity and liberty to reach out for support based on the ‘Readiness Level’ of the
+project. In accordance with India’s policy priorities, a balanced approach in inducing efforts
+and investments across the TRLs and BRLs will be undertaken.
+38
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 7: Equity and Inclusion (E&I)
+7.1. Mainstreaming Equity and Inclusion
+7.2. Institutionalising Equity and Inclusion
+7.3. Assessing Equity and Inclusion
+Priority Issues
+There is an inequitable participation in STEM with respect to gender, social, regional and
+economic diversity in India. Moreover, there is also an absence of an inclusive culture in the
+practice of science, besides inadequate incentives and institutional arrangements. Lack of
+E&I related assessment indicators, frameworks and instruments also exist.
+Background
+In the Indian context, equity and inclusion in STI originate from the wide socio-cultural and
+economic settings and contexts. The need for Equity and Inclusion in STI is an addition to
+India’s on-going efforts to build equitable STI capacity and capability as well as to create
+social, industrial and territorial inclusivity in the processes of STI. Drawing inspiration from
+some of the interventions like Stand up India (2016), Technology Vision 2035 (2016),
+Scientific Social Responsibility Policy 2020 (SSR 2020) and the recent National Education
+Policy (2020), the STI Policy aims to address discriminations and inequities based on gender,
+caste, religion, disability, geography and language for the advancement of STI.
+While E&I is brought in an all-encompassing manner in earlier chapters, this chapter
+highlights some aspects of E&I which need explicit mention. It discusses policy interventions
+to bring about structural and institutional transformations for the participation, promotion,
+retention and incentivisation of excluded and marginalised groups, particularly the vulnerable
+sections of the society.
+7.1. Mainstreaming Equity and Inclusion
+E&I should be added as a sub-text to all STI policies and processes (existing and
+upcoming), designed to create and nurture a vibrant STI ecosystem, in an inclusive manner.
+It will be the foundational element of the STI ecosystem. The policy will foster equitable and
+effective participation, promotion, retention and incentivisation to do science and
+innovation,which include traditional knowledge and address inequities in STI, stemming out
+from the country’s socio-economic and cultural landscape. E&I in STI is not only to be seen
+from the point of view of correcting historical injustices and compensating for earlier
+deprivations, but also to make real impacts such as to increase the number of FTE researchers
+and to contribute to socio-economic development.
+39
+
+Draft STIP Doc 1.4 Dec 2020
+7.2. Institutionalising Equity and Inclusion
+Taking into consideration inequalities stemming out from the country’s socio-economic and
+cultural landscape, an E&I Charter will be developed for tackling discriminations in STI,
+based on gender, caste, religion, geography, language, disability and other exclusions
+and inequalities. The Charter will be India-centric, drawing essence from different E&I
+frameworks like the Athena SWAN (Scientific Women's Academic Network) Charter14. It
+will aim to create a cognitive thrust among STI related institutions, for recognising their
+commitments in promoting equity and inclusion and address hindrance in the advancement of
+STI.
+7.2.1. Creating Inclusive Culture
+i. There will be equal opportunity in academics for women along with candidates from
+rural – remote areas, marginalised communities, differently abled groups, irrespective
+of their caste/creed/religion/race.
+ii. Enhanced representation of women, at least 30% of the total strength, in all decision
+making bodies including selection and evaluation committees will be mandated.
+iii. A specific highlight will remain upon promoting talented women scientists in
+leadership positions across research and science administration to create inspiration
+for women aspiring to pursue science careers.
+iv. The Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ+) community to be
+included into all the conversations related to gender equity. Provisions will be made to
+safeguard their rights and promote their representation and retention in STI.
+v. Differently-abled individuals, including Divyangjans, will be given special attention.
+Institutions are to be mandated to make structural and cultural changes for supporting
+such excluded groups, in order to pursue and practice STI.
+7.2.2. Networks for Awareness, Outreach and Mentorship
+i. Efforts will be made to attract young women/girls and other excluded groups (in
+school – early college) and foster awareness and interest in STEM fields and
+eventually, careers in science.
+ii. Relatable, relevant role models are to be created and existing role models and
+mentorship programmes will be scaled up.
+iii. On-going initiatives in different public and private institutions, science academies,
+etc. are to be scaled-up. Partnerships will be created with existing agencies and
+institutions involved in such activities, at national and international levels. Adequate
+funding and resources can be allocated to promote and sustain such networks.
+14
+The Athena SWAN Charter is a framework established in 2005 in the United Kingdom (UK). It aims to help and encourage
+institutions in achieving gender equality. It supports the promotion of inclusive working practices that can increase retention of
+valued academics and professional and support staff, demonstrating the institution's commitment to an equitable working
+environment. The framework has been adopted by various countries like Ireland and Australia (the SAGE initiative). India is
+working towards contextualising a similar framework to mainstream and institutionalise E&I in STI.
+40
+
+Draft STIP Doc 1.4 Dec 2020
+7.2.3. Recruitment, Retention and Promotion
+i. Ageism-related issues and minimisation of career breaks are to be addressed for
+effective retention of trained women into the STI workforce. In this case, all
+professional career milestones, such as recruitment, awards and funding schemes, age
+cut-offs will be implemented considering academic age rather than biological/physical
+age. This will not restrict to gender but will include a broader context.
+ii. Dual recruitment policy will be encouraged in all governing bodies, funding agencies,
+so that couples do not face the challenge of ‘choosing’ a spouse's career over theirs.
+The aim is to bring gender neutrality through such interventions.
+iii. Flexibility in work timings and adequate parental leave will be provided to cater to
+maternity, childbirth, child care and other emergent needs. Childcare benefits should
+be gender-neutral.
+iv. The LGBTQ+ community will be entitled for spousal benefits (including retirement
+benefits) to any partner irrespective of their gender (specified by the STEM
+employee).
+v. All public-funded research institutions and universities to have a daycare centre for
+young children of employees and also provision for elderly care, wherever applicable.
+7.2.4. Institutional Mechanisms
+Based on the principle of the Charter/framework, an institutional mechanism will be created
+to bring about diversity, equity and inclusion in STI. It will aim to remove barriers to
+participation, promotion and incentivisation and ensure the recruitment, retention and
+effective engagements of the excluded groups and marginalised communities. The given
+mechanism will also take into account the following aspects:
+i. Provisions will be made for sensitisation, orientation, counselling with regard to
+gender, sexuality, ethnicity, language and disability, prior to initiation of training,
+education, recruitment and/or funding. Ethical training on sensitivities of various
+biases-invisible or otherwise- must be imparted to all.
+ii. Regulatory provisions are to be strengthened for ensuring examination and enquiry of
+complaints about discrimination, biases and harassment. It will be followed by
+disciplinary action proportionate to the severity of the offence, as is done for other
+forms of ethical misconduct.
+7.3. Assessing Equity and Inclusion
+7.3.1. Concerted and collaborative efforts are to be made with institutions having expertise
+and knowledge in E&I-related research. The collaboration of researchers in gender studies,
+social sciences and science policy with scientists will be encouraged to understand E&I-
+related gaps and barriers.
+41
+
+Draft STIP Doc 1.4 Dec 2020
+7.3.2. Frameworks, instruments, databases and indicators will be developed to understand
+E&I-specific issues in STI and provide evidence to related STI policies and practices.
+7.3.3. Statistics will be collected on drop-out rates of women, Divyangjan community,
+socially and economically backward communities, individuals from remote areas and other
+marginalised groups in science education and research. E&I datawill include, but not be
+limited to, sex-disaggregated data on STI, data on suicide rates and mental health issues in
+STI.
+7.3.4. Academic and professional organisations will be encouraged to conduct gender audits
+and social audits, to propel the organizations to proactively promote gender neutral
+recruitment and retention of employees, for ensuring equitable,not necessarily, equal
+representation. These processes will have adequate representations from all marginalised and
+excluded groups, to address issues of E&I in a more cohesive manner.
+42
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 8: Science Communication and Public
+Engagement
+8.1. Capacity building
+8.2 Research
+8.3 Outreach
+8.4 Mainstreaming Science Communication
+Priority Issues
+There exists a disconnect between science and society at large with limited scope for citizen
+engagement in the STI ecosystem. The scarcity of professional and vibrant science outreach
+and education programmes, along with limited science communication15systems for
+addressing language and regional diversity of India hampers the understanding of grassroots
+issues. The dearth of online and multimedia platforms for reciprocal engagement between
+scientists and society act as a barrier to taking science to the masses equitably and
+inclusively.
+Background
+It is the fundamental duty of every Indian citizen to "develop a scientific temper, humanism
+and the spirit of inquiry and reform". In alignment with this constitutional requirement, there
+is an overarching aspiration to address social problems using STI. Although there are several
+existing mechanisms and institutions for science popularisation, communication gaps still
+exist between scientists and society which hampers citizens’ participation in scientific
+endeavours. Science communication has the potential to bridge these gaps. Hence there is a
+need for creating awareness and recognition for science communication as a field of practice,
+building a strong research ecosystem in the field, developing a mechanism for training and
+capacity building, networking and mentorship. STIP recognises the need for scientists to
+engage effectively with the general public and is keen to ensure that such engagements are
+fruitful. It aims to revitalise the science communication ecosystem and promote the reciprocal
+relationship between science and society by the democratisation of science through upstream
+engagement and a citizen-centric approach. This Chapter outlines strategies to mainstream
+science communication and public engagement through capacity building avenues, research
+initiatives and outreach platforms.
+15 Science communication mentioned here includes science outreach (dissemination of
+scientific knowledge to non-expert audience through science popularisation activities and
+science journalism) and science inreach (expert to expert communication of research findings
+through scientific writings and deliberations).
+43
+
+Draft STIP Doc 1.4 Dec 2020
+8.1. Capacity Building
+8.1.1 Creative and cross-disciplinary platforms of Science Communication will be
+promoted and facilitated to make STI accessible to all. Such platforms would enable dialogue
+and knowledge transfer between researchers, science communicators and the public, raising
+awareness on local issues and facilitating necessary behavioural change.
+8.1.2 Citizen science projects, stakeholder consultations, co-creative experiences, and
+policy interventions will be supported. Community-centric programmes and regional
+science centres will be encouraged to promote science communication in regional
+languages with local and hyper-local contexts for last-mile connectivity.
+8.1.3 Infrastructure for training and capacity development for science communication
+will be created to conduct and facilitate courses, workshops, internships, Massive Open
+Online Courses and mentorship. Short term courses in science communication will be
+introduced appropriately at all levels of education.
+Science communication skill sets will be incorporated as a necessary component for different
+levels of scientific training starting from school level and progressing through undergraduate,
+graduate, postdoctoral, professorial, etc.
+Appropriate incentives for career progression and continuous professional development
+opportunities for science communication professionals will be provided.
+8.1.4 Dialogue will be facilitated and promoted to discuss themes at the intersection of
+science and society by developing centres, programmes, workshops, and talks. A dedicated
+national conference for science communication as well as science communication sessions
+within scientific conferences will be organised to build a network of science communicators
+and facilitate the exchange of knowledge, skill and experiences.
+8.1.5 Publicly accessible, constantly updated, and searchable databases of science
+communication-related resources and opportunities will be facilitated.
+8.2 Research
+8.2.1. Cross-disciplinary research on science communication will be facilitated through
+national programmes, centres, research grants, fellowships, and positions. Themes like
+critical thinking, countering misinformation, promoting scientific temper, and frameworks for
+evaluating Science Communication will be encouraged.
+44
+
+Draft STIP Doc 1.4 Dec 2020
+Research would also involve identification of the barriers to science communication
+including stereotypes particularly for women involved in Science Popularisation activities,
+and mechanisms to promote engagement between scientists and social scientists.
+High impact, open access academic journals for publishing science communication-related
+research will be popularised.
+Science communication research requires locally relevant and culturally-context-specific
+models for public engagement in regional languages.
+8.2.2 Learning and collaborations for intertwining science engagement and science
+pedagogy will be facilitated to improve science teaching and for the better incorporation of
+the history and philosophy of science, scientific method and critical thinking within science
+education.
+8.2.3 The scope of entertainment platforms such as folk arts, theatre, dance, poetry,
+comedy, comics, maps, community radio, interactive digital platforms will be explored for
+the dissemination of scientific knowledge.
+8.3 Outreach
+8.3.1 In line with the national policy on Scientific Social Responsibility (SSR 2020),
+scientists and researchers will be motivated and incentivised to engage in Science
+Communication and Public Engagement Activities. Institutes and organizations will be
+encouraged to earmark a percentage of allocated budget (SSR fund) for science
+communication and public engagement activities.
+8.3.2 NGOs and other civil society groups will be involved for popular science
+programmes and citizen science projects at the local and regional level that include
+environment monitoring, biodiversity mapping, etc. Innovative ways of involving a variety of
+stakeholders such as politicians, NGOs, industry and social scientists, in such outreach
+programs and projects will be explored.
+8.4 Mainstreaming Science Communication
+Despite several attempts to popularise science, mainstreaming of science communication has
+met with little success. There is a need to bring such activities from the periphery to the
+forefront.
+8.4.1 A national level science movement for popularising science among students and
+inculcating interest for the sciences among the masses will be launched. This will include
+organizing science festivals, exhibitions, plays, webinars and other creative modes of
+engagement to make science learning exciting. The focus of the movement is to motivate
+45
+
+Draft STIP Doc 1.4 Dec 2020
+children and youth to pursue science careers. Similar movements may be initiated by States
+and Union Territories (UTs) individually and in collaboration with the Central government.
+8.4.2. The existing science museums infrastructure will be strengthened using advanced
+technologies such as augmented reality and virtual reality, etc. through collaborative efforts
+among relevant ministries. Efforts will be made to build a museum of natural history to make
+people, especially young individuals, aware and enthused to pursue learning in sciences.
+8.4.3 Every public-funded institution and department will have a dedicated wing set-up for
+science communication and public engagement in STI-related activities.
+8.4.4 Funding channels will be diversified through Public-Private Partnership (PPP) models
+to promote science popularisation activities.
+8.4.5 Science Media Centres will be established at national and regional levels as an
+interface between media persons, scientists and science communicators that can enable
+mainstream media to increase its coverage of scientific topics.
+46
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 9: International STI Engagement
+9.1. Participation in Global STI Agenda Setting and Governance
+9.2. International Bilateral, Multilateral and Regional Engagements
+9.3. Participation in Large S&T Initiatives
+9.4. Engagement with Indian Diaspora
+9.5. Proactive STI Diplomacy Strategy
+Priority Issues
+The changing and challenging global STI landscape has created issues related to technology
+governance, standards, ownership, ethics, dual-use and market access. Formulating a
+dynamic, evidence-informed and proactive international S&T engagement strategy and
+associated facilitating mechanism are crucial to keep pace with the changing global scenario.
+There is a pressing need to play a more proactive role in global STI governance, including
+agenda and standard setting for frontier S&T areas.
+India’s international S&T engagements will
+i. recognise intertwining of academic and post-academic16 research. International STI
+engagements will emphasize on application-oriented research to provide economic,
+social, environmental solutions.
+ii. focus towards technology indigenization.
+iii. focus on emerging and need-based technology areas to develop and strengthen the
+technology base of the country.
+iv. be based on the concepts of “equal partnership” and “value-positive narrative” as
+appropriate. Wherever desirable, India will play an agenda-setting role.
+v. have a strong focus on application in the near term as a developing country, even as
+long-term perspectives continue to drive academic research.
+vi. focus on generating relevant outcomes for the country’s developmental needs.
+This chapter outlines strategies for strengthening India’s STI engagement internationally.
+9.1. Participation in Global STI Agenda Setting and Governance
+9.1.1. India will take up a proactive agenda-setting role in global S&T discourse,
+including, but not limited to, standards and regulations - particularly, concerning
+emerging, disruptive, critical, futuristic and dual-use technologies and their application areas.
+A focus will remain on boosting technology competence and adaptation that will catalyze the
+achievement of national priorities. India will participate in major international projects and
+16
+Research is classified into Academic Research (AR) and Post-Academic Research (PAR) which are
+intertwined. PAR embraces and motivates contextual AR. AR and PAR can be compared to NASA TRL scale.
+TRL1 corresponds to AR and the rest to PAR.
+47
+
+Draft STIP Doc 1.4 Dec 2020
+alliances, preferably as a founding member in the forthcoming ones, and support such
+partnerships financially, wherever appropriate. India’s position and engagement with leading
+international agencies, including various UN bodies, Organization for Economic Co-
+operation and Development (OECD) committees, and World Bank groups etc., will be
+strengthened.
+9.1.2. Priority areas will be identified for international engagements to contribute to UN-
+SDGs. International STI engagements will also be aligned with national SDG strategies.
+9.1.3. Data aspects, in all its forms, will be considered carefully in all the international
+engagements, keeping in view the balance between various aspects including privacy, ethics,
+ownership, sharing research data,academic freedom and very importantly, national security.
+Given the range and volume of data that Indian population contributes, India will play a
+proactive role in the global discourses on (a) use of data as a tool for negotiations and (2) data
+governance and regulatory frameworks.
+9.1.4. India will seek active participation in the global technology control regime and
+intensify the efforts for membership in strategic alliances.
+9.2. International Bilateral, Multilateral and Regional Engagements
+9.2.1. Taking various external factors into consideration, dedicated and customized
+engagement strategies will be adopted for bilateral, multilateral and regional/ neighbourhood
+S&T engagements. Existing engagements will be adapted accordingly.
+9.2.2. Engagements will emphasize on being sector/issue -focused, mission-oriented, time-
+bound, and with identified deliverables. Role of industry and academic players will be
+identified, and their perspectives and requirements will be included at every stage of the
+engagement. Successful domestic sector-specific industry-academia cluster models will be
+emulated and scaled up in international engagements as well.
+9.2.3. STI policy will be closely aligned with foreign policy priorities particularly in regional
+and neighbourhood S&T engagements. People-to-people connection with expert
+collaborations would be the core of such engagements.
+9.2.4. Using the country’s S&T strength as soft power to its fullest potential, India will strive
+to take leadership roles in multilateral and regional platforms, wherever desired and needed.
+9.3. Engagement in Large S&T Initiatives
+Large S&T Initiatives have multiple objectives, such as addressing some fundamental issues
+in science by participating in international collaborative research, developing cutting edge
+technologies, establishing scientific facilities of international standard in India, training of
+researchers, engineers and industry professionals, design and delivery of major precision
+48
+
+Draft STIP Doc 1.4 Dec 2020
+equipment for these and utilizing spin-off technologies emanating from them towards societal
+benefits.
+9.3.1 To make India self-reliant in cutting edge technologies and setting-up world class
+scientific infrastructure, India will participate in the large S&T projects from the position of
+strength. Synergising the strengths of scientific capabilities and forging innovative paths in
+association with industry are essential for India to attain a leading position in technology and
+commerce.
+9.3.2 Major projects in key areas having larger societal impacts will be thoughtfully planned
+as medium and long-term home-grown projects in target-specific indigenous developmental
+areas like food and water security; health-care; clean and affordable energy, rural and urban
+amenities and communication and connectivity. This will be attained by leveraging the expert
+base of many research areas, who could engage in collaborative and cooperative work to
+achieve a well-defined goal.
+9.3.3 A pragmatic approach will be followed in selecting and committing to international
+S&T projects-considering national scientific interests, technological capabilities, and
+availability of financial and personpower resources. For a seamless translation of laboratory
+science to production activities, enhancement of necessary capabilities in industry and
+handholding by the scientific community is recommended. Meticulous planning, close
+monitoring, accountability, mid-course corrections, a sound management structure and
+rigorous consultations involving competent leaders and industrial partners are proposed.
+9.3.4 Beneficiary base of the large-scale S&T activities will be extended by strengthening
+Inter-University Centres, which have been playing major roles in drawing the academic
+community in the implementation of projects and utilization of facilities. A career and
+multifaceted skill- development plan for the scientists and engineers engaged in these projects
+will also be rolled out for effective utilization of their talents.
+9.4. Engagement with Diaspora
+As for the engagement with Indian diaspora is concerned, the policy direction is to create a
+fine balance between attracting the best talent back home and creating facilitating channels
+for the diaspora to contribute in national development from wherever they are.Appropriate
+institutional mechanisms and suitable opportunities will be created to engage with the Indian
+diaspora more effectively.
+9.4.1. The untapped potential of a highly-skilled scientific diaspora will be leveraged. While
+the reverse brain drain (or brain gain) is encouraged by creating suitable opportunities for the
+returning Diaspora. The opportunities will not only be restricted to faculty positions, but also
+for pre-faculty and advisory roles. Challenges related to hiring in terms of transparency,
+49
+
+Draft STIP Doc 1.4 Dec 2020
+accessibility and accountability will be addressed to attract early and mid-career researchers
+back to the country.
+9.4.2. Government has already initiated specific fellowships and internships to support
+active researchers/ scientists/engineers who want to return to India from abroad and
+contribute their work for the country. Such schemes and research opportunities in India will
+be expanded and widely promoted across different ministries to attract diaspora.
+9.4.3. To promote brain circulation, appropriate facilitating channels will be created for the
+non-returning diaspora to contribute back to the country. Significant efforts will be made in
+identifying and communicating the facilitating channels to the diaspora. These facilitating
+channels will be widely popularized so that diaspora gets fully aware of the ambit of channels
+for contributing back to society in terms of economic support such as philanthropic funding,
+entrepreneurship support, and intellectual support.
+9.4.4. An engagement portal exclusively for Indian scientific diaspora will be created.
+This portal will act as a one-stop focal point for the technical and scientific diaspora to
+engage with the Indian ecosystem.
+9.4.5. Diaspora organizations and S&T Counsellors will be engaged in to create a global
+academic and entrepreneurial network. Such networks can create avenues for bringing
+together a distinguished group of Indian scientists and technocrats worldwide to participate in
+high-level consultations for key priority sectors and technological applications.
+9.4.6. Policy instruments, programmes and schemes will be developed to attract the best
+global talent/ skilled human resource, through Indian diaspora networks and connections.
+Additional focus will be given to establishing institutional mechanisms to retain the skilled
+human resource, and eventually, build and expand the domestic capacity.
+9.5. Proactive STI Diplomacy Strategy
+9.5.1. Post-COVID-19 situation provides India with both challenges and opportunities. It
+opens up new avenues for India’s international S&T engagement and leadership. For the ease
+of connecting with international counterparts, appropriate formal and informal linkages will
+be developed.A proactive approach will be taken to strengthen existing partnerships and
+create new partnerships.
+9.5.2. A forward-looking international STI engagement framework will be put in place
+supported by necessary institutional mechanisms and programmes, including components
+such as fellowships, joint research programmes, cross-incubation programmes and extended
+network of science and innovation counsellors.
+50
+
+Draft STIP Doc 1.4 Dec 2020
+9.5.3. Role of S&T in defining foreign policy priorities will be vitalized. Strong linkages
+with various divisions of the Ministry of External Affairs will be institutionalized. In addition
+to pursuing ‘S&T for diplomatic benefits’, Diplomacy for S&T development’ will be
+promoted.
+9.5.4. Membership in S&T-focused strategic multinational groups, global consortia and
+technology regimes will be pursued proactively. Multilateral dialogues will be initiated with
+key partner countries on matters related to all aspects of technology and innovation, including
+issues around technology governance.
+9.5.5. International Knowledge Centres play a crucial role in enabling access to critical
+human resources from across the globe. Such International Centres, preferably Virtual, will
+be established to promote global knowledge and talent exchange by creating avenues such as
+visiting fellowships, joint research schemes, training programmes, invited lectures etc.
+9.5.6. The number of S&T Counsellors will be increased and rationality behind having an
+S&T counsellor in a specific country will be reviewed periodically. The role of S&T
+Counsellors will be revitalised and redefined given evolving technologies, nature of national
+demands and changing global dynamics. S&T Counsellors will be empowered to create
+opportunities for greater participation of the Indian scientific community,both in India and
+abroad.
+51
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 10: STI Governance
+10.1. Institutional Architecture
+10.2 Research and Innovation Governance
+10.3. Strengthening STI Interconnectedness
+Priority Issues
+Science, Technology and Innovation (STI) governance mechanisms need to be made more
+efficient both administratively and financially. Dynamic monitoring, evaluation and
+incentivization framework need to be strengthened. In addition, it is imperative to address
+issues related to rationalising data and regulatory frameworks.There is also the challenge of
+weak interconnectedness across the ecosystem.
+Background
+A strong STI ecosystem can prosper only when premised upon an efficient governance
+mechanism with functional autonomy, transparency and adaptability to changes. Currently,
+our STI ecosystem is faced with the challenges related to institutional architecture, issues of
+research and innovation governance and weak interlinkages. To address these impediments
+from a perspective of efficient governance, there is a pressing need to chart a path of
+institutional synergy at the local and global levels. This Chapter outlines strategies for
+implementing modern and scientific governance to ensure India’s preparedness for meeting
+the current challenges and future directions.
+10.1. Institutional Architecture
+A decentralized institutional mechanism balancing top-down and bottom-up approaches,
+focussing on administrative and financial management, research governance, data and
+regulatory frameworks and system interconnectedness, will be formulated for a robust STI
+Governance. The governance mechanism will focus on ensuring the autonomy of function for
+stakeholders complemented with accountability. Best practices in governance mechanisms
+will be mapped for cross-learning among relevant stakeholders.
+10.1.1 To provide renewed focus and stimulation to the STI ecosystem, an appropriate,
+governance mechanism with centralised coordination with de-centralised functionality
+will be set up
+10.1.2. An inter-sectoral, inter-ministerial national level STI Governance mechanism
+will be set up at the highest level, for building synergy and improving coordination among
+various ministries/departments/organizations to strengthen national STI ecosystem
+52
+
+Draft STIP Doc 1.4 Dec 2020
+10.1.3 An interlinked, Centre-State, inter-State governance mechanism will be created at
+the highest level for better coordination between the Centre and the States and to enhance
+overall participation of the States in research and innovation.
+10.2 Research and Innovation Governance
+10.2.1. A robust Research and Innovation (R&I) governance framework will be set up and
+adequately linked with the proposed ‘National Research Foundation’ (NRF)17 to facilitate,
+stimulate and coordinate R&D activities across the sectors. This will be guided by the overall
+STI governance mechanism set up at the highest level.
+10.2.2 Lateral recruitment (minimum 25%) of professionals and subject matter experts will
+be mandated in all scientific ministries for a finite duration with comparable roles,
+responsibilities and empowerment to a regular official.
+10.2.3. Institutional interventions will be made to address issues related to individual
+researchers and research groups in terms of creating a conducive working environment. A
+particular focus will be given to academic mental health issues including peer pressure,
+mentor-mentee relationship and work-life balance.
+10.2.4. A suitable metric will be developed to evaluate and recognize the outcome and impact
+of research activities with respect to its direct relevance to Indian needs, while continuing to
+maintain international comparability. This metric must reflect the meaningful impact of
+science on society, solving local problems and resource optimization among others.
+10.2.5. Standardized Research and Innovation Excellence Frameworks (RIEF), based on
+international benchmarks, will be formulated to ensure cohesive and transparent evaluation of
+all kinds of research and innovation. The framework will set cross-country benchmarking
+tools that will be positioned to assess the performance of STI in key priority areas, using a set
+of indicators such as sectoral R&D progress, patents, and other knowledge products.
+10.2.6. Capacity development efforts for R&I will be strengthened through the establishment
+of a Capacity Building Authority. This will help in planning, designing, implementing and
+monitoring of capacity building programmes at the national and state levels.
+10.2.7. The STI Policy Institute and other think tanks, will perform regular technology
+assessment, foresight and advisory activities.
+10.2.8. To ensure transparency, accessibility and accountability within the STI ecosystem, a
+comprehensive administrative and financial management will be put in place within the
+broader R&I governance framework. It will further assist in streamlining programmes and
+17Refer to National Research Foundation: NEP 2020, Chapter 17
+53
+
+Draft STIP Doc 1.4 Dec 2020
+schemes to avoid duplication of efforts and resources among various ministries and
+departments. It will further aid in strengthening the translational research chain and its
+management by providing necessary support mechanisms through the life cycle from
+inception of an idea to product development and commercialization.
+10.2.9. To promote STI across the ecosystem, an STI enabling environment will be created
+to stipulate funding opportunities, ownership, product certification, market access, and public
+procurement. The enabling ecosystem will be facilitated by (i) enhanced fund availability
+through various sources including from public and private sectors, (ii) joint ownership of
+patents in consortia-led R&D, (iii) financial support for patent filing costs, (iv) monitoring of
+risks and antitrust activities, (v) market creation by easing public procurement norms (review
+L1 criteria) and supply chains, particularly for startups and MSMEs, (vi) updating product
+certification standards and accredited testing facilities for emerging innovations, and (vii)
+fast-track accelerators and incubators.
+10.2.10. The national IP regime will be strengthened and issues related to IP ownership,
+licensing, sharing, commercialization (patent box regime), transfer modalities and IP related
+regulatory frameworks will be streamlined. Patent filing and management processes will be
+made simpler and less time-consuming. There will be focus on raising mass awareness
+related to IP along with sensitizing young researchers and scientists about processes for
+patent filing, maintenance and commercialization. There will be close cross-linking between
+the instruments and priorities of the national IPR policy and STI policy.
+10.2.11. In consultation with relevant stakeholders, a robust data governance mechanism
+and associated guidelines will be formulated for scientific data,including research data, to
+ensure appropriate data classification, ownership, storage, interoperability, retention, ethics
+and privacy.
+10.2.12. A renewed and coherent regulatory framework will be devised which facilitates
+synergy among the already operating national and state regulatory agencies to cut across their
+functional silos. It will ensure harmonized, enabling and transparent regulatory frameworks
+for speedy translation of innovations from institutions for commercialization in a competitive
+market place. Sector-specific regulatory frameworks and guidelines will be strengthened
+and streamlined to promote effective execution of research and innovation in key sectoral
+priority areas.
+10.2.13. The R&I framework will also play a pivotal role in Standard setting for STI related
+activities. It will guide the collaborative creation and strengthening of minimum acceptable
+standard guidelines across industries and sectors for certification and validation.
+10.2.14. A component of anticipatory governance will be built into the overall R&I
+governance framework to prepare the country for unforeseen crises and emergencies.
+Establishment of a central focal point for appropriate forecasting, planning and execution,
+will be explored. Additionally, robust surveillance and early warning systems for emerging
+54
+
+Draft STIP Doc 1.4 Dec 2020
+threats such as infectious diseases will be strengthened through technologies such as digital
+health, artificial intelligence, mobile labs and so on.
+10.2.15. To strengthen security in sectors such as health, food, agriculture and environment
+etc, scientific, technical and regulatory expertise will be sought to promote open innovation
+and equitable access across the ecosystem. In the health sector, an enabling environment for
+large scale and low cost manufacturing of essential products such as drugs, vaccines and
+medicines will be promoted, including innovative licensing approaches where necessary.
+10.3 Strengthening STI Interconnectedness
+10.3.1 A strong STI collaboration framework to strengthen existing channels and create
+new ones for enhanced interconnectedness among stakeholders at the domestic and global
+levels will be created. This framework will outline institutional mechanisms to promote
+effective and outcome-driven collaborations and generate a common pool of resources. It will
+lead to inter-sectoral, interdisciplinary, and inter-institutional collaboration for sectoral
+innovations.
+10.3.2. The collaboration framework will focus on promoting inter-ministerial and inter-
+departmental linkages across sectors to pursue collaborative projects in alignment with the
+national priorities. Inter-institutional linkages among academic and research institutes will
+also be facilitated to enhance multidisciplinary and transdisciplinary research. This will be
+based on careful pre-collaboration analysis of strengths and weaknesses of respective
+ministries/departments/institutions and identification of gaps and opportunities that can be
+addressed through collaborative efforts. Provisions for social scientific responsibility and
+patent pooling will be specified.
+10.3.3. A multi-stakeholder collaborative model including government, industry and
+academia will be developed based on successful models such as Virtual Integrated Platforms,
+City-based and domain-based clusters, Government-Owned Contractor-Operated (GOCO)
+etc. This will aid in defining research objectives and aligning priorities with pre-decided time
+frames and responsibilities. In addition, strong interlinkage among various facilitating
+agencies within the innovation landscape will be encouraged.
+10.3.4. Industry-Academia linkages will be further strengthened through the development
+of trust-building pathways to pursue collaborative research and translate academic research to
+market through institutional support and adequate incentives. Innovative partnership models
+will be established to promote partnerships between academia, start-ups and MSME to speed
+up the process of commercialization at local levels.
+10.3.5. End-user community linkages will be developed and strengthened to ensure last-
+mile delivery of S&T-led innovations. Strong interconnection with civil society
+organizations, NGOs, charitable organizations, regional and local bodies will be promoted.
+55
+
+Draft STIP Doc 1.4 Dec 2020
+Pathways will be created to enable public-private-civil society consortia in key priority areas
+such as connecting farmers and scientists for ensuring access to technology and innovation,
+which would enhance agricultural production and increase farmers’ income.
+10.3.6. Channels will be created for strategic government departments to partner with
+industry and academia to engage in R&D activities in critical areas. Flexible knowledge and
+talent exchange models will be developed to facilitate hassle-free collaborations in
+strategic areas.
+56
+
+Draft STIP Doc 1.4 Dec 2020
+Chapter 11: STI Policy Governance
+11.1. Institutional Mechanism for STI Policy Governance
+11.2. Formulating Implementation Strategy and Roadmaps
+11.3. Monitoring and Evaluation of STI Policies and Programs
+11.4. Policy and Programme Interlinkages
+Priority Issues
+The success of any policy depends on how it is implemented and governed. There is a critical
+need to build a robust STI policy governance system with respect to evidence gathering
+through data and policy research, evidence-based policymaking, policy to programme
+translation and interconnection, implementation, monitoring, review/assessment, and
+feedback. Setting up an institutional mechanism for STI policy research in different sectors
+and thereby strengthening the evidence-supported science advice mechanism is one of the
+priorities.
+Background
+STI Policy governance defines and guides the planning, implementation, monitoring and
+evaluation of STI policies and programmes. The 5th STI Policy aims to develop and nurture
+an effective, transparent, responsible, accountable and self-reliant STI ecosystem. Through
+consistent evaluation of the performance of various institutions, policies and programmes,
+ensuring the equitable representation of diverse groups and adequate feedback mechanism;
+the policy governance will strengthen STI policies and processes. Agile policy governance in
+place will respond to emerging challenges, at the sub-national and national level. This
+Chapter outlines institutional mechanisms for STI Policy Governance, implementing strategy
+and roadmap, monitoring and evaluation of the policy and program and their interlinkages.
+11.1. Institutional Mechanism
+An STI Policy Institute, with a strong national and international connect, will be established
+with a mandate to serve all aspects of STI policy governance. This STI Policy Institute will
+be positioned within and governed by the apex-level STI governance institutional
+architecture18 and function as a dedicated knowledge support unit to institutionalised
+governance mechanisms.
+The STI Policy Institute will also provide the knowledge support for other national/sectoral
+and sub-national STI planning, coordination, evaluation and capacity building. The
+Institution will work closely with existing policy institutions and think tanks, as a hub to
+connect, promote and support national and international institutions, in order to strengthen the
+18 Refer to STI Governance Institutional Architecture in Chapter 11 Section 11.1
+57
+
+Draft STIP Doc 1.4 Dec 2020
+national STI policy ecosystem. The STI Policy Institution will help to ensure concordance,
+harmonisation and linkages of and with STI policies and other national policies and
+programmes.
+11.1.1 Interoperable STI metadata architecture
+One of the primary responsibilities of the STI Policy Institute is to build and maintain a
+robust interoperable STI metadata architecture. The metadata includes:
+● Inputs such as R&D expenditure, funding pattern, sectoral resource mapping, FTEs
+etc.
+● Processes such as industry-academic interlinkages, the career trajectory of
+researchers, gender balance in STEM, international linkages etc.
+● Output such as scientific papers, scholarly proceedings, patents, inventions, skilled
+human resources etc.
+● Outcome such as technologies, innovations, startups, socio-economic outcomes etc.
+11.1.2. Strengthening STI Policy Research
+The STI Policy Institute will conduct and promote nationally and internationally relevant STI
+policy research, to identify policy gaps and provide evidence for effective policymaking. It
+will also work towards expanding policy research in different sectoral and thematic areas.
+11.1.3. Strengthening Science Advice Mechanism
+Data generates information; policy insights are built upon the information which forms the
+evidence base. Science advice mechanism, at sub-national, national and international levels,
+will be strengthened by systematically linking the evidence base with the apex-level advisory
+and governance mechanisms.
+11.1.4. Capacity Development Programmes
+The STI Policy Institute will also play a critical role in developing long-term capacity in STI
+policy through training and fellowship programmes. The institute will work closely with the
+stakeholders including academia, industries, autonomous and independent think tanks and
+research and policy institutions in identifying gap areas and will develop tailored capacity
+development programmes to build both institutional capacity as well as critical mass of
+policy professionals.
+11.2. Formulating Implementation Strategy and Roadmaps
+Evidence-driven and decentralized approach will be followed in translating policy objectives
+into actions through well-structured implementation strategies. The strategy will include
+identification of priority areas, implementing agencies, stakeholders and planning the process
+58
+
+Draft STIP Doc 1.4 Dec 2020
+of implementation. Stakeholders are key in formulating implementation strategies and
+roadmaps for programme design. The proposed STI Policy Institute will work with, and
+provide necessary knowledge support to all the stakeholders and implementing agencies in
+developing feasible implementation roadmaps.
+11.3. Monitoring and Evaluation of STI Policies and Programmes
+Mechanisms will be put in place for continuous monitoring and timely evaluation of policy
+and programme implementation. These activities are critical ensuring the policy objectives
+are getting translated in the expected direction. Stakeholder feedback and adaptation
+mechanisms will be incorporated to fine-tune the policy/programme implementation
+strategies. Appropriate exit strategies will also be developed to remove policy instruments
+whenever necessary, based on the dynamic evaluation.
+11.4. Policy and Programme Interlinkages
+Both intra as well as international linkages are required for formulation, implementation and
+evaluation of the policies and programmes. At the international front, this will help in
+adapting global best practices, standards and in improving the international comparability of
+Indian STI data and strengthening India’s position in global rankings and benchmarks. At the
+national level, it requires both, inter-ministerial and inter-departmental (horizontal) linkages
+as well as inter-state (vertical) linkages for effective implementation of policies and
+programs.
+11.4.1. Inter-Sectoral Linkages
+The existing policies will be interlinked across the sectors by creating systematic synergy
+between scientific and socio-economic ministries and departments. By doing so, shared
+ownership, equal responsibility and complementaries will be created among various
+ministries, departments, funding bodies and implementing agencies. Such interlinkages will
+be institutionalized for long-term benefits.
+11.4.2 State and Sub-national Linkages
+Inter-State Science, Technology and Innovation Council (IS-STIC)19 will be responsible for
+aligning national and international STI developments and missions with that of the states. It
+will encourage states to provide knowledge support for STI, create a robust STI policy and
+advisory mechanism, and facilitate monitoring and evaluation at the state level.
+19
+Refer to Chapter 11 Section 11.1.2
+59
+
+Draft STIP Doc 1.4 Dec 2020
+Regular interaction between the Centre and the States for STI policy planning will be held.
+Such collective and collaborative interactions will help in identifying common problems,
+priorities and to formulate and implement policies to address them.
+A platform for State S&T administrators will be created for cross learning, and to disseminate
+and share good policy practices which can address similar and common problems. Such a
+mechanism will be further strengthened to enhance State-level policy implementation and
+monitoring processes.
+60
+
+Draft STIP Doc 1.4 Dec 2020
+IV. Implementation Framework
+The implementation strategy will be devised through a robust institutional mechanism. The
+implementing agencies will be guided by this mechanism in the tasks of landscape analysis,
+institutional mapping, identifying stakeholders and resources. Coordinated actions across a
+range of actors with proactive leadership and a culture of collaboration across the STI
+landscape will be fostered. While identifying and engaging with the stakeholders for STI
+policy planning and coordination, indiscriminate representation of experts from science and
+social science domains will be ensured.
+Once the roadmap for the implementation is developed, the implementing agencies will focus
+on capacity building. The STI Policy Institute will provide knowledge support to different
+STI departments and agencies, at the centre and the state levels in the training of STI
+workforce for implementation and monitoring. The policy and programme milestones will be
+set up at the beginning of the implementation by the implementing agency with the guidance
+of the STI Policy Institute. From the beginning of the implementation and throughout the
+process, systemic communication to generate and share the information and feedback on the
+process of implementation will be ensured.
+V. Monitoring, Evaluation and Feedback Framework
+Digital platforms will be created for monitoring, impact assessment, accounting and other
+analyses of STI initiatives. A feedback mechanism will be established between policymakers
+and relevant stakeholders after the implementation process begins. Baseline and mid-term
+reviews will be conducted and a transparent reporting mechanism for implementing agencies
+will be created to ensure regular updating of the policy progress.
+Methods such as social assessments through household surveys, focused group discussions,
+process tracing, participatory mapping of STI planning and implementation can be used to
+monitor and evaluate the policy implementation. Quantitative measurements/indicators-
+specific to the policy and/or programme- will be used alongside qualitative measurements to
+assess policy impact. Metrics will be created or a Strengths, Weaknesses, Opportunities, and
+Threats (SWOT) analysis will be conducted to map policy implementation programs, aligned
+with bench-marked aspirational outcomes.
+VI. Vision
+The Science, Technology and Innovation Policy will be guided by the following broad vision;
+i) To achieve technological self-reliance and position India among the top three
+scientific superpowers in the decade to come.
+ii) To attract, nurture, strengthen and retain critical human capital through a ‘people
+centric’ science, technology and innovation (STI) ecosystem.
+61
+
+Draft STIP Doc 1.4 Dec 2020
+iii) To double the number of full-time equivalent (FTE) researchers, Gross Domestic
+Expenditure on R&D (GERD) and private sector contribution to the GERD every 5
+years.
+iv) To build individual and institutional excellence in STI with the aspiration to achieve
+the highest level of global recognitions and awards in the coming decade.
+v) To capture the aspirations of a new, future-ready India, by ensuring active
+participation, shared responsibility and equitable ownership of all stakeholders;
+transforming the national STI landscape maintaining the delicate balance between
+fortifying India’s indigenous capacity and nurturing meaningful global
+interconnectedness.
+To capture the aspirations of a new, future-ready India, by ensuring active participation,
+shared responsibility and equitable ownership of all stakeholders; transforming the national
+STI landscape maintaining the delicate balance between fortifying India’s indigenous
+capacity and nurturing meaningful global interconnectedness.
+62

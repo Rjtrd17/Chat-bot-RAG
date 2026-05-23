@@ -1,0 +1,1134 @@
+
+
+Policy Paper
+FPOs in India:
+Creating Enabling Ecosystem for their Sustainability
+ICAR-NATIONAL ACADEMY OF AGRICULTURAL RESEARCH MANAGEMENT
+(ISO 9001:2015 CERTIFIED)
+Rajendranagar, Hyderabad-500 030, Telangana, India
+
+Recommended Citation:
+Ranjit Kumar, Sanjiv Kumar, R.S. Pundir, V. Surjit, and Ch. Srinivasa Rao. (2022). FPOs in
+India: Creating Enabling Ecosystem for their Sustainability. ICAR-National Academy of
+Agricultural Research Management, Hyderabad, India. pp22.
+Authors
+Ranjit Kumar
+Head, Agribusiness Management Division, ICAR-National Academy of Agricultural Research
+Management (NAARM), Hyderabad
+Sanjiv Kumar
+Scientist, Agribusiness Management Division, ICAR-National Academy of Agricultural
+Research Management (NAARM), Hyderabad
+R.S. Pundir
+Principal & Dean, International Agribusiness Management Institute, Anand Agricultural
+University, Anand
+V. Surjit
+Associate Professor & Head, Centre for Agrarian Studies, National Institute of Rural
+Development & Panchayati Raj (NIRDPR), Hyderabad
+Ch. Srinivasa Rao
+Director, ICAR-National Academy of Agricultural Research Management (NAARM),
+Hyderabad
+Reviewers
+Dr. B. Venkateswarlu
+Former Vice-Chancellor, Vasantrao Naik Marathwada Krishi Vishwa Vidhayalaya, Parbhani,
+Maharashra; Former Director, ICAR-CRIDA.
+Dr. Shalender Kumar
+Principal Scientist, Innovation Systems for the Drylands, International Crops Research Institute
+for the Semi-Arid Tropics (ICRISAT), Hyderabad.
+Published by:
+Director
+ICAR-National Academy of Agricultural Research Management
+Rajendranagar, Hyderabad- 500 030, Telangana, INDIA
+
+Executive Summary
+Farmers Producers Organizations (FPOs) are considered to be one of the most imminent
+tools of intervention for upliftment of the farmers’ condition in India. When more than
+85 per cent of the farmers are smallholders, it becomes quite challenging for them to
+access the modern production technologies, access and use the market information for
+their advantage, transact the commodities in input or output market on their own
+terms, and ultimately keep their farming profitable. The collectivization of farmers
+through FPOs help in bringing economy of scale in different on-farm as well as off-farm
+activities at all three stages- pre-production, production and post-production levels. The
+Government of India is promoting the formation of FPOs through different
+programmes & schemes, since last one decade. The organizations like SFAC and
+NABARD have specific schemes to promote the formation of FPOs in India.
+Currently, there are more than 10,000 FPOs in India registered under different legal
+structure. Majority of them are registered as a company under the Companies Act,
+while second largest category are under Cooperative Societies Act of respective states.
+Some are also in the form of Society or Trust. The Producer Companies are designed on
+‘mutual assistance principles’ and ‘patronage’ basis, to bring together desirable aspects
+of the cooperative and corporate sectors for the benefit of primary producers, especially
+small and marginal farmers. In several case studies/literatures, success stories have
+been documented demonstrating the benefits realized by the farmer-members from the
+FPOs in the form of reduced input cost and market linkage as aggregation allows better
+bargaining power for the FPOs. Advisory services and value addition services offered
+by the FPOs have also benefitted the farmers in timely decision making. However, there
+exists many challenges for the long-term growth and viability of FPOs or when the scale
+of operation increases. Majority of the FPOs are new and small in terms of number of
+producer-members and their own equity capital, which makes them less attractive for
+funding by the financing agencies. Lack of understanding about business plan, lack of
+funding support for many FPOs, less importance towards hiring of skilled persons with
+managerial abilities, poor governance structure, difficulty in regulatory compliances,
+and marketing difficulties need proper attention to provide enabling ecosystem for the
+FPOs.
+In 2019, Government of India has announced formation of 10,000 new FPOs on cluster
+basis under Central Sector Schemes (CCS). These FPOs get supported by the promoting
+agency (NABARD/ SFAC/NAFED/NCDC) in terms of technical, managerial and
+financial aspects. However, the challenges with the existing FPOs and/or many other
+FPOs formed outside the ambit of CCS remain the same. They are not able to move to
+next stage of their lifecycle to become economically viable business unit to create value
+for their shareholders and the society as a large.
+i | P age
+
+To ensure the economic viability and long-term sustainability of FPOs, the present
+policy paper offers following recommendations:
+1. It is proposed to set up a National Board of FPO (NBFPO) on the pattern of MSME
+and different commodity boards which can promote, impart necessary skills, provide
+network and monitor the progress of all the FPOs.
+2. There should be a provision of assured Seed Fund as one-time grant for all the
+registered FPOs on pre-decided criteria. It may be done by creating Special Purpose
+Vehicle (SPV) with a corpus fund entrusted with the NBFPO.
+3. Customized financial products may be created with the banks for the FPOs to enable
+them easy access of short-term loans at subsidized rate. The funding may be done
+based on the cash flow of the FPOs, rather existing provision of asset-based financing.
+4. Linking of each FPO with KVK/ agricultural university/ development
+institutions: To provide continuous technical support and guidance, the FPOs should
+be closely linked to any agricultural university/KVK/ICAR institutes or any other
+development organization in the region, which may act as an Incubation/ Facilitation
+Centre for the FPOs.
+5. For regulatory compliances, a pool of empanelled chartered accountants (CAs) in
+each state shall be created, who can serve the FPOs for regulatory compliances, the
+expenses of which may be borne by the government during initial 3-5 years.
+6. Setting up common post-harvest infrastructure facilities at district level would
+encourage rural micro-entrepreneurs and reduce the burden on individual FPOs to have
+their own infrastructure at initial stage.
+7. The marketing problems can be addressed to certain extent by extending preferential
+treatment to the FPOs in schemes like MSP-based procurement, relaxing norms of
+APMC for transacting agricultural commodities, Mid-day Meal Scheme, Poshan
+Abhiyan, etc.
+ii | P age
+
+Contents
+Executive Summary i
+1. Background 1
+1.1 Genesis of Farmer Producers Organizations (FPOs) 2
+2. Current status of FPOs 3
+2.1. Number and distribution of FPOs in India 3
+2.2. Policy ecosystem towards FPO promotion 5
+3. Benefits and challenges faced by FPOs 6
+3.1 Perceived benefits of FPOs 6
+3.2 Benefits realized by the members 8
+3.3 Challenges faced by FPOs 11
+4. Way forward 13
+References 19
+Appendix: Government Schemes for FPOs 22
+
+
+
+1. Background
+Indian agriculture has made a the transaction costs for the producers
+significant progress over last several as well as for the bulk buyers, like
+decades, mainly due to improvement in processors, retailers, traders, etc.
+technologies (seeds, fertilizer, plant
+Earlier, farmers were brought together
+protection chemicals, etc.), practices
+in co-operatives to counter some of the
+(line sowing, mono-cropping,
+above challenges due to aggregation/
+mechanization, irrigation, etc.), and
+collectivization of inputs. These co-
+policy environment (price support,
+operatives were in the form of 3-tier
+input subsidy, market infrastructure,
+structure, Primary Agricultural Co-
+credit, insurance, etc.). Consequently,
+operative Societies (PACS) at village
+the total production of food grains has
+level, which were federated at district
+increased by 5.6 times, fruits by 16
+and state level. These co-operatives
+times, vegetables by 11 times, oilseeds
+mainly focussed on providing easy
+by 6 times, milk by 10 times and so on in
+credit and/or inputs like fertilizers and
+last 70 years (1950/51 to 2019/20).
+seeds to the farmer-members. Moreover,
+During the same period, the number of
+over the years due to in-built
+farm households has also increased
+governance structure, these co-
+significantly, leading to fragmentation
+operatives provided significantly more
+of land holdings and declining size of
+management control and power to local
+average land holding. Currently, more
+influential persons without contributing
+than 85 per cent of the farmers are
+to the business of the co-operatives.
+smallholders cultivating on an average
+Over time, they used their influence for
+about 1.01 hectare of land. They own
+self-serving interests, leading to in
+only 47% of total cultivated area.
+general disenchantment among the
+According to Situation Assessment
+farmer-members. Consequently, except
+report (NSS 77th Round), average
+for dairy sector cooperatives and to
+monthly income per agricultural
+some extent in sugar sector which
+household is ₹10,218 only in 2018-19
+became highly successful at grass root
+(NSO, 2021). It becomes quite difficult
+level, by-and-large cooperatives in
+for individual smallholder farmers to
+agriculture sector have failed. Moreover,
+ensure their livelihood besides coping
+Shah (2016) argued that had there been
+with climate change impacts and market
+such strong member-controlled
+risks. Small holders do not have
+cooperatives in agriculture sector, like in
+enough bargaining power to negotiate
+case of dairy and sugar in western India,
+in input or output market in their
+the agrarian distress would have been
+favour. Small landholdings also increase
+far less severe.
+1 | P age
+
+1.1 Genesis of Farmer Producers Organizations (FPOs)
+Currently, farmer organisations in India etc. However, failure of collectivization
+has various legal forms—as a Producer of farmers through co-operatives in
+Company (under Companies Act, 2013), agriculture sector, growing agrarian
+as a Cooperative (under Cooperative crisis and simultaneously rapid growth
+Societies Act), as a Non-profit entity in private sector through corporatization
+(under Companies Act, 2013) or as a led to beginning of new thinking of
+Trust (under Indian Trusts Act, 1882). bringing best attributes of co-operatives
+The Primary Agricultural Cooperative and the corporates together. In the year
+Society (PACS) is one of the oldest 2000, the concept of producer companies
+forms of producer organizations in was recommended by a committee
+India. In addition to these, there are chaired by Prof. Y. K. Alagh.
+many other forms of producer
+In 2002, the Companies Act of 1956 was
+organizations catering to specific or
+amended and new section ‘Part IXA’
+multiple function(s) such as self-help
+was inserted for ‘Producer Companies’,
+groups (SHGs), Federation of SHGs,
+a new form of corporate entity (MCA,
+Common Interest Groups (CIGs), Joint
+n.d.). These companies were designed
+Liability Groups (JLGs), Farmers’ Club,
+Main Features of Companies Act Amendment (2002)
+• The Producer Company can have unlimited number of shareholder members
+unlike any other company or form of business but with a condition that the
+member should only and only be a primary producer / farmer.
+• It can operate throughout India with single registration, including exporting
+business in contrast to co-operatives.
+• It can enter into JVs, alliances and also have subsidiaries which is not the case
+for a society.
+• It can distribute its earnings back to members (need not plough back the profits
+unlike Non-profit organization / Section 8 companies) in the proportion of
+contribution and not necessarily as per the share holding pattern.
+• Every member has one vote irrespective of number of shares held by him/her.
+• An independent expert/ professional can be part of the board which is not the
+case for a society.
+2 | P age
+
+on ‘mutual assistance principles’ and formation of FPOs got further boost
+‘patronage1’ basis, to bring together through funding support from both the
+desirable aspects of the cooperative and agencies- NABARD and SFAC.
+corporate sectors for the benefit of
+Apart from this, agriculture
+primary producers, especially small and
+departments of most of the states also
+marginal farmers (Alagh, 2019).
+took keen interest in aligning their
+Initially, Small Farmers’ Agribusiness schemes through FPOs and in turn the
+Consortium (SFAC), a Society promoted departments of agriculture, horticulture
+by Ministry of Agriculture and and/or animal husbandry also got
+Cooperation, Govt. of India was involved in formation and promotion of
+designated as the nodal agency for FPOs. Apart from this, several FPOs are
+promotion of FPOs in India. In 2013, self-promoted by progressive rural
+FPO Formation Guidelines were issued youth or NGOs, while agriculture/
+by Government of India and next year horticulture/animal husbandry
+i.e. 2014 was declared as “Year of departments of several states are also
+Farmer Producer Organizations promoting the formation of FPOs. Many
+(FPOs)” by the Ministry of Agriculture, agricultural universities (SAUs) and
+Government of India with special some ICAR institutes are also helping
+package allocation of ₹ 200 crores to the farmers in mobilization for FPO
+NABARD2 as PRODUCE Fund3 to formation through their KVKs.
+promote FPOs. Consequently, the
+2. Current status of FPOs
+2.1. Number and distribution of FPOs in India
+Several studies have been conducted by are promoted by different agencies,
+many researchers in India which gave there is no single unified source of
+different estimates about the total information about all the existing
+number of FPOs in India. Since the FPOs registered FPOs in the country. These
+1Patronage means the use of services offered by the Producer Company to its Members by participation in its
+business activities.
+2National Bank for Agriculture and Rural Development (NABARD) is an apex regulatory and financing agency for the
+institutions providing investment and production credit for promoting the various developmental activities in rural
+areas in India.
+3Producers Organization Development and Upliftment Corpus (PRODUCE) Fund of ₹ 200 crore was created with
+NABARD for 2014-15 for the building and promotion of 2000 FPOs in next 2-3 years. The objective is to build,
+promote and nurture FPOs by way of extending the required financial & non-financial support during the nascent/
+formative stage.
+3 | P age
+
+FPOs are registered under different include non-farm producer companies
+legal structure- mostly are either under as well. In case the FPO is registered as a
+Companies Act or Co-operative Trust or a Society registered under
+Societies Act, while some are also as section 12AA of the Act, or in the case of
+Mutually Aided Cooperative Society Sec 8 Company, the income earned
+(specially in Andhra Pradesh and cannot be distributed to its members.
+Telangana), as Trust or Section 8 Therefore, majority of the FPOs are
+company. The list of FPOs registered registered either under Companies Act
+under the Companies Act4 can be found or under Cooperative Society Act. The
+with the Ministry of Corporate Affairs recent report by Govil et al (2020)
+(MCA), Government of India however, observed that there were 7,374
+there the list includes all the producer registered Producer Companies (PCs) as
+companies (PCs) registered which may on March 31, 2019.
+9000
+4500
+8000
+2500
+7000
+500 r
+) l 6000 e b
+a u 320 m
+n u
+n 5000 N
+A
+e
+(
+r e
+2 20
+40 00
+v
+i t
+b a
+m l u
+u 120 m
+N 3000 u
+C
+20
+2000
+5
+1000
+0 0
+2003200620072008200920102011201220132014201520162017201820192020
+Cummulative Number
+Source: Authors’ estimation using data from mca.gov.in
+Figure 1. Farmer Producer Companies (FPCs) incorporated with MCA
+4The FPOs registered under Companies Act have their names ending with ‘Producer Company Ltd’, and are
+commonly known as Farmers Producer Companies (FPCs).
+4 | P age
+
+However, from recent records of MCA, Although, several of these FPOs might
+there are 9239 active Producer be in dormant stage.
+Companies as on 31st Dec 2020, who are
+Currently, almost 60 per cent of total
+engaged in agriculture and allied
+registered FPOs are located in only four
+activities. It can be seen from the graph
+states (Maharashtra, Uttar Pradesh,
+below, more than 80 per cent of these
+Haryana, and Bihar), and another 30 per
+PCs have been registered in last 3 years
+cent in seven states (Tamil Nadu,
+only. Among all the promoting agencies,
+Andhra Pradesh, West Bengal,
+NABARD claims to promote almost
+Telangana, Odisha, Karnataka, and
+5100 FPOs across different states,
+Madhya Pradesh). Moreover, several
+majority as Producer Companies and
+studies also indicate that about 60 per
+about 10-15% as Co-operative Society.
+cent of them have ≤500 members.
+Similarly, SFAC has registered total 897
+Hardly, 10-15 per cent of FPOs have
+FPCs as on 31st March 2021. Therefore,
+1000+ members. Similarly, almost 50 per
+we may assume that currently there are
+cent of the FPOs have authorized capital
+about 10,000 registered FPOs operating
+up to only ₹1 lakh (Raju et al, 2016; Govil
+in India in different forms and
+et al, 2020).
+supported by different agencies.
+2.2. Policy ecosystem towards FPO promotion
+For success of farmer producer initial/ formation stage. Therefore, the
+organizations, they need formalization, government in recent years have
+standardization, and access to credit and initiated several schemes to address
+markets. The government has in recent these issues of the FPOs. The schemes
+years brought in several policy are channelized through agencies like
+measures to create enabling NABARD, SFAC, NCDC and others.
+environment for FPO formation and The list of schemes available for
+promotion. Since, by legal structure, FPO/FPCs are presented in the figure 3
+producer organizations are not allowed (details are given in Appendix).
+to raise capital from the equity market
+Apart from above, all the development
+or any other private investment,
+schemes in agricultural and allied
+mobilizing equity from members make
+sectors currently being implemented by
+the organization more patron-oriented.
+Central and/or the state governments in
+However, it becomes difficult for the
+the country encourage the FPOs to be
+smallholder farmers to contribute good
+the beneficiaries of the
+sum of money as equity, which can be
+programmes/schemes.
+helpful for the FPOs to create facilities at
+5 | P age
+
+Credit guarantee Matching equity grant
+scheme by NABARD/ by NABARD/ SFAC
+n
+SFAC (risk coverage up a (Up to ₹25/10 lakhs)
+to ₹1 crore)
+o
+L t n
+a
+r
+G
+Corporate tax exemption x One-time funding
+a
+T
+(For annual turnover up support to meet
+to ₹100 crore) establishment cost
+Formation and Promotion of 10,000 new FPOs
+▪ Assistance of ₹18 lakhs (first 3 years)
+▪ Equity grant (up to ₹15 lakhs)
+▪ Credit guarantee (risk coverage up to ₹2 crores)
+Figure 2. Government Schemes related to financial support to the FPO
+3. Benefits and challenges faced by FPOs
+3.1 Perceived benefits of FPOs
+Producer organisations, a member- ‘providing access to market information’
+based organization is considered to be a on product prices and trends,
+pathway to successfully deal with seasonality, etc.; ‘extension and
+several challenges smallholder farmers educational services’ promoting
+face in India. They attain a common improved production and marketing
+interest through collectivisation and try practices, and building financial literacy.
+to achieve economies of scale by FPO members can leverage collective
+reducing transaction costs (Manaswi et strength and bargaining power to access
+al., 2019). Bizikova et al. (2020) in their financial and non-financial inputs,
+scoping study highlighted that farmers services and appropriate technologies,
+organization provided various kinds of reduce transaction costs, tap high value
+services to their members world over, markets and enter into partnerships
+which may be categorized as ‘marketing with private entities on more equitable
+services to facilitate product sales’ terms (Nadiia, 2011; Raju et al., 2017;
+(market linkage, transportation, storage, Dey, 2018; Bizikova et al., 2020).
+establishment of contract, etc.);
+6 | P age
+
+Creation of basic infrastructure like that come from higher scales of
+storage and warehousing or purchase of operation at various stages of the
+value addition equipment become easier agricultural value chain from pre-
+through FPOs, which otherwise is not production stage of quality input
+possible for individual farmers. purchase to collectivization of outputs,
+Demonstration of modern technologies value addition, storage and
+in agriculture, weather & crop advisory, transportation, and marketing.
+market intelligence, access to quality Smallholder farmers get linked up with
+farm inputs & services at cheaper rate, the financial institutions (Das and
+access to credit and insurance and other Mandal, 2021). In the process, the FPOs
+government schemes, etc. are some of earn from a range of activities and
+the potential interventions through services. Depending upon the
+which FPOs can transfer the benefits to commodities produced by the farmer-
+the smallholder farmers in big way members, the FPOs can earn
+(Prasad, 2019). The business activity of revenue/profit by bulk buying and
+most of the FPOs promoted by selling of seeds, fertilizers, pesticides
+NABARD is found to be produce and facilitating in custom hiring services
+marketing, followed by input supply, of farm implements. They also earn
+aggregation and processing, whereas income by way of providing primary
+SFAC promoted FPOs are engaged processing (cleaning and grading)
+mostly in processing, cold storage and and/or value addition and levying
+custom hiring (Subhash et al., 2019). auction fee from buyers for selling the
+Thus, FPOs offer the farmers advantages produce (Figure 1).
+Input Supply Value Addition and Market
+Linkages
+(seed, fertilizers & agro-chemicals,
+machinery) (processing, procurement and selling,
+access to new market)
+FPO
+Financial and Technical Advisory Services & Networking
+(credit & insurance, capacity building, (weather, market intelligence, Govt.
+modern technology adoption) schemes)
+Figure 3. Major activities undertaken by the FPOs
+7 | P age
+
+Such kind of information asymmetry are
+In agricultural marketing, there is a long
+expected to be minimized with the help
+chain of intermediaries who very often
+of FPOs.
+work non-transparently leading to the
+situation where the producer receives Thus, the impact of FPO on farmer-
+only a small part of the value that the members can be grouped into six
+ultimate consumer pays. Through categories: income, yield, production
+aggregation, the primary producers can quality, environment, empowerment,
+avail the benefit of economies of scale. and food & nutritional security. These
+six categories are interrelated and one
+They will also have better bargaining
+leading to another. The aggregation at
+power with the bulk buyers of produce
+the FPO level will lead to increased
+and bulk suppliers of inputs. As per
+bargaining power which will help
+Situation Assessment Survey conducted
+farmers realizing higher income.
+in the year 2019, the proportion of the
+Increased income results into
+farmer households selling their produce
+empowerment, and food & nutritional
+to government-run procurement
+security at farmers’ household level. The
+agencies are very low, even if they are
+better agricultural practices/technology-
+aware of the Minimum Support Price
+led precision farming would also result
+(MSP) and the procurement agency. A
+into addressing environmental concerns
+larger share of surplus produce is sold in the region. The role of FPO in
+in open local markets. For instance, disseminating advisory services will
+about 15% of paddy farmers sold their ensure increased yield and better
+produce to procurement agencies, while produce quality. Apart from these,
+the corresponding number for wheat FPOs are also expected to assist the
+farmers was just about 10% (NSS 77th farmer-members to stabilize their
+income through access to reliable
+Round). At national level, 60% of the
+markets, higher bargaining power with
+summer paddy growing farmers, 47% of
+buyers, and more stable prices through
+winter paddy growing farmers and 63%
+access to consistent and reliable
+of wheat farmers were aware of MSP.
+markets.
+3.2 Benefits realized by the members
+Many studies have reported the benefits FPOs. Advisory services and value
+gained by the member-farmers which addition services offered by the FPOs
+are mainly in the form of reduced input have also benefitted the farmers. Table
+costs due to provision of input sale by 1 highlights the benefits realized by the
+the FPOs; market linkage as aggregation farmers from FPOs in different parts of
+allows better bargaining power for the the country.
+8 | P age
+
+Table 1: Farmers benefitting from FPOs in different states
+State Member farmers’ eulogistic experience
+Andhra Pradesh FPO engaged in procuring, processing, marketing, has helped
+farmer getting good income (Zachariah, 2020). Provision of agri-
+input, fish feed and labour has reduced the production cost along
+with solving labour problems of farmers (Raju et.al., 2016).
+Assam The members are availing the fish seeds and feed at a subsidized
+rate and leveraging the existing government schemes to avail
+inputs at a lower price. Aggregating the produce has empowered
+them to bargain for better profits (Deepthi et al., 2021).
+Bihar An FPC which is into maize aggregation and direct marketing,
+following off-season sale has resulted into higher price realization
+for member farmers (Vutukuru et al., n.d.).
+Gujarat An FPC buying cumin, wheat, castor, isabgol, fenugreek, ajwain,
+fennel, and mustard from farmers and participating in futures
+platform for trading has resulted into nearly 20% more return to
+the farmers (Dave, 2017).
+Input supply and produce aggregation by the FPC has resulted
+into transfer of benefits to the member farmers (Nalini et al., 2015,
+Singh & Singh, 2014). Supply of agri-inputs like seeds, fertilizers,
+pesticides, farm-equipment to its members for which the margins
+were rather low (2 to 10%) (Astad and Sachin, 2021).
+GUJPRO’s main support to its members included procurement,
+and processing of groundnut, pulses and oilseeds and trading of
+cumin. Marketing support to mango growers (Vandana and
+Ayush, 2021).
+Karnataka Member farmers of FPC could be able to get inputs at lower cost
+along with reduction in labour problem shortage (Das, 2019).
+Market linkage through FPO has helped the farmer members
+getting better margin along with saving in other costs (RKVY,
+n.d.). FPC intervention in new technology adoption has resulted
+into doubling the farmers’ income (Darshan et al., 2017). Inputs
+are directly procured from input dealers and sold at relatively
+low prices to the member farmers (Pallavi et al., 2021).
+9 | P age
+
+Kerala Farmers are receiving higher price for the produce by selling to
+the FPC (Nadiia, 2011 & Sultana, 2016).
+Madhya Pradesh FPCs Tie up with ginners in case of cotton and government
+procurement agencies for certified soy seed has helped the
+farmers getting higher price, in addition the supply of agri-inputs
+has reduced the input cost for them (Singh & Singh, 2014;
+Krishisutra 2, 2013; Swati, 2016).
+Input marketing support, seed production, commodity trading
+and supports its members through credit linkages, infrastructure
+development, and capacity building of FPO functionaries (Prasad
+& Abhishek, 2021).
+Selling branded seeds to their members and having forward
+contracts with a few buyers for procuring cereals, pulses, spices
+etc. (Abhishek, 2021).
+Maharashtra FPCs providing input, produce buying and offering value
+addition services to the farmers like grading, sorting and
+packaging and providing market linkage has helped the farmers
+increase their earnings significantly (Khan, 2021; Padmanand,
+2018; Trebbin & Hassler, 2012)
+Punjab Custom hiring centre of FPC helped farmers in getting costly
+machines at genuine rates in addition to market linkage
+(Anonymous, 2015)
+Tamil Nadu Input store, custom hiring centre and advisory services of the FPC
+has benefitted the member farmers in bringing down the input
+cost along with reducing unnecessary fertilizer usage
+(Annamalai, 2021 & Krishisutra 2, 2013)
+Telangana Cotton farmer members could be able to get premium price by
+selling through FPC (Nadiia P, 2011; Revathi & Sultana, 2020)
+Uttar Pradesh Supply of agri-input, sale of organic, various value added
+products resulted into significant increase in farmers’ income
+(Khan, 2021 & Krishisutra 2, 2013)
+West Bengal Market linkage created by FPC for selling vegetables has
+benefitted the farmers (Majumdar, 2017)
+10 | P age
+
+3.3 Challenges faced by FPOs
+It has been observed that the FPOs appropriate capacity building to
+perform better when its management develop business plan and devise
+systems, governance and capital strategies to extract maximum
+structure are strong. Other factors like benefits from the market after
+market and financial accessibility, formation of the FPOs to understand
+farmer-members’ engagement plan, the intricacies of the market and
+infrastructure development, better than consumers’ demand.
+existing market pricing mechanism, etc.
+should also be strengthened to scale up b) Poor capitalization and funding
+the business of the FPOs for its long- scope
+term growth and viability. Following
+There is a provision of funding
+challenges need proper attention to
+support under various government
+provide enabling ecosystem for the
+schemes to the FPOs promoted by
+FPOs to function:
+NABARD and/or SFAC to build
+capacities, technical assistance and
+a) Lack of understanding about
+develop innovative financial systems
+business model
+for sustainability of FPCs. However,
+The FPOs are considered to be a
+such financial assistance is not
+business entity of the, for the and by
+available to all the FPOs, particularly
+the farmers. Entire decisions from
+outside the ambit of
+pre-production planning to
+NABARD/SFAC. The average paid-
+marketing of the produce has to be
+up capital (PUC) of majority of the
+done by the farmers themselves.
+FPOs are between ₹1.0 to 3.0 lakhs.
+Although, farmers in India are having
+Due to lack of any collateral assets
+rich experience in cultivation of crops
+with the FPOs, financial institutions
+and raising animals, however there
+are hesitant to finance the FPOs,
+are several issues related to
+unless the latter is well-capitalized
+knowledge about modern
+(Nikam et al., 2019). These FPOs find
+technologies, access to real time
+huge challenge in managing their
+information for risk management,
+working capital requirements as well.
+access to cheap and timely credit,
+Running a business organization with
+marketing of the produce at best
+such small capital base is a daunting
+price, value addition before
+task.
+marketing, etc. which mar the
+expectations of the farmers for better
+income realization. They need
+11 | P age
+
+c) Managerial capability also hesitate in handing over the
+charge of management to
+Like any other businesses, the FPOs
+democratically elected person within
+also require technical and managerial
+the FPO. This conflict leads to poor
+expertise to carry on their business
+governance structure of the FPOs,
+operations, including forward-
+and over time other members loose
+backwards linkages, bringing best
+interest in participating in the
+agriculture practices, seed
+business of the FPOs.
+production, providing value addition
+services like retail services of inputs,
+e) Regulatory compliances
+storage, transportation and other
+The FPOs registered under Producer
+agricultural production services
+Companies Act are currently treated
+required by the small and marginal
+in the same manner as any other large
+farmers etc. to make their business
+companies. The regulatory
+operation sustainable and more
+compliances like book keeping,
+profitable for all shareholders. Apart
+accounting, taxation, obligations of
+from these, the organization also
+directors of the board, etc. are highly
+require other ancillary services like
+demanding for the farmers, who have
+credit facilitation, advisory services,
+never come across such things. On
+furnishing regulatory requirements,
+the other hand, these compliances
+etc. All these operations can be
+become essential requirement to
+conducted by professionally skilled
+access financial support offered
+persons. However, majority of the
+under different government schemes.
+FPOs ignore hiring such professionals
+Therefore, unless complete
+due to lack of financial capacity
+handholding of the FPOs in these
+and/or lack of awareness (Trebbin,
+areas are not provided in initial years,
+2014).
+it would become difficult to sustain
+d) Ownership and controls the operations of the FPOs.
+It has also been observed that many
+f) Business plan and scaling
+FPOs have been formed by few
+opportunities
+progressive farmers or rural
+A well-defined business plan is
+households. These individuals have
+essential element for success of any
+good intent to support other
+business organization. It becomes
+smallholder farmers in their locality
+more imminent when all the
+by collectivizing the operations.
+executive members are farmers, who
+However, it becomes difficult for
+are unskilled about different aspects
+such persons to maintain balance
+of any business. The business plan
+between personal interest and the
+provides rail-guard to the
+interest of the farmer-members. They
+organization to navigate within the
+12 | P age
+
+boundary and take to desired goal. It companies find FPOs as a better
+also helps the FPOs to diversify and source for procurement of vegetables
+scale up their business activities in which helps them cut down the
+well-planned manner. Currently, procurement cost and ensure quality
+majority of the FPOs lack such to a greater extent. But the practice is
+business plan, and therefore they limited to few FPOs. In fact, FPOs are
+limit their activity to merely bulk found to be more successful in
+buying and selling of the inputs establishing backward linkages than
+and/or farm produce. forward linkages like disposal of
+agricultural produce in larger volume
+g) Difficulties in marketing of the
+(Das & Mandal, 2021). However, for
+produce
+long-term sustainability of the FPOs,
+FPOs are being recognized on various there is a need of strong market
+platforms for procurement by private linkage for the farm produce or its
+companies and government agencies value-added products (Anonymous,
+in few cases (Dey, 2018; Mathew, 2020).
+2020; Saini, 2021; Abrar, 2022). Private
+4. Way forward
+The Doubling Farmers Income (DFI) conclusions that these FPOs need
+Committee report propounds that the constant handholding support on at
+FPO is one of the most important tools least three key fronts- managerial
+for addressing several farmers’ support, financial support, and
+problems and issues related to capacity building. The funding support
+agricultural growth. Consequently, for existing FPOs varies widely. The
+Government of India has also launched FPOs promoted by NABARD and SFAC
+several supporting schemes to support get about ₹6-10 lakhs over three years,
+the promotion and growth of these while other FPOs struggle to get even
+farmers’ organization under different smaller amount.
+legal structures. The recent Central
+Therefore, following recommendations
+Sector Scheme of promoting 10,000 new
+are made for ensuring the economic
+FPOs also allocated significant amount
+viability and long-term sustainability
+of budget for the activity. However, the
+of FPOs in India:
+challenges before the existing FPOs are
+still quite large and varied. Several
+studies have reached to similar
+13 | P age
+
+a) Setting up of National Board of FPO
+(NBFPO): There is a need to form a National
+Board for promotion of FPOs, on the pattern of
+MSME (Micro, Small and Medium Enterprises)
+and different commodity boards, which can
+monitor the progress of all the FPOs and
+provide similar support to all the FPOs
+FPOs have potential to
+irrespective of promoting agencies. It would
+act as a catalyst of
+also help in collating the information related to
+change in rural economy
+all the FPOs in the country, which is currently
+ambiguous. Such Board through their in India. However, to
+empanelled agencies would be able to provide
+realize that aspiration,
+technical guidance to the FPOs working at
+they need initial
+different levels of growth. (The broad
+framework of NBFPO is given on page 15-16). handholding for
+managerial capacity
+b) Minimum assured seed funding support as
+building as well as easy
+grant: Several FPOs are located in remote areas
+and do not get support from any promoting access to working
+agencies like NABARD/ SFAC/ NCDC, etc.
+capital.
+due to geographical location or otherwise.
+Therefore, there must be a provision of
+minimum seed fund as one-time grant for all
+the registered FPOs with pre-decided criteria
+such as number of farmer-members, diversity in
+Board, business plan for next 3 years, etc. The
+seed fund may be in staggered manner, which
+may be released based on progress on the
+milestones achieved by the FPOs.
+c) Special provision for working capital
+finance for FPO: All the FPOs at initial stage
+require working capital to conduct the business
+for their members- purchasing inputs in bulk or
+procuring output from them to provide market
+linkage. Due to low capitalization initially, these
+FPOs face huge challenge in getting institutional
+credit at affordable rate to meet the working
+14 | P age
+
+capital requirements. Therefore, customized
+financial products may be created for the FPOs
+to enable them to access easily the short-term
+loans at subsidized rate.
+d) Linking of each FPO with KVK/agricultural
+university/ institutions: To provide
+continuous technical support, guidance and
+capacity building, the FPOs should be closely
+linked to any agricultural university/ KVK/
+ICAR institutes or any other development
+organization in the region, which may act as an
+Institutional support in
+Incubation/ Facilitation Centre for the FPOs.
+terms of conducting There may be one representative from these
+regular capacity building organizations in the Board of Directors of each
+FPO to provide technical and strategic guidance
+programmes for key
+for future growth of the FPO. Similarly, the
+executives of the FPOs,
+executive members should be trained on
+and by including experts different aspects of the businesses of FPO on
+regular basis. For this, 2-3 agencies/ institutions
+in the management team
+may be identified in each state to conduct the
+would strengthen the
+training programmes for the FPOs’ executives.
+business operations of
+d) Common post-harvest infrastructure
+the FPOs. It would also
+facilities for FPOs: Common infrastructure
+bring transparency in the
+facilities like warehousing, cold-storage, sorting
+governance of the FPOs. & grading, packaging, etc. may be created at
+district-level, which can be used by upcoming
+FPOs at initial stage on pay-and-use basis. This
+will also create rural micro-entrepreneurship
+opportunities and every FPOs need not to bother
+about setting up such facilities at initial stage of
+their lifecycle.
+e) Empanelment of auditors (CAs) to facilitate
+the regulatory compliances: It has been
+observed that compliance norms for newly
+formed FPOs/ FPCs are overwhelming for the
+management board, who have never been
+15 | P age
+
+exposed to such issues before. Hiring services of
+auditors at initial stage also become
+burdensome for these FPOs who struggle to
+generate sufficient profit to meet their essential
+operational expenses. Therefore, every state
+may have pool of empanelled chartered
+accountants (CAs) whose services may be taken
+by the FPOs for auditing and regulatory
+The existing mandatory
+compliances. The expenses may be borne by the
+government for first 3 years or till the total regulatory compliances
+turnover of the FPO/FPC reaches up to ₹50-60
+appear to be big deterrent
+lakhs5 annually for two consecutive years,
+for many small-scale
+whichever is earlier.
+FPOs. These need to be
+f) Preferential treatment to the FPOs: As FPOs
+taken care by the state for
+are facing difficulty in marketing of produce,
+initial years.
+the FPOs should be given preference for
+procurement of agricultural commodities in all Further, FPOs may be
+the government schemes, like MSP-based
+given preference for
+procurement, relaxing norms of APMC for
+participation in
+selling agricultural produce outside of APMC
+mandis, Mid-day Meal Scheme, Poshan Abhiyan, government-funded
+etc. It will not only ease the procurement schemes to provide
+burden of identified commodities by the
+market-linkage for the
+government, at the same time FPOs will get an
+alternative for produce disposal. FPOs can be
+farm produce.
+encouraged to supply food items under Mid-day
+Meal Scheme to the respective agency. For this,
+FPOs can be promoted for value addition of
+commodities to be procured under the Mid-day
+Meal Scheme. Similarly, private manufacturers of
+fertilizers and agro-chemicals may be nudged to
+encourage direct engagement with the FPOs.
+5 Assuming the FPOs earns 10% gross margin on the total turnover, the total income of the FPO would be ₹5-6
+lakhs per annum, which may even be insufficient to meet the operational expenses like salaries of one manager
+and two support staffs, rent, office expenses, etc.
+16 | P age
+
+Figure 4: Proposed FPO Ecosystem Framework
+17 | P age
+
+Proposed FPO Ecosystem Framework
+The proposed framework can be broadly categorized into two parts: first, support system
+which provides support in various forms to the FPO; and second, operational structure which
+describes the activities of the FPO.
+Currently the producer organizations are getting support from multiple institutions. For
+instance, SFAC is promoting and supporting producer organizations registered under the
+Companies Act. NABARD supports all forms of producer organizations, NCDC and NAFED
+are supporting cooperative forms of producer organizations. Under the proposed structure, a
+National Board for FPO (NBFPO) would act as the apex organization for promotion and
+development of all forms of producer organizations in the country. There are several
+commodity specific boards existing in the country which are involved in development activities
+pertaining to the respective commodity. The National Board for FPO would also work in
+similar fashion. Various government institutions would work along with the national board so
+that there won’t be any sector-wise/geographical area wise overlapping or skewed
+development of FPOs. All the producer organizations may be part of a state level federation.
+The FPOs need four types of support which will drive growth and sustenance: Managerial
+competence, financial support, technology and capacity building. The financial support to the
+FPOs may be channelized through state level federation from various institutions. These
+government institutions along with CBBO, POPI and/or nearby KVKs would provide capacity
+building to the FPOs. The FPO federation may play active role in marketing promotion of the
+FPOs’ products at national and international level.
+In the current digital era, technology helps in improving operational efficiency and proper
+monitoring of the business activities. Data collection through technology can help the policy
+maker in taking appropriate decision. Hence, technological support to the FPOs in the form of
+ERP (Enterprise Resource Planning) can help achieve the above-mentioned goals. Investment
+can be made by the Board and channelized through state FPO federation to all FPOs.
+For managerial competence, the FPOs should recruit agribusiness professional. The CEO
+having graduation in agriculture or allied sciences with management experiences will bring
+professionalism in the FPO. They may be incentivized for the positive growth of the FPO by
+having performance-linked compensation. The financial requirement of the FPO, both for
+capital investment and working capital need may be met by financial institutions with the
+credit guarantee of the federation/ supporting agencies.
+The FPO would provide both backward and forward linkage to the farmers. Backward linkage
+would be in the form of input sale, provision of farm machinery, capacity building and
+advisory services to the farmers. FPO would acquire licence for input dealership and can
+procure from the manufacturers directly or their distributors. The CEO’s expertise will bring
+professionalism in entire operation right from negotiation with the supplier, procurement
+quantity & frequency, inventory management and so on. FPO would provide a platform for the
+agri-insurance companies to connect with the farmers for crop & livestock insurance. In
+forward linkage, the FPO would explore value addition possibilities, while Government may
+recognize the FPO as collection centre as well as procurement centre for the designated
+commodities under different schemes.
+18 | P age
+
+REFERENCES:
+Abhishek, S. (2021). The Balancing Act: Mitti, Members and Markets. In C. Shambu Prasad & D.
+Deborah (Ed.), Fields of Change: Managerial Insights on FPOs in India (pp. 78-81).
+Abrar, P. (2022). Flipkart, FPOs tie up to facilitate market access for farming communities.
+Retrieved 5 January 2022, from https://www.business-standard.com/
+article/companies/flipkart-fpos-tie-up-to-facilitate-market-access-for-farming-communities-
+121102500944_1.html
+Alagh, Y. K. (2019). Companies of Farmers. In Transition Strategies for Sustainable Community
+Systems (pp. 289-293). Springer, Cham.
+Annamalai, S. (2021). For farmers, by farmers. Retrieved 20 December 2021, from
+https://www.thehindu.com/business/agri-business/for-farmers-by-
+farmers/article7695088.ece
+Anonymous. (2020). A comprehensive study for identification of vibrant FPO clusters for
+effective market integration. TATA Trusts. Retrieved 5 January 2022, from
+https://www.tatatrusts.org/upload/pdf/fpo-market-linkages-study-report.pdf
+Anonymous. (2021. July 18). A marginal farmer scripts his success story. The Tribune. Retrieved
+from https://www.tribuneindia.com/news/amritsar/a-marginal-farmer-scripts-his-
+success-story-284889
+Astad, P., & Sachin, Oza. (2021). Creating and Evaluating Portfolio of Products in Multi-
+Commodity FPOs. In C. Shambu Prasad & D. Deborah (Ed.), Fields of Change: Managerial
+Insights on FPOs in India (pp. 33-36).
+Bizikova, L., Nkonya, E., Minah, M., Hanisch, M., Rama Mohana Rao, T., Speranza, C. I.,
+Karthikeyan, M., Tang, L., Kate, G. K., Kelly, J., Celestin, A. C., &Timmers, B. (2020). A
+scoping review of the contributions of farmer’s organizations to smallholder agriculture.
+Nature Food, 1(10), 620–630. doi:10.1038/s43016-020-00164-x
+Darshan, N.P., Rajashekar,B., Patil,K.V., Ravi, K.N.,&Parameshwar Naik, J. (2017). Farmer
+Producing Organisations for Development of Farmers in India: An Economic
+Perspective.International Journal of Current Microbiology and Applied Sciences,6(9), 1611-1615.
+doi: https://doi.org/10.20546/ijcmas.2017.609.198
+Das, R., &Mandal, S. (2021). Determinants of Smallholders' Participation in Farmer Producer
+Companies-Insights from West Bengal, India. Decision, 48(3), 327-342.
+Das, R.P. (Ed.). (2019). Assessment of Farmer Producer Companies (FPCs) in Karnataka.
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, New Delhi. 1-56.
+Retrieved from https://www.fpojunction.com/storage/app/public/booklet/
+1Report_Assessment_FPC_Karnataka.pdf
+Dave, V. (2017). NCDEX futures platform fetches good response in Gujarat. Retrieved 21
+December 2021, from https://www.financialexpress.com/market/ commodities/ncdex-
+futures-platform-fetches-good-response-in-gujarat/853975/
+Deepthi, R., Sivaram, K., Pazhanivelan, & Sankar, D. (2021). Swimming against the tides: How a
+women-led fishing collective became a profitable enterprise. In C. Shambu Prasad & D.
+Deborah (Ed.), Fields of Change: Managerial Insights on FPOs in India (pp. 81-91).
+Dey, K. (2018). Farmers Producer Companies in India: Determinants of performance and
+viability. 53(35), 44-52.
+19 | P age
+
+Govil, R., Neti, A., & Rao, M. R. (2020). Farmer Producer Companies: Past, Present and Future.
+Azim Premji University, Bangalore.
+Khan, B. (2021). This Lady’s Organic Collective Helps Farmers Increase Their Income by 6 Times.
+Retrieved 8 December 2021, from https://www.thebetterindia.com/262670/uttar-pradesh-
+organic-farmers-company-earns-crores-biscuits-laddu-pickles/
+Khan, B. (2021, August 27). With Rs 1 lakh and a dream to better the lives of farmers, he built a Rs
+525 crore turnover agricultural company. Retrieved 8 December 2021, from
+https://www.theweekendleader.com/Success/2992/the-rich-farmer.html
+Krishisutra 2, (2013). Success stories of farmer producer organizations. Retrieved from
+http://sfacindia.com/PDFs/Krishi-Sutra (Version2).pdf.
+Majumdar, A. (2017). Bengal initiative to turn farmers into entrepreneurs a success. Retrieved 8
+December 2021, from https://www.livemint.com/Politics/Hqj0crGhcRjkEu
+y6D5VndO/Bengal-initiative-to-turn-farmers-into-entrepreneurs-a-succe.html
+Manaswi, B. H, Kumar, P., Prakash, P., Kar, A., Anbukkani, P., Jha, G. K.,&Rao, D. U. M. (2019).
+Impact of Farmer Producer Organisations on organic chilli (Capsicum frutescens) production
+in Telangana. Indian Journal of Agricultural Sciences, Vol 89 (11): 98-102.
+Mathew, J.C. (May 31, 2020). The New Farm Formula. Retrieved 5 January 2022, from
+https://www.businesstoday.in/magazine/cover-story/story/the-new-farm-formula-
+257977-2020-05-12
+MCA. (n.d.). Reference Section 465(1) of the Companies Act, 2013. Ministry of Corporate Affairs,
+Government of India. Retrieved from
+https://www.mca.gov.in/content/dam/mca/pdf/Producer_Company.pdf
+Nadiia, P. (2011).Producer Company as an Institutional Option for Small Farmers in India. (A Thesis
+Submitted to LundsUniversitet in partial fulfillment of the requirementsfor the degree of
+Master of Science).
+Nalini, B., Turaga, R. M. R.,&Bhamoriya, V. (2015). Farmer Producer Organizations as Farmer
+Collectives: A Case Study from India. Unpublished report, Indian Institute of Management,
+Ahmedabad. Visited on 15 June 2016 at
+http://www.iimahd.ernet.in/assets/snippets/workingpaperpdf/10539809132015-01-05.pdf
+Nikam, V., Singh, P., Ashok, A., &Kumar, S. (2019). Farmer producer organisations: Innovative
+institutions for upliftment of small farmers. Indian Journal of Agricultural Sciences, 89(9), 15-24.
+NSO. (2021). Situation Assessment of Agricultural Households and Land and Livestock Holdings
+of Households in Rural India, 2019. Ministry of Statistics and Programme Implementation.
+Government of India.
+Padmanand, V., Sushil, K.,& Kunal, S. (2018). Intrapreneurship and management for farmer
+producer companies. Maharashtra Agricultural Competitiveness Project. Agri-Business
+promotion facility-Grant Thornton India LLP.
+Pallavi, G. L., Gayatri, L., Balakrishnan, S., &Parthsarathy, T. (2021). Fostering steady growth of
+an FPO through a three-fold model of Technical, Financial and Market Linkage. In C.
+Shambu Prasad & D. Deborah (Ed.), Fields of Change: Managerial Insights on FPOs in India (pp.
+9-13).
+Prasad, C. S. & Abhishek, S. (2021). Seeding an FPO Movement: Madhya Bharat Consortium’s
+million farmer mission. In C. Shambu Prasad & D. Deborah (Ed.), Fields of Change: Managerial
+Insights on FPOs in India (pp. 64-68).
+20 | P age
+
+Prasad, C. S. (2019). Farming as an Enterprise: Ten years of FPO Movement in India. State of
+India’s Livelihood Report; Access Development Services: New Delhi, India, 37-48.
+Raju, K V., Kumar, R., Vikraman, S., Moses Shyam, D., Srikanth, R., Kumara Charyulu, D., & Wani, S. P.
+(2017). Farmer Producer Organization in Andhra Pradesh: A Scoping Study. RythuKosam Project.
+Research Report IDC-16. Patancheru 502 324. Telangana, India: International Crops Research
+Institute for the Semi-Arid Tropics. 160 pp. ISBN 978-92-9066-592-2
+Revathi, E., & Sultana, A. (2020). Farmers' Producer Companies in Telangana State. CESS Policy
+Brief, 7, 1-4. Retrieved from https://cess.ac.in/wp-content/uploads/2020/04/Policy-Brief-
+7-final-print-for-web-29-3-2020.pdf
+RKVY. (n.d.). Farmer Producer Organization (FPO) – Horticulture. Rashtriya Krishi Vikash Yojana.
+Ministry of Agriculture and Farmers Welfare. Retrieved from
+https://rkvy.nic.in/Uploads/SucessStory/KARNATAKA/2019/2019115958Farmer%20Pro
+ducer%20Organization%20(FPO)%20-%20Horticulture.pdf
+Saini, V (March 2, 2021). Rajasthan FPO & ITC MoU on Procurement of Organic Cumin.
+Retrieved 5 January 2022, from https://krishijagran.com/crop-care/rajasthan-fpo-itc-mou-
+on-procurement-of-organic-cumin/
+Shah, T. (2016). Farmer Producer Companies: Fermenting New Wine for New Bottles. Economic &
+Political Weekly, 51(8), 15-20.
+Singh, S., & Singh, T. (2014). Producer Companies in India: Organization and Performance, New Delhi,
+Allied Publishers, 152 pp., DOI: 10.1177/0049085715574215
+Subash, S. P., Ojha, J., Ashok, A., &Nikam, V. (2019). Farmer Producer Companies in India:
+Trends, Patterns, Performance and Way Forward. 10.13140/RG.2.2.32278.40000.
+Sultana, Arifa. (2016). Successful Farmer Producer Companies in India - What Telangana State
+can learn from them?
+Swati, C. (2016). Luvkush Crop Producer Company: a farmer’s organization. Decision, 43(1), 93–
+103. doi:10.1007/s40622-015-0121-1
+Trebbin, A. (2014). Linking small farmers to modern retail through producer organizations-
+Experiences with producer companies. Food Policy, 45, 35-44.
+Trebbin, A.,& Hassler, M. (2012). Farmers’ producer companies in India: a new concept for
+collective action? Environment and Planning A, 44(2), 411–427. doi:10.1068/a44143
+Vandana, R., &Ayush, V. (2021). Conscious Consumption during Covid lockdown: How
+communities in India’s Milk Capital created new markets for an FPO. In C. Shambu Prasad
+& D. Deborah (Ed.), Fields of Change: Managerial Insights on FPOs in India (pp. 96-100).
+Vutukuru, V.K., Singh, P.,& Kumar, M. (n.d.). Delivering Value for Small Farmers: Farmer
+Producer Organizations in Jeevika. Jeevika Learning Note Series, 7, 69-76. Retrieved from
+https://documents1.worldbank.org/curated/en/298391515516507115/
+122290272_20180012014525/additional/122548-WP-P090764-PUBLIC-India-BRLP-Booklet-
+p.pdf
+Zachariah, S. (2020). Hyderabad Techie Quits Job, Helps 400 Farmers Build Successful Organic
+Food Brand. Retrieved 20 December 2021, from https://www.thebetterindia.com/
+237841/andhra-pradesh-engineer-entrepreneur-farmer-earns-lakhs-yazali-farmers-
+producer-company-rural-inspiring-ser106/
+21 | P age
+
+Appendix: Major Government Schemes for FPOs’ Promotion
+▪ Business Development Assistance by NABARD: NABARD provides maximum ₹5 lakhs
+financial assistance as grant to eligible FPOs on matching grant basis. In order to qualify for
+the assistance, the FPO is required to have minimum 200 shareholders and 5 years business
+plan along with other prerequisites. In case of more than ₹2,000 equity contribution, only
+₹2,000 is being considered for arriving at the matching grant.
+▪ Equity Grant Scheme of SFAC: Under the scheme, eligible FPCs (whose paid up capital is less
+than ₹ 30 lakh can receive a grant equivalent to their equity contribution of their shareholder
+members in the FPO subject to a maximum of ₹15.00 lakh in two tranches. This helps in
+enhancing viability and sustainability of the nascent FPCs.
+▪ Credit Guarantee Fund Scheme of SFAC: Under this scheme, SFAC provides credit
+guarantee cover to eligible lending institutions (banks) to give collateral free credit to the
+eligible FPOs up to ₹100 lakh. Maximum guarantee cover is limited to 85% of the amount.
+▪ Exemption from Corporate Tax: From the FY 2018-19, the producer companies have been
+exempted from corporate tax. Any Producer company making a turnover of up to ₹100 Crores
+and earning profit out of the same, need not to pay any corporate tax, 100% tax deduction has
+been allowed by proposing an extension to section 80P by inserting section 80PA to the Act.
+The benefit shall be available for a period of five years.
+▪ Central Sector Scheme on “Formation and Promotion of 10,000 New FPOs: Government of
+India has launched this scheme in 2019 with initial financial and managerial support. The
+scheme is targeted for five-year period till 2023-24, with adequate handholding support to the
+FPOs for five years till 2027-28. It envisages to form and promote at least 15% of the targeted
+10,000 FPOs in aspirational districts with at least one FPO in each block of these districts in the
+country. For this, 9 Implementing Agencies (IAs) have been identified, These are Small
+Farmers Agri-Business Consortium (SFAC), National Cooperative Development Corporation
+(NCDC), National Bank for Agriculture and Rural Development (NABARD), National
+Agricultural Cooperative Marketing Federation of India (NAFED), North Eastern Regional
+Agricultural Marketing Corporation Limited (NERAMAC), Tamil Nadu-Small Farmers Agri-
+Business Consortium (TN-SFAC), Small Farmers Agri-Business Consortium Haryana
+(SFACH), Watershed Development Department (WDD)- Karnataka & Foundation for
+Development of Rural Value Chains (FDRVC)- Ministry of Rural Development (MoRD). The
+FPOs under the scheme can be formed either under Companies Act or under Co-operative
+Societies Act. The IAs will engage specialized Cluster Based Business Organizations (CBBOs)
+who have prior experience of farmer mobilization, marketing of agricultural products, MIS
+(Management Information System) implementation and overall business development of
+farmer organizations. Under this scheme, the FPOs get funding support for first 3 years.
+Besides, it can avail Equity Guarantee of up to ₹15.0 lakhs and Credit Guarantee up to ₹2.0
+crore of project loan per FPO through the IAs. Capacity building and skill development of
+CEOs/Board of Directors, Accountant and other stakeholders are made through different
+national/regional training institutions in India
+22 | P age
+
+Notes
+23 | P age

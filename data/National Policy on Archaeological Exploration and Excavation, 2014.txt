@@ -1,0 +1,831 @@
+ARCHAEOLOGICAL SURVEY OF INDIA
+
+National Policy on Archaeological Exploration and Excavation
+PREAMBLE
+
+With the establishment of the Asiatic Society in Kolkata on 15 January 1784 under
+the stewardship of Sir William Jones, field studies of antiquarian remains in India
+were placed on a firm footing, In the ensuing 75 years scores of discoveries involving
+cave and structural temples, Buddhist stupas and other monuments, and other
+antiquarian remains were reported from the length and breadth of the subcontinent.
+To be sure, all these discoveries were made by highly motivated amateurs, most of
+them forming part of the colonial administrative set-up. Some of the more important
+among these discoveries include the discovery of the Amaravati stupa and preparation
+of what is regarded as the first site map in world archaeology by Colin Mackenzie in
+1817, the recovery of Roman coins from several places in South India, the reporting of
+megalithic tombs from the Malabar region by John Babington in 1823, the
+decipherment of Brahmi and Kharosthi scripts by James Prinsep and others in 1830s,
+James Fergusson’s pioneering surveys of ancient Indian temple architecture between
+1827 and 1841 and Meadows Taylor’s systematic recording and excavation of
+megalithic stone-circles in the Deccan in 1840’s using the method of stratigraphy.
+
+Against the background of interest generated in archaeological sites and of the
+need to protect them, the colonial government established the Archaeological
+Department in 1861 and appointed General Alexander Cunningham as its Head
+because he had already acquired first-hand knowledge of many important historical
+sites of Northern India since 1930’s. Cunningham’s annual surveys of historical sites
+of northern India for the next 20 years form the first major chapter in the history of
+Indian archaeology and the reports on his discoveries, using the words of Lord Curzon,
+still serve as ‘a noble mine of information’.
+
+Likewise, during the same period the geologist Robert Bruce Foote reported
+numerous Stone Age and other sites from southern India and laid strong foundations
+for prehistory. At the same time pioneering discoveries of rock-art sites were made by
+A.C, Carllyle in Mirzapur area.
+
+The discovery of Mohenjo-Daro and Harappa and their excavations by John
+Marshall and his Indian colleagues such as R.D. Banerji and D.R. Sahni in the first
+quarter of 20t century not only brought to light a new Bronze Age civilization in the
+Old World but introduced horizontal excavation in the Indian context. This work also
+heralded the emergence of protohistory. Major exploration programmes were
+undertaken by Aurel Stein, N.G. Majumdar and other workers.
+
+During his four-year tenure (1944-48) as the Director General, Mortimer Wheeler
+not only trained about 100 young workers from both government departments and
+universities in scientific excavation in the field schools he conducted at Taxila but
+adopted these methods in his own excavations at Arikamedu, Brahmagiri and
+Harappa. During the pre-Independence period princely states like Mysore, Hyderabad
+and Baroda and university departments at Pune and Kolkata also undertook in a
+limited way excavations and explorations in their respective areas.
+
+1|Page
+
+
+In the post-Independence period the Archaeological Survey of India (ASI) continued
+its exploration and excavation programmes in prehistory, protohistory and historical
+archaeology under the leadership of A. Ghosh, B.B. Lal, B.K. Thapar, M.N, Deshpande
+and other senior archaeologists. Also a major salvage excavation was undertaken at
+the early historical site of Nagarjunakonda in 1950s and expert field teams were
+deputed to Egypt, West Asia and South-east Asia for assisting local archaeologists in
+restoration work. University and State Departments also made very significant
+contributions to field archaeology. H.D. Sankalia, G.R. Sharma and B. Subbarao are
+some among the key figures from universities who shaped post-Independence
+archaeology. Following R.N. Mehta’s Pioneering Work at Champaner, other sites such
+as Viyayanagara (Hampi), Fatehpur Sikri, Daultabad and Lal Kot were excavated and
+these placed medieval archaeology on a sound footing. Several foreign institutions also
+undertook major field investigations in different parts of the country. The results of all
+these excavations and explorations have been regularly reported in Indian Archaeology
+— A Review and in some cases also published as independent reports (see list of major
+sites in Annexure-A).
+
+Explorations and Excavations still form the major research component of field
+archaeology in India. These are guided by certain rules and regulations framed by the
+Government from time to time, The following pages will briefly review the situation
+and, wherever necessary, fresh guidelines will be recommended. Considering the fact
+that archaeological sites are now under a serious threat due to developmental projects
+of various kinds initiated by both governmental and non-governmental agencies,
+priority areas will be suggested for future explorations and excavations.
+
+2. LAWS AND REGULATIONS
+
+Illegal diggings for treasure hunting and destruction of archaeological sites and
+remains attracted attention of the Government from early times. Bengal Regulations
+XIX was framed in 1810, followed by Madras Regulations VII in 1817. Then Treasure
+Trove Act 1878 was brought into force. This was followed by the promulgation of other
+acts on preservation of ancient monuments and sites and also of antiquities viz.
+Ancient Monuments and Archaeological Sites and Remains Act 1958 and AMASR Rules
+1959 and Antiquities and Art Treasures Act 1972 and AAT Rules 1973,
+
+The Central Government through the AMASR Act, 1958 empowered the
+Archaeological Survey of India to regulate archacological excavations in the country.
+The Sections 21, 22, 23 and 24 of this Act empower an archaeological officer or an
+officer authorized by him in this behalf or any person holding a license granted in this
+behalf under this Act, after giving notice in writing to the Collector and the owner, to
+enter upon and make excavations in any protected area (section 21). The
+archaeological officer can also carry out excavations in unprotected area (section 22).
+The Central Government is empowered to acquire antiquities found during any
+excavation work (section 23). The State Governments require approval of the Central
+Government to undertake any excavation or other field operations for archaeological
+purposes in any area, which is not a protected area (section 24).
+
+Proposals for excavation by universities and learned institutions are required
+to be routed through the concerned State Governments and Rule 26 (chapter IV) of the
+AMASR Rules 1959 empowers the Central Government to depute an archaeological
+officer to inspect the excavation or operation while it is in progress and render such
+advice as he deems necessary. Forms II, III, IV and V of the said Rules are concerned
+respectively with following aspects:
+
+2|Page
+
+
+(i) Applications for license to excavate in a Protected Area;
+
+(ii) License for Excavations in a Protected Area;
+
+(iii) Report on Antiquities excavated in a Protected Area; and
+
+(iv) Report on Antiquities excavated by an Archaeological Officer.
+
+3. UNESCO RECOMMENDATIONS
+
+The General Conference of the United Nations Educational, Scientific and
+Cultural Organization (UNESCO), in its meeting at New Delhi on 5 December 1956,
+adopted the Recommendation on International Principles Applicable to Archaeological
+Excavations. It was considered that, though the regulation of Excavation is first and
+foremost for the domestic jurisdiction of each country, this principle should be
+brought harmony with principles of liberally understood and widely accepted
+international co-operation. Archacological Excavations were defined for the purpose of
+the Recommendation as "any research aimed at the discovery of objects of
+archaeological character, whether such research involves digging of the ground or
+systematic exploration of its surface or is carried out on the bed or in the sub-soil of
+inland or territorial waters of a Member State". For protection of the archacological
+heritage, the Recommendation for each Member State is to make archacological
+explorations and excavations subject to prior authorization by the competent authority
+and impose penalties for any infringement of the regulations. In order to provide for
+benefit from improved techniques and advance in archaeological scholarship in future,
+the Recommendations suggest that in case of larger sites, insofar as the nature of the
+land permits, well-defined ‘witness' areas might be left unexcavated in several places
+to allow for future verification of the stratigraphy and archaeological features of the
+site. It also suggests that Member States should encourage planning of excavations by
+joint missions of scientists from their own countries and of archaeologists representing
+foreign institutions or international missions. It is also enjoined upon the excavator to
+publish the results of his work within the period stipulated in the deed, or, in cases
+lacking such stipulations, within a reasonable period. The authorities should also
+prevent photographic or other reproduction of unpublished archaeological material.
+The above Recommendations of the UNESCO (also known as Delhi Declaration), have
+been accepted by the Member States including India.
+
+4, SUGGESTED PRIORITY AREAS IN FUTURE ARCHAEOLOGICAL
+EXPLORATIONS AND EXCAVATIONS
+
+The archaeological research comprises Exploration and Excavation along with
+allied studies such as geo-archacology, palaeo-environment, paleontology, palaeco-
+botany, ancient metallurgy as. As defined in Wheeler Report 1965 Exploration and
+Excavation are closely complementary activities. For every excavation careful objective
+oriented exploration is a pre-requisite.
+
+The Exploration comprises the discovery and recording of ancient sites and.
+remains still visible on the surface of the ground while excavation unearths the
+archaeological remains embedded below the surface of the earth. The explorations
+include  village-to-village exploration, probiem oriented exploration, salvage
+exploration, under water exploration and occasional exploration on the information
+received from the public, media and other sources.
+
+The Excavation comprises debris clearance, salvage operation, problem oriented
+excavations - trial excavation, small scale excavation, and large scale excavation.
+3|Page
+
+
+The various programmes of exploration and excavation undertaken in the
+country since the establishment of the Asiatic Society have given us a good picture of
+the richness of India’s archaeological record stretching back to more than a million
+years. As desired by Mortimer Wheeler at the end of his tenure in concept paper
+entitled “Archaeological Fieldwork in India’, “Planning Ahead”, Ancient India, No. 5,
+(1949), Indian archaeology since Independence has achieved remarkable success in
+the construction of regional time-tables of cultures. We have a fairly good knowledge
+of the broad cultural contents and chronological limits of these frameworks.
+
+But we need to avoid complacence. The frameworks are still by and large
+skeletal and need to be filled up with flesh and blood. We need to complement
+classificatory and descriptive accounts with culture process-oriented studies.
+Secondly, our existing knowledge is confined to a small portion of the total
+archaeological record of the country. There are many and vast stretches of the
+landscape which are yet to be brought under archaeological investigations. There are
+good indications that these landscape patches too have remains of the Stone Age,
+protohistoric, historical and mediaeval periods. This gap in the spatial coverage of
+fieldwork particularly stares us in the face in the context of threats to archaeological
+sites arising from various developmental projects initiated or being planned in different
+parts of the country. The vast number of sites destroyed under the Upper Krishna
+and Narmada Sarovar irrigation projects constitute a painful example. A two-fold
+effort is required for attending to this situation: a) changes in research strategies; and
+b) identification of problem-oriented research projects covering various time-periods..
+
+A) Changes in Research Strategies
+
+1. There is a clear need to rise above the level of cataloguing and classificatory
+studies of archaeological sites and recognize the cultural processes responsible
+for them. In other words, culture process approach is called for, which treats
+human cultures as systemic and functioning entities. The processual
+perspective advocates the adoption of a regional approach to the archaeological
+record, as against the one-site or big-site approach of earlier periods. The
+emphasis now is on the identification of all kinds and sizes of sites from the
+point of view of formation processes, Understanding of the distribution pattern
+of sites against the background of seasonality of climate and resources of the
+landscape results in the reconstruction of past cultures as settlement systems.
+
+2. Settlement system approach to the past calls for a close integration of cultural
+and environmental data. Reconstruction of palaeoenvironments requires the
+close application of various geo- and biological sciences. While adopting these
+approaches one has to keep in mind the tremendous geographical diversity that
+exists in India — in rainfall, vegetation, soils, topography, etc. This could have
+generated tremendous cultural diversity. We clearly need to rise above the level
+of treating various cultural phases as uniform or unvarying all-India level
+entities.
+
+3. Since the landscape is undergoing rapid transformation due to the initiation of
+various developmental projects, it should be made obligatory on the part of all
+agencies involved in field studies to give priority to these areas while planning
+their research projects.
+
+4. Revival of village-to-village survey needs immediate attention. Also changes
+should be made in the existing antiquarian laws to introduce contract
+archaeology or Culture Resource Management (CRM).
+
+5. Scientific dating of sites including rock art sites needs to be taken up on a
+larger scale.
+
+4([Page
+
+
+6, Ethnographic recording of the rich diversity that exists in the living hunter-
+
+gatherer and agropastoral groups of various parts of the country will provide
+many useful analogies for reconstructing past cultural processes.
+
+7. Careful strategic planning of excavation for a period of years, SO far as possible
+on a regional or even an all -India basis. More intensive explorations coupled
+with excavations are called for particularly in outlying areas like Kashmir and
+North-east India and Southern tip of India.
+
+8. While planning field projects support and advice may be sought from the
+Ministry of Environment, Ministries of Rural Development and Agriculture,
+Geological Survey and Anthropological Survey.
+
+9, Since present day archaeological investigations comprise a lot of scientific
+studies closer collaboration with the Universities, IIf’s and other scientific
+institutions is highly required, It will address the archaeological problems
+related to scientific studies and develop these institutes as well as ASI with the
+required expertise.
+
+10.Full use of students-assistance should be ensured to create expertise in
+Exploration and Excavation.
+
+11.Public education about local archaeological sites should highlight the pluralistic
+character of our heritage and promote what Pandit Jawaharlal Nehru called
+scientific temper of mind among our people. As Mahatma Gandhi desired,
+people should be made to realize that they are the trustees of heritage.
+
+12.Time bound execution of research projects and timely publication of reports.
+
+B) Problem-oriented Research Projects
+Keeping in view the research strategies suggested above, there is a need to
+formulate well planned long-term, specific, problem-oriented research projects
+covering various time-periods of our past.
+
+1. Prehistory: The following topics deserve attention:
+
+e Understanding internal evolution with the Lower Palaeolithic.
+
+e ‘Transition from the Lower to Middle Palaeolithic, Middle to Upper
+Palaeolithic.
+
+e Genesis of the Mesolithic and regional variability.
+
+e Explorations in Kashmir Valley, North-east India, Southern Karnataka,
+southern Tamil Nadu and other unexplored areas.
+
+e Focussed research in Siwalik Hills, Rajasthan, Gujarat, Central India,
+Chota Nagpur Plateau, Kurnool and Cuddapah basins, Kortallayar basin,
+Bhima and Kaladgi basins, and the Deccan uplands to reconstruct Stone
+Age settlement systems and their regional identities.
+
+2. Protohistory: The suggested topics include the following:
+e Intensive surveys in Gujarat, Rajasthan, Punjab and Haryana for location
+small and big sites and recognizing regional variability in the Late
+Harappan.
+e Ascertaining the genesis and evolution within the Harappan culture.
+e Culture process oriented studies of early farming cultures of Ganga valley.
+© Recognizing sub-regional of diversity within the major agropastoral
+Neolithic-Chalcolithic cultures of the country spanning 4" and 2nd
+millennia BC —- in terms of differences in material culture equipment,
+animals domesticated, crops raised and other aspects.
+e Use of symbolic approaches for the recognizing perceptions of early
+agropastoral groups vis-a-vis other human groups, plants, animals and
+natural features like hills, caves and water sources.
+
+5|Page
+
+
+o.60?F;06Um]lmUlUD e¢ c¢ 8 8
+
+@
+
+Transition from Mesolithic to Neolithic — Chalcolithic stage.
+
+Transitions from Neolithic-Chalcolithic stage to Iron Age.
+
+Investigation of habitation sites of the Iron Age.
+
+Inferring aspects of socio-economic organization from study of distribution
+pattern of megalithic tombs on large sites.
+
+Ancient quarrying and mining activities.
+
+Ancient metallurgy.
+
+Projects dealing with ancient plant and animal remains.
+
+Studies of ancient human skeletal remains, using palaeopathology, DNA
+and other techniques.
+
+Rock art sites and their geographical and cultural contexts; interpretive
+studies of motifs depicted.
+
+3. Historical Period:
+
+6
+
+eo ¢ 8 8 ©
+
+e
+
+Factors responsible for Second Urbanization.
+
+Regional diversity in the emergence of Second Urbanization.
+
+Regional approach to the archaeological record of historical period;
+construction of regional culture-sequences.
+
+Archaeology of the coastal tracts.
+
+Investigation of habitation sites, temples and other monuments.
+
+Quarries and workshops of ancient art.
+
+Architectural and epigraphically surveys.
+
+Projects for understanding India’s cultural contacts with areas on the west
+and the east.
+
+Projects concerning archaeology of ancient trade routes.
+
+Correlation of literary traditions with archaeological data.
+
+Agro-archaeology -— tracing the history of cropping from seed analysis
+discovering modes of hoe and plough use as well as determine seed-yield
+ratios.
+
+Hydro-archaeology - examination of old river-courses, silt accumulations,
+exploration of old canals, wells, ponds and modes of water-left and
+irrigation,
+
+Industrial archaeology - Study of mechanical devices, old tools, machines
+and machine parts of historical and early historical period.
+
+Marine archaeology — study of coast-lines, rise and fall of water-levels,
+ships, sailing regimes etc.
+
+Salvage Archaeology or Operation - Salvage operation is required to
+understand the cultural impact assessment of the sites which are under
+threat from various - development schemes like construction of
+dams/railway tracks/roads, irrigation, development of industries, urban or
+agricultural development, jungle clearance and land reclamation so that the
+documentation of archaeological remains is necessary before being lost to
+posterity,
+
+4. Medieval Period:
+
+6
+
+e
+
+Regional approach to the study of medieval sites; construction of regional
+culture-sequences,
+
+Investigations of habitation sites including excavation for reconstructing
+lifeways of people, e.g. Maratha period in Deccan.
+
+5. Colonial Period:
+
+e
+
+Study of early colonial settlements and factories in the emergence and
+expansion of colonial powers.
+6[Page
+
+
+e Colonial art and architecture.
+e Colonial settlements and cemeteries.
+© Under Water Archaeology.
+
+5. GUIDELINES FOR UNDERTAKING EXPLORATIONS
+
+1% has already been pointed out that, despite explorations undertaken over the
+last two centuries and a quarter, much of the Indian landscape still remains terra
+incognita from the point of view of antiquarian remains, While emphasizing the
+richness of the Indian archaeological record, Wheeler remarked in his book My
+Archaeological Mission to India and Pakistan (1976): “Go to any living village in India
+and you will find beneath it layer upon layer of vestiges of ancient civilization”. No
+meaningful picture of our past can ever be attempted without having 4 reliable
+knowledge of at least a major portion of this record scattered on the landscape.
+
+It has also been mentioned earlier that this archaeological record, consisting of
+secular and religious monuments, epigraphical and numismatic materials, rock art
+sites, and archaeological sites yielding a variety of objects ranging from ceramics to
+simple ornaments of bone and stone, human skeletal remains, and botanical and
+archaeozoological remains, has in recent times come under a serious threat due to the
+initiation of many major developmental projects of yarjous kinds. There is, therefore,
+an urgent need to promote explorations on an extensive scale as to facilitate recording
+of new sites.
+Against this background the following steps need to be taken:
+
+e The ASI should allot adequate funds to all its circles for reintroducing
+village-to-village survey in their respective regions.
+
+e State Departments of Archaeology should also be persuaded to take up
+village-to-village survey.
+
+e University departments and other research institutions should also be
+persuaded to recommend to students regional or site level explorations
+topics for Ph.D., M. Phil. and M.A. dissertations. It is not necessary to
+obtain prior permission for such projects which may also involve
+ascertaining the nature and extent of archaeological deposit. The
+universities will send to ASI detailed reports on these exploration
+schemes.
+
+e Amendment of existing antiquarian rules to make it obligatory on the
+part of agencies responsible for developmental projects to have the
+archaeological material of the land patch properly recorded by an
+accredited institution before commencing actual project work.
+
+© Village /Mandal Panchayats should be encouraged to report findings of
+antiquarian remains in their respective revenue limits.
+
+e Air-photography should be employed for marking the features of
+ploughed out banks, filled-in ditches, street-plans, fortifications and
+such other buried ghosts of landscape which are difficult to be
+recognized on the ground.
+
+6. PUBLICATION OF EXPLOARTION REPORTS
+
+Reports on all Explorations should be prepared regularly and rendered yearly in
+a state fit for publication to the Director General.
+
+7|Page
+
+
+7. GUIDELINES FOR GRANTING PERMISSION FOR EXCAVATION BY THE
+CENTRAL GOVERNMENT
+
+A) Complete information
+
+The applicants must supply complete information in the proforma as
+prescribed in Annexure 'B'. Proposals with incomplete information will be
+returned to the applicants, after the preliminary scrutiny, indicating the
+missing information. If the revised proposals are not received before the next
+meeting of the Standing Committee (SC} of the Central Advisory Board of
+Archaeology (CABA), they may not be considered for approval for that
+particular season.
+
+B) Proposal from institutions
+
+Cc
+
+D
+
+—
+
+—
+
+E)
+
+F)
+
+G
+
+—
+
+The application made on behalf of an institution shall be signed by the
+Head of the institution.
+
+In the case of universities, the proposal made by the Professors or other
+staff and not signed by the Vice Chancellor / Registrar of the University will
+not be considered for approval.
+
+Separate proposals
+Separate proposals must be submitted for excavations at different sites.
+Proposals mentioning more than one site will be summarily rejected.
+
+Location of the site
+
+Complete location with maps and details of the site including name of
+ancient mound, name of locality - village/town, taluka, district and state
+along with geo-coordinates should be mentioned. A proposal with sketchy
+location is liable to be summarily rejected.
+
+Previous exploration and excavation
+
+Excavation should be taken only if necessary and as the last step in the
+process of field study. It is, therefore, very important to study the site in
+detail using nondestructive methods, before carrying out excavation.
+
+The importance of the site could be assessed by the nature of antiquities
+found in previous explorations and excavations. Excavations on the sites
+will not be permitted unless the potentiality of site is known earlier through
+detailed explorations or any excavation conducted earlier.
+
+However, salvage excavation at any particular site in view of its likely
+destruction and important findings or chance discoveries may be permitted
+as an exception.
+
+Purpose of excavation
+
+Every excavation should have a specific purpose. If the purpose can be
+understood by other means without excavation, priority should be accorded
+to them, Emphasis should be given to problem-oriented investigations.
+
+Area of excavation
+
+No blanket permission to excavate in any area can be granted and it is
+essential that the area of excavation be clearly defined. The applicant should
+study the site in detail and identify the area of excavation before putting up
+the proposal. A detailed plan of the site showing in red outlines the extent of
+the proposed excavation or operation should be attached with the proposal.
+
+8| Page
+
+
+H) Duration of excavation
+
+1)
+
+J)
+
+For successful completion and achieving the goal of any excavation, it is
+necessary that the excavation be planned in detail. Proposed duration of the
+excavation or operation and date of commencement of the excavation should
+be decided keeping in view the availability of funds and other factors.
+Applicant should adhere to the time schedule mentioned in the proposal,
+unless there are unavoidable reasons to make changes in the given time-
+schedule. In that case, the applicant must inform the changed schedule to
+the authorities of Central Government as well as State Government in
+advance.
+
+It will help to prepare a national calendar for excavations that will
+facilitate archaeologists, archacological officers, researchers and students to
+visit various excavation sites.
+
+Funds for excavation
+
+Applicants not having sufficient funds to meet the required expenditure
+on the proposed excavation or operation would not be given approval for
+excavation. Besides fieldwork-sufficient funds should also be earmarked for
+preparation of excavation report.
+
+Institutions having limited funds are advised to concentrate their
+resources at a few specific sites and carryout systematic work with detailed
+scientific studies, such as absolute dating and analyses of soil samples and
+plant material and animal zones. They may apply to the Archaeological
+Survey of India for matching grant if funds are not sufficient to carry out
+work for a particular season.
+
+Director of excavation
+
+Excavation at any site shall be conducted under the supervision of one
+Director only.
+
+The excavation will not be approved merely on the basis of the status of
+the Director. He shall have enough experience to handle the entire
+excavation project.
+
+The Director of excavation should have participated in at least five
+excavations and actually worked in the excavations for a reasonably long
+period of time. In exceptional cases the Standing Committee may waive this
+condition and record the reasons thereof in writing, Barring exceptional
+circumstances, which are to be recorded in writing, Director of the
+excavation shall not be changed.
+
+Any proposal for excavation which does not mention the details of
+previous excavations carried out by the Director and the stage of publication
+of previous report(s) of his excavation(s} may not be approved.
+
+K) Equipments and staff
+
+L)
+
+The applicant should have sufficient trained staff and instruments
+required for the proposed excavation. Applicants not having sufficient
+photographic, surveying and other equipments shall not be permitted to.
+excavate.
+
+Collaboration
+
+Collaboration between various institutions specializing in various fields
+of archaeology and science should be encouraged. Role of various
+collaborative agencies should be well defined.
+
+9|Page
+
+
+In the case of collaboration with foreign agency, it would be the
+responsibility of Indian collaborator to act as Director of excavation and to
+ensure that the excavated material is kept in safe custody in the Indian
+institution, and the provisions of the Ancient Monuments and Archaeological
+Sites and Remains Act, 1958 are implemented. The foreign expert would be a
+collaborator or the Co-Director to assist the Director of the Excavation
+Project.
+
+No archaeological samples shall be sent outside the country for scientific
+analysis or dating without the approval of the Director General,
+Archaeological Survey of India.
+
+(M) Publication of excavation reports
+No excavation is complete till its report is published and made available
+to public. Publication of excavation report is an integral and the most
+important part of any excavation.
+
+The time schedule to be given to the Project Directors for writing and
+submission of Excavation Reports will be as follows:
+
+(a) Brief reporting in respective Indian Archaeology: A Review - ANNUALLY,
+
+(b) Interim Report of the work done in each season comprising relevant section
+drawings, stratigraphy, important findings with illustrations. - ANNUALLY.
+
+(c) Excavation report after the conclusion of the excavation as per Wheeler
+Committee Report 1965 —- comprising the facts of the excavation, the plan of
+a site, its stratigraphy, the relationship of buildings and objects to the
+culture or cultures, a brief definition of these cultures in the light of present
+knowledge, a precise account of the work done. SIX MONTHS.
+
+The reports will be in pdf format (printable) comprising Black & White images
+may be with a maximum resolution of 300 dpi, and the colour images with 600
+dpi.
+
+The published material under the above reports has to be available for
+the Scholars/Researchers/Students/Public to utilize the data for their
+knowledge and research work.
+
+Those who have not followed above time schedule may not be permitted
+to take up any other excavation till their previous report(s) are submitted
+for publication.
+
+Priority has to be given to clear up the back log of the reports on work
+already done.
+
+(O) Other Relevant Information
+Any other relevant information furnished by the applicant may be
+considered for approval of the proposal.
+
+(P) Approval of the State Governments
+Proposal for any excavation by the University or learned institution
+would not be considered for approval without the approval of the concerned
+state government.
+
+(Q) Recommendations to be recorded
+
+10| Page
+
+
+All the proposals will be signed by the Standing Committee of the CABA
+and its recommendations and decisions will be recorded.
+
+(R) Decisions to be conveyed
+Decisions of the Standing Committee shall be conveyed to all the
+applicants.
+
+{S) Number of Excavations
+Director of any excavation shall not be allowed to take up more than
+TWO excavations in a field season.
+Limited excavations would help in utilizing the staff, equipments and
+funds to carry out systematic excavation with detailed analysis. This in turn
+would bring better results and help in faster preparation of reports.
+
+8, CULTURAL EXCHANGE PROGRAMME WITH FOREIGN COUNTRIES
+
+‘The Archaeological Survey of India should attach young Indian archaeologists
+for foreign/ or Indian mission working in the archaeology of other countries with
+which India had cultural relationship in the past, for example, West Asia, Central
+Asia, South East Asia, China and Africa. It would help towards developing
+specialization in archaeology of those countries. In the same way, archacologists of
+those countries may be provided facilities to participate in the excavation and other
+field works in India. Such participation would inter-alia put Indian achievements in a
+wider context.’
+
+9. PREPARATION OF CATALOGUES OF ANTIQUITIES
+
+Archaeological Survey of India, State Departments of Archaeology, Universities
+and other organizations have in their possession vast collection of objects and
+antiquities of various kinds obtained from explorations and excavations. In order to
+facilitate their use by other scholars for research/reference purposes and also to
+document them for purpose of future record, it is necessary to prepare catalogues or
+registers of these objects. The following suggestions are made in this regard:
+
+e The institutions responsible for explorations/excavations and holding the
+collections in their possession shall prepare period and site-wise registers or
+catalogues of all finds.
+
+e For this purpose funds may be made availability by the National Mission on
+Monuments and Antiquities.
+
+e These catalogues shall be completed in a period of five years. They should be
+published, as they will have tremendous value from both documentation and
+research points of view.
+
+11|Page
+
+
+Annexure-A
+
+List of Some Important Excavated/Explored Archaeological Sites in India
+
+(A) Prehistoric Sites
+Pallavaram, Gudiyam, Poondi, Attirampakkam, Vadamadurai, Nellore,
+Amridhamanglam, Yigacaripalem, Kovalli, Devapur, Sanganakallu, Peddarachapalli,
+Hunsgi, Yediyapur, Isampur, Lakhmapur, Jwalapuram, Wajjal, Yerragondapalem,
+Billa Surgam, Muchchatla Chintamani Gavi, Hagargundge, Nagarjunakonda,
+Giddalur, Nandipakkam (in Southern India}.
+
+Mahadeo Piparia, Maheshwar, Adamgarh, Bhimbetka, Anagwadi, Gangapur,
+Nevasa, Patne, Bori, Morgoon, Kandivli, Mula-Mutha, Karwi, Lodhwara, Manikpur,
+Lalitpur, Khyad, Mandsaur, Chirki, Lahchura, Rehli, Ghagra, Harat, Aslana, Mariado,
+Bariari, Ramchandra Hill, Durendi, Sitapur, Shahdol, Sidhi, Bilaspur, Hoshangabad,
+Narasinghpur, Chandil, Chaibasa, Ghatsila, Sini, Choli, Khatki Mata, Kalegaon,
+Paithan, Bhadne, Boregaon Nandur, Ambejogai, Deva-Kachar, Burman Ghat, Sihra,
+Ghatsemtra, Hasrai, Gonchi, Mori (in Central India and Deccan).
+
+Bhutia, Hajra-Kheri, Beawar, Champakheri, Vedul-Lachervu’ Rampura,
+Warsora, Goda, Chittaurgarh, Tilwara, Bagor, Langhnaj Tarasang, Ambakut, Jogpura
+(in Western India}.
+
+Paisara, Bhimbandh, Susunia, Daphabum, Kangsbati, Dhekulia, Pratappur,
+Marvania (in Eastern India).
+
+Pahalgam, Banganga, Nalagarh, Sirsa, Markanda, Dera, Kharauni, Chandi
+Mandir, Guler, Jurro, Pinyani, Terra, Moh, Jagatpur, Nandi, Mananu, Paltha,
+Bhangarh, Nanakanthur, Chikalia, Nabharagarh, Khadki, Anangpur, Basauli,
+Lekhania, Sarai Nahar Rai {in Northern India}.
+
+Besides these, a large number of sites and group of sites on river valleys and
+hilly ranges throughout the country have been investigated.
+
+(B} Neolithic Sites
+Kupgal, Sauganakallu, Nagarjunakonda, Jalahalli, Banahalli, Sawyerpuram,
+Maski, Piklihal, Utnur, T. Narsipur, Tekkalakotta, Hallur, Kodekal, Budihal,
+Paiyampalli, T. Katlupatti, Brahmagiri (in Southern India).
+
+Eran, Basoda, Besnagar, Amakheda, Pipalia, Lorka, Nayakheda, Nandura,
+Maheshwar, Navdatoli, Pipalda, Badada, Chikalda, Khedi, Bagor, Kuchai, Adamgarh,
+Pachmarhi, Langhnaj, Marve, Yerangal (in Central and Western India).
+
+Baidpur, Chirand, Sonepur, Oriup, Pandu Rajar Dhibi, Ban Asuria, Kachinda,
+Kankradara, Barkola, Bangarh, Tamluk, Chakradharpur, Chitra, Abri, Rengchengiti,
+Ringigiri, Selbalgiri, Rokimi, Karami, Siromi, Lazimi, Itumi, Deojali Hading, Samtaru
+(in Eastern India).
+
+Mahagra, Koldihwa, Damdama, Jhusi, Toxwa, Lahuradewa, Sohgaura, Malpur,
+Burzahom, Gofkral, Kanispur (in Northern India).
+
+(C) Chalcolithic and Harappan Sites
+Kallur, Patpad, Pusalpadu, Singanapalli, Banahalli, Kesarapalle, Maski,
+Piklihal, Brahmagiri, Sanganakallu, Tekkalakotta, Hallur, T. Narsipur, Hemmige (in
+Southern India).
+
+12| Page
+
+
+Gungeria, Lothal, Surkotada, Dholavira, Kalibangan, Ropar, Sanghol, Banawali,
+Dhalewan, Baror, Chak 86, Rakhigarhi, Desalpur, Prabhas Patan, Somnath,
+Junikuran, Khinsara, Mehgam, Telod, Bhagatrav, Malwan, Rangpur, Nageshwar,
+Vagad, Bagasra, Nagwara, Loteshwar, Santhuli, Padri, Kuntasi, Rozdi, Ratanpura,
+Navdatoli, Chandoli, Malwa, Jorwe, Kayatha, Daimabad, Savalda, Prakash, Bahal,
+Inamgaon, Nagda, Eran, Tekwada (in Central and Western India and Deccan).
+
+Lal Qila, Mitathal, Ahar, Balathal, Gilund, Ojiyana, Siswal, Noh, Atranjikhera,
+Kalibangan, Banawali, Baror, Bhirrana, Rakhigarhi, Bara, Ropar, Sanghol, Kunal,
+Tarkhanwala Dera, Lahuradewa, Imlidih, Sohgaura, Narahan, Alamgirpur, Manda,
+Daulatpur, Bhagwanpura, Katpalon, Dher Majra, Kotla Nihangkhan, Nagar, Dadheri,
+Saipai, Bahadrabad, Rajpur Parsu, Hastinapur, Jodhpura, Hulas, Sothi, Ambicheri,
+Bargaon, Sinauli, Farmana, Chak-86, Koldihwa, Khajuri, Kakoria, Jhusi, Hetimpur,
+Mahadaha, Damdama, Waina, Khairadih (in Northern India),
+
+Sonepur, Chirand, Parihati, Pandu Rajar Dhibi, Haraipur, Mahisdal,
+Bharatpur, Kotasur, Hattiga, Barabelun, Mangalkot (in Eastern India),
+
+(D) Iron Age, Megalithic and Historical Sites
+
+Arikamedu, Chandravalli, Sengamedu, Hallur, Tekwada, Adichanallur, Sanur,
+Kunnattur, Takalghat, Paiyampalli, Katia, Halingali, Sankavaram, Pallavaram,
+Brahmgiri, Savandurg, Feroke, Maski, Jadigenahalli, Heggadevanakote, Kudige,
+Terdal, T.Narsipur, Machad, Pazhayannur, Porkalam, Banavasi, Udayavara, Sannathi,
+Hampi, Vadgaon-Madhavpur, Kanchipuram, Vasavasamudram, Karur,
+Tirukkampuliyur, Alagarai, Uraiyur, Kaveripattinam, Korkai, Nattamedu, Ganganose
+(in Southern India);
+
+Junapani, Mahurjhari, Takalghat, Khapa, Naitkund, Khaiwara, Dharanikota,
+Nagarjunakonda, Amaravati, Lam, Pochampad, Raigir, Yelleswaram, Ujjain, Vidisa,
+Besnagar, Tripuri, Eran, Paithan, Ter, Kolhapur, Paunar, Bhokardan, Kesarapalle,
+Salihundam, Prakash, Paunar, Brahmapuri, Guntapalli, Jaggayyapeta, Ghantasala,
+Alluru, Bhattiprolu, Kottur, Vengi (in Central India and Deccan).
+
+Shamlaji, Nagara, Kamrej, Bharuch, Veraval, Hathab, Somnath, Akota,
+Vadnagar, Devnimori, Champaner, Patan, Junagarh (in Western India}.
+
+Chandraketugarh, Tamluk, Sisupalgarh, Sonpur, Chechar, Vaisali, Rajgir,
+Campa, Chirand, Kumrahar, Pandu Rajar Dhibi, Boral, Harinarayanpur, Haripur,
+Deulpota, Atghara, Nalanda, Ghorakatora, Juaffardih, Antichak, Bangath,
+Rakshasidanga, Rajbadidanga, Chiruti, Ambari, Suryapahar, Bhishmakanagar,
+Boxanagar, Shyamsunder Tila, Barabati Fort, Udaygiri, Lalitgiri, Ratnagiri, Langudi
+Hill, Khiching, Bandh, Chowdwar, Churangadh (in Eastern India).
+
+Ahichchhatra, Alamgirpur, Allahpur, Hastinapur, Khalaua, Mathura, Ropar,
+Sravasti, Noh, Kampil, Jakhera, Ayodhya, Kausambi, Sringaverapura, Bhardwaj
+Ashram, Piprahwa and Ganwaria, Rajghat, Bhita, Siswania, Sankisa,
+Muhammadnagar, Harnol, Orai, Lalkot, Salimgarh, Purana Qila, Tughlaqabad,
+Adilabad, Mandoli, Bhorgarh, Jhatikra, Ahar, Chandravat, Burzahom, Kanispur,
+Semthan, Ambaran, Guru Baba-Ka-Tibba, Jafarchak, Gofkral, Fatehpur Sikri,
+Kokoria, Lathiya, Nindaur, Bhitari, Mason, Sohgaura, Kananj, Hulaskhera,
+Sanchankot, Agiabir, Prahladpur, Bairat, Jodhpura, Nagari, Rang Mahal, Agroha,
+Kashipur, Kusinagara, Sarnath, Virabhadara (in Northern India).
+
+13|Page

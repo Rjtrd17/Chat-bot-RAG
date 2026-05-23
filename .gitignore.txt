@@ -1,0 +1,12 @@
+# Ignore the entire ragenv directory and everything inside it
+ragenv/
+
+# Ignore the vector store folder
+vectorstore/
+vectorstore/chroma.sqlite3
+
+# Other standard Python files to ignore
+__pycache__/
+*.pyc
+.env
+.dockerfile

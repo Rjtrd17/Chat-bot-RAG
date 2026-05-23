@@ -1,0 +1,1418 @@
+NATIONAL URBAN
+POLICY FRAMEWORK
+STRATEGIC INTENT
+
+
+
+NATIONAL URBAN
+POLICY FRAMEWORK
+STRATEGIC INTENT
+
+
+
+CONTENTS
+Abbreviations �������������������������������������������������5
+Inroduction �����������������������������������������������������7
+Urban Planning ����������������������������������������������12
+Urban Economy ���������������������������������������������13
+Physical Infrastructure �����������������������������������14
+Social Infrastructure ��������������������������������������15
+Housing & Affordability ����������������������������������17
+Transportation & Mobility �������������������������������18
+Urban Finance �����������������������������������������������19
+Urban Governance �����������������������������������������21
+Urban Information Systems ����������������������������23
+Environmental Sustainability ��������������������������25
+Annexure 1:
+NUPF Outcomes Matrix
+(illustrative for States to assess Cities) .................27
+Annexure 2:
+NUPF Outcomes Matrix
+(illustrative for GoI to assess States) ........................27
+Annexure 3:
+NUPF Outcomes Matrix
+(illustrative for GoI to assess overall NUPF) ............28
+Annexure 4:
+NUPF Integrated Outcomes Matrix .........................28
+
+
+
+ABBREVIATIONS
+BID Business Improvement Districts
+CCUP City Comprehensive Urban Plan
+CEC City Economic Councils
+DBT Direct Benefit Transfer
+FAME Faster Adoption and Manufacturing of
+(Hybrid &) Electric Vehicles
+FAR Floor Area Ratio
+GIS Geographic Information System
+HPEC High Powered Empowered Committee
+ICCC Integrated Command and Control Centre
+LAP Local Area Plan
+LEDP Local Economic Development Plan
+MAAS Mobility as a Service
+MoHUA Ministry of Housing and Urban Affairs
+NITI National Institution for Transforming India
+NMAM National Municipal Accounting Manual
+NMT Non-Motorized Transport
+NUP National Urban Plan
+NUPF National Urban Policy Framework
+OSR Own Source Revenue
+SDG Sustainable Development Goals
+SIUP State Integrated Urban Plan
+SLB Service Level Benchmark
+SPV Special Purpose Vehicle
+TDR Transferable Development Rights
+TPS Town Planning Scheme
+UMTA Urban Mass Transport Authority
+URDPFI Urban and Regional Development Plan
+Formulation
+and Implementation
+VCF Value Capture Financing
+
+
+
+The 2011-2021 census decade is expected to see the
+Introduction
+initial impact of national economic corridors and
+India is one among the largest urban systems in green-field cities (i.e. industrial townships, coastal/
+the world, with 377 million people residing in manufacturing zones) contributing significantly
+urban areas in 2011. The transition, which will see towards rapid urban expansion. Also, cities are
+India’s urban population reach a figure close to expected to support a large part of rural areas in
+558.8 million by 2031 (MoHFW, 2019), is not simply terms of strengthening existing economic inter-
+a demographic shift. It places cities and towns at dependence (covering raw material, natural
+the center of India’s development trajectory. In resources, labor, land, logistics etc.) and leverage
+the coming decades, the urban sector will play a economies of scale to ascertain that the outcomes
+critical role in the structural transformation of are inclusive. The NUPF integrates these facts and
+the Indian economy and in sustaining the high targets enhancing the economic opportunities
+economic growth rate. Accelerated job creation through a set of interventions at all levels (city, state
+emerges as a key issue in planning for India’s and national) which could drive India towards a
+urbanization within the larger context of its five trillion dollar economy. The interventions are
+growth and development. as follows:
+• Creating plans and sustainable physical
+Rapid spatial expansion and suburbanization has infrastructure to support enhancing ‘economic
+resulted in addition of 91 Urban Agglomerations base’ of urban areas
+(UA) during the census decade 2001-2011. In • Boosting local economy through set-of
+fact, the mushrooming of new census towns enablers (finance, infrastructure, policy,
+in the vicinity of potential UAs resulted in this regulation, institutional support and
+increment and the resultant increase in the level governance) to provide necessary social
+of urbanization. The emergence of census towns infrastructure including housing, informal
+indicates sectoral transformation in the economy sector livelihood, common services platforms
+which is manifested in insitu-urbanization. for networking etc.
+Importantly, during 2001-2011, 2530 census towns • Promoting mass public transport systems,
+were added as compared to only 242 statutory non-polluting modes, promoting pedestrian
+towns. safety and cycling (to achieve safer and
+healthy cities)
+There are regional variations in the level of • Enhancing the finances of urban local bodies,
+urbanization. South-west India comprising Goa, devolving powers to lead, set-outcome based
+Tamil Nadu, Kerala, Maharashtra, Gujarat and targets and leverage financial resources
+Karnataka show higher levels of urbanization. independently
+Also, the Union Territories of Delhi and Chandigarh • Create real-time urban information hub at
+are highly urbanized. Some of the highly populous local level, integrated with the regional, state
+states of Uttar Pradesh and Bihar show low level and national level database for informed
+of urbanization. Majority of Indian states are 20- decision making
+40 percent urban. Odisha, Assam, and Himachal • Establish systems and technology to ensure
+Pradesh are the least urbanized states in the country environment sustainability to minimize
+with less than 20 percent level of urbanization. negative impact and improve urban resilience
+The spatial pattern reveals regional imbalances (including readiness for manage pandemic)
+since more urbanized and industrialized states
+have large urban clusters with major share of India’s response to urbanization recognizes
+million plus cities. These states invariably attract the international benchmarks as laid out in the
+significant share of private investments as hubs of Sustainable Development Goals (SDGs) 2030,
+economic activities, industries and infrastructure. the Paris Agreement on Climate Change and the
+National Urban Policy Framework: Strategic Intent 7
+
+New Urban Agenda (NUA). Given the growing percent used septic tanks. By 2030, India’s water
+importance of the urban sector, India has demand is projected to be twice the available
+stimulated the growth of this sector by launching supply unplugging severe water scarcity and a
+six missions: Atal Mission for Rejuvenation and possible 6 percent loss in GDP (NITI, 2018). Close
+Urban Transformation (AMRUT); Pradhan Mantri to 20 percent of urban households live in informal
+Awas Yojana (PMAY) - Housing for All (Urban); settlements. As against the need of 2,60,000 buses
+Smart Cities Mission (SCM); Swatch Bharat for public transport, only one-sixth (46,000 buses)
+Mission (SBM); Heritage City Development and are available. As per estimates there is need for an
+Augmentation Yojana (HRIDAY) and Deen Dayal infusion of US $1.2 trillion in urban infrastructure
+Antodaya Yojana – National Urban Livelihoods in India by 2030.
+Mission (DAY – NULM) along with schemes and
+programs to improve urban mobility. The missions The 74th amendment has brought about
+are aimed at improving the quality of life in urban decentralization in letter, but not in spirit. There is
+areas. Integrated within the missions (AMRUT increasing dependency on grants (from 44 percent
+and PMAY) is a set of accompanying reforms, in 2007-08 to 51 percent in 2017-18 of ULB’s
+which aim to improve urban services, make city revenue share), due to limited fiscal and financial
+functioning more transparent and functionaries autonomy of ULBs. Weak institutional and financial
+more accountable. capacities of ULBs and other parastatals agencies
+is affecting service delivery. Only about 1% of the
+This National Urban Policy Framework (NUPF) Urban Local Bodies (ULBs) have investment grade
+outlines an integrated and coherent approach credit rating of A- and above (MoHUA, 2017). This
+towards the future of urban planning in India. is further exacerbated by inadequate expertise
+The NUPF is not an attempt to provide a detailed, to undertake the complex planning, financing
+top-down guidebook for how to build and manage and implementation tasks involved in urban
+Indian cities. It recognizes that most urban issues management. Inefficiency and the dependence
+are under the jurisdiction of States or Urban Local trap feed into each other forming a vicious cycle.
+Bodies and that solutions must be customized to Outdated procedures of urban planning and near
+the local context. One of the starting principles of absence of frameworks for regional economic
+NUPF 2020 is that the imposition of a standardized, growth has led to creation of urban sprawls and
+tightly codified prescription is not desirable. conflicts between urban and rural habitations.
+A set of ten sutras (philosophies) and their To ensure sustainable and equitable growth of the
+corresponding functional areas have been country, there is a need to shift from business as
+developed into a list of priorities, actions and usual to a long-term, integrated approach towards
+outcomes later in this document. This strategic economic growth and sustainable urbanization.
+intent is in the form of a guidance for States to Already the third largest economy in the world
+follow while formulating their urban policies. in purchasing parity terms, India was expected
+to grow at over 7 percent per annum, with
+Challenge and Opportunity aspirations for a possible 8 percent per annum in
+During 2000s, India witnessed a ‘demographic the future years before the pandemic struck. . The
+dividend’ indicating a rise in the percentage share GoI is promoting cooperative and competitive
+of working age population. A high percentage share federalism, marked by a significant devolution of
+of youth and working population in urban India revenues and responsibilities to the states while
+could be an asset in the process of nation building fostering friendly competition and collaboration
+if proper education, skill training and decent among states to drive better performance and
+employment opportunities are made available to country’s overall development. The implementation
+all. Also, with the improvement in life expectancy, of the Goods and Service Taxes (GST) is an example
+the share of elderly population is rising which of both India’s federal model at work and the
+demands better health support system. Notably, country’s commitment to reforms.
+the pandemic has highlighted the importance of
+health infrastructure in ensuring better resilience Rationale
+against such natural disasters in future. The MoHUA recognizes that India’s growth story
+is unfolding in its cities and post COVID-19 urban
+Indian cities suffer from inefficiencies of service India shall have to increasingly contribute towards
+delivery and face severe stress on infrastructure. realizing Hon’ble Prime Minister’s three-fold
+As per Census 2011, tap water as main source of vision for:
+drinking water was available to only 70 percent 1. Atmanirbhar Bharat (Self Reliant India)
+of the urban households. Only 33 percent of them 2. Vocal for local
+had access to a piped sewer system while 38 3. USD5 trillion economy by 2025
+8 Ministry of Housing and Urban Affairs
+
+These are closely related targets complementing As local governments start focusing on the
+each other. Atmanirbhar Bharat demands reduced achievement of outcomes, a performance-oriented
+dependence on imports by manufacturing such mindset will get deeply ingrained into the culture
+products locally together with inculcating a of these organizations, leading to a virtuous cycle
+citizen led movement towards using locally of constantly improving capacity. This is probably
+produced products. In our journey towards USD5 the only way in which local governance capacity
+Trillion Economy, the Service sector shall have can be systemically developed.
+to contribute USD3 trillion followed by USD1
+trillion each by Manufacturing and Agriculture. Core Principles
+Both Atmanirbhar Bharat and vocal for local shall States and ULBs can achieve this by adopting the
+become enablers for the vision of USD5 Trillion ‘core principles of Outcome-based Funding1:
+economy. Urban areas that are manufacturing  Integrated: One City – One Program – One
+hubs, regional growth centres, transport hubs or Fund
+ports, tourism destinations, capital cities, economic All funding will flow from a single window
+zones or evolved as a financial, education, IT under a single mode of operation. Cities will
+hub and more, are going to lead this change. no longer have to face a multiplicity of GoI
+Atmanirbhar Bharat shall also include enhancing programs, each demanding that the city follow
+our capacity, creativity, and skills.Therefore, to its own maze of cumbersome procedures.
+become a manufacturing economy, we need to Instead, city administrations will be able to use
+shift our focus from ‘Make in India’ to ‘Make for their scarce capacity and time to address the
+world’ by importing raw material and exporting problems at hand. This would encourage them
+value-added products. The progress towards an to think of long-term, integrated and systemic
+Atmanirbhar Bharat is already visible in the World solutions rather than resorting to quick fix
+Bank’s ‘Ease of Doing Business’ ranking where measures to comply with a top down mandate.
+India has leapfrogged from rank 142 (2014) to 63
+(2019). The set of reforms i.e. enforcing contracts;  People-centric: Citizens First-Project Next
+starting a business; registering property and The proposed approach puts citizens first
+paying taxes, closely relates to urban reforms and rather than projects. Its central purpose is to
+will enable India to improve its global ranking. give primacy to the needs of citizens and allow
+their voices to be heard about what outcomes
+Vision Statement matter most to them. These outcomes could, for
+Keeping the national priorities and critical role of instance, include safer and more predictable
+urban India , the NUPF envisions ‘urban areas with water supply (instead of just more pipelines),
+distinct identity providing ease of living, responsive improved sanitation (instead of just more
+governance, sustainable environment, rapid economic toilets), easier mobility (instead of just more
+growth and livelihood opportunities for citizens’. buses or flyovers) and more learning (instead
+of just more schools) and so on. As time
+Strategic Intent progresses, citizens’ aspirations would evolve,
+As we move towards an Atmanirbhar Bharat a and new outcomes could be prioritized.
+paradigm shift will be needed in the way urban
+programs are funded – a fundamental shift away  Collaborative: Promotes Partnership
+from the current project-based funding to an between Centre-State-Local Governments
+outcome-based system that measures results, so Since the spirit of partnership underpins this
+that public expenditure can be focused towards approach, it emphasizes collaboration between
+achievement of citizens’ benefits rather than mere the centre, state and local governments,
+completion of projects. Outcome-based funding allowing the needs and aspirations of citizens
+provides flexibility in implementation, thus to come to the fore. It does not try to overturn
+making the goal of achieving citizens’ aspirations existing institutional arrangements. Instead,
+the singular focus of all efforts. The true winner it encourages all tiers of government to work
+is the citizen - the man who lives in the slum, the together towards a common goal, setting the
+woman who needs safe public transport, the child stage for a more collaborative future. Even so,
+who is readying to join the knowledge economy of the most important alignment may well be the
+tomorrow, amongst a host of other beneficiaries. It one that aligns the use of public funds with
+is for them that we need to alter the course we have citizens’ aspirations.
+followed for so long. This would enable emergence
+of a vocal citizenry at the local level.
+1MoHUA to share a detailed conceptual framework on ‘outcome-based funding’ for ULBs and States together with
+toolkit for preparation of CCUP and SIUP
+National Urban Policy Framework: Strategic Intent 9
+
+ Inclusive: Open to all States and Cities and partial credit guarantees, in much the
+Unlike earlier programs, all states and cities same way as the Finance Commission supports
+will be able to participate. Smaller and weaker states which have high tax effort but low
+states and cities with low capacities would capacity. Whichever approach is considered,
+counterintuitively be at an advantage as they states and cities would be incentivized to find
+could receive higher incentives. Similarly, if solutions that best suit their budget, while also
+considered fit by all, faster growing states and being given appropriate incentives to enlarge
+cities may also be given higher incentives in their pie.
+recognition of the fact that they face greater
+challenges.  Objective: Promotes Independent
+Performance Evaluation
+ Demand Driven: States and Cities Decide the Independent monitoring and evaluation of
+Outcomes they want to achieve performance would form the bedrock of the
+In true democratic tradition, the key principles program. Ensuring the independence, integrity
+of the program would be defined through a and efficiency of the evaluation process would
+process of engagement between the centre, be critical as this would instil confidence that
+states and cities. Most decisions would lie the process has been impartial and that the
+within the domain of states and cities, most outcomes claimed have indeed been achieved.
+importantly the choice of their specific Independent monitoring would also increase
+priorities. the rigor in reporting systems.
+ Based on End Results: Promotes ‘Function’  Data Driven: Supports Evidence-based
+Over ‘Form’ Decision Making
+The program proposes a direct focus on Since the accurate measurement of outcomes
+‘function’ as opposed to a dominant focus on is essential to the process, the approach will
+‘form’. To exemplify, mobility is a function, promote data-driven governance. At present,
+UMTA is a form; water is a function, Jal Nigam even a basic parameter such as the number
+is a form; education is a function, school is a of households in a city is not verifiable. The
+form. It is the performance of the function endeavour will, therefore, be to design, deliver
+where the program’s focus will lie. There would and manage a comprehensive state-of-the-art
+be complete neutrality to the form that states, data ecosystem that will allow for the seamless
+and cities choose to achieve that function. flow of data between all tiers of government.
+The MoHUA has already initiated the DataSmart
+ Equitable: Uses Objective Formulae to cities program to develop a data culture. When
+Determine Funding built upon, this will lead to greater efficiency,
+Each state would have an allocation - the more robust data driven decision-making and
+maximum funds it is entitled to draw down, more accurate measurement of performance.
+subject to the achievement of its chosen
+outcomes. A pre-determined formula would  Transparent: Public Disclosure and Citizen
+form the basis of a state’s allocation. This Engagement
+could include a judicious mix of a state’s urban The new paradigm would embrace
+population and its annual rate of population transparency as a core principle. Since the basic
+growth, per capita income of the state or premise of this approach is citizen satisfaction,
+any other formula that emerges from the all claims of performance would be publicly
+engagement between the centre and states. disclosed for citizen evaluation and feedback
+at all times during the program’s operation.
+ Encourages Commercial Financing: Raise
+More, Gain More  Fosters Innovation: Do More with Less
+Since GoI will not be able to fund all the The magnitude, complexity and diversity
+investments needed by an urbanizing country, of urban challenges makes it immensely
+promoting self-financed urban growth becomes important to foster innovation to deliver
+important. To incentivize such self-financing, community-centric, cost-effective and
+GoI can provide additional incentives to states sustainable solutions. So far, however, supply-
+and cities that access commercial financing, driven engineering solutions have been the
+based on the ‘raise more, gain more’ principle. norm, resulting in the inefficient use of scarce
+For cities with limited financial capacity, GoI resources. Business cannot continue as usual.
+can consider intervening in the credit market This approach will therefore encourage
+to reduce the cost of funds or help improve innovations that enable cities to achieve more
+their access to credit by interest subventions with less.
+10 Ministry of Housing and Urban Affairs
+
+ Builds Capacity: Promotes Learning by addressing thrust areas and local priorities with
+Doing an objective of overall ‘more economically vibrant
+The lack of capacity has long been a key and productive’ cities. The CCUP shall bring out
+stumbling block for urban development. the Local Economic Development (LED) strategy
+This approach recognizes the challenge, and with a purpose to strengthen its economic base,
+believes that all learning takes place by doing, improve its economic future and quality of life for
+not by being told what to do. As cities begin all. The economic focus shall directly contribute
+to implement their own solutions and gather to the NUPF rationale’s of improving job base,
+community feedback, local knowledge and Atmanirbhar Bharat and achievement of USD5
+local solutions will come to the fore, generating trillion Indian economy.
+a continuous cycle of learning. In due course
+of time, city administrations would gain both State: Next level is for the States to integrate
+the confidence and the capacity to deliver on CCUPs and prepare a State Integrated Urban
+citizens’ expectations and be held accountable Plan (SIUP) enabling integration of programs and
+to them for results. funding. The fundamental task for States shall be
+to facilitate cities in realizing their real economic
+ Reorients GoI’s Role: Shifts from Driver to potential by integrating CCUPs, assessing ‘outcome
+Facilitator based’ framework, identifying key interventions
+The GoI would need to reimagine its role in required by State Government to support CCUPs
+the NUPF. Once the new paradigm comes into (e.g. enabling frameworks i.e. policy, legislative,
+effect, GoI will have a largely catalytic role regulatory, financial, institutional, safeguards),
+to play in the urban sector. The main drivers align and prepare State level ‘outcome based’ in
+would be states and cities. The GoI would the form of SIUP.
+support capacity building of state and city
+administrations - especially of the smaller GoI: MoHUA shall align and converge its resources
+ULBs - by creating enabling mechanisms. It in the National Urban Plan (NUP) based on the SIUP
+would also need to realign policy, promote and support State and ULBs on ‘outcome-based’
+decentralization and create mechanisms to funding framework. GoI shall be re-orienting
+help cities become financially sound and to be and limit its role to facilitator. The main drivers
+able to borrow commercially. The GoI would would be states and cities. The GoI would support
+need to anchor work in the fields of data driven capacity building of state and city administrations
+governance and open innovation. - especially of the smaller ULBs - by creating
+suitable learning mechanisms.
+Implementation of ‘Strategic Intent’
+by States and Cities Functional Areas
+The strategic intent shall be achieved through The NUPF recognizes the diversity of challenges in
+a mix of ‘top-down’ and ‘bottom-up’ approach urban India and therefore the framework follows
+aligned to GoI’s promoting cooperative and a ‘loose fit, light touch’ approach, based on ten
+competitive federalism. Ten functional areas have sutras (principles) which are applied to various
+been identified in the Strategic Intent. Each city functional areas. The framework is divided into
+will prepare a City Comprehensive Urban Plan ten sections, each addressing a different functional
+(CCUP) containing the key actions listed in the ten area as listed below:
+functional areas under the ‘city’ category. These 1. Urban Planning
+would be aggregated at the State level; additionally, 2. Urban Economy
+the State will add key areas listed under the 3. Physical Infrastructure
+‘State’ category. These two would form the State 4. Social Infrastructure
+Integrated Urban Plan (SIUP). These would be 5. Housing and Affordability
+posed to the MoHUA for funding. 6. Transportation and Mobility
+7. Urban Finance
+For the first time, urban sector planning and 8. Urban Governance
+funding shall be aligned to each other in a way that 9. Urbanization and Information System
+‘outcomes’ for the people become central criteria 10. Environmental Sustainability
+to support States and Cities. The strategic intent
+shall unify Capacity, Finance and Governance to Each section begins with a brief overview of the
+deliver high quality outcomes and achievement of major challenges in the area and is followed
+NUPF rationales. by a rationale for policy-making, list of policy
+actions and outcomes for the stakeholders i.e.
+City: Preparing the City Comprehensive Urban Plan city, State and Government of India. The actions
+(CCUP), as a strategic ‘outcome based’ document are illustrative in nature. All states/cities are free
+National Urban Policy Framework: Strategic Intent 11
+
+to prioritize add and drop actions as long as they settlements originally created by colonialism, and
+align to overall Strategic Intent. as a result, benefits of economic planning and
+development schemes have not been fully realized.
+Urban Planning
+Rationale
+The early Master Plans aimed to be too detailed The primary objective of urban planning in
+and even after years of planning and preparation the framework is to equip Indian cities to meet
+exercises, zonal plans were often not completed. the needs and demands of a rapidly growing
+The resulting growth of Indian cities, with population. Secondly, urban planning needs
+their unplanned urbanization, congestion and to embrace people-centered development that
+environmental degradation, is something that understands the diverse needs of all residents,
+has consequently taken planners by surprise. particularly the poor, differently abled and the
+Specifically, urban planning practiced in this way disadvantaged. Thirdly, master planning has
+has led to problems such as rigid and unadaptable to be flexible to address the rapidly changing
+nature of plans, unconnected to investment socio-economic conditions in cities and their
+planning thus remained unimplemented and surroundings. Additionally, spatial and economic
+failing to be truly comprehensive due to the planning shall be integrated at the regional level
+missing link between the spatial and functional in order to create a more balanced network of
+aspects. On a regional and national scale, this lack cities in the region. This will ensure that maximum
+of integration of spatial planning and economic economic outcomes accrue from urbanization.
+planning has increased the skewed hierarchy of
+Summary of Actions
+Level Key Actions
+ Prepare Master Plans (integrating spatial and economic focus)
+ Revisit Master Plans in every five years (based on consultative review)
+ Reserve developed land for EWS/ LIG
+ Prepare LAP and TPS (using smart IT tools)
+City level
+ Extend planning area boundaries to include peri-urban areas
+ Master Plan to have a 2-year strategic, action-oriented plan linked to budget
+ Plan preparation to be participatory subsuming diverse stakeholder views
+ Use variable FAR/ TDR as density management & resource mobilization tools
+ Prepare State Urban Policy Framework (SUPF) aligned to NUPF
+ SUPF to guide cities with NCU/ NUPF recommendations/ frameworks
+ Issue new guidelines based on principles of convergence (remove schemes or departmental silos)
+including for preparing LAPs and TPS
+State level
+ Provide framework for public/ stakeholder participation (also ensuring Plan Execution to flow from
+ward level consultations)
+ Timely approval of Master Plan of cities
+ Empower ULBs to prepare, own, operate and deliver service
+ Provide indicative structure/ guidelines for master plan
+ Provide framework for differential FAR/ TDR zones/ density management and resource mobilization
+tools
+Central level  Coordinate with GoI agencies (e.g. SEBI for TDR) to enable legal framework
+ Guidelines on model Form-Based codes
+ Framework for inclusion of peri-urban areas/ census towns
+ Incorporate changes to the URDPFI (TCPO), as necessary
+Outcomes
+Short-term Mid-term Long-term
+Revisit Master Plan (prepare Revise Master Plan (GIS based
+Self-reliant and empowered
+ULB level 2-year Strategic Plan with integrating spatial and economic
+ULBs
+economic focus) strategy)
+Dynamic, iterative, adaptive,
+Establish SUPF and guidelines on Implement convergence agenda
+State level gender-responsive and evolving
+LAPs and TAPs with LAPs and TPS
+plans
+Guidelines on Master Plan for Framework for resource Transition to long-term flexible
+Central level
+economic focus mobilization tools Master Plans
+12 Ministry of Housing and Urban Affairs
+
+demands of increasing population and enterprises,
+Urban Economy
+thus, preventing full exploitation of agglomeration
+The hierarchy of settlements in India is highly economies. Congestion effects are currently
+skewed with a few very large cities and a large preventing realization of full economic potential
+number of villages. This derives from existing of urbanization in India.
+colonial patterns of settlements which have
+endured due to the lack of mechanisms designed Rationale
+for the integration of spatial (regional, urban/ Cities have a two-way beneficial connection with
+rural) with sectoral investment plans in the Five- their hinterlands. Firstly, a network is formed
+Year Plans. Additionally, rather than seeing urban when several cities and villages are tied together
+development as a cumulative effect of a number in a mutually beneficial manner, with a balanced
+of economic development programs with impacts network consisting of both large cities and different
+on settlement patterns, planning has instead, been size towns and villages. The role of spatial planning
+understood as an independent program operating in this context is to coordinate and converge various
+in silos. This narrow view is unable to maximize plans operating at different levels; local, regional,
+the economic benefits associated with increasing state and national. Therefore, State Governments
+urbanization. are primarily required to pursue actions towards
+the integration of spatial and economic factors
+The clustering of people and enterprises leads to of development at these different scales, which
+higher levels of productivity and employment in turn, would lead to a balanced hierarchy of
+generation, which can be beneficial for harnessing settlements that maximizes the spatial spread and
+the effects of agglomeration economies. However, investments. Secondly, states should also plan the
+congestion can also operate against agglomeration provision of basic infrastructure and services that
+economies. This occurs when infrastructure enables pro-poor livelihood, e.g. vending zones for
+and basic services are unable to keep pace with the street vendors.
+Summary of Actions
+Level Key Actions
+ Provide social protection to informal workers (policy and programme)
+ Promote Business Improvement Districts (BIDs)
+City level  Establish City Economic Councils/ CECs (in larger cities)
+ City dashboards capturing city-level investments, GDP, jobs/ growth database
+ Prepare Local Economic Development Plan (LEDP)
+ Identify cities with economic growth potential
+ Strategy on integrating the informal sector
+State level
+ Allocating adequate resources for skilling and local economic development
+ Facilitating convergence of resources (programme and funding)
+ Framework for balanced network of settlements (rural-urban continuum)
+Central level
+ Guidelines on identifying cities with economic growth potential (BIDs and CECs)
+Outcomes
+Short-term Mid-term Long-term
+Assess economic worth and City dashboards on growth Inclusive, functional BIDs and
+ULB level
+prepare LEDP database & LEDP CECs
+Skilling-reskilling and resource Leveraging human capital in
+State level Facilitate cities in executing LEDP
+allocation cities
+Necessary frameworks & Support states/ cities in Contributing to achievement of
+Central level
+guidelines for Atmanirbhar Bharat achievement of LEDP Atmanirbhar Bharat
+National Urban Policy Framework: Strategic Intent 13
+
+place in 2000 are not being enforced. As per the
+Physical
+study of MoHUA (2010), SWM accounts for 25-50
+percent of a ULB’s expenditure but cities recover
+Infrastructure
+less than 50 per cent of the O&M cost. A high share
+The HPEC (2011) has found that water utilities on of expenditure is on collection and transportation,
+an average are able to recover only about 30-35 and little attention is paid to processing and
+percent of the cost of operations and maintenance scientific disposal of the waste.
+(O&M). There are three management models in
+place for looking after water services (including Rationale
+management of sewerage services): (1) system A list of outcomes and indicators relevant to the
+management by department or parastatals of the needs of citizens will be collaboratively developed.
+State government, (2) activity management by The final list of outcomes that emerges should thus
+Urban Local Bodies, and (3) sector management be locally relevant, meet a broad range of citizen
+by exclusive water supply and sewerage boards expectations and have the concurrence of all tiers
+set up for the city. However, the gap between the of government.
+revenues and costs of water supply often prevents
+the municipal bodies from making any substantial The list can, for instance, include: sanitation, piped
+investments on improving or even maintaining the water supply, waste management, public transport,
+standards resulting in quality deterioration. affordable housing, and the rejuvenation of
+natural ecosystems, transparent and improved
+Urban areas in India are served by inadequate governance, better air quality, or any other area of
+sewerage systems with a high percentage of the concern to urban residents. Since both states and
+urban poor dependent on public toilets. There cities will need to play a role in achieving these
+have been improvement in sanitation through the outcomes - in most sectors, cities are responsible
+SBM which has led to provision of water supply for physical outputs while states are responsible for
+and sewerage outlets in toilets. Nonetheless, the legal and policy measures - the clear articulation of
+following issues remain to be addressed: Firstly, as outcomes will help align their efforts.
+large parts of cities are not covered by sewerage
+disposal systems/decentralized fecal sludge Next, to ensure that improvements are objectively
+management, waste commonly finds its way into measured, a set of indicators would need to be
+storm water drains, natural water courses and defined for each outcome. These indicators should
+ultimately into major rivers. This problem gets be measurable and verifiable in a simple and easily
+aggravated in the case of rivers near major cities. quantifiable manner; in other words, they should
+Secondly, the sewage carried by the underground be SMART - Specific, Measurable, Attainable,
+system has to ultimately allow to run off into Relevant and Time-bound.
+natural drains following proper treatment. In
+most of the cities however, the capacity treatment In a significant departure from the past, these
+plants are much lower than the amount of sewage indicators would need to measure both quantity
+flows needing treatment. Solid waste management as well as quality. In water supply, for instance,
+is another area which needs attention. Neither the instead of just measuring the number of new
+households nor ULBs of most Indian cities practice connections added, the indicator would also need
+segregation of waste., The collection of the garbage to measure the regularity of water supply and
+is irregular, processing is not done in most cases, the quality of water that finally reaches the user.
+and Municipal Solid Waste Rules that were put in For urban mobility, instead of just focusing on the
+number of buses provided, the indicator would
+also need to focus on the quality of bus services
+and the volume of passengers using these buses.
+Thus, in effect, these indicators would measure
+end results rather than intermediate outputs or
+reforms such as improved financial management,
+planning etc.
+The recent pandemic has brought to focus the
+importance of individual tap connections, covered
+drains, sewerage system and access to individual
+toilets. The shortage of these amenities is high in
+the slums and low income neighborhoods. The City
+Comprehensive Urban Plan must make adequate
+provisions for the same.
+14 Ministry of Housing and Urban Affairs
+
+Summary of Actions
+Level Key Actions
+ Prepare City Comprehensive Urban Plan (CCUP): which includes all the functional areas
+ ‘Outcome based funding’ plans for CCUP
+ Leverage GoI and State funding as per VCF/ other innovative frameworks
+City level
+ Stronger institutional structure of SPVs, performance-based contracts
+ Natural ecosystems should be leveraged as infrastructure systems for resilience
+ Use integrated digital technologies further build on ICCC resources
+ Prepare SIUP: Strategic plan for physical infrastructure improvement
+State level  Provide viability gap funding for projects under CCUP and SIUP
+ Adopt SLBs (at least meeting GoI norms) consultatively
+ Provide guidelines for preparation of CCUP, SIUP and prepare NUP
+ Professional institute to guide ULBs in managing critical services
+Central level
+ Define SLBs and ‘outcome-based funding’ support
+ Provide funding framework based on appraisal of outcomes based on SIUPs
+Outcomes
+Short-term Mid-term Long-term
+ULB level
+Prepare CCUP (pipeline of Fructifying projects (development and
+Prepare SIUP (assess and approved
+State level projects) mSuapnpaogretm ouentcto) me-based funding
+project pipeline)
+Fund outcome-based CCUP and Universal coverage
+Central level Monitoring of projects (independent agency)
+SIUP & prepare NUP
+As outlined in the chapter on economic
+Social Infrastructure
+development, investment in human capital is also
+Post COVID-19, solutions to some of the concerns a key ingredient for economic development of any
+and challenges raised above need to be integrated country. Investment in human capital can play a
+with Healthy City (HC) concept developed by WHO. significant role in reducing poverty and enabling
+‘A Healthy City is one that is continually creating and people to lead a healthy and productive life. Large-
+improving those physical and social environments scale disparity exists in the volume and level of
+and expanding those community resources which educational attainment especially in primary
+enable people to mutually support each other in to higher secondary education among different
+performing all the functions of life and in developing sections of urban areas. The access to quality school
+to their maximum potential’ (Goldstein and education is not available uniformly to all sections
+Kickbusch, 1996). Achieving healthy cities basically of urban society especially migrant population,
+means building on each city’s own resources and street children and urban poor. Gender based
+on the skills and managerial capacities of its people educational inequality is also a major challenge for
+and formal and informal institutions. urban India. The dropout cases are higher among
+girls than boys although learning outcomes of girls
+As per the Report of the Committee on Slum are better than boys. Numerous agencies work
+Statistics/Census (Sen. 20082), slum population towards the provision of education. Nonetheless,
+in the country was estimated at 75 million in in recent years, municipal and government schools
+2001. The 2011 Census reported a slight decline have been losing out to private schools.
+to 65.49 million. Lack of basic services is one of
+the most frequently mentioned characteristics Health has emerged as one of the key areas of
+in all definitions of slums. Lack of access to concern for all levels of government, especially
+improved sanitation facilities and improved water with the outbreak of the pandemic. Health and
+sources is the most important feature, sometimes well-being are also the unfinished agendas of
+supplemented by absence of waste collection Sustainable Development Goals. These are also
+systems, electricity supply, surfaced roads and acknowledged as ensuring notable returns
+footpaths, street lighting and rainwater drainage of investment in a country when achieved.
+Hence, the issue of urban poverty is linked both to Investment in the health and well-being of citizens
+physical as well social infrastructure. not only enriches individual potential but also
+contributes to the overall development of the
+2Sen, Pronab. 2008. Committee constituted by the Ministry of Housing and Urban Poverty Alleviation to look into
+various aspects of Slum/Census and issues regarding the conduct of Slum Census 2011. New Delhi: Ministry of
+Housing and Urban Poverty Alleviation, Government of India
+National Urban Policy Framework: Strategic Intent 15
+
+all citizens are covered by social and health
+protection, especially the urban poor and migrant
+workers.
+Rationale
+First, provide employment in close geographical
+proximity to all; second, education that focuses
+on learning outcomes and developing life skills,
+third, convergence of different health schemes
+and agencies under the urban local bodies,
+fourth, upgrading municipal and government
+school infrastructure with digitally empowered
+learning outcomes, with a focus on the poor and
+the disadvantaged, and caring for the migrants,
+women, children, widows, elderly and differently-
+abled. Fifth, promote ‘Indianness’ by maintaining
+monuments, heritage buildings and cultural
+artifacts, developing public and cultural spaces,
+country. Therefore, proper co-ordination between promoting Indian cuisines and soft power (e.g.
+different stakeholders, viz, various ministries, rahadari). These will also attract residents to public
+central, state and local governments and other spaces, as opposed to malls, and encourage social
+parastatals as well as convergence of various interactions. This should take place alongside
+government programmes (Missions) is needed ensuring the provision of other amenities and
+to address the emerging health challenges. An social services, such as health and education,
+enhanced budgetary allocation is needed along which should not only be available but also easily
+with strengthening of capacities of ULBs so that accessible to all residents, including the poor.
+Summary of Actions
+Level Key Actions
+ Full implementation of Direct Benefit Transfer (DBT)
+ Explore partnerships (civil society and private sector for better ‘outcomes’)
+ Address social infrastructure with adequate focus on health (nutrition) and
+City level
+education as integrated urban development in CCUP
+ Promote ‘Indianness’, cultural, monumental heritage
+ Focus on ‘moving out of poverty’ as outcome
+ Full implementation of DBT
+State level  Convergence of schemes and benefits with ‘outcome based’ focus
+ Social infrastructure as integrated urban development in SIUP
+ Framework for convergence of scheme and benefits on ‘outcome focus’
+ Digitally empower State and ULBs (facilitate full implementation of DBT)
+Central level
+ Social infrastructure: health and education as integrated urban development in
+NUP
+Outcomes
+Short-term Mid-term Long-term
+ULB level
+Outcome based and citizen centric inclusive
+FDuigllit DalB eTm impopwleemrmenentatt oiof nevery
+State level cFiatcyi litate convergence of schemes
+stakeholder
+Moving out
+Provide guidelines for convergence (for all Universal access to social services to
+Central level of poverty &
+social sector services) all beneficiaries
+vulnerabilities
+16 Ministry of Housing and Urban Affairs
+
+for urban migrants and poor as a sub-scheme
+Housing &
+under Pradhan Mantri Awas Yojana (Urban) was
+announced in May, 2020 which seeks to fulfil the
+Affordability
+vision of ‘AtmaNirbhar Bharat’. ARHCs will create
+In pursuance of Government’s vision of facilitating a new ecosystem in urban areas making housing
+housing to all by 2022, the Ministry of Housing available at affordable rent close to places of work
+and Urban Poverty Alleviation launched Pradhan and will cut down unnecessary travel, congestion
+Mantri Awas Yojana (Urban) - PMAY (U) in 2015. and pollution.
+PMAY (U) addresses urban housing shortage
+by ensuring a pucca house to all eligible urban Rationale
+households by the year 2022. Nearly 95% of housing shortage occurs for
+households in the EWS and LIG sections. Keeping
+Property rights are much more than a “title”, in view the median household income and EMI
+particularly titles for individual households. In required to service housing loans, first, subsidy or
+the unique environment of India, appropriate Government support is required for construction
+regimes of property rights have to be evaluated of affordable houses, particularly the EWS.
+against three criteria: (a) terms of exchange, i.e. Second, land is required in order to provide houses
+rights to buy and sell; (b) effective protection from to all. Third, zonal and building regulations have
+forced eviction - secure tenure; and (c) effective to be contextualized. When houses are small, the
+protection from market-induced displacement. outdoor space becomes significant. In the case
+of work-based settlements, the outdoor space
+Promotion of rental housing had attracted less becomes even more critical as it is where the
+attention until the pandemic crisis struck which house extends to become a work place. Fourth,
+witnessed millions of migrant workers returning a clear distinction between houses for self-
+to their native places. Official data is somewhat dwelling, and subsequent/speculative houses for
+divergent on rental housing - while the Census other specific purposes (rental, investment etc.)
+states that about 27.5 per cent of urban households should be made in the urban polices. Fifth, rental
+lived in rented houses in 2011, the NSS found housing should be encouraged by giving vouchers
+that close to 32.9 per cent of urban households (one type of cash transfer). The MoHUA should
+lived on rent in 2018. Apart from the uncertainty prepare model guidelines for voucher linked
+surrounding the numbers, the data tells us that rental housing. Sixth, there should be preference
+between a quarter and a third of households in for promoting self-built housing. The reason is
+Indian cities live in rented housing and the rental that self-built houses are already located on land
+housing market is almost exclusively a private where key factors determining home locations -
+market of small-scale providers. Moreover, studies affordability, livelihood, work opportunities and
+have shown that providing rental housing can mobility - are already met. Income-poor urban
+be cheaper for the government than subsidizing residents make housing choices largely on location
+ownership. Importantly, rental housing is of work, not the quality of housing unit. Generally,
+directly connected with livelihoods, education self-built housing is located on land that is without
+and opportunity, even more so than ownership legal security of tenure. Therefore, security of
+housing, according to some. Households may tenure should be given to already existing self-
+choose to own a home away from the city for built housing. Seventh, accelerating the provision
+investment and future use but will only rent where of housing for all, which also includes temporary
+they are close to work and education. However, lodging facilities of night shelters or raynbaseras,
+public policy has rarely encouraged rental housing women hostels, crèches, old-age homes and
+in the private market. rehabilitation centers at public places with
+adequate disaster mitigation strategies.
+An Affordable Rental Housing Complexes (ARHCs)
+Summary of Actions
+Level Key Actions
+ Allocate ‘developed land for EWS’ both in Master Plan and CCUP
+ Implement strategies to prevent slums as per SIUP
+ In-situ development with partnerships/ coalitions for urban change
+City level
+ Development of Rental Housing
+ Implement ‘land title’ registration and ‘beneficiary involvement’
+ Convergence with other missions on ‘outcome basis’ e.g. NULM
+National Urban Policy Framework: Strategic Intent 17
+
+Level Key Actions
+ Develop strategies to prevent slums under SIUP
+ Focus ‘in-situ’ and integrated systems
+State level  Provide appropriate framework on ‘land titling’ for property rights
+ Prepare State Strategy for Rental Housing
+ Adopt GoI enabling framework for private sector participation (VGF, low cost housing technology)
+ National housing stock must be created (as PMAY guidelines)
+ Universal coverage of beneficiaries under EWS housing
+Central level
+ Framework for ‘rental housing’ (prepared in 2020)
+ Prepare enabling framework for private sector involvement
+Outcomes
+Short-term Mid-term Long-term
+Development of Rental Housing and
+ULB level Allocate ‘developed land’ for EWS
+HFA
+State level Legislative and regulatory frameworks as Preparing State Strategy for Rental Increasing
+enabling framework Housing affordable
+Policy framework and promoting housing Housing for all
+Central level Creation of National Housing Stock
+finance
+slower commute; lack of facilities and street
+Transportation
+infrastructure for non-motorized transport (e.g.
+walking, cycling) and active travel which either
+& Mobility
+make it inconvenient or unsafe for pedestrians
+A major driver of urban India’s increased traffic and cyclists; and lack of a comprehensive parking
+congestion has been lack of policy-based reforms policy, leading to significant road space being
+that gives greater primacy to private vehicles, taken away by street-parked private vehicles.
+such as expanding roadway capacity at the cost Furthermore, the differently-abled face lot of
+of public vehicles, which incentivizes purchase challenges in accessing public transport. Also,
+of private vehicles adding to congestion. It is thus women face significant safety challenges on public
+necessary to focus on moving people rather than transport. This in turn restricts their access to
+vehicles, by encouraging walking, cycling and employment, education and services.
+the use of public transport. The Government of
+India had acknowledged the importance of this Rationale
+principle in its National Urban Transport Policy First, seamless connectivity (e.g. feeder services) is
+(NUTP) of 2017. The NUTP and AMRUT as well as required to be connected to the last-mile of public
+Smart Cities Mission which aimed to fund urban transport. Second, the MoHUA should prepare
+infrastructure (including transport) and essential guidelines for pedestrians to promote the street
+services, together represent significant policy to function both as a channel for mobility and
+steps towards advancing equitable urban mobility, access, and as a common public space, especially
+smart mobility and reducing congestion. where street markets exist. Third, public transport
+has to be expanded and made inclusive. It has
+At present, there are several issues that exacerbate to be accessible to all parts of society especially
+the problem of excess motorization. These the vulnerable groups and the differently-abled
+challenges represent opportunities to improve ensuring their last mile connectivity in order to
+equitable urban transport in India by providing create equity amongst citizens. Indian cities have
+reliable, affordable, inclusive, accessible and to be caring cities by encouraging ‘availability of
+integrated public transport as well as safe non- accessible and affordable transportation for older
+motorized transport facilities ensuring last mile persons/ women/differently abled people. This
+connectivity. There are issues such as different section of people face enormous difficulties in
+modes of public transport operate in silos and moving from one place to another, even within
+fragments, rather than as part of an integrated the city limits, because of transportation- and
+network; lack of focused investment in road-based security-related issues. Fourth, master plans have
+(e.g. bus) public transport leading to inadequate, to encourage a more dispersed but functional
+low quality bus fleets and services and decreasing and closely knit pattern of urban settlements at
+ridership; lack of designated space for road based the regional level, replace traditional concepts
+public reduces its appeal to commuters who can of home-work-place relationships with transit-
+afford other modes of transport, since they use oriented development, have a clustered pattern
+the same space as private vehicles resulting in of both mono- and multi- functional settlements
+18 Ministry of Housing and Urban Affairs
+
+around a central core-city, linked by fast movement for personal vehicles and lower for public service/
+corridors, enabling de-concentration and shared vehicles to discourage private vehicles
+decentralization of population and use state-of-art especially in congested areas. Sixth, the triad -
+transport technologies for inter-city and intra-city electric vehicles, self-driven vehicles and platform
+mass transportation systems. The MoHUA should services - are likely to influence transport and
+prepare guidelines for States to integrate transport mobility in hitherto unimagined ways. These
+and mobility plans along with master plans will be based on a concept-cum-guidance note
+learning from good practices of developed nations. prepared by MoHUA showing the way forward
+Fifth, parking policies should allow for facilities for State Governments and cities. Seventh, need
+for electric vehicle (EV) charging. Differential to regulate and streamline app based public
+parking policies may be adopted to charge higher transport system.
+Summary of Actions
+Level Key Actions
+ Facilitate ‘mobility as shared services’ or MAAS model
+ CCUP to have comprehensive mobility plan and address street furniture
+ Implement design standards
+ Adopt ‘outcome’ based guidelines with ‘user convenience’ at core
+ Establish UMTA
+City level
+ Implement real-time technology integrated with ICCC (open source data)
+ Implement green mobility plan with an aim to become carbon neutral
+ Ensure last mile connectivity of public transport
+ Encourage cycling and walking by constructing dedicated paths
+ Enable mobility ‘as shared services’ model
+ Integrate ‘mobility as a service’ in SIUP and facilitate UMTA
+State level
+ Provide seamless convergence with other state schemes
+ Funding incentives for adopting greener technology
+ Framework for mobility ‘as shared services’ model
+ Provide ‘streets’ design standards (updated UDRPFI)
+Central level
+ UMTA to integrate multi-modal plan and streamline institutions ‘SPV’
+ Provide guidelines based on ‘outcomes’ for different stakeholders
+Outcomes
+Short-term Mid-term Long-term
+Form UMTA, focus on user Adopt ‘MAAS’, public access to real time
+ULB level
+convenience/ NMT in CCUP data
+Facilitate convergence to green mobility + Transition to
+State level Facilitate UMTA, guidelines on MAAS integrated LU and TP affordable and
+accessible green
+Guidelines on MAAS and revisions in
+Central level Strengthened institutional set-up mobility
+URDPFI
+floated municipal bonds, which were not backed
+Urban Finance
+by any state guarantee. Since small and medium
+The HPEC (2011) found that some states have local governments were unable to access capital
+partially devolved funds, while others have not markets directly on the strength of their own
+devolved at all. The expected benefits to local balance sheets, and the cost of transactions was
+bodies have not been realized. also a barrier, pooled financing mechanisms
+were started. Pooling mechanism enable capital
+The borrowing powers of local governments are investments to be pooled under one borrowing
+limited and they have to seek the approval of the umbrella in order to reap the benefits of economies
+State Government for any borrowing. Municipal of scale. Only Tamil Nadu and Karnataka have
+bonds are one type of borrowing with great issued municipal bonds by pooling municipalities.
+potential to raise money from the capital market. The total amount of capital raised in the municipal
+Municipal bodies, especially in larger cities have debt market is Rs. 1224 crores (MoHUA). In July
+taken recourse to raising resources by floating 2015, SEBI notified a new regulatory framework
+municipal bonds. The Bangalore Municipal for issuing municipal bonds in India. The excessive
+Corporation was the first municipal body to reliance on the private sector and funding through
+raise funds by issuing bonds in the early 1990s municipal bonds needs to be revisited as it is
+backed by a state government guarantee. Later neither sustainable nor transparent.
+in 2002, the Ahmedabad Municipal Corporation
+National Urban Policy Framework: Strategic Intent 19
+
+of operation and maintenance costs as well as
+costs of establishment & salaries) from their
+own revenue receipts while larger bodies should
+recover full revenue expenditure. Second, all
+urban local bodies should spend some part of their
+total expenditure for asset creation and capital
+expenditure. Third, encourage cities to leverage
+their assets to generate more revenue sources
+and other sources of finance. Fourth, enhance
+ULBs revenue generation capacities through
+improvement of property tax and user charge
+collections, implement credit enhancement plans,
+adopted innovative financing methods such as
+value capture and issuance of municipal bonds.
+Municipal bodies often have a wide range of Fourth, make the property tax based on Annual
+assets on their balance sheets ranging from Rental Value (ARV) buoyant. One way is to shift to
+infrastructure networks to public buildings, from a Unit Area Method. The long-term solution lies
+housing to municipal shopping centers as well as in making property tax based on ‘capital value’.
+land. Asset management involves deciding what This will ensure that the property tax reflects the
+to do with these assets. These can be leased out. current market value and hence is buoyant. Fifth,
+The issue is how to determine the true economic urban local bodies should increasingly move over
+cost. Another way is to sell the assets in order to to financing ‘lumpy’ capital expenditure using
+generate resources upfront for infrastructure municipal bonds and the MoHUA could incentivize
+creation. A necessary requirement for leveraging this. Appropriate VCF tools can be deployed to
+land for revenue generation is proper upkeep of capture a part of the increment in value of land
+land records. Presently, the system of keeping and buildings. In turn, these can be used to
+of land and property records does not ensure a repay debt raised through bonds. Sixth, value
+clear title. There is no convergence between the capture tools should be aligned to the strategic/
+registration process, the property taxation system master plans. By developing infrastructure, the
+and the record of rights maintained by the revenue quality of life will improve making the city an
+department of the State Government. engine of regional growth. Municipal bonds have
+several other benefits for municipal efficiency.
+Apart from the traditional modes of revenue Funds mobilized through municipal bonds are
+generation, there are many innovative sources used for economically viable projects. Successful
+of resource generation to increase the resources implementation of projects based on municipal
+of municipal bodies such as public-private bonds requires strong financial and administrative
+partnership and value capture finance (VCF). Value capabilities in the municipalities. Municipalities
+capture is based on the principle that private land will have to follow economic pricing for their
+and buildings benefit from public investments in services so that their actual costs are recovered
+infrastructure and policy decisions of Governments from the citizens. Investment grade credit rating,
+(e.g. change of land use). As the additional value is modern accounting mechanisms (e.g. accrual
+generated by actions other than landowner’s direct accounting), identification of viable projects, levy
+investment, value capture is distinct from the user of appropriate user charges and transparency in
+charges or fees that agencies collect for providing the decision-making process are necessary pre-
+services. Value capture finance is a more efficient conditions for a successful bond issue. Seventh,
+form of resource generation as compared to direct lack of coordination between central and state
+sale of lands to raise funds. Conversion charges, budgets need to be addressed, as it makes
+betterment charges, impact fees, and development structuring allocations for urban development
+charges are the most frequently used VCF tools difficult. Eight, parking, etc. need to be accounted
+in India. Recently, MoHUA has designed a VCF for at the ULB level and brought under the ambit
+framework to be followed by the States and cities. of user fees. This should get stipulated within the
+bye-laws and rationalized. The idea of differential
+Rationale user charges based on neighborhood (higher for
+First, revenues of urban local bodies have to business district or high-income neighborhoods/
+increase year-on-year in order to cover increasing suburbs) or end use (small household, big
+costs of operation and maintenance of municipal household, farmhouse, commercial unit) could be
+facilities and capital works. Smaller urban local implemented.
+bodies should be able to recover at least a part
+of their revenue expenditure (which is a sum
+20 Ministry of Housing and Urban Affairs
+
+Summary of Actions
+Level Key Actions
+ Implement ‘outcome based’ budgeting
+ Strengthen own source revenue (OSR), taxes and full cost recovery
+ Implement property tax reforms (full billing and recovery)
+City level
+ Municipal database including property tax to be IT/ GIS based
+ Strengthen non-tax revenue: User charges and fees (VCF)
+ Integrate municipal revenue enhancement plans
+ Adopt ‘outcome based’ budgeting
+ To set norms for cities to meet their revenue expenditure from OSR
+State level
+ SFCs to align with CFC and bring focus on ‘outcome based’ funding
+ Policy on investment support and PPP (guidelines/ law)
+ FC allocation criteria to focus on ‘outcomes based’ do-more-get-more
+ Framework for OSR, VCF, property tax & non-tax revenue rationalization plan
+Central level  Provide framework to internalize ‘climate finance’ e.g. carbon credits
+ Framework for Integrated Financial System (web integrated NMAM)
+ Establish dedicated ‘National Institute of Urban Finance and Policy’
+Outcomes
+Short-term Mid-term Terminal Outcomes
+Adopt ‘outcome based’ budget, Revenue enhancement (OSR =>50
+ULB level
+rationalize income percent)
+Provide framework for ‘outcome Prepare/ revise investment
+State level
+based’ budgeting policies/ law
+Financial sustainability and
+Frameworks for revenue
+Central level Guidelines on climate finance efficient service delivery
+enhancement measures
+have only partially complied with devolution, and
+Urban Governance
+this has typically not been accompanied by the
+Urban development in India is a state subject. It was devolution of funds and functionaries.
+only in 1993 that the 73rd and 74th Amendments
+of the Constitution came into effect and were Most of the ULBs are understaffed (technical and
+aimed to bring about a fundamental shift in the general), the existing staff has limited skills in
+nature of governance. Article 243P (e) recognizes handling projects, and there is frequent transfer
+a municipality as an institution of self-government of officers in the absence of dedicated municipal
+and Article 243W proposes that the Legislature of a cadre. There is absence of suitable institutional
+State may, by law, endow “the Municipalities with framework for supporting continuous capacity
+such powers and authority as may be necessary building efforts, which is not based on demand
+to enable them to function as institutions of self- but routine ad-hoc trainings. The platforms
+government and such law may contain provisions and systems for people’s participation are not
+for the devolution of powers and responsibilities functional. This has resulted in inadequate
+upon Municipalities.” Following this, the NUPF collection of disaggregated data that can inform
+acknowledges that state governments have the policy discourse and commensurate resource
+principal constitutional responsibility for urban allocation. Many ULBs have still not been able to
+development and has thus, attempted to offer utilize the advantages of capacity building using
+considerable assistance to states for preparing digital means to improve the quality and cost
+their own urban state policies. effectiveness of public services, and to collect
+and manage data in ways that make it possible to
+Thus, the state governments have the principal provide information in an integrated manner at
+constitutional responsibility for urban the local level for decision-making.
+development. Since then municipalities have been
+created and elections are, by large, being held. The Rationale
+Constitutional Amendment has recommended’ that First, fragmentation and multiplicity of agencies
+state governments assign them a set of 18 functions at the city level must be addressed together with
+under the Twelfth Schedule. However, as the empowering and extending the tenure of the
+Administrative Reforms Commission (2008) noted, Mayor. Mayors to be able to address promotion
+this has not led to real decentralization of power of economic activities and poverty alleviation
+to the municipalities. The Amendment is even less leading to the growth of the city. Second,
+clear on the devolution of finances leaving it to the appropriate governance arrangements must be
+discretion of state legislatures. State governments decided and settled by State Governments at the
+National Urban Policy Framework: Strategic Intent 21
+
+regional, city, ward and area sabha levels. Third, City Government should have specialised
+there is a need for comprehensive mapping/ legal municipal cadre. Fifth, full decentralization should
+analysis of existing laws, policies and programmes be done, and capacities of local institutions must
+and suggest inclusive policies. Fourth, in order to be built, especially regarding areas like health,
+meet the skill gap between existing manpower, registration of migrant workers and ensuring their
+government employees need to be trained in line entitlements (like PDS, health, education etc.), or
+with developments in technology. Periodic skill and climate risk mitigation, given unforeseen situations
+capacity building should be carried out for local like the current pandemic. Decentralization should
+elected representatives and city officials. Every be based on the principle of subsidiarity3. The
+city government should mandatorily have bye- principle of subsidiarity stipulates that functions
+laws/corporation procedure rules/house rules shall be carried out closest to citizens at the smallest
+according to which the functions of corporation unit of governance possible and delegated upwards
+are to be carried out. Also, the vacant posts need only when the local unit cannot perform the task.
+to be filled. Fourth, responsibility of planning, The citizen delegates those functions they cannot
+managing and resource raising, and allocation perform, to the community, functions that the
+should be transferred to the municipalities. Fiscal community cannot discharge are passed on to local
+transfers from the centre and state should be done governments in the lowest tiers, from lower tiers
+in a systemic formula-based manner to incentivize to larger tiers, from local government to the State
+city level economic activities. Additional Governments, and from the States to the Union.
+transfer of funds should be based on mandatory This is recognition of human capital possessed
+reforms to be implemented by the State and city by citizens and micro governance units, such as
+governments. The Goods and Services Tax (GST) ward committees, Area Sabhas, neighbourhood
+should have a share of Local GST transferred associations and RWAs (not mandated under
+directly to the city governments. The final the 74th CAA). Data enumeration to be done
+approval of municipal budget should be with the at zone/ward level annually - Urban Schemes
+city government. should be implemented and monitored at zonal/
+ward level (representing lowest administrative
+block). Seventh, largely, accountability of public
+institutions has focused completely on prevention
+of activities not specifically authorized by law
+or rules and integrity of the public system or
+maintenance of financial propriety, which in
+practice means adherence to financial rules.
+Attention should be paid to other dimensions of
+accountability – responsiveness towards felt needs
+of people, performance of municipalities in terms
+of efficiency, effectiveness and transparency.
+One way is to act on the recommendation of the
+National Commission on Urbanization, which
+had found that although local body elections
+were being held there was no power of recall
+of councilors and no real accountability of
+councilors to the electorate till the next elections.
+The involvement of citizens in decision-making
+was almost zero and their interaction with civic
+officials was largely restricted to pushing their
+individual cases or meeting officials to resolve
+their individual problems. The priority should be
+to view citizens as partners and give them direct
+citizen control through ward committees and
+Area Sabha’s or directly using digital technology.
+Extending e-governance to facilitate citizens’
+suggestions and grievances redressal mechanism
+will ensure citizen participation.
+3Also recommended by the II Administrative Reforms Commission (2008)
+
+Summary of Actions
+Level Key Actions
+ Undertake full charge as per Seventy-Fourth CAA
+ Create Municipal cadre
+ Strengthen contract management to manage SLAs with parastatals etc.
+City level  Prepare ‘citizen charter’ and compensate citizens for non-compliance
+ Set performance benchmark for funds, functions and functionaries (3Fs)
+ Conduct continuous capacity building at all levels
+ Implement concept of ‘community development corporations’ CDCs
+ Streamline provision of property and land title registrations
+ Facilitate capacity of ULBs and devolve powers to ULBs
+State level  Facilitate ULBs in adoption of ‘smart’ institutional set-up
+ Facilitate ULBs in adoption of ‘model municipal law’
+ Establish dedicated State Institute of Urban Affairs
+ Provide options for ‘smart’ institutional framework for ULBs
+ Review and revise Model Municipal Law 2013 to reflect new changes
+Central level  Establish ‘National Urban Innovation Hub’ as an independent agency
+ Establish ‘National Urban Projects Management Agency’ to build project development, operations
+and contract management capacities
+Outcomes
+Short-term Mid-term Terminal Outcomes
+ Strengthened contract
+Unifying all 18 municipal functions at
+ULB level management (SLAs), strengthen
+ULB level
+Human Resources (HR)
+ Establish principle of subsidiarity
+ Adopt:
+ Devolve powers to ULBs
+ HR (legislative framework)
+State level  Establish principle of subsidiarity
+ Regulatory frameworks
+ SLA/ benchmarks
+Streamlined funds,
+ Training & Capacity Building
+functions functionaries
+ Establish principle of subsidiarity (directly facilitating
+ Establish ‘Municipal Cadre’ for Atmanirbhar Bharat)
+ULBs
+ Capacity grid mechanism
+Guidelines on SLA and contract (National/ Regional/ State
+Central level
+management Learning Hub)
+ Establish ‘National Monitoring
+Mechanism’
+ Suggest smart Governance
+framework
+a number of applications without having a long-
+Urban Information
+term or definitive vision in place. A well-developed
+digital infrastructure in contrast, allows cities
+Systems
+to access, share, collate and use the information
+Cities consist of multiple and overlapping systems: contained in the sum of interactions among people,
+the transport system, water and sewerage place and system. The ability to capture, classify
+system, electrical system, and parking system. and analyse information from different systems
+However, urban planning projects too often and use this to plan for city operations as a united
+treat each of these systems in silos, without “system of systems” brings unexpected and broad
+considering the interconnections between people, ranging benefits4.
+systems and technology. Conventionally, cities
+have been using information technology and Such an approach will however, require more
+communication in three ways: (1) The use of a sophisticated systems of city governance
+single application to address urgent problems, and management. These will extensively use
+and the subsequent addition of more applications automation including Artificial Intelligence, the
+as per the needs and priorities of the city. (2) The Internet of Things (IoT), big data analytics, etc. The
+building of infrastructure and the later addition creation of diverse platforms and the collection
+of accompanying services. (3) Experiments with and publishing of city data will provide the
+3This is also called city view and its power has been recognized by the European Union, which is offering funding
+for cities in Europe to develop comprehensive urban planning tools.
+National Urban Policy Framework: Strategic Intent 23
+
+opportunity to transform city life by allowing cities in a coordinated manner, lack of standard
+and their citizens to create, monitor, and measure operating environment in a critical/emergency
+progress of their cities in a more informed situation, inadequate technical skills required to
+way. Access to urban data could lead to more manage digital infrastructure, absence of real-time
+informed and empowered citizens as well as help monitoring of critical city infrastructure, etc.
+governments in making more informed decisions.
+Collation and analysis of open data will enable Rationale
+identification of focus areas of intervention. The First, integrated application of digital technologies
+city needs to have a holistic database on physical related to infrastructure and services and GIS
+and social infrastructure covering the entire city based information should be used to improve
+area and all segments and age groups of population municipal services. The improvement could
+including migrants. Health and education are key happen in several ways, such as municipal
+areas where data at a granular level are needed. operations being performed at a lesser cost or
+Disaggregated data on municipal income and use fewer resources, making municipal activities
+expenditure are also important for evidence based more accountable and transparent, improving
+policy formulation at the local level. delivery of citizen services and performance
+of infrastructure. Second, cities should build
+The emergence of cloud-based services, more a centralized single source of Information of
+powerful mobile devices, sensors, artificial all citizen centric services/functions/operation
+intelligence, big data and analytics and open-data by consolidation of city infrastructure /assets
+sharing present a huge opportunity for cities to into a single operations platform for delivery of
+enter a new phase of technological development services, monitoring of environmental parameters
+and also enable new ways to deliver services to as well as handle exigencies in disasters (e.g.
+citizens. Intelligent sensor networks will soon COVID 19). The infrastructure so created should
+become increasingly critical to the basic functioning be scalable (both horizontally and vertically) to
+of cities. In the near future, we expect to see accommodate growing needs of the services and
+smart cities and buildings that are net producers interoperable units (field devices, sensors etc.).
+of renewable energy, connected and optimized Third, a large amount of data is generated by
+transport systems and a range of e-services such as the use of city infrastructure and citizen services
+e-health, e-education, e-commerce, e-governance and it carries vital city information and provides
+and teleworking. This is expected to result in deep insight to the way city operates. This should
+major changes across society, inevitably leading to be used extensively for planning, re-design, and
+sustainable urbanization. proactive preparation for future growth as well
+as for handling any emergency/ disaster situation.
+Some of the major digital-related urban planning A possibility of monetization of the inter-
+challenges are lack of empirical data at town/ state/ connected data generated in the city should also
+national levels, lack of updated accurate base maps, be explored for long-term financial sustenance
+lack of map data of underground infrastructure, of city operation. Fourth, State Governments
+outdated techniques of ground survey, use of should experiment the use leapfrog technology to
+citizens applications in silos, inadequate sharing vault over stages prescribed by the conventional
+of data/information among city line departments development approach.
+Summary of Actions
+Level Key Actions
+ Integrated Command and Control Centre (ICCC) for spatial data infrastructure/ IoT
+ Urban Planning and Management (citizen services and building high resolution base maps using
+LIDAR, DEM or advance tools)
+ ICT/ ITS based real-time data on urban mobility and passenger information
+City level  ICT (SCADA, GPS) for energy and utility management linked to unified ICCC
+ ICT applications for urban safety and security unified with ICCC
+ Create database on employment, health and education covering all segments of the population
+including poor and migrants
+ Reflect aforementioned in CCUPs
+ Provide convergence and financial resources to achieve ‘outcome’ for the citizens at large and reflect
+State level in the SIUP
+ State Data centers to provide data and related infrastructure
+ Provide guidelines and financial resources based on outcomes defined in the CCUPs and SIUP
+Central level  Establish ‘National Urban Database Agency’ to handle all form of urban databased/ big data analytics
+and support every level in urban hierarchy
+24 Ministry of Housing and Urban Affairs
+
+Outcomes
+Short-term Mid-term Terminal Outcomes
+ULB level Align CCUP with ICCC services Expand and integrate all city
+model services at ICCC
+Unified information platform
+State level Converge schemes, funds and Facilitate integration of all city on ‘outcome based’ framework
+alignment to global frameworks services at ICCC (Capacity, Finance Governance)
+Central level Provide guidelines on ‘outcome Established dedicated institution
+based’ support to backstop
+global warming and climate change related
+Environmental
+phenomenon such as flash floods, droughts,
+and heat waves, which are exacerbated due to
+Sustainability
+poorly serviced areas, lack of affordable housing
+A central principle of sustainable development is a resulting in the increase in informal settlements
+holistic view of life where all objects and activities often located in low lying or hazardous areas.
+are interconnected and mutually affect one
+another and in turn are affected by each other. The Energy use in buildings and vehicles is also one
+Government of India recognizes environmental of the key contributors to urban heat islands
+sustainability as a key element towards sustainable (UHI) in cities and poor indoor and outdoor air
+urbanization and is a signatory to multiple quality. Globally, cities are taking up voluntary
+international agreements, including the Paris commitments to clean energy (e.g. 100% renewable
+Agreement, the Sendai Framework for Disaster energy), driven by increased resilience, decreasing
+Risk Reduction, and the Quito Declaration on dependence on fossil fuels and meeting carbon
+Sustainable Cities and Human Settlements for All, emission mitigation targets. These cities are
+International Solar Alliance among others to steer investing in energy efficiency (EE) improvements
+India towards a low carbon, resource efficient and in parallel with push to renewable energy (RE)
+sustainable future. generation to accelerate transition to zero energy
+and zero carbon cities.
+India’s cities are amongst the worst affected
+in terms of air pollution with 6 out of 10 most Rationale
+polluted cities worldwide being located in India First, environmental sustainability requires a long-
+including Delhi, which is ranked as the world’s term vision and concerted policy framework. As
+most polluted city (World Air Quality Report, for example, water bodies in India are extremely
+2019). Urban air pollution is a complex problem polluted by both solid and liquid wastes. Industrial
+with numerous sources including vehicular and domestic effluents find direct way to the rivers
+exhaust, emissions from industry and power and seas. This water pollution not only adversely
+plants, dust from construction sites and roads, impacts the cities’ immediate ecology but also
+crop burning, garbage burning, inefficient use of all habitations which are downstream, which
+energy in buildings, excessive use of biomass for necessitates riverine health to be mainstreamed
+cooking and heating, hazardous industrial waste, in city master plans. On site sewerage solutions
+among others. In many north Indian cities such as including fecal sludge management are strategies
+the NCR, the problem becomes particularly acute to be adopted.
+in winter as the pollution builds up near ground,
+prompting emergency health warnings. Based on existing and on-going diagnostics, there
+is an impending urgency to address deteriorating
+Cities are the hubs of resource use as well as air quality, degradation of water resources and
+the biggest generators of waste. The solid waste waterways, non-existent treatment and disposal
+profile of urban areas covers household waste, of solid waste, and recurring risks from natural
+construction and demolition waste, e-waste and disasters. Both short-term and long-term climate
+more, which are expected to increase and worsen risks need to be integrated in long-range planning
+in coming decades with rapid urbanization. The processes to mainstream urban resilience and
+inadequate capacity for collection of solid waste risk mitigation practices in urban environmental
+leads to open dumps spread across the cities. planning.
+Urban flooding is a recurring phenomenon in
+major economic hubs such as Mumbai, Chennai, Second, recognizing the complexity of cities
+Bengaluru, and Gurugram. Urbanization has also and the dynamism and scale of urbanization,
+exposed relatively higher number of people to environmental sustainability must be
+the risks and vulnerability from natural disasters, mainstreamed at all levels of government, and by
+National Urban Policy Framework: Strategic Intent 25
+
+enabling participation of all urban stakeholders. population concentrated in cities disaster risk
+Environmental sustainability requires an mitigation and resilience schemes are imperative
+integrated approach across urban sectors to to ensuring long term, sustainable social and
+plan proactive measures to prevent, avoid and economic improvement. Infrastructure and
+minimize adverse impacts from the natural physical assets are also at high risk due to poor
+systems upon which our communities, businesses resilience to disasters. Fourth, large expanses of
+and infrastructure systems depend. To this end, impermeable surfaces have been created, which
+planners and developers must be conscious of exacerbate heat island effects and increase surface
+the changing environmental landscape and must water runoff resulting in inundation of cities. As
+ensure that their decisions respond intentionally cities become inundated by water, polluted with
+and responsibly to environmental challenges. human waste and toxic materials, risk of illness
+Third, as India falls under the high-risk zone for is heightens. Fifth, concerns about the impact of
+potential mortality due to multiple hazards, which city expansion on natural ecosystems should be
+include earthquakes, floods, cyclones, droughts, intrinsic to urban development plans, including
+tsunami and landslides. With high densities of master plans.
+Summary of Actions
+Level Key Actions
+ Pollution monitoring
+ Adoption of Faster Adoption and Manufacture of (Hybrid and) Electric Vehicles (FAME)
+ Comprehensive sanitation plan to be part of CCUP
+ Expanding the green spaces
+City level
+ Water management plans (5-10-year horizon) with specific reference to existing water bodies (sea,
+river, ponds, lakes and tanks), integrate with CCUP
+ City Disaster Risk Reduction and Resilience Plan (DRRRP) to be part of CCUP
+ Prepare City Energy Efficiency Plan
+ Prepare State Urban DRRRP
+State level
+ Assist with convergence, technical support and ‘outcome basis’ to ULBs
+ Provide framework for water management, DRRRP, energy management plans
+Central level
+ Facilitate financial resources on ‘outcomes basis’
+Outcomes
+Short-term Mid-term Long-term
+ Prepare plans (water, DRRRP,
+energy, CCUP)
+ Integrate and mainstream Implement the ‘outcome based’
+ULB level
+health of water bodies plan
+(sea,river, pond, tank etc.) in
+master plan
+Consolidate local plans to state Facilitate convergence with Environment, social, sustainable
+State level
+action plans diverse departments and resilient cities
+Facilitate convergence with
+Central level Provide necessary frameworks
+diverse departments
+26 Ministry of Housing and Urban Affairs
+
+Annexure 1:
+NUPF Outcomes Matrix (illustrative for States to assess Cities)
+Intents
+Actions
+Means of Verifications
+(ten
+Outcome based actions
+functional (Objectively Verifiable Indicators)
+as per CCUPs
+areas)
+ Prepared
+ Notified
+ Integrated with economic focus
+x Discussion paper on ‘integrated spatial and economic focus’ prepared
+by city
+x Stakeholder consultation completed on the discussion paper
+Action 1: Master Plans
+x Suggestions/ amendments incorporated in Master Plan done based on
+(integrating spatial and
+stakeholder consultation
+economic focus) prepared
+x Alignment of suggestions/ amendments to ‘strategic intent’ of NUPF,
+Urban how it will contribute to:
+Planning x Atmanirbhar Bharat (Self Reliant India)
+x Vocal for local
+x USD5 trillion economy by 2025
+x Potential for direct and indirect jobs
+ Consultative review for Master Plan
+Action 2: Master Plans x Technical status paper for discussion
+revisited and revised in x Consultation
+every two year x Review and incorporation of feedback
+x Revisions/ amendments in Master Plan (as applicable)
+Note: Appropriate weights/ scoring criteria’s may be decided by GoI in consultation with States and ULBs
+Annexure 2:
+NUPF Outcomes Matrix (illustrative for GoI to assess States)
+Intents
+Actions
+(ten Means of Verifications
+Outcome based actions as
+functional (Objectively Verifiable Indicators)
+per SIUPs
+areas)
+ No. of cities prepared Master Plan
+ No. of Master Plan(s) Notified
+ No. of Master Plan(s) integrated with economic focus
+x Discussion paper on ‘integrated spatial and economic focus’ prepared
+by city
+x Stakeholder consultation completed on the discussion paper
+Action 1: Master Plans
+x Suggestions/ amendments incorporated in Master Plan done based on
+(integrating spatial and
+stakeholder consultation
+economic focus) prepared
+x Alignment of suggestions/ amendments to ‘strategic intent’ of NUPF,
+Urban how it will contribute to:
+Planning x Atmanirbhar Bharat (Self Reliant India)
+x Vocal for local
+x USD5 trillion economy by 2025
+x Potential for direct and indirect jobs
+ No. of Master Plan(s) revisited and revised
+ Process adopted on consultative review for Master Plan
+Action 2: Master Plans
+x Technical status paper for discussion
+revisited and revised in every
+x Consultation
+five year
+x Review and incorporation of feedback
+x Revisions/ amendments in Master Plan (as applicable)
+Note: Appropriate weights/ scoring criteria’s may be decided by GoI in consultation with States and ULBs
+National Urban Policy Framework: Strategic Intent 27
+
+Annexure 3:
+NUPF Outcomes Matrix (illustrative for GoI to assess overall NUPF)
+Intents Actions
+Means of Verifications
+(ten functional Outcome based actions
+(Objectively Verifiable Indicators)
+areas) as per NUP
+ No. of states/ cities prepared Master Plan
+ No. of states/ Master Plan(s) Notified
+ No. of states/ Master Plan(s) integrated with economic focus (with
+focus on process followed):
+x Discussion paper on ‘integrated spatial and economic focus’
+prepared by city
+Action 1: Master Plans x Stakeholder consultation completed on the discussion paper
+(integrating spatial and x Suggestions/ amendments incorporated in Master Plan done
+economic focus) prepared based on stakeholder consultation
+ Alignment of suggestions/ amendments to ‘strategic intent’ of NUPF,
+Urban Planning consolidated contribute to:
+x Atmanirbhar Bharat (Self Reliant India)
+x Vocal for local
+x USD5 trillion economy by 2025
+x Potential for direct and indirect jobs
+ No. of Master Plan(s) revisited and revised by State(s)
+ Process adopted on consultative review for Master Plan
+Action 2: Master Plans
+x Technical status paper for discussion
+revisited and revised in
+x Consultation
+every five year
+x Review and incorporation of feedback
+x Revisions/ amendments in Master Plan (as applicable)
+Note: Appropriate weights/ scoring criteria’s may be decided by GoI in consultation with States and ULBs
+Annexure 4:
+NUPF Integrated Outcomes Matrix
+Longer-term Outcomes
+Functional Areas
+City State National
+Dynamic, iterative, adaptive,
+Self-reliant and empowered Transition to long-term
+Urban Planning gender-responsive and evolving
+ULBs flexible Master Plans
+plans
+Contributing to
+Inclusive, functional BIDs Leveraging human capital in
+Urban Economy achievement of
+and CECs cities
+Atmanirbhar Bharat
+Physical Infrastructure Universal Coverage of all municipal services
+Social Infrastructure Moving out of poverty & vulnerabilities
+Housing and Affordability Increasing affordable Housing for all
+Transportation and
+Transition to affordable and accessible green mobility
+Mobility
+Urban Finance Financial sustainability and efficient service delivery
+Urban Governance Streamlined funds, functions functionaries (directly facilitating Atmanirbhar Bharat)
+Urbanization and Unified information platform on ‘outcome based’ framework (Capacity, Finance and
+Information System Governance)
+Environmental
+Environment, social, sustainable and resilient cities
+Sustainability
+28 Ministry of Housing and Urban Affairs
+
+
+

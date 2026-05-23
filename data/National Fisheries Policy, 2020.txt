@@ -1,0 +1,1918 @@
+National Fisheries Policy, 2020
+Sixth Draft for Consideration
+30 December 2020
+
+Contents
+1.0 Introduction ............................................................................................................... 3
+2.0 Preamble ................................................................................................................... 4
+3.0 Vision ........................................................................................................................ 4
+4.0 Mission ...................................................................................................................... 4
+5.0 Objectives .................................................................................................................. 5
+6.0 Strategy...................................................................................................................... 5
+6.1 Marine Fisheries ..................................................................................................... 5
+6.1.1 Sustaining marine fisheries .............................................................................. 5
+6.1.2 Monitoring, Control and Surveillance ............................................................... 8
+6.2 Inland Fisheries ...................................................................................................... 9
+6.2.1 Managing fisheries in the Indian rivers and their floodplains, natural lakes and
+wetlands ........................................................................................................................ 9
+6.2.2 Harnessing the potential of Indian reservoirs ................................................. 11
+6.3 Aquaculture .......................................................................................................... 12
+6.3.1 Freshwater aquaculture ................................................................................. 12
+6.3.2 Brackishwater aquaculture ............................................................................ 14
+6.3.3 Mariculture .................................................................................................... 16
+6.3.4 Seaweed farming ........................................................................................... 17
+6.3.5 Ornamental fish farming ................................................................................ 18
+6.3.6 Productive utilisation of inland saline soils ..................................................... 19
+6.3.7 Maintaining aquatic animal health and biosecurity ........................................ 19
+6.4 Infrastructure ....................................................................................................... 20
+6.5 Post-harvest & Trade ............................................................................................ 22
+6.5.1 Improving supply chain and value chain ......................................................... 22
+6.5.2 Developing domestic marketing .................................................................... 23
+6.5.3 Promoting trade and food safety ................................................................... 24
+6.6 Environment & Climate Change ........................................................................... 25
+6.6.1 Climate change .............................................................................................. 25
+6.6.2 Ensuring ecosystem health and integrity ........................................................ 25
+6.6.3 Protecting keystone species and iconic ecosystems ........................................ 27
+6.6.4 Regulating fish meal production and wild collection of juveniles .................... 27
+6.6.5 Blue Economy and Marine Spatial Planning ................................................... 27
+6.7 Social Security & Safety Nets ................................................................................ 28
+6.7.1 Securing small-scale fisheries and aquaculture ............................................... 28
+6.7.2 Meeting social security, gender equity and building resilience ........................ 29
+6.8 Fisheries Governance ........................................................................................... 31
+6.8.1 Regulating the sustainable and wise-use of inland and marine resources ....... 31
+6.8.2 Institutions ..................................................................................................... 32
+6.8.3 HRD and entrepreneurship ............................................................................. 34
+6.8.4 Data-base ...................................................................................................... 34
+6.8.5 Delivering knowledge and extending technical support .................................. 35
+6.9 Regional/International Commitments ................................................................. 36
+6.9.1 Encouraging regional cooperation ................................................................. 36
+6.9.2 Positioning India as a leader in the region ...................................................... 37
+6.10 Way Forward ........................................................................................................ 37
+Acronyms............................................................................................................................ 39
+Baseline Scenario ............................................................................................................... 40
+2
+
+National Fisheries Policy, 2020
+1.0 Introduction
+Intertwined in mythology, culture and the social fabric, Indian fisheries are set in a unique
+and diverse array of geographies, ranging from the mighty Himalayas in the north to the
+Oceans that surround the peninsular half of the country. Unparalleled in the global fisheries
+scenario, the astounding fisheries biodiversity of the country includes a vivid spectrum of fin
+and shellfishes and aquatic plants that provide livelihoods to millions of people directly and
+many more millions in the ancillary and supporting activities.
+Growing in leaps and bounds from the time when the sector was brought under planned
+development in the early fifties, India’s total fish production now stands at 13.76 million
+metric tonnes (2018-19), making it the third-largest producer of fish in the world after China
+and Indonesia. With the marine sector maintaining a steady trajectory of moving towards its
+estimated potential of 5.31 million metric tons (mmt), it’s the aquaculture production that
+has exhibited phenomenal growth in the last three decades, placing India as the second
+highest producer of farmed fish in the world.
+Providing livelihoods to an estimated 28 million fishers and fish farmers, which is about 2.04
+percent of the national population, the sector offers immense opportunities for
+employment generation, especially for youth and women, and for meeting the food and
+nutritional security and foreign exchange earnings. During 2018-19, the sector’s Gross Value
+Added (GVA) was Rs 2,12,915 crores at current prices, which was about 1.12 percent of the
+national GDP and 7.28 percent of the GVA from the agriculture and allied sector. During the
+same period, the sector has earned foreign exchange worth Rs. 46,589 crores by exporting
+13.92 lakh tonnes of marine products. Overall, from 2014-15 to 2018-19, the sector has
+registered an average annual growth of 10.87 percent which is higher than the growth of
+the national economy (7.16%) at constant (2011-12) prices.
+India’s fisheries sector provides enormous potential in extending its reach to hitherto
+un/underexploited resources in both marine and inland waters; sizeable hikes in production
+and productivity from aquaculture; productive integration with other farming sectors such
+as agriculture, horticulture, poultry, and livestock; expansion of non-food fisheries such as
+ornamental; and in enhancing the availability of nutritious fish protein rich in omega-3 fatty
+acids to the nation’s growing population. On the environmental front, pond, tanks and
+floodplains can play a very important role in harvesting and holding rainwater and in the
+process serving as a valuable ameliorating agent for the re-charging of groundwater.
+With the growing population of the country and the increasing requirements for fish
+protein, the need for sustainable development of the resources is now felt much more than
+ever before. To match such demands and ensuring a growth trajectory that fulfils the
+requirements of today and leaves an equally better fishery for tomorrow, it is necessary for
+the country to develop a sound National Fisheries Policy framework. The Policy will provide
+the blueprint to optimally harness the capture and culture fishery resources that would help
+in sustaining the desired production and productivity levels. It is also expected that this
+policy framework will guide similar initiatives at the State and Union Territory-levels in the
+coming period.
+Accepting the fact that the fisheries resources are set in diverse ecosystems that determine
+the health and the integrity of the resources and the plant and animal wealth contained in
+it, the NFP will adopt a mountain to sea-scape approach. This will ensure that the sector
+3
+
+receives minimum adverse impacts from external sources and in the process creates
+minimum adverse impacts on the environment. Within the framework of ‘Blue Economy’,
+the NFP will also ensure a productive integration with the other economic sectors, such as
+agriculture, livestock, water resources, hydro-electric power, energy, forestry and
+environment, eco-tourism, rural development, shipping, etc. to meet the goals of the ‘Blue
+Economy’.
+The NFP will lay adequate emphasis on reducing the vulnerability of fishing communities
+from the ever-increasing impacts of climate change mediated global warming, extreme
+natural events such as cyclones and tsunamis, floods and droughts, and any other
+unprecedented situation such as the COVID-19 pandemic, ensuring that the communities’
+resilience is built to offset such threats.
+The NFP will also take into account the fact that fisheries are gradually moving into a
+globalized environment that involves trade, sharing of water basins, inter-Exclusive
+Economic Zone (EEZ) movement of migratory fish species, trans-boundary movement of live
+aquatic animals, curbing of Illegal, Unreported and Unregulated fishing, and finally India’s
+commitments to international instruments of both binding and non-binding nature.
+Similarly, the regional dimensions will also be adequately reflected in the NFP to ensure
+cooperative arrangements in the trans-boundary management of shared fisheries
+ecosystems and the resources contained in them and in the interest of their long-term
+sustainability.
+Finally, drawing inspiration from the fact that the Government has created a separate
+Ministry for the fisheries sector, the policy will mirror the national aspirations and the
+developmental goals set by the country’s leadership, to ensure that fisheries become an
+equal partner with the other developmental sectors in making India a USD 5.0 trillion
+economy by the year 2025.
+2.0 Preamble
+Based on the cardinal principles of the Constitution, and adopting a people-centric and
+participatory approach, the National Fisheries Policy will aim at furthering equity and
+equality, ensuring sustainability, mainstreaming gender and enhancing its role, fostering
+inclusive development, promoting self-reliance and entrepreneurship, building
+partnerships, maintaining intergenerational equity, following the principle of subsidiarity,
+and charting a road-map for the fisheries sector for the coming one decade.
+3.0 Vision
+“A healthy and vibrant fisheries sector that meets the needs of the
+present and future generations.”
+4.0 Mission
+“While keeping the sustainability of the resources at the core of all actions, the
+National Fisheries Policy will meet the social and economic goals and well-being of the
+fishers and fish farmers and is intended to guide the coordination and management of
+the fisheries sector in the country during the next ten years.”
+4
+
+5.0 Objectives
+The objective of the National Fisheries Policy is to secure the overall development of
+capture fisheries and aquaculture in the country. While the fishers and fish farmers will be
+at the core of the Policy, the intent will be to ensure sound management and sustainable
+development of the resources and associated habitats, maintaining the ecosystem integrity,
+meeting the food and nutritional security of the growing population, protecting the rights of
+the fishing and farming communities and building their resilience, making Indian fish and
+fish products globally competitive, and supporting India’s commitment towards fulfilment
+of the global agenda on sustainable and wise-use of the fisheries resources.
+6.0 Strategy
+The National Fisheries Policy (NFP) encompasses the entire land and the EEZ of the country
+and is set in a time-frame of ten years (2021-2030). The broad parameters of the strategy
+are outlined under 10 sections (6.1-6.10) in the following narrative.
+6.1 Marine Fisheries
+The potential of the fisheries sector in general and the marine fisheries sub-sector in
+particular was recognized quite early in the Indian development planning. Apart from
+securing food and nutritional requirements of the population, marine fisheries also play an
+important role in trade and commerce, and in the process promote employment and
+livelihoods of coastal communities.
+After the declaration of the EEZ in 1976, the sea area available to India is estimated at 2.02
+million sq. km, a shelf area of 0.372 million sq. km, and a coastline of 8000+ km. With
+sovereign rights on the EEZ, India has also acquired the responsibility to conserve, develop
+and optimally harness the marine living resources within this area. The marine fisher
+population in India is estimated at 3.77 million, of which 0.93 million are active fishers.
+About 0.52 million people are engaged in fishing and allied activities, of which, 69 percent
+are women. Women are especially active in fish marketing where they constitute about 86
+percent of the participants. Vis-a-vis, about 14 000 women are engaged in fish seed
+collection and an equal number in the shell collection activities. The marine fisheries sector
+as a whole is characterised by the predominance of small-scale fisheries.
+6.1.1 Sustaining marine fisheries
+The current Potential Yield (PY) of marine fisheries from the EEZ has been estimated as 5.31
+mmt. The current yield (2018-2019) is 4.18 mmt, indicating the potential to increase the
+yield by 1.13 mmt. The under/unexploited resources are available in the 200 to 500-meter
+depth zone and in the oceanic waters. Except for the PY of 0.23 mmt of tuna and tuna-like
+fishes, many other resources in the oceanic waters are non-conventional fin and shellfishes
+such as myctophids and oceanic squids. For realising the full potential of 0.23 mmt of tuna
+and tuna-like fishes and the oceanic squids (0.63 mmt), the policy initiatives will be directed
+towards the improvement of the skills and capacities of the fishers to catch and land them
+in good condition. This initiative will be further complemented by providing assistance in
+the procurement of modern fishing vessels and gear and research and developmental
+inputs for locating the potential fishing grounds, improving post-harvest handling and
+creating value addition and ensuring food safety. However, considering the uncertainties in
+the estimates, there is a need for taking the precautionary approach in line with the global
+5
+
+standards regarding wild fish harvests and with sustainability and equity as the key
+principles.
+With the focus on ensuring sustainability (ecological, economic, social, and institutional),
+the most immediate requirement would be the rationalization of fishing effort vis-a-vis the
+sustainability of the resources. This will ensure the economic viability of fishing operations.
+In the short-term, the aim would be to stop additional entry to the sector, and thereafter
+re-distribution of the effort to move towards equilibrium. An additional effort may be
+allowed only for under or unexploited resources, mostly in the oceanic waters. The other
+management measures will inter-alia include, input and output controls such as fishing
+days, area of operation, engine horsepower, gear size, minimum mesh size, minimum legal
+size (MLS) and development of national guidelines for MLS of commercially important
+species. These measures will be further supported with fleet plans and creating fisheries
+management areas to ensure that resource depletion is contained. The fisheries and related
+institutions will ensure the formulation of rebuilding/recovery plans for those fish stocks
+that are in a depleted or collapsed state. Such efforts will also be based on sea ranching and
+deployment of artificial reefs as management options for replenishing fish stocks and
+improving species diversity in vulnerable marine environments. A capacity appraisal
+framework will be prepared for fishing capacity based on the PY estimates and regular stock
+assessments will be carried out to allow for the identified fish stocks to be harvested on a
+sustained basis.
+Efforts will be made towards mainstreaming biodiversity conservation in production
+processes; species-specific and zonal/area-specific management plans, including
+conservation of Ecologically and Biologically Significant Areas (EBSAs) and Vulnerable
+Marine Ecosystems (VMEs); protection of iconic and endangered and threatened (ETP)
+species; spatial and temporal measures for sustainable utilization of resources; and creation
+of fish refugia through consultative processes. Simultaneously, the Government will also
+undertake the review and periodic evaluation of the existing Marine Protected Areas
+(MPAs) and for providing legislative support to ensure that tenure rights of the traditional
+fishers are secured and their livelihoods are not impacted by such conservation measures.
+The Ecosystem Approach to Fisheries Management (EAFM) will be implemented with due
+consideration of the well-being of all living and non-living constituents of the marine
+ecosystem and the social attributes and economic needs of the stakeholders. In the same
+vein, participatory management or co-management, which is recognized globally as one of
+the successful management systems for multi-stakeholder, multi-species and multi-fleet
+fisheries will be promoted. The examples set by Kerala, Tamil Nadu and Puducherry will be
+taken into account while promoting co-management in the country. Local, regional, inter-
+state and national fisheries councils would also play a key role in resolving conflicts among
+different groups of fishers and the norms for introducing these management measures will
+be worked out in consultation with all the concerned stakeholders in the sector.
+Spatial and temporal closures have helped in sustaining the marine fish wealth of the
+country. To ensure that these management measures effectively improve the livelihoods of
+fishers, periodic reviews will be conducted, taking into account the best scientific
+information available, including a precautionary approach, and with the due engagement of
+fishers and other concerned stakeholders.
+6
+
+Presently, the coastal States/UTs have specific areas reserved (based on depth or distance
+from shore) for traditional fishers where mechanised fishing is not permitted. Such
+Territorial Use Rights for Fisheries or TURFs have proved to be useful in sustaining the
+livelihoods of artisanal fishers. The Government will continue to provide such support to
+artisanal fishers and in consultation with user groups, it will further consider increasing the
+area presently available to artisanal fishers in the territorial waters.
+Management of fisheries will follow an integrated approach, blending traditional knowledge
+and science with business principles and effective engagement of both primary
+stakeholders, and also those engaged in ancillary activities to ensure that fisheries are
+ecologically and economically sustainable. Knowledge management will be an approach to
+foster quick and easy dissemination and availability of information on key attributes of the
+marine fisheries sector, such as resource abundance and distribution; real-time resource
+maps; productivity assessments; real-time Potential Fishing Zone (PFZ) advisories; and
+weather forecasts for the benefit of fishers. The use of Information Technology (IT) and
+Space Technology (ST) will be put to optimum use for harnessing the benefits in support of
+the fisher community.
+Fishing in the offshore waters and the Areas Beyond National Jurisdiction (ABNJ) is both
+capital and technology-intensive. Private investments will be promoted in deep-sea fishing
+and processing to fully harness the potential of the marine fishery for inclusive
+development. Entrepreneurship development, availability of sound technology, Public-
+Private Partnership (PPP) arrangements and better leveraging of institutional finance for the
+marine fisheries sector will be encouraged. Besides, modalities will be worked out for the
+integration of the seafood processing and export sector with the deep sea fishing industry
+for the holistic development of the sector.
+The Government will introduce new scheme(s) for enhancing the skills and capabilities of
+the artisanal fishers to undertake and popularize deep sea fishing, modernization of the
+existing deep-sea fishing fleet, introduction of new/improved indigenous deep-sea fishing
+vessels through fisher cooperatives/self-help groups (SHGs), on-board training and linkages
+to markets and export. While introducing these mechanisms/schemes, steps will be taken
+to ensure that such initiatives also comply with the rules and regulations set under the
+international instruments relating to fishing in the EEZ and the ABNJ.
+Utilization of deep-sea resources in the EEZ and beyond will be considered not only in terms
+of resources available in the EEZ, but also infrastructure; technical wherewithal for vessel
+construction, survey and certification; human capacity development; a comprehensive and
+implementable set of rules and regulations, with a strong Monitoring, Control and
+Surveillance (MCS) regime; and availability of scientific and technical information on
+commercial fisheries resources, and the best fishing methods with which to target them.
+However, such initiatives will be subject to compliance with relevant provisions in the
+International Agreements/Arrangements concerning fisheries in the high seas and the ABNJ
+and with proper monitoring and communication mechanisms to safeguard coastal security
+and safety of fishers at sea.
+The Government will develop a holistic resource utilization plan for the EEZ in consultation
+with the coastal State/Union Territory (UT) Governments, taking into consideration the
+requirements of coastal States/UTs and the special and unique needs of the two Island UTs,
+the Andaman & Nicobar and the Lakshadweep. At the same time, coastal States/UTs will
+also be urged to recognize that the area of EEZ between 12 and 200 nautical miles (nm) is a
+common resource managed by the Union Government and isolated fishing strategies by
+7
+
+them may lead to over-exploitation and inter-State/UT conflicts. An institutional mechanism
+will be set up and strengthened to reduce and manage inter-State conflicts as well as
+international conflicts, especially with the neighbouring countries for the management of
+marine fisheries. The Government will prepare and implement integrated coastal and
+Islands’ fisheries development plans, which will help in enhancing the economy of coastal
+States/UTs and the Islands.
+The key areas for immediate intervention would include:
+ Promoting deep-sea fishing and fishing in Areas Beyond National Jurisdiction (ABNJ) to
+tap under-exploited resources, through the use of appropriate and responsible
+technology and capacity building of stakeholders, especially the artisanal fishers, and
+encouraging investments to develop harvest and post-harvest facilities.
+ Optimizing fishing effort and formulating and implementing management plans for the
+rebuilding of collapsed/degraded fish stocks.
+ Developing conservation measures such as species-specific and zonal/area-specific
+management plans through consultative processes and preparing a holistic plan in a
+consultative manner for resource utilization in the EEZ.
+ Promoting the adoption of EAFM and co-management approaches.
+ Encouraging coastal States and UTs to increase the area reserved for non-mechanized
+fishing boat operators under the MFRAs.
+ Facilitating knowledge management across the entire spectrum of the marine fisheries
+sector with the use of advanced IT technologies.
+ Ensuring the safety of fishers and national security while developing deep-sea fishing and
+fishing beyond national waters.
+6.1.2 Monitoring, Control and Surveillance
+The existing mechanisms in place for a sound and effective MCS regime for the marine
+fisheries sector need further strengthening, following the National Plan of Action on MCS
+(NPOA-MCS) adopted by the Government. Presently, the Government has an online
+uniform registration and licensing system (ReALCraft) to register all fishing vessels operating
+in the marine sector (artisanal, motorized, mechanized and non-mechanized). While
+monitoring of fish catch and effort and control of fishing through registration and
+licensing is in place, MCS activities will be further strengthened through greater
+engagement of the Department of Fisheries (DoF) of the maritime States/UTs, Coastal
+Marine Police and the Indian Coast Guard (ICG). Strengthening and improvements in MCS
+will be carried out in a phased manner by introducing chip-based smart registration cards,
+mandatory use of logbooks (both paper and electronic), and also through extensive use of
+space technologies and IT tools. The Central Government will work with the State/UT
+Governments to put in place a more effective MCS system and also assist in building up the
+skills and capacities of the MCS managers as also the role of the community in the
+implementation of the MCS functions.
+The marine fisheries sector is characterized by a range of fishing vessels varying in design,
+construction material, size, engines and gear and area of operation. The legislation(s)
+relating to registration, survey and certification, mandatory carriage of identification
+documents and tracking equipment, penalties for violations of the aforesaid provisions, sea-
+safety and manning norms of fishing vessels are required to be updated to cater to the
+needs of the fisheries sector and also to meet the international standards and norms
+8
+
+prescribed by concerned agencies such as the Food and Agricultural Organization (FAO), the
+International Maritime Organization (IMO), the International Labour Organization (ILO), etc.
+While updating the existing rules and regulations it would also be necessary to introduce
+mandatory registration of boat-building yards, registration of fishing gear to ensure its
+accountability and reducing the loss of gear/ghost fishing, seaworthiness of fishing vessels,
+and phasing out of ageing and unviable fishing vessels.
+India being a party to several International Agreements/Arrangements to deter, prevent
+and eliminate Illegal, Unreported and Unregulated (IUU) fishing, the Government will
+establish a sound mechanism both at the port and at sea to ensure that the Indian fishing
+fleet does not engage in any IUU fishing within its own EEZ and the ABNJ.
+The key areas for immediate intervention would include:
+ Setting up an effective MCS system, following the NPOA-MCS, in coordination with the
+coastal States/UTs and other concerned Ministries/Departments. This will also include
+enhancing the skills and capacities of the MCS managers as also the role of the
+community in the implementation of the MCS functions.
+ Promoting measures to curb IUU fishing by national and foreign fishing vessels.
+6.2 Inland Fisheries
+The inland capture fisheries resources are as vast and varied as the marine fisheries
+resources and their importance as a source of livelihoods, food, and nutrition for the
+population has been no less than their marine counterpart. The riparian communities along
+the major river systems of India have been as old and traditional as the marine fishers,
+although with the changing scenario in the inland sector, their migration to other sources of
+livelihoods is more prominent than any other food production sector.
+The inland capture fisheries resources include a riverine length of 2,01,496 km (including the
+tributaries, and irrigational canals), 3.52 million ha of small and large reservoirs and 1.2
+million ha of floodplains, etc. The total area available for the inland fishery is estimated at
+8.24 million ha excluding rivers and canals. The total inland fisher population is estimated at
+approximately 24.29 million.
+6.2.1 Managing fisheries in the Indian rivers and their floodplains, natural lakes
+and wetlands
+Rivers, their tributaries and associated floodplain lakes form the prime resource of inland
+capture fisheries in the country. Since ages, these inland fisheries resources have sustained
+thriving riparian communities and provided freshwater fishes to a large segment of the
+population. Until the technology for seed production of Indian Major Carps (IMC; catla,
+rohu, mrigal) was not perfected, the Major River Systems like the Ganges and the
+Brahmaputra were the source of fish seed that was raised in ponds and tanks for growing
+into table-size fishes. These river systems are still the backbone of freshwater aquaculture
+production in the country as they are the only source of obtaining mature/gravid IMC
+species for maintaining the vitality of the germplasm.
+With the increasing urbanization, industrial development, flood protection and water
+abstraction for irrigation and power generation, the riverine fisheries have been badly
+affected. Reduced water flow in the rivers is not only affecting the riverine ecosystem but is
+also impacting the estuaries and the coastal waters, which need an adequate flow of
+9
+
+freshwater and sediments to retain their ecological integrity. To revive the riverine
+ecosystem and reverse the decline of fisheries, the prime focus of the NFP will be to ensure
+that the availability of water flow is conducive to sustain fisheries in the rivers and their
+tributaries. Second, the Policy will focus on improving the ecological health of the riverine
+ecosystem and curbing the flow of pollution from point and non-point sources into the
+rivers and their tributaries. Third, the riverine stretches and the associated floodplains that
+are proven grounds for breeding and larval growth of IMC species, minor carps, catfishes
+and a large number of forage fish species and several other key riverine species (mahseer,
+catfish, etc.) will be protected to ensure that the population of these endemic species is
+sustained. Any disruption in the riverine environment that hampers the IMC populations,
+will have major repercussions on the freshwater aquaculture production in the country.
+The estuaries, as the transitional zones between the rivers and seas, also offer lucrative
+fisheries. All the major river systems in the country that flow into the seas have estuarine
+stretches; in some cases, like those of the Gangetic River system, the estuaries cover very
+large areas and support thriving fisheries of a large number of fin and shellfishes. The flow
+of fresh water and tidal influence largely determines the productivity of fish and fisheries of
+the estuaries. However, with the increase in the coastal settlements and industrialization,
+estuaries have also become the receptacle of pollution coming from point and non-point
+sources. Further, with the upstream abstraction of water, the required flow of freshwater
+into the estuaries has gradually diminished, affecting its unique characteristic and
+consequent reduction in the production and productivity of fin and shellfishes.
+Floodplain lakes, as a continuum of the rivers and their tributaries, have since time
+immemorial formed vital fisheries resources in the Ganga and the Brahmaputra river basins.
+They are the lifeline of riverine fisheries. With an estimated area of around 1.2 million ha,
+these water bodies have not only sustained fisheries for the communities but have also
+served as a receptacle for the excess riverine flows during the monsoon months. With heavy
+siltation, loss of connection between several floodplains and their associated rivers, and
+weed infestation (primarily water hyacinth – Eichhornia crassipes), the water retention
+capacity and productivity of these water bodies have considerably reduced, leading to a
+decline in the riverine fisheries and also the occurrence of recurrent floods in the river
+basins. Encroachment has further aggravated the situation. The use of harmful fishing gear
+and excessive exploitation of the resources by the marginal communities is also rampant
+and needs regulation. Efforts will be made to restore the link between the rivers and the
+floodplains and rejuvenate these resources to gainfully utilize their innumerable ecosystem
+services.
+Natural lakes and wetlands form another important fishery resource in the country. From
+the high altitude lakes and wetlands to the tals and jheels of the Gangetic plains and the
+estuarine lakes such as Chilika in Odisha, Pulicat in Tamil Nadu/Andhra Pradesh and
+Vembanad in Kerala, these water bodies have been providing both animal and plant protein
+as also various other ecosystem services to the community. The tals and jheels of the
+Gangetic basin are the key source plant protein such as makhana or fox nut (Eurayle ferox)
+and singhara or water caltrops (Trapa bispinosa). Estuarine lakes such as Chilika are home
+to the iconic Gangetic and Irrawaddy dolphins, protected under the Wildlife (Protection)
+Act, 1972. Upland lakes in the Himalayas also need due attention to harness their fisheries
+potential that can provide valuable food and nutrition for the communities in such remote
+areas as also for the defence personnel guarding the country’s frontiers.
+As inland capture fisheries are subject to heavy external influences, management
+approaches, which in a broad sense are considered akin to marine fisheries, will be
+10
+
+followed. This inter alia will include optimisation of the fleet size and the number of fishing
+days; review of the leasing policies, updating them where required; recognizing the rights of
+traditional fishing communities; implementation of the closed season and closed areas (fish
+sanctuaries) largely for the protection of broodstock of key species used for aquaculture;
+regulation on fishing gear and methods; habitat restoration including de-encroachment and
+regulations on minimum water flow in the rivers and their tributaries that will ultimately
+reach the estuaries; provision of fish passes and ladders where the rivers or their tributaries
+have dams or barrages; and ensuring adequate flow of seawater into the estuarine lakes
+through regular dredging of the lake mouth. Such structures/actions will allow for the
+migratory species to negotiate and reach the breeding or the feeding grounds. Ranching of
+rivers and other inland water bodies with selected endemic fish species will be resorted to
+where populations have declined considerably and require stock replenishment/
+enhancement. Policy interventions, through active engagement with the Central Water
+Commission and the Central State Pollution Control Boards will aim to restore the pristine
+condition of these water bodies so that their food and other ecosystem services are
+available to the population residing in the area and elsewhere in the country. Bearing in
+mind that the Government intends to link major rivers, policy interventions will ensure that
+such linkages do not have an adverse impact on the fisheries resources and more
+importantly on the endemic germplasm that the rivers harbour.
+6.2.2 Harnessing the potential of Indian reservoirs
+The reservoir resources in the country are huge (>3.0 million ha) and comprise water bodies
+of large (>5000 ha), medium (1000 – 5000 ha) and small (<100 ha) sizes that can be
+manipulated to several combinations of stocking and harvesting and can be a valuable
+source of fish production from the inland waters. India, being a country of continental
+proportions, its reservoirs are spread over various types of terrains and soil types are
+exposed to diverse climatic conditions, and they receive drainage from a variety of
+catchment areas.
+However, the present yield levels from the Indian reservoirs are very low and these water
+bodies need to be put to sound management practices to realise their production potential
+and contribute to the national fish production targets. The key policy interventions required
+for fisheries development in the reservoirs would include (i) categorisation of the resources
+from their productivity and fisheries management point of view (natural recruitment,
+supplemental stocking and harvesting strategies, etc.); (ii) sound policies for leasing/fishing
+rights in the water bodies, including setting up of pens and cages for raising of stocking
+material and table-sized fish; (iii) empowering the reservoir-based communities to manage
+the fisheries resources and also sustaining their traditional rights in such reservoirs where
+part or the whole water body falls within the protected or reserved area; (iv) productive
+utilization through cage/pen fish farming in the extensive network of irrigation canals that
+carry water from the reservoirs to the agriculture fields; (v) discouraging the use of harmful
+gear and also unsafe fishing craft using thermocole and plastics; and (vi) establishing
+forward and backward linkages to support supplemental stocking of the reservoirs where
+required and provision of post-harvest infrastructure to ensure hygienic handling and quick
+movement of the catch to the markets.
+The key areas for immediate intervention would include:
+ Ensuring the availability of water flow conducive to sustain fisheries in the rivers and
+their tributaries.
+11
+
+ Improving the ecological health of the riverine ecosystem by curbing the flow of pollution
+from point and non-point sources into the rivers and their tributaries in coordination
+with relevant agencies.
+ Protecting the riverine stretches and the associated floodplains to ensure that the
+population of the endemic species is sustained through setting up of the protected area,
+time and area closure, and effort management.
+ Restoring the link between the rivers and the floodplains to rejuvenate these resources
+and to gainfully utilize their innumerable ecosystem services.
+ Implementing leasing policies to ensure resources are used as per their productivity and
+empowering local communities to manage resources.
+ Providing necessary infrastructure for seed production and stocking.
+6.3 Aquaculture
+6.3.1 Freshwater aquaculture
+Today, India is the second largest farmed fish producer in the world, with an estimated area
+of. 2.48 million ha under ponds and tanks. It is estimated that the country produced about
+7.7 mmt of farmed fish during 2018-19, contributing to about 80 percent of the inland fish
+produced in India and about 56 percent of the total fish production of the country. Though
+IMC species form the most favoured group of fishes for freshwater and contribute to the
+maximum production from aquaculture in India, other species such as Pangasius and Tilapia
+are also gaining ground and are popularly consumed in many parts of the country.
+Although the first successful breakthrough in the transfer of composite fish farming
+technology to the farmers in the country took place during the mid-to-late seventies and
+ushered in the ‘aquaplosion’, subsequently, the technology expansion has been minimal.
+While there has been a horizontal expansion in the area under freshwater fish farming,
+vertical hikes have been limited, resulting in the average per hectare productivity being
+restricted to 3000 kg per ha. Quality seed production is limited to certain areas and
+supplementary feed use is also minimum. Farming practices have changed drastically,
+varying from region to region and mostly by the farmers’ own initiatives and innovations.
+Though of advantage to the farmers, such changes have over time placed restrictions on
+sound planning, movement of inputs such as seed and feed, quality control, and spread of
+vectors and diseases.
+Despite being a global leader, the freshwater aquaculture sector in India has been highly
+conservative in terms of diversification of species and systems. Except for the introduction
+of pangasius and in recent period tilapia by innovative farmers and entrepreneurs, the
+sector has remained bound to the IMCs and the exotic carps. Similarly, integrated fish
+farming has also not moved away from the traditional turfs of West Bengal and some North-
+Eastern States to other areas where the potential exists. In the case of carps, production
+hikes are required from both horizontal and vertical expansion, thereby increasing the per
+hectare production and productivity of the water bodies.
+Therefore, for increasing the contributions from the aquaculture sub-sector, the policy
+initiatives would largely focus on diversification and expansion of the species spectrum, by
+ensuring the availability of healthy stocking material of required species; introducing new
+field-tested technologies into the farming system (e.g. Biofloc, Re-circulatory Aquaculture
+System, Integrated Multi-trophic Aquaculture or IMTA, etc.); integration of fish with other
+12
+
+farming activities like livestock, poultry, dairy, horticulture, crop, etc.; accessibility to
+quality inputs in terms of seed and feed, extension and technical services for aquatic animal
+health and water quality management; setting up of Fish Farmer Producer Organisations
+(FFPOs); etc. Aquaculture has to also deal with the competing demand for freshwater from
+other users and policy interventions will be required to secure water resources for the fish
+farmers. With such reforms in place and without undermining sustainability, production
+hikes can be expected from freshwater farming in a shorter time span of 4-5 years.
+Unlike freshwater aquaculture, fish farming in the colder reaches of the country has
+received much less attention. In spite of the massive Himalayan tract and the other
+mountain ranges offering high potential for raising fish, development has been limited to
+trout farming in certain areas of Himachal Pradesh and Jammu and Kashmir. With the
+improvements in road infrastructure, transport, power supply and communication in the
+hilly areas, the time has come to give a boost to trout farming in the medium to higher
+altitudes in the country. This thrust will allow utilization of the available resources for not
+only food supplies but also for increasing the employment opportunities in the
+mountainous regions of the country. The policy directives in this regard would be directed
+towards a thorough assessment of cold-water resources amenable for farming and
+preparation of a master plan for the development of cold-water fisheries and aquaculture in
+the country; replenishment of germplasm of rainbow and brown trout and also of common
+carp for farming in the lower altitudes of States such as Uttarakhand, Meghalaya, and
+Arunachal Pradesh and the possibility of introduction of other potential exotic species,
+including arctic char for stocking high altitude lakes; setting up of trout hatcheries and feed
+mills for easy availability of quality seed and feed. Besides, the development of farming
+systems, stocking of hill streams with rainbow and brook trout in the medium to higher
+altitudes can promote angling and angling-mediated tourism with homestays, which again
+will provide avenues of livelihoods for locals as also restoration and upkeep of the streams
+and other water bodies.
+In the last six decades of developing modern fish farming practices in the country,
+production of quality fish seed in required quantities, and its nation-wide availability and
+accessibility remain a challenge. Seed production and distribution is still skewed with
+limited hotspots of seed production in the country. This is a major lacuna for the expansion
+and intensification of pond and enclosure-based aquaculture and also for culture-based and
+enhanced inland fisheries. Besides IMCs, commercial-scale production of other high valued
+species like pabda, singhi, native magur, climbing perch, scampi, crab, sea bass, mullet is yet
+to take place, restricting the farming systems to be largely carp-based or for pangasius
+farming.
+Diversification will be the key to the next ‘aquaplosion’ in the country. It will not only
+enhance the spectrum of fin and shellfish species that can be commercially farmed but also
+reduce the dependence on limited species and enhance the economic viability of
+aquaculture. Genetic improvements in the agriculture sector have allowed farmers to raise
+high yielding varieties and increase their per hectare yield and thus also the income. A
+similar situation is yet to happen in the Indian aquaculture and genetic improvement is
+limited to a couple of species. Policy initiatives will provide thrust to the genetic
+improvement of commercially important species amenable for aquaculture and where
+required foster collaborative programmes with the private sector to hasten the process
+with due scientific protocols and processes.
+While the technology for many species is available with the concerned Research Institute(s)
+of the Indian Council of Agricultural Research (ICAR), its commercialization is limited. In such
+13
+
+a situation, it is important for the research institutions to team up with the private sector
+and scale-up the process of commercialization so that the seed availability improves. In this
+regard, the seed-deficit areas in the country will receive priority. While doing so, it is also
+important to consider that quality seed is available to farmers at reasonable rates.
+Policy initiatives will support the introduction of commercially viable seed production
+technologies of a large number of local species mentioned in the foregoing paragraphs
+either through national initiatives or the transfer of technologies from elsewhere. In this
+regard, the role of the ICAR Research Institutions and their collaboration with the private
+sector will be crucial to establish hatcheries, seed farms, and brood banks of various species
+in potential areas. While promoting diversification of species and seed production, policy
+initiatives will also ensure the availability of quality seed to farmers through the
+accreditation of hatcheries, seed certification and quality control. In the same vein, the
+Government will also ensure that quality and certified feed is made available to the farmers.
+The key areas for immediate intervention would include:
+ Diversifying and expanding the species spectrum, by ensuring the availability of healthy
+stocking material of required species, suitable technologies and support services.
+ Preparing a time-bound and action-oriented plan for seed production in the country,
+including setting up of seed banks.
+ Revival of scampi (Macrobrachium rosenbergii) farming.
+ Securing water resources for fish farmers and setting up of fish farmers’ organizations.
+ Promoting trout farming in the medium to higher altitudes in the country through
+assessment of cold-water resources amenable for farming and preparation of a master
+plan for the development of cold-water fisheries and aquaculture in the country.
+ Enhancing support services such as the availability of quality seed and feed.
+ Identifying potential areas and securing their availability and allocation for suitable
+aquaculture practices with necessary support services.
+6.3.2 Brackishwater aquaculture
+Shrimp farming has been the most discussed and debated activity amongst aquaculture-
+based food production sectors in the last two decades. With a cycle of boom, bust and
+boom, shrimp farming has moved from the very traditional practices carried out in the
+estuarine tracts drawing water and seed from the high tide and raising short-term crops to a
+commercial set-up with high levels of per hectare production and productivity. The first
+cycle of the boom that started with the commercial-scale farming of tiger prawn (Penaeus
+monodon) did not last long. The White Spot Syndrome Disease (WSSD) and the December
+2016 judgement by the Supreme Court brought a halt to the activities. The second cycle of
+the boom began with the introduction of the Pacific whiteleg shrimp Litopenaeus vannamei
+in the mid-2000 and brought in unprecedented hikes in production, making India the
+second-largest producer of whiteleg shrimp in the world. This production also increased the
+export earnings of the country.
+It is estimated that the country has about 1.24 million ha of land in the coastal areas
+amenable for shrimp farming. The positive development in the last decade is that shrimp
+farming has now moved from the traditional farming areas of the east coast also to the
+west coast. Gujarat stands out as an excellent example of this development. The
+stakeholders in the sector are a mix of big entrepreneurs largely dealing with the input
+14
+
+manufacturing (seed, feed, health supplements, etc.) and the shrimp farmers whose
+average holdings are around 3-4 ha. Some of the entrepreneurs also have integrated
+facilities, with large-sized farms, running into hundreds of hectares.
+Such productive utilisation of coastal land, which otherwise has limited economic use, will
+be promoted for aquaculture through suitable land-leasing policies and provision of the
+infrastructure that would be required for setting up of farms, hatcheries, etc. These
+infrastructure facilities inter alia would include access roads, electric and fresh water
+supplies and drainage facilities, and other incentives, wherever necessary.
+Unlike freshwater aquaculture, the brackish water shrimp farming industry is highly
+developed in terms of seed, feed and growth promoters and over the years, the industry
+has set up excellent distribution channels for input supplies and also the collection of
+harvested produce for supplying to the processing sector. The involvement of multi-
+nationals has also catalysed the process to the benefit of the sector.
+Coastal aquaculture that includes brackish water shrimp farming and other aquaculture
+activities in the coastal areas of the country are supported by the Coastal Aquaculture
+Authority Act, 2005, which is mandated to ensure sustainable farming practices that do not
+adversely impact the ecology and environment of the coastal areas of the country. The
+Rules and Guidelines framed under the Act, provide necessary guidance to the sector for
+setting up of shrimp farms and their operation.
+However, all said, the shrimp industry runs a big risk of farming restricted to a single species
+(L. vannamei), which too is of exotic origin. This situation does not auger well for a billion
+USD industry. The asset size of the shrimp industry producing seed, feed, processing, and
+other input supplies has grown manifold and the overwhelming dependence on a single
+species puts the industry at high risk. The phenomenal success of the whiteleg shrimp has
+made tiger prawn a forgotten species and there has been hardly any attempt in the last
+decade and a half to revive the tiger shrimp. Similarly, the farming of Penaeus indicus, a
+native species has never gained prominence.
+Therefore, there is an urgent need for species diversification and reducing the risks that the
+industry is facing now. The policy directives in this regard will aim at the revival of tiger
+shrimp and standardisation of the hatchery and farming technologies for P. indicus. The
+inclusion of finfishes such as sea bass, milkfish and mullets, etc. will widen the species
+spectrum. In this regard, the non-traditional species such as bivalves will also be considered
+and their role as filter-feeder will enhance the sustainability of the farming practices.
+Further, policy initiatives will also aim at improved biosecurity and health management,
+provision of additional quarantine facilities, and promotion of Best Management Practices
+(BMPs)/Good Aquaculture Practices (GAP) if farming practices are to remain sustainable.
+Management of wastewater arising out of aquaculture operations is a major issue and the
+policy will be directed towards supporting the creation of infrastructure that can reduce the
+quantities of contaminants before the wastewater enters the creeks or the coastal waters.
+For small aquaculture holdings, common effluent treatment systems will be supported so
+that their farming remains viable and profitable. The use of seaweeds and mussels and
+other cultivable species of molluscs will be promoted to cleanse the water before it enters
+the open water systems. Pacific whiteleg shrimp farms set up in the inland areas will not be
+permitted to use seawater.
+The key areas for immediate intervention would include:
+15
+
+ Promoting species diversification through the revival of tiger shrimp, P. indicus and
+inclusion of finfishes such as seabass, mullets, etc.
+ Supporting domestication of tiger shrimp and P. indicus and moving towards the
+production of specific pathogen-free germplasm.
+ Facilitating further expansion of shrimp farming for productive utilisation of coastal
+areas, creating employment, and enhancing food and nutritional security.
+ Improving biosecurity and health management, total disuse of banned antibiotics,
+provision of additional quarantine facilities, and promotion of BMPs/GAP.
+6.3.3 Mariculture
+The Government of India, recognizing that the demand for seafood would be increasing
+year after year and also realizing that the marine capture fisheries alone might not be able
+to meet the additional seafood demands, has initiated the development of mariculture in
+the coastal areas of the country. Based on the potential areas available for mariculture
+development in the country, the annual production of 4-8 mmt has been projected.
+As mariculture development in the country is in a nascent stage, the policy initiatives would
+be manifold, starting with the development of a blueprint of suitable sites/areas along the
+Indian coastline with a leasing policy following a Marine Spatial Planning (MSP) approach.
+This would allow for setting up a process of identification of suitable species for farming in a
+particular area and also the allocation of space on a priority basis to small and traditional
+fishers for open sea cage farming. Commercial-scale production of seed of potential species
+and their cage farming may be promoted in specifically identified ocean spaces, in particular
+in waters beyond 12 nautical miles, but with adequate safeguards and without affecting
+normal fishing, shipping and other maritime activities.
+On the Indian coastline, which is more or less straight with large areas exposed to surf and
+tidal influence, cages have to be set up in open waters, exposing them to the elements of
+nature, as opposed to sites which are located in bays, coves and sheltered areas and are
+less vulnerable to high winds and currents. Therefore, one of the key requirements to
+popularize mariculture would also be the availability of sturdy cages and their moorings that
+can withstand the harsh marine environment.
+While sufficient progress has been made in the development of technologies for breeding
+and larval rearing of a number of candidate species (e.g. cobia, silver pompano, Indian
+pompano, orange-spotted grouper, emperor sea-bream, John’s snapper and vermiculated
+spinefoot, green and brown mussels and edible oyster), the availability of quality seed in
+sufficient quantities would kick-start the activities on a larger-scale and also make farming
+cost-effective. The role of R&D and industry is prime in this regard to cater to the needs of
+the mariculture farmers and entrepreneurs. Policy initiatives will provide the required
+support for the promotion of commercially viable seed production technologies, developing
+brood banks for candidate species and hatcheries to scale-up the seed production and
+availability to meet the requirements of the farmers. The PPP will also play an important
+role in the entire mariculture developmental process.
+To ensure that mariculture is promoted in a congenial and environment-friendly manner,
+the policy would also ensure that through appropriate guiding documents, issues like access
+to fishing ground and encroachment of fishing areas are addressed so that it does not lead
+to conflict between fishers and mariculture farmers. Similarly, it would also be ensured that
+16
+
+carrying capacity studies and environmental impact assessments are undertaken for
+promoting sustainable mariculture in the coastal waters of the country.
+The key areas for immediate intervention would include:
+ Preparing a blueprint for the development of mariculture taking into account areas
+suitable for Mariculture within and outside the territorial waters, suitable species,
+leasing policy, and support services in consultation with the coastal States and UTs.
+ Promoting setting up of brood banks and commercial-scale hatcheries for seed
+production.
+ Supporting R&D for cage fabrication that is based on local technology and is cost-
+effective to meet the requirements of the local fishers.
+6.3.4 Seaweed farming
+Like aquaculture and mariculture, an untapped potential also exists in seaweed farming in
+the country. Globally, demand for seaweed is increasing for hydrocolloids, cosmetics and
+food supplements, and also as a potential biofuel source. This sub-sector offers immense
+scope of value creation along the value chain and can contribute significantly to the
+economy in the coastal areas of the country.
+There are about 844 seaweed species in India with standing stock of about 58,715 mt.
+Seaweeds are abundant along the Tamil Nadu, Gujarat and Diu coasts and around the
+Lakshadweep and Andaman & Nicobar Islands. Rich seaweed beds occur around Mumbai,
+Ratnagiri, Goa, Karwar, Varkala, Vizhinjam and Pulicat in Tamil Nadu, Andhra Pradesh and
+Chilka in Orissa. However, continuous, indiscriminate, and unorganized harvesting has
+resulted in the depletion of the natural seaweed resources.
+While the initial trial of seaweed farming was carried out during the early and mid-1980s,
+the activity is yet to popularize. Unlike other fisheries activities, local demand for seaweed
+for food purposes is non-existent. Nearly the entire domestic seaweed production is used in
+the industrial sector and therefore, the production would necessitate strong backward and
+forward linkages. The policy would ensure that such linkages are developed while ready-to-
+use technologies and other inputs are made available.
+Suitable areas for seaweed farming have been identified by the Research Institutions in the
+country along the coastline of Gujarat, Diu, Lakshadweep, Tamil Nadu, and Andhra Pradesh.
+To promote seaweed farming and attract the fishers, initially, seaweed seedbanks that rely
+on sexual reproduction methods, complementing the presently adopted widely popular
+vegetative/asexual propagation methods can be set up on the Tamil Nadu coast where
+maximum seaweed farming is being currently carried out. Later, it can be extended to the
+coasts of Gujarat and other places along the coastline. The species that can be promoted on
+a larger-scale is Kappaphycus alvarezii and potential varieties of indigenous seaweeds
+(agarophytes and alginophytes).
+The offshore waters also offer opportunities for raising seaweeds, especially in the
+Integrated Multi-Trophic Aquaculture Systems (IMTA) where finfish species such as cobia
+can be raised along with seaweeds. While moving towards large-scale seaweed farming,
+the harvesting of seaweed from the wild would be discouraged, unless sustainable
+management plans are in place.
+17
+
+Seaweed farming would be instrumental in creating livelihoods for fisher and other rural
+women. Women would be encouraged to form self-help groups/cooperatives/producer’s
+associations to undertake seaweed production and processing through training, access to
+public finance, and marketing support.
+The key areas for immediate intervention would include:
+ Promoting seaweed farming along the coastline, both seaward and land-ward, in the
+offshore waters and also in the Integrated Multi-Trophic Aquaculture (IMTA) systems.
+ Setting up seaweed seed banks along the coastline to provide the raw material for
+raising the seaweed.
+ Providing necessary wherewithal to attract fishers for seaweed farming.
+ Supporting fisherwomen and other women from coastal areas to take up seaweed
+farming.
+ Encouraging entrepreneurs to set up small and medium processing units to prepare
+products from seaweed.
+ Facilitating the marketing of the produce to catalyze the industry.
+6.3.5 Ornamental fish farming
+Ornamental fish is a relatively small but active component of the international fish trade.
+Maintaining an aquarium is a very popular hobby and the global trade of ornamental fishes
+is estimated at US$ 18-20 billion per year. India, owing to its diverse biological resources,
+has a great variety of commercial and potent ornamental fish resources. There are about
+374 freshwater species and over 300 marine species suitable for the ornamental fishery.
+While the value of the domestic market for the ornamental fishery is estimated at about Rs.
+500 crores, the activity is limited to some specific areas in West Bengal, Tamil Nadu,
+Maharashtra, North-eastern States and the Islands. The policy would encourage setting up
+of domestic units to enhance the production of ornamental fishes, development of end-to-
+end supply chain and maintenance of habitats to boost rural livelihood. The policy would
+also encourage consumer education on the benefits of maintaining an aquarium and
+encourage the installation of aquaria in public institutions. Women and youth will receive
+focus through appropriate interventions.
+Presently, it is estimated that about 85 percent of the ornamental species are harvested
+from the wild, chiefly from the hill streams of the North-eastern States or the prime coral
+habitats located along certain stretches of the coastline and the two Island Territories. As
+these wild-sourced species command higher price, the pressure on their harvesting is
+substantial and increasing. Policy interventions will ensure that such resources are optimally
+harvested and necessary controls will be put in place to ensure the sustainability of the wild
+ornamental germplasm.
+The key areas for immediate intervention would include:
+ Setting up of end-to-end supply chain for ornamentals.
+ Facilitating sourcing of broodstock from abroad.
+ Encouraging commercial-scale operators for breeding and distribution of larvae to
+rearing households with buy-back arrangements.
+18
+
+ Promoting aquaria in homes and work places.
+ Building entrepreneurship in rural women and youth in setting up medium and small-
+scale ornamental enterprises.
+ Supporting medium and small-scale enterprises in building aquaria and other
+paraphernalia for the development of ornamental fisheries.
+6.3.6 Productive utilisation of inland saline soils
+The area under salt-affected soils in the country is estimated to be about 6.73 million ha
+(mha) with the States of Gujarat (2.23 mha), Uttar Pradesh (1.37 mha), Maharashtra (0.61
+mha), West Bengal (0.44 mha) and Rajasthan (0.38 mha) together accounting for almost 75
+percent of the saline and sodic soils in the country. The other States where such resources
+exist include Punjab and Haryana. Irrational use of irrigation canal water for irrigation
+purposes is considered to be one of the major causes of soil salinization. Saline soils not
+only bring down productivity but also render the soil useless for agriculture and other
+purposes such as construction, etc. However, field-tested technologies are available for the
+utilization of such lands through farming of fin and shell fishes. Such technologies have
+already shown potential in saline areas of Haryana, Punjab, Rajasthan and UP where
+farmers have been successful in raising black tiger shrimp (P. monodon) and Pacific whiteleg
+shrimp, L. vannamei. Unlike coastal saline areas, there is also a negligible environmental
+impact as the inland saline areas have little alternate uses. However, the disposal of
+wastewaters from aquaculture would need due consideration to prevent any long-term
+impacts.
+The key policy initiative would entail the identification of potential areas and their
+allocation for aquaculture; imparting best technologies to the farmers, including the
+sustainable use of groundwater wherever required; extension support and hand-holding;
+introduction of potential finfish species such as sea bass and mullets for risk reduction;
+sound mechanisms for treatment and disposal of wastewater from aquaculture; and
+establishing forward and backward linkages for the supply of seed and feed of species such
+as Pacific whiteleg shrimp, mullets and seabass and subsequent assistance in the marketing
+of the produce. Where larger areas suitable for farming in saline soils are available, the
+development of Special Aquaculture Zones through PPP arrangements would also be
+considered.
+The key areas for immediate intervention would include:
+ Identifying potential areas and allocating them to farmers for taking up suitable
+aquaculture practices with necessary support services on a cluster basis.
+ Facilitating availability of quality seed and feed to farmers taking up shrimp farming in
+saline areas.
+ Supporting training and skill development of farmers and also in the marketing of the
+product.
+6.3.7 Maintaining aquatic animal health and biosecurity
+Since the late seventies when scientific fish farming practices gained roots in the country,
+the growth of aquaculture has been phenomenal. Besides general health management
+concerns of the farmed species, the Epizootic Ulcerative Syndrome (EUS) in freshwater
+fishes and the White Spot Syndrome Disease (WSSD) in shrimp aquaculture have been the
+main causes of large-scale mortalities in the country in the past. Since aquaculture is poised
+19
+
+for much higher growth in the coming years and meet the food and nutritional needs of the
+population, it is also essential that all aspects of the farming system, including health
+management, are adequately taken care of.
+In recent times, the intensification of farming practices, the unplanned introduction of
+exotic aquatic species and unregulated transboundary movement of live aquatic animals
+have been the main reasons behind many epidemics such as the WSSD. Further, inadequate
+scientific knowledge and lack of skills and capacities in handling such contingencies have
+compounded the problem.
+Although many remedial measures and protocols and practices have been developed in
+recent years in tackling aquatic animal health issues, yet more concerted efforts
+encompassing good farm management practices, improved skills and capacities of the farm
+managers and workers, a national aquatic animal health monitoring and reporting
+mechanism, disease prevention and control preparedness, prioritized research
+requirements for aquatic animal health management, sound prophylactic and disease
+control measures, sanitary and phyto-sanitary aspects, improved capacity in decision-
+making in ‘Import Risk Assessment’ and finally effective community networking is necessary
+to improve the situation.
+The key areas for immediate policy interventions would include:
+ Setting up of early warning system, conducting risk assessment, establishing surveillance
+and contingency plans and sound reporting on the occurrence of disease outbreaks.
+ Strengthening national and state regulatory capacities.
+ Promoting best practices for the management of aquatic animal health.
+ Establishing Infrastructure in terms of quarantine facilities (in the public sector) and
+aquatic animal health laboratories and diagnostic capabilities in both the public and
+private sectors.
+ Fostering research and developmental needs (including the development of PPP in aquatic
+animal health management).
+ Establishing mechanisms for regional coordination to reduce the risks of transboundary
+issues in aquatic animal health management.
+ Building capacities (Human Resource Development) at all levels.
+ Strengthening of the network for fish disease and health monitoring network with the
+active participation of ICAR Institutes, State DoFs and Colleges of Fisheries.
+ Setting up sound mechanisms for networking and information dissemination.
+6.4 Infrastructure
+India started constructing Fishing Harbours (FHs) and Fish Landing Centres (FLCs)
+since the mid-sixties and over the decades a large number of major and minor FHs
+and FLCs have been constructed. However, the growing fleet numbers and sizes have
+outpaced the facilities created so far and it is estimated that the present
+infrastructure caters to about 25-30 percent of the total fleet size in the country.
+This situation has brought in congestion at the landing points and delays in
+offloading the catch as also in re-provisioning of the vessels for subsequent fishing
+trips. More than this is the lack of facilities in the FHs and FLCs and their poor
+20
+
+maintenance from the hygiene and sanitation point of view. Cumulatively, all these
+drawbacks result in huge wastage of fish.
+Post-harvest starts from the point fish is landed on-board the vessel. The policy, as a matter
+of urgency, will focus on the entire infrastructure facilities set up so far and their
+modernization to meet the requirements of the sector. This per se will also look into the
+modalities of ensuring that the boats are maintained in conditions that do not allow
+contamination or spoilage of fish. Based on a master plan for the entire country’s
+infrastructure requirements, additional facilities wherever required will be created so that
+the fishing fleet is provided with adequate landing and berthing facilities. The master plan
+will also take into account all the back-up facilities required for sorting, cleaning, auctioning,
+and packing and other infrastructure needs such as availability of clean potable water and
+quality ice. The policy will also consider the modus-operandi for the creation of new
+infrastructure bearing in mind various options such as through public funding, private or
+public-private financing and using different delivery and operational mechanisms such as
+Build-Own-Operate (BOO), Build-Operate-Transfer (BOT) and Build-Own-Operate-Transfer
+(BOOT).
+As the FHs and FLCs are the nerve centre of marine capture fisheries where the forward and
+backward linkages also converge, it will be the endeavour of the Government to establish a
+National Fishing Harbour Authority and in the interim period set up an Inter-
+Ministerial/Department Committee involving the concerned Ministries/Department in the
+Union Government and coastal states/UTs to oversee the masterplan and the effective
+management of the infrastructure facilities.
+Besides attending to the needs of the existing FHs and FLCs, the policy will also look into the
+requirements of the infrastructure facilities for the beach landing centres (BLC). The country
+has approximately 3,400 fishing villages and >90 percent of the villages have traditional and
+motorised boats operating from the beaches. Many such villages have a large number of
+boats with hardly any facility to land the fish in hygienic conditions or sheds and anchoring
+points for net mending or engine repair. Based on a sound survey and assessment of the
+needs of such BLCs, necessary assistance would be considered.
+In the inland sector, infrastructure facilities would be required in terms of fish landing
+platforms and small auction and packing areas for key landing sites located on the
+reservoirs, lakes and riverfronts. Such facilities will be more essential for landing sites where
+the harvested fish has to be transported over longer distances for marketing. In this regard,
+adequate support will also be made for towards the creation of transport facilities that can
+allow the harvests to reach their destination in proper condition and with a minimum lag of
+time.
+The key areas for immediate intervention would include:
+ Providing required numbers of modern Fishing Harbours and Fish Landing Centres along
+with the back-up infrastructure to meet the requirements of the fishing fleet.
+ Modernizing the existing facilities.
+ Creating required infrastructure facilities on the reservoirs, lakes and riverfronts to
+facilitate landing and transportation of fish.
+ Establishing a National Fishing Harbour Authority
+ Setting up of an Inter-Ministerial/Department Committee involving the concerned
+Ministries/Department in the Union Government and States/UTs and other concerned
+21
+
+stakeholders to oversee the masterplan and the effective management of the
+infrastructure facilities.
+6.5 Post-harvest & Trade
+A food value chain (FVC) consists of all the stakeholders who participate in the coordinated
+production and value-adding activities that are needed to make food products. The key
+attributes of a sustainable FVC ensure that it (i) is profitable throughout all of its stages
+(economic sustainability); (ii) has broad-based benefits for society (social sustainability); and
+(iii) has a positive or neutral impact on the natural environment (environmental
+sustainability). Presently, post-harvest losses in both the marine and inland sector are
+enormous and there is an urgent need to reduce such losses so that additional and safe fish
+is available to the consumers. To meet these objectives, the policy will be directed at the
+following actions.
+6.5.1 Improving supply chain and value chain
+The supply chain is perhaps the weakest link in the entire series of operations in the
+fisheries sector in India and results in huge losses to the operators as also to the national
+economy. Improving the supply chain from ‘boat to plate’ and ‘farm to fork’ can bring many
+benefits to fish harvesters, farmers, processors, and finally to the consumers. This one area
+has remained grossly neglected and needs to be improved significantly to reduce post-
+harvest losses, provide safe food to people, and improve the economy of the participants in
+the chain. Improvements in the supply chain would necessitate the following major policy
+initiatives.
+Zero wastage: To reduce fish wastage in terms of physical and quality loss, policy initiatives
+will be directed towards improvements in the handling and storage of fish in the vessel. The
+deck is the first point of contact, and if the fish is handled and stored properly the chances
+of contamination are minimised. The use of clean ice and or provision of Refrigerated Sea
+Water/Slurry Ice facilities is paramount and it would be ensured that the fishing vessels are
+provisioned with clean ice and or other such cooling facilities on-board.
+Once the catch is landed, policy initiatives will aim at well-developed distribution channels
+and cold chain arrangements to move the harvest to the consumers in the shortest possible
+time. It is also important to reduce the number of nodal points in the supply chain and
+minimize the distribution channels. Establishing a partnership of actors in the value chain is
+the key to realise the best values for the products. Appropriate revenue structures, which
+ensure adequate compensation to fishers and farmers and protect their livelihoods, are also
+necessary to ensure their participation in the value realisation.
+With production from marine capture fisheries plateauing and wastage of fish across
+the supply chain not decreasing, in the coming years, there could be a scarcity of raw
+material for export. Trade policies including tariffs also significantly shape fish
+production and international trade. The policy measures required for improving the
+value chain in the domestic market (as also for exports) would include establishing a
+well organised supply chain, and making available adequate facilities at the landing
+sites such as clean water, clean ice and proper storage. For implementing the Hazard
+Analysis Critical Control Point (HACCP) System based on the recognition that
+microbiological hazards exist at various points of the supply chain, policy measures
+will be put in place to control them.
+22
+
+Value addition: Value addition can start as soon as fish is out of water. Proper on-board
+handling as mentioned earlier can substantially reduce wastage and on-board gilling and
+gutting and placing the fish in crates with adequate ice further enhances the value. On
+landing at the FH or the FLC, further value addition can take place by dressing the fish,
+vacuum packing, etc. and then moving it to the retail markets. As we move up the value
+addition, values can be enhanced by adding specialised ingredients to increase nutritional
+value, increasing shelf life and realising the convenience of using fish products. There is also
+immense scope to develop non-food, pharmaceutical, and nutraceutical products.
+Value creation: Certification and labelling schemes and traceability for environmentally and
+socially responsible production will create new markets and these products can be traded
+globally. These measures also focus on environmental concerns and strive to achieve
+sustainability in fisheries. Certification can also offer other benefits to producers in the form
+of improved or maintained market access, and potentially price improvements. Effective
+MCS and a ‘block chain’ approach could boost transparency of the sector by providing
+means to trace and record the entire fish supply chain, and convince the public,
+industry and consumers about sustainability, and food safety.
+The key areas for immediate intervention would include:
+ Improving distribution channels for moving towards zero wastage.
+ Encouraging and supporting value chain participants and enhancing their capacities for
+value addition and value creation.
+ Promoting eco-labeling of selected fisheries with full engagement of the concerned
+stakeholders.
+6.5.2 Developing domestic marketing
+While the country has the most modern processing infrastructure catering to the
+export market, the same is not the case for domestic marketing. Fish is sold in the
+most unhygienic manner at the landing sites and or at wholesale/retail markets.
+Despite substantial assistance being made available by the Government for setting
+up/improving FHs and FLCs and fish markets, the situation has not improved. This is
+also one of the reasons for the sale and consumption of fish in India not increasing as
+compared to neighbouring countries like Bangladesh, Sri Lanka, and Thailand.
+Unfortunately, there has also been little consumer resistance to buy fish handled in
+the most unhygienic manner.
+Though the slow pace of increase in fish consumption in the country, despite the
+immense health and nutrition benefits of fish, has been raised from time to time, but
+the real pinch has been felt since the spread of COVID-19 pandemic. With the closure
+of export markets, producers have felt the need for developing domestic markets so
+that the dependence on exports can be reduced. The policy initiatives in this regard,
+besides the creation of awareness amongst the consumers, would be to further
+strengthen the domestic supply chain and provide incentives to retail chains to
+include fish in their product list. Policy initiatives to include fish in mid-day meal
+provided to schoolchildren will also be made in areas where fish forms a regular part
+of the diet. Facilities that are extended to the agriculture sector for the concessional
+movement of their produce will also be provided for the transportation of fish by
+rail, road or air.
+23
+
+Similarly, policy incentives would also be directed towards the establishment of
+small processors who would establish a link with the harvesters and with basic value
+addition market the product directly to the restaurants or other outlets. In this
+direction, the policy will also aim at strengthening the role of women in small-scale
+processing and retail marketing by providing them with the necessary support to
+make them business savvy and play a key role in this segment of marketing.
+Finally, the growth of online fish marketing has now created ample opportunities for the
+supply of processed fish to a large number of consumers profitably. This shortening of the
+value chain will be remunerative for fishers as they will have an increasing share of the
+consumer’s rupee. The processor can also ensure better value chain governance owing to
+the direct linkage with the fishers. Over time, if fishers can develop the required skills, they
+can establish captive value chains with end-to-end connectivity. The policy will support and
+promote such initiatives.
+The key areas for immediate intervention would include:
+ Creating consumer awareness on the benefit of fish consumption and exploring
+novel ways to popularize fish consumption.
+ Improving supply chains to facilitate accessibility, affordability and availability of
+fish.
+ Promoting product development and new marketing methods such as online
+marketing.
+ Supporting close-knitted local producer-processor value chains to reduce the role
+of middlemen.
+6.5.3 Promoting trade and food safety
+India’s fish trade remains heavily dependent on shrimps. It comprises about 40 percent of
+export in quantity terms and 68 percent in value terms. In this scenario, the matter of
+concern is that during the last 24 years while the value of trade has increased by 13 times
+and quantity by 5 times, the nature of India’s export basket remains the same. For long-
+term development, it is important that India’s export potential is diversified and capture
+and culture fishery is fully realized. Further, it is also necessary for the Indian processing
+sector to move to higher-order value addition, keeping in view the requirements of key
+markets.
+In terms of markets, during the said period, India has consolidated on the US market but has
+not been so successful in the EU market. India has also been successful in opening new
+markets in China, the Middle East, and Southeast Asia. A competitive diversified offering
+will help India in further consolidating its position in these markets.
+However, global trade is becoming increasingly subjected to different barriers and filters.
+Especially, the high-value markets of US, EU and Japan are subjected to increasing
+constraints, largely on account of safety and hygiene and biodiversity conservation (e.g.
+protection to turtles and mammals). Therefore, policy interventions will focus on quality
+control and maintaining traceability throughout the supply chain for ensuring
+competitiveness.
+India, with its rising economic status and other factors is likely to lose/fail to regain most
+preferential tariff agreements. Therefore, the policy directions will also be oriented towards
+24
+
+keeping India competitive vis-à-vis the emergence of new developing countries, losing
+preferential status, or in other words, a global non-cooperative trade environment.
+The key areas for immediate intervention would include:
+ Promoting species and product diversification to expand the export market and
+export value.
+ Exploring new markets and promoting ‘Brand India’ seafood.
+ Improving hygiene and sanitation in FHs and FLCs to ensure fish and fish products
+that meet international standards.
+ Ensuring protection to endangered species by promoting the use of conservation
+devices.
+ Bringing traceability in the supply chain.
+6.6 Environment & Climate Change
+6.6.1 Climate change
+Climate change is one of the biggest challenges that the fisheries sector is facing in recent
+times and time-bound adaptation and management plans are necessary to sustain the
+growth trajectory of fisheries and aquaculture in the country. The impacts of climate
+change on marine fisheries are amply visible in the Indian EEZ and the surrounding high seas.
+Several studies carried out by the Fisheries Research Institutions in the country have
+brought out the changes in the distribution of fish species, their abundance, breeding
+behaviour and other phenological attributes, relating such changes to rising
+temperature or shift in salinity patterns in the oceans. The policy will encourage
+focussed studies on climate change impacts on fish stocks that can improve our
+understanding of such climate-induced changes and provide adaptive mechanisms to
+the fishing and farming communities in a time-bound manner so that their livelihoods
+are not impacted. As part of India’s international commitments on climate change, the
+concept of green fisheries by reducing Green House Gases (GHG) emissions from fishing
+and fishing-related activities will also be encouraged through dedicated activities.
+The key areas for immediate intervention would include:
+ Supporting studies to better understand the impacts of climate change on fishing
+and fish farming.
+ Implementing pilots on the adaptation of fishers and fish farmers on changes
+brought by climate and its associated natural events.
+ Promoting the use of solar energy in fishing boats, fisheries infrastructures like
+FHs and FLCs and fish farm operations.
+ Developing climate-resilient technologies in cooperation and coordination with sister
+agencies and the private sector.
+6.6.2 Ensuring ecosystem health and integrity
+The state of the environment in both marine and inland waters in India is under stress due to
+pollution and is probably one of the reasons for the decline in fish stocks. With the
+increasing anthropogenic activities on land and inadequate mechanisms for effluent
+treatment, the abundance of solid waste and in particular plastics (especially, micro-
+25
+
+plastic particles) have increased manifold in the sea as well as in the inland waters, resulting
+in negative impacts on the fauna and flora. There are also several alarming studies that
+indicate the movement of micro-plastic particles back to the human being through the fish
+food cycle.
+Wanton and un-wanton dumping of fishing nets in the oceans are also contributing to
+micro-particles besides the nets also engaging in ghost fishing, which is affecting fish
+stocks. The policy directives will aim at strengthening regulatory mechanisms to control
+pollutants to ensure that the land and sea-based pollution is effectively controlled and
+the ecosystems monitored. Fishers will make all-out efforts to ensure that fishing vessels do
+not contribute to marine pollution in any form by considering the required measures, in the
+design and construction of fishing vessels and subsequently in the use of gear.
+The policy will also address external factors such as habitat degradation, pollution, and
+climate change that affect inland and marine fisheries. Improved management has the
+potential to reverse the decline in fish stocks, leading to an increase in fish biomass and
+yield and an increase in the annual economic net benefits accruing to inland and marine
+fisheries and ultimately improving the economic returns to the fishers and other
+stakeholders in the sector. The Policy will continuously strive to promote the flow of new
+information and technologies that are potential game-changers for fisheries management
+and can be of help in achieving sustainable growth.
+On the infrastructure front, the development of FHs and FLCs sometimes leads to erosion
+and accretion along the coasts. These developments may bring changes in coastal
+configuration, which may have an impact on the coastline, ecology and ultimately the
+fisheries. The Government will consider placing adequate mechanisms to address these
+aspects while considering infrastructure developments on the coast.
+It is well known that coastal and inshore waters are tail-end ecosystems and marine fish
+resources inhabiting therein are highly dependent on the inflow of freshwater and
+sediments that bring in nutrients. However, these water bodies are subject to
+anthropogenic pressures, resulting in the degradation of environmental quality and reduced
+freshwater inflow. Such changes impact stocks of several important estuarine and marine
+fishery resources, particularly the high-value shrimps, which complete a phase of their life
+cycle in these inland coastal waters. Therefore, to safeguard the ecological integrity of such
+tail-end ecosystems, the policy will initiate measures to promote a landscape- to- seascape
+approach where sound management of inland water resources and maintaining optimum
+levels of water flow will also ensure the health and well-being of the coastal ecosystems.
+In the inland sector, the dams and barrages constructed over rivers and their tributaries
+often restrict the migration of fish species that move up and downstream for completing
+parts of their biological life-cycle. Policy interventions will ensure that necessary safeguards
+are in place in all future infrastructure developments on rivers and their tributaries and will
+also endeavour to correct the situation in the existing structures, wherever feasible.
+The key areas for immediate intervention would include:
+ Strengthening regulatory mechanisms to control pollutants, including plastics, and to
+encourage leading by example by taking necessary measures to reduce pollution from
+fishing.
+26
+
+ Arresting habitat degradation and increasing resilience against climate change through
+improved management measures and the adoption of new technologies wherever
+available.
+ Minimizing negative impacts of the development of fishery-related infrastructure.
+ Ensuring free movement of migratory fish species across dams and barrages constructed
+over rivers and their tributaries.
+ Promoting landscape-to-seascape approaches to safeguard inland and coastal
+ecosystem.
+6.6.3 Protecting keystone species and iconic ecosystems
+While promoting the development of sustainable fisheries, the policy will place emphasis
+on maintenance of the ecological integrity of the inland and marine environment, so as to
+ensure that there are no adverse effects on the endangered, threatened, or protected
+species. Mangroves, seagrass beds, and coral reefs are an integral part of the coastal
+marine ecosystems and provide a range of ecosystem services, including habitation for
+many fish species and marine mammals (e.g. dugong). Such ecosystems will be protected
+from anthropogenic impacts. Similarly, many endangered species also inhabit the rivers
+(Gangetic dolphins) and they will be protected to sustain their populations.
+6.6.4 Regulating fish meal production and wild collection of juveniles
+India is a new entrant in fishmeal production. All these years, fish meal was imported but
+now after meeting the domestic requirements, India is a net exporter of fish meal. A policy
+direction on fishmeal production and seed collection is also an urgent requirement for
+sustaining the sector. While usually concerned with aquaculture, fish meal and seed
+production, in reality, happens at the crossroad of capture and culture fishery and can
+affect both. The seed collected from the wild for stocking in farm ponds or for mariculture,
+affects the population of many other species that are discarded while retaining the target
+species. Fish meal production units, while on one hand have helped in productive utilization
+of ‘trash fish’ but in the process of proliferation of such units, fishing vessels are now using
+destructive gear to ensure that large catches irrespective of size and conservation status are
+harvested to meet the increasing requirements of the fish meal plants. Large quantities of
+fish meal produced in plants located in Karnataka also use small-sized sardines, which has a
+negative impact on the sustainability of the sardine population. Policy initiatives will
+discourage the use of edible fish species for such conversion. Further, R&D on the
+production of fish meal from alternative sources and sustainably harvested fisheries will be
+encouraged and the total fish meal requirement for all sectors (poultry, aquaculture, etc.)
+will be estimated to ensure a steady supply of quality fish meal.
+6.6.5 Blue Economy and Marine Spatial Planning
+The coastal and marine environment of India is one of the world's richest ecosystems with
+high productivity. The Blue Economy provides a great opportunity to access these natural
+resources and ensure food security and gainful employment, only if the resources are
+sustainably harvested and well-managed. India has developed a working definition of Blue
+Economy as - “Blue economy refers to exploring and optimizing the potential of the oceans
+and seas which are under India’s legal jurisdiction for socio-economic development while
+preserving the health of the oceans. The Blue Economy links production and consumption to
+capacity and envisages an integrated approach to economic development and
+environmental sustainability. It covers both the marine, that is offshore resources, as well as
+27
+
+the coastal, that is onshore resources.” According to the present estimates, the size of Blue
+Economy in India measured in Gross Value Added (GVA) is INR 4.6 lakh crore in constant
+prices and INR 5.5 lakh crore in current prices in 2016-17.
+The fisheries and aquaculture sector is emerging as a dynamic segment of the Indian
+economy and is positioned towards a significant growth trajectory in the coming period.
+Fisheries and aquaculture are also important constituents of Blue Economy initiatives.
+These initiative aims to promote investment and innovation in support of food security,
+poverty reduction, and the sustainable management of aquatic resources. The initiative
+takes an overall approach towards improving sustainable growth and management of
+aquatic resources, with special attention provided to the seafood value chain.
+However, keeping in view of the competing demands for ocean space, the need for
+Marine Spatial Planning (MSP), which is an important tool for the implementation of the
+Blue Economy, assumes significance. With the growing demand for mineral and oil
+exploration/extraction from the seas, the increasing volumes of maritime commercial
+traffic and reservation of spaces for strategic defence purposes, the available space for
+fisheries is diminishing. Keeping these contemporary developments in view, the policy will
+emphasise on a sound MSP to ensure that all economic activities get their due space and in
+the process, conflicts are reduced. Where required, necessary research support would also
+be solicited from the Research Institutions.
+6.7 Social Security & Safety Nets
+6.7.1 Securing small-scale fisheries and aquaculture
+The basic characteristic of Indian fisheries, both operating in the marine and inland waters,
+is the predominance of small-scale fisheries (SSF). A similar picture can also be seen in
+aquaculture where the majority of the fish farmers have very small holdings and raise fish in
+homestead ponds. This attribute of the sector has both prospects and problems. The
+prospects are in terms of employment generation, relatively moderate to the low
+requirement of capital, use of simple technology, etc. The problems are in terms of large
+numbers and being highly dispersed along the riparian tracts, in the rural hinterland and on
+the coastline creating a challenge for the creation of required infrastructure, hand-holding
+and extending knowledge and technology, marketing, monitoring, and the low capacity in
+investing and innovating, etc.
+The first and foremost policy intervention required to secure SSF is: (i) to define the term
+‘small-scale fisheries’ legally following international guidelines and national consultations.
+The other key areas for policy support are: (ii) designing incentives for small-scale operators
+to self-organize to carry out business; (iii) building skills, expertise, and entrepreneurship;
+(iv) assisting them to organize into self-help groups (SHGs)/cooperatives/fisher associations
+/FFPOs and scaling up their venture; (v) marking/allocation of natural and financial
+resources for SSFs; (vi) development of toolbox, especially for SSF women to pick up
+matching skills and resources; and (vii) improving resilience and social safety nets,
+particularly through the insurance of life, their craft and gear, and other assets from the
+vagaries of nature.
+Policy support is also required to ensure full participation of the SSF in socio-economic
+developmental negotiations such as land and water-use policy, optimization of fishing
+capacity wherever required, alternative uses of marine and inland waters, etc. To do this it
+28
+
+is also essential that adequate information be collated on the contributions of SSF to the
+fisheries and aquaculture sector, which often remain hidden and unknown.
+The key areas for immediate intervention would include:
+ Agreeing on the scope and attributes of SSF in order to define the sector.
+ Ensuring full participation and engagement of the SSF in the socio-economic
+developmental negotiations.
+6.7.2 Meeting social security, gender equity and building resilience
+The Government will consider continuing the current welfare measures and further
+strengthen them to provide adequate safety nets to the fisher community/fish workers in
+the country through the Direct Benefit Transfer Scheme (DBTS). Such measures will also
+include community welfare, insurance, housing, and other amenities for fishers.
+Weather events of extreme nature such as storm surges, cyclones, rogue waves and floods
+will be considered as natural calamities. In the same vein, man-made disasters such as oil
+spills will also be considered as calamities and affected fishing communities will be
+provided with admissible support/assistance in the restoration of their livelihoods. In cases
+of loss of fishers’ life at sea, procedures for compensation would be made easier so that
+the benefits to affected fisher families are provided within a reasonable time.
+Migrants have become an important constituent of the labour force in the marine fisheries
+and aquaculture sectors. Traditionally, fishers from Tamil Nadu and Andhra Pradesh were
+migrating to other States to serve as labour on fishing vessels. However, in recent years,
+migrants from hinterland States/areas such as Assam, Bengal and Bihar are working on
+marine fishing boats and aquaculture farms. With inadequate skills and the lack of
+identification records, such migrant workers are risking their lives for the sake of
+livelihoods. The policy initiatives will streamline the process for engaging such migrant
+labour, including the provision of training in working on fishing boats, maintenance of their
+record, and insurance benefits at times of injury or fatality at sea. Similarly, those working
+on fish farms and hatcheries and processing plants will also be provided with decent
+working conditions.
+The positive impacts of the fishing ban on the health of fish stocks have been voiced by a
+large section of stakeholders. Some coastal States and stakeholders have also voiced the
+need for increasing the ban period from the present span of 61 days. Keeping in view the
+beneficial effects of the ban and cooperation of stakeholders, the Government will further,
+strengthen the existing compensatory package available to fishers during the period of the
+fishing ban. This will not only promote increased engagement of stakeholders in the
+conservation of resources but also help in rejuvenation and restoration of fish stocks that
+have been showing signs of decline/depletion.
+Fisheries cooperatives have gained momentum over the years and in some States/UTs,
+such cooperatives have demonstrated their success. Fisheries cooperatives can best serve
+the community if they adopt good business models that would include both harvest and
+post-harvest functions. The Government will further facilitate and strengthen fisheries
+cooperatives and FFPOs through skill development and technical and financial support,
+wherever necessary. The cooperatives will also be encouraged and strengthened in
+carrying out a science-based approach to address fisheries and climate-related issues.
+29
+
+The availability of institutional credit for the fishermen for purchase of fishing implements
+and crafts has often proved very difficult, and the risky nature of returns has resulted in
+many fishers falling into the debt trap of private financiers and intermediaries. In order to
+remedy this situation, the Government will consider providing public finance to fishers with
+liberal terms and conditions. Similarly, the policy will aim at bringing the fishing assets
+such as gear and craft under the purview of insurance. This will help the fishers in
+offsetting the losses in times of natural calamities and other acts beyond their control.
+Similarly, for aquaculture farmers, the policy will aim at providing crop insurance and
+also the insurance of their assets such as aerators, water pumps, etc.
+Women constitute about 69 percent of the total workforce in post-harvest activities in
+the fisheries sector. Besides raising families, women play important roles in retailing fish,
+fish drying, shell collections, net mending and other value addition activities through
+women SHGs. There are now increasing examples of women also participating in fishing
+activities. The Government will continue to support its contributions to the roles played by
+women and will further enhance support by way of forming women cooperatives; women-
+friendly financial support schemes; good working conditions that would include safety,
+security and hygiene at FHs and FLCs; transport facilities for retail marketing;
+encouragement to take up small-scale fishing, value- addition activities; and also facilitate
+their active engagement in fisheries management, including co-management structures,
+wherever they are set up.
+In the same vein and following its commitment to inclusivity, the policy directives will also
+support the fisheries and aquaculture-related livelihoods of the Lesbian, Gay, Bisexual,
+Transgender, Queer and Two-Spirited and Other Identities (LGBTQ2+).
+Keeping in mind the dwindling marine fisheries resources, additional/alternative sources of
+livelihoods will be essential for the vast number of fisher communities spread all along the
+coastline. Mariculture and eco-tourism are considered important in this regard and both
+offer good potential for additional/alternate sources of livelihoods.
+In recent times, the incidences of Indian fishers crossing the International Maritime
+Boundary Line (IMBL) have increased. This increase is attributed to many reasons, one of
+them being the redefining of the IMBL on the basis of the judgment given by the Permanent
+Court of Arbitration at The Hague. To reduce such incidents, the Government will consider
+providing necessary awareness and training to fishers so that the crossing of IMBL is
+avoided.
+Further, the establishment of vessel building yards and construction of fishing vessels has
+been an unregulated activity in the country, leading to the construction of poor quality
+vessels that compromise key attributes such as stability, optimum space for fish holds, crew
+accommodation, and provisions for kitchen and toilets. With the increasing use of Fibre
+Reinforced Plastic (FRP), the chances of building poor quality boats by such yards have
+amplified. The policy will voice the need for enlarging the scope of the Marine Fishing
+Regulation Acts (MFRAs) of the maritime States/UTs to include registration of the vessel
+building yards, an annual survey of fishing vessels for seaworthiness, routine inspection of
+communication & safety appliances through IRS/similar Technical Organizations, standard
+design specifications for fishing vessels, construction material and procedures for
+continuous monitoring and control of vessels construction by the Central and State
+Governments.
+The key areas for immediate intervention would include:
+30
+
+ Continuing and enhancing community welfare measures for the uplift of the fisher
+community/fish workers and ensuring a safety net.
+ Recognizing the migrant workers working in fisheries and aquaculture and providing a
+necessary safety net to them.
+ Enhancing assistance to fishers for effective participation in conservation and
+management measures.
+ Facilitating and strengthening fisheries cooperatives and FFPOs through organizational
+and skills development and technical and financial support, wherever necessary.
+ Providing easy access to fishers and farmers to obtain institutional credit and exploring
+the scope of insurance for fishing assets.
+ Encouraging women participation in fisheries through women cooperatives/SHGs/FFPOs,
+targeted schemes and improving the workplace environment.
+ Promoting livelihood options to encourage fishers reducing their dependence on over-
+harvested resources, improving vessel design and navigational awareness building to
+avoid accidental crossing of maritime boundaries.
+6.8 Fisheries Governance
+6.8.1 Regulating the sustainable and wise-use of inland and marine resources
+Keeping in view the developments in exploitation of the resources in waters beyond 12 nm,
+there is an urgent need to enact comprehensive legislation for the regulation of fishing by
+the national fleet in the EEZ and the ABNJ. Comprehensive legislation is also required from
+the fact that it would clearly set the agenda for the nodal agency responsible for the
+management of EEZ and it would be easier for the fishers to follow a set of clear regulations
+and for the MCS agencies to implement them.
+Marine fisheries in India are dynamic with continuous changes in practices and resource
+harnessing. The MFRAs have come into existence from the early 1980s and barring a few
+States/UTs, the MFRAs were in place by the mid-1990s. Keeping in view the fact that most
+of the MFRAs were adopted before the adoption of key International Agreements/
+Arrangements (1982 UNCLOS, 1992 UNFSA, 1995 FAO CCRF), the policy will support updating
+the existing rules and regulations for governing fisheries in the MFRAs and also aligning
+them with International Instruments/Arrangements to ensure that they cover all aspects of
+fisheries management. This will be carried out by the preparation of a Model Bill for
+consideration of the coastal States/UTs.
+Similarly, there is a need to prepare a Model Bill for Inland Fisheries and Aquaculture, which
+the States/UTs can either use for repealing their existing Acts or for amending them to
+make them contemporary and complying with the topical requirements.
+The key areas for immediate intervention would include:
+ Updating the existing rules and regulations for governing fisheries in the MFRAs and
+also aligning with International Instruments/Arrangements.
+ Regulation of fisheries in the 12-200 nautical mile area of the EEZ.
+ Preparing a ‘Model Bill’ for Inland Fisheries and Aquaculture, which the States/UTs
+can use either for repealing their existing Acts or amending them.
+31
+
+6.8.2 Institutions
+Building community institutions: A prerequisite for successful resource management is the
+appropriate specification of property rights i.e. who owns the resource, who is responsible
+for conservation, who receives the gains from resource use, etc. In India, the issue of
+ownership is de facto ambiguous. While the Government as a representative of the State
+owns the resource, the community also asserts its traditional right to ownership. One way
+to legitimize both the positions is through co-management. The States of Kerala and Tamil
+Nadu and the UT of Puducherry have now set up co-management structures at different
+administrative tiers (village, district, state), including a charter of their rights, and duties and
+have also provided the legal/administrative support. Policy directives will aim at taking
+forward such initiatives to the other inland and coastal States/UTs.
+Consolidating input and output supply channels: Knowledge of the supply channel is the
+key to any business organization. In an ideal setting, the production unit should have full
+knowledge of the quality and quantity of intermediary goods, which they can consume to
+produce final output in the market. Fisheries productions take place in a boat or a farm.
+However, they have little control over the intermediary goods. For example, boat-building
+yards do not have standard specifications, which can ensure that fishers are getting value
+for their money and an aquaculture farm has little control over the seed and feed that he
+procures from other sources. At the same time, fishers and farmers are often in a vacuum
+over the final destination of their product and so on. Resultantly, every participant in the
+value chain follows a myopic production strategy or works in a ‘silo’ which neither optimizes
+their value creation nor ensures the sustainability of the resources. The policy will promote
+the creation of a value chain with a fishing boat/farm at the centre through standard
+specification and contracting. To ensure that the community owns the value chain, setting
+up of fisher/farmers cooperatives/FFPOs/co-management bodies will be encouraged.
+Developing a single-window system: The new institutional reform in the form of setting up
+a Department of Fisheries under a separate Ministry of Fisheries, Animal Husbandry &
+Dairying has created a scope of increasing the focus on the sector. However, in terms of the
+Allocation of Business Rules, the mandate of the new Department has not been enhanced
+thus limiting its potential. Given the multiple dimensions of the fisheries activities
+(interaction between human and nature; land-scape to sea-scape; local, regional,
+international rules; food and employment security; vulnerability to external forces;
+international effort in controlling fisheries production through trade regulations; etc.), the
+new Department needs to be developed as an umbrella agency focusing on governance,
+coordination and policy setting (in its area of Business) and harmonization amongst the
+States/UTs for effective fisheries governance.
+Achieving the above would require a set of specialized agencies to be set up under the
+Department to carry out focused activities covering R&D, MCS, Trade, International
+relations, development, etc. This in other words would also require convergence thus
+bringing the scattered institutions under different Ministries and Departments within the
+purview of the new Department. Moving forward in this regard, the policy will aim at
+creating a ‘Ministry of Fisheries and Maritime Affairs’ that will cater to the growing needs of
+the sector per se and in the process also enlarging the sector’s contributions to the overall
+goal of Blue Economy as envisaged by the Government.
+Within the Department of Fisheries, the existing four fisheries Institutions (Fishery Survey of
+India [FSI], Central Institute of Fisheries Nautical and Engineering Training [CIFNET], Central
+Institute of Coastal Engineering for Fishery [CICEF] and National Institute of Post-Harvest
+32
+
+Technology and Training [NIFPHATT]) need to be reviewed in terms of their mandate,
+functions and utility. Similarly, the National Fisheries Development Board (NFDB) also need
+to be reviewed to see how all these institutions can be re-aligned or if required merged for
+effective management of the manpower and resources and bring in the required economy
+of scale. Establishing a ‘Directorate General of Fishing and Maritime Affairs’, combining the
+five organisations will provide the necessary institutional support and the desired thrust to
+the development of the sector in the coming decade and beyond.
+The Fisheries sector also deals with a range of institutions that fall within the purview of
+coastal State/UT Governments (DoF), Central Government (MFAH&D, Ministry of Agriculture &
+Farmers Welfare, Ministry of Home Affairs, Ministry of Commerce & Industry, Ministry of
+Environment, Forest & Climate Change, Ministry of Water Resources, River Development &
+Ganga Rejuvenation, Ministry of Power, Ministry of Defence, Ministry of Earth Sciences,
+etc.) and scientific bodies. This pluralistic governance structure necessitates strong
+coordination between the MFAH&D and the Coastal States/UTs on one hand and different
+Ministries/Departments of the Union Government on the other. Further, similar
+cooperation between the States/UTs and within the State/UT will also be essential to
+ensure that fisheries and aquaculture are sustainably managed. In this regard, the policy will
+aim in placing a mechanism to allow for better coordination between all concerned
+agencies through Inter-Ministerial/Department Committees and other coordinating
+bodies.
+There is also the long-standing demand of the aquaculture sector to consider it at par with
+agriculture so that it can enjoy the benefits of reduced tariffs and taxes, allocation of water,
+power and other support facilities available to the agriculture sector. Aquaculture, like
+agriculture, is also a primary activity engaged in food farming and, therefore, a level-playing
+field will encourage its expansion and support the country in meeting its food and nutrition
+requirements. Further, the policy support will be provided to meet the requirements of
+credit access, insurance, and strengthening of the value chain from farm to fork.
+Besides creating a level-playing field with the agriculture sector, the Policy will also aim to
+seamlessly integrate with the activities in the agriculture and allied sector that can benefit
+fishers and fish farmers and help them in doubling their income.
+Capacity building: Institution building in the fisheries and aquaculture sector also
+necessitates that the people who operate the sector are capable in terms of their basic
+education, and training and periodic in-service enhancement of their knowledge base and
+technical re-orientation. While the sector has grown manifold in all respects, from
+production to value-generation, the capacities of women and men who manage the sector
+remain at a fairly low-level. This analysis stems from various parameters such as the
+organisation of the service, cadre-building, induction-level and in-service training
+opportunities, career opportunities, advanced training, etc. and the fisheries and
+aquaculture sector lies at the bottom vis-à-vis other primary production sectors such as
+agriculture, and veterinary and animal husbandry. To match the thrust that the sector has
+received in the recent period in terms of the availability of funds, expansion of its
+responsibilities and production targets to meet the food and nutritional requirements of the
+country, it is essential to prioritise and enhance the capacity building requirements of the
+human resources that operate the sector.
+The key areas for immediate intervention would include:
+33
+
+ Encouraging and facilitating setting up fisheries co-management structures in the
+States/UTs.
+ Encouraging community ownership over the supply chain.
+ Encouraging integrated end-to-end supply chain involving ancillary activities.
+ Exploring the means to set up a set of specialized sections under the Department to carry
+out focused activities such as R&D, MCS, Trade, International relations, development,
+etc. for convergence of activities as well as ease of business through a single-window
+system.
+ Moving towards the establishment of a Ministry of Fisheries and Maritime Affairs and a
+Directorate General of Fisheries and Maritime Affairs
+ Developing a blueprint to build the capacities of the staff that man the fisheries sector in
+the country.
+ Bringing aquaculture at par with agriculture.
+6.8.3 HRD and entrepreneurship
+Since independence, while fisheries transformed from a subsistence activity to a vibrant
+commercial activity, entrepreneurship of fishers and other stakeholders (both upstream and
+downstream) has undergone little change. The activities and the organization of the sector
+remain sticky resisting change. Policy interventions in this regard will include steps towards
+training, capacity building as well as up-gradation of technological skills of traditional fishers
+and fish farmers in moving from artisanal fishing/farming to more economic and efficient
+means of carrying out their profession.
+To fully gain from the benefits of commercialization of fisheries and aquaculture,
+entrepreneurial skills of fishers and fish farmers will be developed encouraging them to
+increase their reach in the fisheries value chain and other requirements of a modern
+fisheries sector. The Colleges of Fisheries established across the country can play a role in
+this. Besides, some of the R&D Institutions can also take up dedicated programmes for
+building entrepreneurship of stakeholders at different levels.
+The key areas for immediate intervention would include:
+ Engaging fisheries R&D and education institutions in training, capacity building,
+development of management plans by improving their customer orientation.
+6.8.4 Data-base
+Sound data is a key pre-requisite to sound policy formulation. With the fisheries sector
+growing manifold in the last 4-5 decades, mechanisms for data collection and their collation
+has lagged behind. While data on marine fish landings is collected regularly following
+internationally accepted methodologies and protocols, the same is not happening in other
+sectors. Except for the five-yearly census carried out for the marine fisheries sector, similar
+information is also not available for inland fisheries, including aquaculture. Barring the
+information available through research publications, systematic coverage of biological
+aspects and socio-economical attributes of the communities/related stakeholders is little.
+Bearing the above in mind and acknowledging the fact that the availability of sound data
+continues to be a weak link in the development framework, policy initiatives will focus on
+creating mechanisms for data collection that ensures adequate coverage of the various
+34
+
+facets of the sector, is timely and reliable, data collection mechanisms are transparent and
+access to data is smooth and unhindered. The Ministry of Statistics and Plan
+Implementation (MoSPI) will be requested to carry out ‘Situation Assessment Surveys’ for
+fishers and fish farmers on a regular basis. A national-level platform, to be hosted in the
+Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying, will be
+created to oversee the fisheries data acquisition process and provide necessary incentives
+to the agencies that would contribute to data collection, collation, and dissemination. The
+Department of fisheries will also serve as the repository of such database.
+The key areas for immediate intervention would include:
+ Developing a national-level platform to oversee the process and provide necessary
+incentives to the agencies that would contribute to data collection, collation, and
+dissemination.
+6.8.5 Delivering knowledge and extending technical support
+India has one of the most extensive network of fisheries R&D institutions in the world. The
+eight Fisheries Institutions under the ICAR umbrella; the six R&D Institutions under the
+MFAH&D, including a quasi-judicial body, the Coastal Aquaculture Authority; three
+institutions under the Marine Products Export Development Authority; four Institutions
+under the Ministry of Earth Sciences; and the 30 Colleges of Fisheries located in different
+States/UTs concerned with marine fisheries provide an unparalleled mass of experienced
+human resource for fisheries and aquaculture development in the country. Their coverage
+with respect to the disciplines and geography is extensive.
+The ICAR Fisheries Intuitions have been at the forefront of fisheries research and
+developmental initiatives from the very beginning of their establishment. Popularisation of
+composite fish farming of the IMC and exotic species (silver carp, grass carp and common
+carp) and seed production technologies leading to the first ‘Blue Revolution’ in the country
+during the late seventies owes largely to the extension services and hand-holding made
+available to fish farmers through the All India Coordinated Research Project of the ICAR and
+the setting up of the Fish Farmers Development Agencies (FFDAs) by the then Ministry of
+Agriculture and Cooperation throughout the country. Similar developments took place in
+the farming of air-breathing fishes, brackishwater aquaculture and reservoir fisheries
+development. In the marine sector too, the ICAR Institutions are playing a stellar role,
+including the regular provision of marine fisheries data through a dedicated sampling
+methodology, setting bench-marks for the minimum-legal size of commercial species that
+can be harvested, stock assessments, completing the life-cycle of many commercially viable
+fish species for mariculture, five-yearly census of the marine fisheries sector, improved
+post-harvest technologies, new boat designs and quality control.
+However, today, when major hikes are envisioned from the aquaculture sector and capture
+fish production needs to be sustained at optimum levels, the expected role of the fisheries
+institutions assumes greater significance. Technologies that meet the immediate needs of
+the practitioners at the grassroots level are the need of the day. A balance between basic
+science and adaptive research is necessary. The need for extension services and hand-
+holding is felt much more than before. In other words, research has to move ahead of
+development so that the outcomes are absorbed in the developmental process as it
+happened in the past. The R&D Institutions also have to forge a stronger relationship with
+the private sector and work in tandem to optimise the resources and also shorten the
+period of transfer of technology from lab to land. Policy initiatives will aim at further
+35
+
+strengthening the interface and linkages between research and development. Policy
+measures will ensure accountable R&D and their assimilation in fisheries development and
+governance.
+Knowledge dissemination up to the last mile will be one of the key objectives of the policy.
+With increasing literacy rates and the ever-increasing use of the internet and smartphone,
+knowledge dissemination will be largely carried out through virtual platforms, making them
+not only fast and cost-effective but also ensuring that no one is left behind. Policy
+interventions would focus on establishing IT-based knowledge ‘hub and spokes’ for
+collection, collation, and processing of information that could be made available on a real-
+time basis to the fishers and fish farmers. It would also be ensured that such information
+provided to the end-users is in vernacular so that assimilation becomes easier. In the
+marine sector, the provision of ‘Sagar Mitras’ being promoted by the Department of
+Fisheries would be a useful contact point for the stakeholders.
+The key areas for immediate intervention would include:
+ Enhancing knowledge management through improved data management policy, last
+mile extension services and Inter-Ministerial cooperation.
+ Strengthening R&D linkage in the fisheries sector for the viable and speedy development
+and dissemination of technologies/management practices for sustainable fisheries and
+aquaculture.
+6.9 Regional/International Commitments
+6.9.1 Encouraging regional cooperation
+The Indian sub-continent is surrounded on the west by the Arabian Sea and on the east by
+the Bay of Bengal. Together, the two seas form part of the upper Indian Ocean. On the west
+coast, India shares its maritime boundaries with Pakistan and the Maldives, while on the
+east coast, the boundaries are shared with Sri Lanka, Bangladesh, Myanmar, Thailand and
+Indonesia. In some cases, it is not only the shared maritime boundaries but also shared
+ecosystems, such as the Gulf of Mannar and Palk Bay between India and Sri Lanka;
+Sundarbans between Bangladesh and India; and the Myeik (Mergui) Archipelago in the
+Andaman Sea. Both the Arabian Sea and the Bay of Bengal harbour migratory as well as
+straddling fish stocks, such as tuna and tuna-like species, sharks and Spanish mackerels.
+As situations necessitate, the Government will foster strong regional cooperation in the
+management and sustainable utilization of the resources, including conservation of
+species/stocks, wherever necessary.
+Cooperation in the safety and security of fishers is also necessary. The upper Indian Ocean,
+especially the Bay of Bengal and in recent years the Arabian Sea has also witnessed high
+numbers of adverse weather events and every year many fishers lose their lives or suffer
+extreme hardships. Further, cooperation in the field of marine fisheries through bilateral
+arrangements as also by participating in the regional fisheries and environment bodies
+will be enhanced. Such cooperation will facilitate managing shared resources and shared
+ecosystems; harmonization of policies and programmes aimed at optimized harvesting of
+trans-boundary resources; safeguard of human rights, in particular for fishers straying in
+waters of other countries.
+Indian fishers are widely recognized in other countries in the region for their skills,
+industrious nature and the ability to work under challenging conditions. As a result, more
+36
+
+and more fishers from India are now finding employment in the fishing fleets of other
+countries. On many occasions, Indian fishers have been apprehended in neighbouring
+countries, as while fishing they unknowingly stray into the EEZ of other countries, making it
+difficult for the Government to secure their release through normal channels. The policy
+will lay the guidelines for the fishers ensuring that who are willing to take
+employment in the fisheries sector in other countries have adequate skills and knowledge
+of working in alien seas and go through formal Government approvals.
+With regard to international commitments, it will be the endeavour of the Government to
+fulfil its obligations and support the global agenda of meeting the Sustainable Development
+Goals, in particular Goal 14- Life Below Water.
+6.9.2 Positioning India as a leader in the region
+The global trend in fisheries is such that the credibility of a country in managing its fisheries
+is becoming a determinant of its trade potential. Looking at the fishing nations commended
+for their fisheries management, such as Australia, Norway, New Zealand and other
+countries, this is achieved through a two-way process. First, countries set up management
+regimes, which were rated highly by the international community, and their efficacy is
+captured in different indicators. Second, they became the leading exporters of knowledge.
+By becoming knowledge exporters, they further cemented their credentials of good
+management. Vis-à-vis, India has an array of scientific institutions with excellent capacity
+but no exposure or sound recognition beyond national borders. Due to a lack of
+international exposure, Indian scientists rarely feature in global debates and global agenda
+that shape the future of global fisheries and aquaculture. To stimulate the national R&D set
+up, a policy is required to encourage their participation first in the regional organisations
+and ensuring regional leadership through multi-country training, collaborative research
+programmes, etc. Once regional leadership is established then the areas should be
+expanded further. For example, to start with South Asia, then to Asia and Africa and so on.
+Supporting regional organizations and taking leadership in such organizations will be
+necessary for this, as it will demonstrate the seriousness of the country.
+6.10 Way Forward
+The narrative in the foregoing paragraphs lists policy interventions under 10 themes and 28
+topics covering various aspects of fisheries and aquaculture development in the country.
+While some topics are of standalone nature, many others are crosscutting and would have
+to be dealt with simultaneously. Implementing policy interventions in a highly diverse sector
+such as fisheries and aquaculture and coupled with a large population of stakeholders is
+undoubtedly a long-drawn process and daunting on the face of it but is not insurmountable.
+A systemic process detailing the action points under each of the 28 topics in the form of an
+‘Implementation Plan’, and piloting some of the actions to demonstrate their viability would
+be undertaken. The schemes and programmes listed under the Pradhan Mantri Matsya
+Sampada Yojana (PMMSY) provide the necessary budgetary support to take up most of the
+policy initiatives. Regular monitoring and mid-term evaluation would be an essential part of
+the implementation strategy. It would be useful to build confidence and trust of the
+stakeholders, especially the fishers and fish farmers, from the beginning itself so that they
+become active partners in the process and join hands with the Government in this long due
+task of implementing the National Fisheries Policy.
+37
+
+Finally, it is envisaged that while the present time-frame of the National Fisheries Policy has
+been kept as ten years, however, its successful implementation will ensure the flow of
+benefits to the successive period also.
+***
+38
+
+Acronyms
+ABNJ Areas Beyond National Jurisdiction
+BMPs Best Management Practices
+CICEF Central Institute of Coastal Engineering for Fishery
+CIFNET Central Institute of Fisheries Nautical and Engineering Training
+DBTS Direct Benefit Transfer Scheme
+DoF Department of Fisheries
+EAFM Ecosystem Approach to Fisheries Management
+EBSAs Ecologically and Biologically Significant Areas
+EEZ Exclusive Economic Zone
+ETP Endangered, Threatened and Protected
+EUS Epizootic Ulcerative Syndrome
+FAO Food and Agricultural Organization of United Nations
+FFPOs Fish Farmers Producers Organizations
+FHs Fishing Harbours
+FLCs Fish Landing Centres
+FRP Fibre Reinforced Plastic
+FSI Fishery Survey of India
+FVC Food Value Chain
+GAP Good Aquaculture Practices
+GHGs Green House Gases
+GVA Gross Value Added
+HACCP Hazard Analysis Critical Control Point
+ICAR Indian Council of Agricultural Research
+ICG Indian Coast Guard
+ILO International Labor Organization
+IMBL International Maritime Boundary Line
+IMC Indian Major Carps
+IMO International Maritime Organization
+IT Information Technology
+IUU Illegal, Unreported and Unregulated Fishing
+MCS Monitoring, Control and Surveillance
+MFAH&D Ministry of Fisheries, Animal Husbandry & Dairying
+MFRAs Marine Fishing Regulation Acts
+MLS Minimum Legal size
+MMT Million Metric Tons
+MPAs Marine Protected Areas
+MSP Marine Spatial Planning
+NFP National Fisheries Policy
+NIFPHATT National Institute of Post-Harvest Technology and Training
+NM Nautical Mile
+NPOA-MCS National Plan of Action for Monitoring, Control & Surveillance
+PFZ Potential Fishing Zone
+PMMSY Pradhan Mantri Matsya Sampada Yojana
+PPP Public Private Partnership
+PY Potential Yield
+SHGs Self-Help Groups
+SSF Small-Scale Fisheries
+ST Space Technology
+TURFs Territorial Use Rights for Fisheries
+UTs Union Territories
+VMEs Vulnerable Marine Ecosystems
+WSSD White Spot Syndrome Disease
+***
+39
+
+Baseline Scenario1
+A. General Setting
+Parameter Value
+Area of the country (Million sq. km) 3.29
+Population (Million) 1210.19
+Total number of urban households* (Million) 80.33
+Total number of rural households* (Million) 168.08
+Average household size* (Urban) (Person) 4.9
+Average household size* (Rural) (Person) 4.6
+* National Population Census 2011
+Fisheries Sector in Indian Economy
+Grass Value Addition (GVA) and Growth Rate (%) (Constant Price: 2011-12)
+Years GVA of fisheries National GVA (Rs. Y-O-Y Growth Y-O-Y Growth
+Sector (Rs. in in crore) Rate(Fisheries Rate(National)
+crore) Sector)
+2009-10 61,269 71,31,836 3.53 6.86
+2010-11 64,663 77,04,514 5.54 8.03
+2011-12 68,027 81,06,946 5.20 5.22
+2012-13 71,362 85,46,275 4.90 5.42
+2013-14 76,487 90,63,649 7.18 6.05
+2014-15 82,232 97,12,133 7.51 7.15
+2015-16 90,205 1,04,91,870 9.70 8.03
+2016-17 99,627 1,13,28,285 10.45 7.97
+2017-18 1,14,248 1,20,74,413 14.68 6.59
+2018-19 1,28,011 1,28,03,128 12.05 6.04
+Source: National Statistical Office, Ministry of Statistics and Programme Implementation, Government of
+India
+Growth Rate (%) of Grass Value Addition(GVA) (Constant Price: 2011-12)
+Years Fisheries Sector (%) National (%)
+Y-O-Y Growth Average Growth Y-O-Y Growth Average Growth Rate
+Rate Rate Rate
+2009-10 3.53 6.86
+2010-11 5.54 8.03
+2011-12 5.20 5.27 5.22 6.32
+2012-13 4.90 5.42
+2013-14 7.18 6.05
+2014-15 7.51 7.15
+2015-16 9.70 8.03
+2016-17 10.45 10.87 7.97 7.16
+2017-18 14.68 6.59
+2018-19 12.05 6.04
+Source: National Statistical Office, Ministry of Statistics and Programme Implementation,
+Government of India
+1 All data is pertaining to http://dof.gov.in/statistics and Handbook of Fisheries Statistics 2018 published by
+the Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying, Government of India
+unless otherwise mentioned.
+40
+
+B. Inland Fisheries
+Parameter Value
+Resources
+Rivers and Canals (km) 2,01,495.65
+Small, Medium & Large Reservoir (Number) 9,058
+Small, Medium & Large Reservoir (Ha) 35,24,724.18
+Tanks and ponds (Ha) 24,78,263.21
+Brackish water (Ha) 11,60,162.50
+Beels (Ha) 4,24,850.93
+Oxbow Lakes (Ha) 1,17,800.45
+Derelict Water (Ha) 2,30,136.38
+Other than Rivers and Canals (Ha) 3,00,724.52
+Total water bodies excluding rivers and canals (Ha) 82,36,662.17
+Fish Production in 2017-18 (Million tonnes) 8.90
+C. Marine
+Parameter Value
+Resources
+Length of Coastline (Km) 8,118
+Exclusive Economic Zone (Million sq. km.) 2.02
+Continental shelf area (approx.) (Million sq. km.) 0.53
+Landing Centres 1,547
+Fishing villages 3,477
+Fisherfolk population 3,774,577
+Fishing resources (potential yield)
+Demersal (mainland) (Tonnes) 2,298,281
+Pelagic (mainland) (Tonnes) 2,631,827
+Lakshadweep (excluding oceanic) (Tonnes) 14,490
+A&N Islands (excluding oceanic) (Tonnes) 43,794
+Oceanic (for entire EEZ) (Tonnes) 2,30,832
+Others (Tonnes) 91,369
+Total potential yield (Tonnes) 5,310,593
+Employment
+Active fishermen (Number) (2016) 927,081
+Fishing allied activities (Number) (2016) 521,745
+Total engaged in fishing and allied activities (2016) 1,448,826
+Registered deep sea going fishing vessels (2019) (Number) 53
+Registered motorized non-mechanical (Number) 136,920
+Registered motorized mechanical (Number) 66,198
+Registered non-motorized (Number) 65,876
+Total registered fishing vessels (Number) 269,047
+Fish Production in 2017-18 (Million tonnes) 3.69
+41
+
+D. Fisher population
+S.No. States/UT's Fishermen Population
+Total Marine Inland
+1 Andhra Pradesh 14,47,529 5,17,435 9,30,094
+2 Arunachal Pradesh 24,015 - 24,015
+3 Assam 25,24,106 - 25,24,106
+4 Bihar 60,27,375 - 60,27,375
+5 Chhattisgarh 2,20,355 - 2,20,355
+6 Goa 10,545 12,651 -2,106
+7 Gujarat 5,58,691 3,54,992 2,03,699
+8 Haryana 1,18,455 - 1,18,455
+9 Himachal Pradesh 11,806 - 11,806
+10 Jammu & Kashmir 17,396 - 17,396
+11 Jharkhand 1,40,897 - 1,40,897
+12 Karnataka 9,74,276 1,57,989 8,16,287
+13 Kerala 10,44,361 5,63,903 4,80,458
+14 Madhya Pradesh 22,32,822 - 22,32,822
+15 Maharashtra 15,18,228 3,64,899 11,53,329
+16 Manipur 47,711 - 47,711
+17 Meghalaya 16,567 - 16,567
+18 Mizoram 6,289 - 6,289
+19 Nagaland 7,958 - 7,958
+20 Odisha 15,17,574 5,17,623 9,99,951
+21 Punjab 7,591 - 7,591
+22 Rajasthan 57,260 - 57,260
+23 Sikkim 581 - 581
+24 Tamil Nadu 12,83,751 7,95,708 4,88,043
+25 Telangana 8,62,221 - 8,62,221
+26 Tripura 7,761 - 7,761
+27 Uttarakhand 8,352 - 8,352
+28 Uttar Pradesh 39,00,005 - 39,00,005
+29 West Bengal 32,36,261 3,68,816 28,67,445
+30 A&N Islands 25,941 26,521 -580
+31 Chandigarh 524 - 524
+32 Dadra & Nagar Haveli, Daman & Diu 40,016 15,836 24,180
+33 Delhi 617 - 617
+34 Ladakh 22 - 22
+35 Lakshadweep 6,518 27,934 -21,416
+36 Puducherry 1,07,272 50,270 57,002
+Total 2,80,11,649 37,74,577 2,42,37,072
+Total population of India 1,37,13,60,350
+Fishermen (% of total population) 2.04
+Marine fishermen (% of fisher population) 13.48
+Inland fishermen (% of total population) 86.52
+42
+
+E. Fisheries production and utilization
+States/UTs wise Inland and Marine Fish Production during 2014-15 to 2018-19 (in lakhs Tonnes)
+2014-15 2015-16 2016-17 2017-18 2018-19
+S.No. State/UT's
+Inland Marine Total Inland Marine Total Inland Marine Total Inland Marine Total Inland Marine Total
+1 Andhra Pradesh 15.03 4.75 19.79 18.32 5.20 23.52 21.86 5.80 27.66 28.45 6.05 34.50 33.92 8.75 42.67
+2 Arunachal Pradesh 0.04 0.00 0.04 0.04 0.00 0.04 0.04 0.00 0.04 0.04 0.00 0.04 0.05 0.00 0.05
+3 Assam 2.83 0.00 2.83 2.94 0.00 2.94 3.07 0.00 3.07 3.27 0.00 3.27 3.31 0.00 3.31
+4 Bihar 4.80 0.00 4.80 5.07 0.00 5.07 5.09 0.00 5.09 5.88 0.00 5.88 6.02 0.00 6.02
+5 Chhattisgarh 3.14 0.00 3.14 3.42 0.00 3.42 3.77 0.00 3.77 4.57 0.00 4.57 4.89 0.00 4.89
+6 Goa 0.03 1.15 1.18 0.05 1.07 1.12 0.04 1.14 1.18 0.06 1.18 1.24 0.05 1.15 1.20
+7 Gujarat 1.11 6.98 8.10 1.12 6.97 8.10 1.17 6.99 8.16 1.34 7.01 8.35 1.43 6.99 8.42
+8 Haryana 1.11 0.00 1.11 1.21 0.00 1.21 1.44 0.00 1.44 1.90 0.00 1.90 1.80 0.00 1.80
+0.11 0.00 0.11 0.12 0.00 0.12 0.13 0.00 0.13 0.13 0.00 0.13 0.13 0.00 0.13
+9 Himachal Pradesh
+0.20 0.00 0.20 0.20 0.00 0.20 0.20 0.00 0.20 0.21 0.00 0.21 0.21 0.00 0.21
+10 Jammu & Kashmir
+11 Jharkhand 1.06 0.00 1.06 1.16 0.00 1.16 1.45 0.00 1.45 1.90 0.00 1.90 2.08 0.00 2.08
+12 Karnataka 2.23 4.00 6.23 1.69 4.12 5.81 1.59 3.99 5.57 1.88 4.14 6.03 1.98 3.89 5.87
+13 Kerala 2.02 5.24 7.26 2.11 5.17 7.28 1.61 4.31 5.93 1.48 4.14 5.63 1.66 5.49 7.14
+14 Madhya Pradesh 1.09 0.00 1.09 1.15 0.00 1.15 1.39 0.00 1.39 1.43 0.00 1.43 1.73 0.00 1.73
+15 Maharashtra 1.44 4.64 6.08 1.46 4.34 5.80 2.00 4.63 6.63 1.31 4.75 6.06 1.00 4.67 5.68
+16 Manipur 0.31 0.00 0.31 0.32 0.00 0.32 0.32 0.00 0.32 0.33 0.00 0.33 0.32 0.00 0.32
+17 Meghalaya 0.06 0.00 0.06 0.11 0.00 0.11 0.12 0.00 0.12 0.12 0.00 0.12 0.13 0.00 0.13
+18 Mizoram 0.06 0.00 0.06 0.07 0.00 0.07 0.08 0.00 0.08 0.08 0.00 0.08 0.07 0.00 0.07
+19 Nagaland 0.08 0.00 0.08 0.08 0.00 0.08 0.09 0.00 0.09 0.09 0.00 0.09 0.09 0.00 0.09
+20 Odisha 3.36 1.33 4.70 3.77 1.45 5.21 4.55 1.53 6.08 5.34 1.51 6.85 5.07 2.52 7.59
+21 Punjab 1.15 0.00 1.15 1.20 0.00 1.20 1.33 0.00 1.33 1.37 0.00 1.37 1.36 0.00 1.36
+22 Rajasthan 0.45 0.00 0.45 0.42 0.00 0.42 0.50 0.00 0.50 0.54 0.00 0.54 0.56 0.00 0.56
+23 Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+
+24 Tamil Nadu 2.40 4.57 6.98 2.43 4.67 7.09 1.97 4.72 6.69 1.85 4.97 6.82 1.62 5.13 6.75
+25 Telengana 2.68 0.00 2.68 2.37 0.00 2.37 1.99 0.00 1.99 2.70 0.00 2.70 2.94 0.00 2.94
+26 Tripura 0.65 0.00 0.65 0.69 0.00 0.69 0.72 0.00 0.72 0.77 0.00 0.77 0.76 0.00 0.76
+27 Uttarakhand 0.04 0.00 0.04 0.04 0.00 0.04 0.04 0.00 0.04 0.05 0.00 0.05 0.05 0.00 0.05
+28 Uttar Pradesh 4.94 0.00 4.94 5.05 0.00 5.05 6.18 0.00 6.18 6.29 0.00 6.29 6.62 0.00 6.62
+29 West Bengal 14.38 1.79 16.17 14.93 1.78 16.71 15.25 1.77 17.02 15.57 1.85 17.42 15.88 1.82 17.70
+30 A and N Islands 0.00 0.37 0.37 0.00 0.37 0.37 0.00 0.39 0.39 0.00 0.39 0.40 0.00 0.41 0.41
+31 Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+32 D&Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+33 Daman and Diu 0.00 0.32 0.32 0.00 0.23 0.23 0.01 0.23 0.24 0.00 0.24 0.25 0.00 0.24 0.25
+34 Delhi 0.01 0.00 0.01 0.01 0.00 0.01 0.01 0.00 0.01 0.01 0.00 0.01 0.01 0.00 0.01
+35 Lakshadweep 0.00 0.13 0.13 0.00 0.16 0.16 0.00 0.30 0.30 0.00 0.21 0.21 0.00 0.22 0.22
+36 Puducherry 0.06 0.42 0.47 0.07 0.47 0.54 0.04 0.46 0.50 0.07 0.42 0.50 0.07 0.45 0.52
+India 66.91 35.69 102.60 71.62 36.00 107.62 78.06 36.25 114.31 89.02 36.88 125.90 95.82 41.76 137.58
+Source: Department of Fisheries, State Govt. / UTs Administration
+Annual per capita consumption of fish and shrimpE (Urban) (Kg) 3.00
+Annual per capita consumption of fish and shrimpE (Rural) (Kg) 3.24
+Number of urban household consumes fishE (Million) 16.87
+Number of rural household consumes fishE (Million) 44.54
+E = estimated from the Handbook of Fishery Statistics 2018 and national Population Census 2011.
+44
+

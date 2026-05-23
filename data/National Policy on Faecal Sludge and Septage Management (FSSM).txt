@@ -1,0 +1,1221 @@
+Government of India
+Ministry of Urban Development
+NatioNal Policy oN Faecal Sludge
+aNd SePtage MaNageMeNt (FSSM)
+February 2017
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+2
+
+3
+FOReWORD
+Shri M Venkaiah naidu
+Minister of Urban Development, Housing & Urban
+Poverty Alleviation and Parliamentary Affairs
+On 2nd October 2014, the Government of India launched the Swachh Bharat Mission towards achieving
+a Clean and Open Defecation Free India by 2019. The mission has been successful in bringing to the
+fore issues in the areas of sanitation and solid waste management. As the mission has entered its third
+year, significant progress has been made across the 4041 cities/towns with innovative approaches being
+adopted to not only improve service delivery but also make the mission a Jan Andolan. This is reflected
+in the physical progress achieved under the mission until now which includes construction of 29,18,669
+individual household toilets and 1,10,665 Community & Public Toilets across all cities/towns.
+With 475 cities certified Open Defecation Free, it is equally critical to put our efforts towards the safe
+collection, treatment and disposal of all human waste that is collected from onsite sanitation systems
+such as septic tanks, in order to achieve safe sustainable sanitation for all.
+To address this issue, my Ministry is committed to helping states and cities in India to make rapid
+improvements in managing their faecal sludge and has launched the Atal Mission for Rejuvenation and
+Urban Transformation, which focuses on the provision of sewerage facilities and septage management
+in 500 cities across the country. States and cities have been urged to include an FSSM plan as part
+of their AMRUT State Level Implementation Plans. Further, it is heartening to see cities taking the next
+step to become ODF+ by taking up initiatives in the area of FSSM, as part of the Swachh Bharat Mission.
+The states of Tamil Nadu, Maharashtra and Odisha have already released state level Septage Management
+policies to ensure proper FSSM in their respective cities and I urge other states to lead by example.
+To put our best efforts forward to implement faecal sludge management initiatives, there are a variety of
+roles that multiple stakeholders must play. While city officials have the mandate to ensure service provision
+and implementation partners can share the technical expertise, there is also an opportunity for the private
+sector to provide FSSM services in urban India. Only through such a collaborative multi-stakeholder
+approach can we make India Swacch and open defecation free (ODF).
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+4
+FOReWORD
+Shri rao inderjit Singh
+Minister of State, Ministry of Urban Development
+Government of India
+expansion in the coverage of sanitation services in urban India is imperative citing the associated negative
+externalities within the health domain and beyond. While the objective of making the country open
+defecation free by the year 2018 is on track under Governments’ mutually reinforcing schemes like Swacch
+Bharat Mission (SBM) and Atal Mission for Rejuvenation and Urban Transformation (AMRUT), more that
+65% of household toilets are beyond the coverage of sewerage network.
+Though the efforts are ongoing to expand the sewerage network in Indian cities, keeping in view the
+current resource endowments it is imperative to explore decentralized solutions. It gives me immense
+pleasure to introduce the National Policy on Faecal Sludge and Septage Management that induces and
+sensitizes national, state and local bodies to decentralized sanitation approaches, and propositions such
+approaches as a viable alternative to centralized sewerage systems where appropriate.
+Since the States have the responsibility of the implementation of this policy, considerable flexibility is
+granted to states to develop their own models to further the cause of FSSM. The National Policy, in this
+context, acts as a guiding document for the States by setting the context, priorities and direction for states
+and cities to ensure proper implementation of FSSM across urban India.
+I am optimistic that with the introduction of this policy we would further strengthen the implementation
+effort nationally culminating towards achievement of envisaged targets under SBM and AMRUT.
+
+5
+PReFACe
+Shri rajiV gauba
+Secretary, Urbvan Development
+Sanitation in India is key to achieving improved public health and enhanced socio-economic outcomes.
+To achieve this objective, Ministry of Urban Development has launched two key schemes namely,
+Swachh Bharat Mission (SBM) and Atal Mission for Rejuvenation & Urban Transformation (AMRUT). While
+SBM aims to end open defecation by universalizing construction and use of toilets, AMRUT is aimed at
+strengthening the sewerage and water supply network of the country. Both schemes aim to holistically
+address the existing gaps under the sanitation value chain in India.
+At present, the penetration of sewerage systems is low in the country and more than 45% of urban Indian
+households are dependent on On-Site Sanitation (OSS) systems. Thus, till the time the Government’s
+vision of 100% sewerage universalization is achieved, it is felt that faecal sludge output needs to be
+managed in an environmentally safe and sustainable manner using complementary and alternative
+methods of treatment.
+In view of this, the Ministry of Urban Development is launching the National Policy on Faecal Sludge and
+Septage Management (FSSM) to facilitate nationwide implementation of FSSM in India. The key objective
+of this policy document is to set the context, priorities and direction for states and cities in this regard.
+It is hoped that this policy will help in generating awareness and furthering the cause of FSSM for achieving
+safe and sustainable sanitation for urban India.
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+6
+
+7
+CONTeNTS
+1. Terminology 9
+2. Introduction 10
+2.1. existing Situation 10
+2.2. Need for FSSM Policy 10
+2.3. Gaps and Issues in Urban Sanitation 12
+~ Access 12
+~ Septage Collection and Conveyance 12
+~ Treatment and Disposal 13
+~ Poor Awareness 13
+~ Fragmented Institutional Roles and Responsibilities 13
+~ Lack of an Integrated City-Wide Approach 13
+~ Gender Sensitive Gap: 13
+2.4. National Declaration on FSSM 14
+2.5. FSSM International Perspective 14
+3. Objectives and Scope 16
+3.1. Vision 16
+3.2. Objectives 16
+3.3. Specific Milestones 16
+3.3.1. Leveraging FSSM to Achieve 100% Access to Safe Sanitation 16
+3.3.2. Achieving Integrated Citywide Sanitation: Mainstreaming Sanitation 17
+3.3.3. Sanitary and Safe Disposal 17
+3.3.4. Awareness Generation and Behaviour Change 17
+3.4. Scope 18
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+8
+4. Legislative and Regulatory Context 19
+4.1. Central Laws and Rules 19
+5. Roles and Responsibilities 20
+6. Implementation Approach 22
+6.1. State-Level Implementation Strategy 22
+6.2. ULB Level Implementation Plan 24
+7. Technological Option 25
+8. Financing Plan 25
+9. Monitoring & evaluation 26
+10. Capacity Building & Training 26
+11. expected Outcomes 27
+LiSt of figureS
+Figure 1: Status of Sanitation in Urban India 11
+Figure 2: Implementation Process 22
+LiSt of tabLeS
+Table 1: Summary of Roles and Responsibilities 20
+annexureS
+Annexure 1 : Framework for Preparation of State Level FSSM Plan 28
+Annexure 2 : D raft San-Benchmark Framework
+for Revised Service Level Benchmark for Sanitation 31
+Annexure 3 : Technological Options 32
+References 34
+
+9
+1 TeRMINOLOGy
+faecal Sludge: “Faecal Sludge” is raw or The effluent from the septic tank can be collected
+partially digested, in a slurry or semisolid form, the in a network of drains and/or sewers and treated
+collection, storage or treatment of combinations of in a treatment plant designed appropriately. The
+excreta and black water, with or without grey water. accumulating sludge at the bottom of the septic
+It is the solid or settled contents of pit latrines and tank however, has to be also removed and treated
+septic tanks. The physical, chemical and biological once it has reached the designed depth or at
+qualities of faecal sludge are influenced by the the end of the designed desludging frequency
+duration of storage, temperature, soil condition, whichever occurs earlier. Such a removal is
+and intrusion of groundwater or surface water in possible only by trucks. While sucking out the
+septic tanks or pits, performance of septic tanks, sludge, the liquid in the septic tank will also be
+and tank emptying technology and pattern. sucked out. Such a mixture is referred to as
+septage.
+Faecal sludge is the solid or settled contents of pit
+latrines and septic tanks. Faecal sludge (FS) comes Septic tank: An underground tank that treats
+from onsite sanitation systems. examples of onsite sewage by a combination of solids settling
+technologies include pit latrines, non-sewered and anaerobic digestion. The effluents may be
+public ablution blocks, septic tanks, aqua privies, discharged into soak pits or small-bore sewers,
+and dry toilets. and the solids have to be pumped out periodically.
+Septage: “Septage” is the liquid and solid material Sewage: Sewage is defined as the wastewater
+that is pumped from a septic tank, cesspool, containing human body waste matter (faeces
+or such onsite treatment facility after it has and urine etc), either dissolved or undissolved,
+accumulated over a period of time. Usually, discharged from toilets and other receptacles
+septic tank retains 60% - 70% of the solids, oil, intended to receive or retain such human body
+and grease that enter it. The scum accumulates wastes. The effluent coming out of septic tanks
+on the top and the sludge settles to the bottom or any such facility is also sewage.
+comprising 20% - 50% of the total septic tank
+volume when pumped. Offensive odour and Sewerage System: The underground conduit for
+appearance are the most prominent characteristics the collection of sewage is called Sewer. A network
+of Septage. It is a host of many disease-causing of sewer appurtenances intended for the collection
+organisms along with the contamination of and conveyance of sewage generated from each
+significant level of grease, grit, hair, and debris. of the properties to a sewage pumping station
+for pumping to sewage treatment plant for further
+Septage is the combination of scum, sludge, and treatment and disposal is called sewerage system.
+liquid that accumulates in septic tanks.
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+10
+2 INTRODUCTION
+2.1. exiSting Situation
+and are unlikely to be covered by centralised
+sewerage systems in the near future.
+According to Census 2011, India’s urban
+population is 377 million or 31% of the total
+2.2. need for fSSM PoLicy
+population, which is expected to increase to
+600 million by 2031. The Census 2011 also
+According to the data released in the report
+showed that in 4,041 statutory towns, 7.90 million
+“Inventorization of Sewage treatment plants, 2015”
+households (HHs) do not have access to toilets and
+by the Central Pollution Control Board, out of the
+defecate in the opena1. Under the Swachh Bharat
+816 municipal sewage treatment plants (STPs)
+Mission (SBM), it is envisaged that nearly 80% of
+listed across India, 522 are operational (only 64%
+these 7.90 million HHs (or nearly 6.3 million HHs)
+are functioning), 79 STPs are Non Operational,
+will meet their sanitation needs through newly-built
+145 STPs are under construction and 70 STPs are
+individual household toilet (IHHT) and the remaining
+proposed. The treatment capacity that is available
+20% (or nearly 1.6 million HHs) will rely on existing
+is only for 37% of the total 62,000 MLD (million
+or newly-built community toilets. Weak sanitation
+litres per day) of human waste that is generated
+has significant health costs and untreated faecal
+in urban India.
+sludge and septage from cities is the single biggest
+source of water resource pollution in India. Human
+Currently on-site pit latrines and septic tanks
+waste has clearly been identified as the leading
+account for a substantial proportion of toilets in
+polluter of water sources in India, causing a host of
+urban India – over 47% of urban Indian households
+diseases including diarrhoea, agricultural-produce
+depend on onsite facilities (Census 2011) and
+contamination and environmental degradation.
+this proportion is increasing. Further, as urban
+households without toilets obtain facilities over the
+India’s bigger cities have large, centralized
+next few years under SBM, it is likely that many
+sewerage systems with vast underground
+will acquire on-site arrangements like pit latrines
+pipelines, pumping stations and huge treatment
+and septic tanks in cities at locations where
+plants. These systems are expensive to build and
+sewerage systems are not available. Thus, while
+even more expensive to operate effectively, as they
+the containment of human waste will be largely
+require continuous power, a large amount of water,
+achieved under SBM, its treatment still poses
+skilled operators and extensive electro-mechanical
+a huge challenge.
+maintenance. It is for this reason that India’s
+7,000+ small towns do not have such systems
+In the absence of adequate safe and sustainable
+sanitation, many Indian cities are already suffering
+the consequences, in the form of health ailments
+1 SBM Urban Guidelines, Ministry of Urban Development,
+Government of India and serious pollution of water and soil resources.
+
+11
+figure 1: StatuS of Sanitation in urban india
+availability of toilets* types of Sanitation Facility* treatment#
+Open Defecation 12.6% None 12.6%
+Others 9.4%
+Community 6%
+Toilets Pit Toilets 7.1%
+62.5%
+Partial/
+Septic
+38.2% No Treatment
+Tanks
+Household
+Toilets
+81.4%
+Sewerage
+32.7%
+37.5%
+STP Facility
+Access to toilets for Types of Sanitation Facility Status of wastewater treatment
+HH in urban India by HH in Urban India in urban India (MLD)
+Source: * Census of India 2011; # CPCB, Inventoriazation of STPs (2015)
+In contrast with the large proportion of on-site desludging equipment or there are private players
+sanitation (OSS) systems, limited attention has providing cleaning services but the supply of
+been accorded to proper construction and desludging services is far from adequate. In many
+maintenance of OSS and the management instances faecal sludge and septage is dumped in
+and safe disposal of faecal sludge and septage drains and open areas posing considerable health
+from such septic tanks and pit latrines. While and environmental risks. Sanitary workers also
+construction standards have been codified by work in hazardous conditions to clean OSS pits
+the Bureau of Indian Standards (BIS), the actual and tanks sometime without adequate protective
+construction was largely left to households to gear and equipment. In most Indian cities, there
+manage – in practice, the installations are subject is limited data and information on the types and
+to local practices and considerable variations are number of OSS toilets and septage disposal
+observed. In many instances for example, soak- systems and practices.
+away or drain fields are not provided.
+The problem of Faecal sludge and septage /
+Limited capacities and resources with Urban Local sewerage must be addressed in a holistic manner,
+Bodies (ULBs) also resulted in little regulation of with a strategy that provides for minimum needs
+maintenance and cleaning of septic tanks and and is appropriate and affordable for all areas,
+pits – in many cases, households do not report considering the local situation. It must also address
+cleaning for a number of years. Some ULBs have the enablers in the form of suitable regulation
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+12
+and institutional framework, capacity building and Septage collection and conveyance: Regular
+education and awareness among all stakeholders. cleaning of septic tanks through a systematic
+This policy seeks to address the efficiency of extraction and collection procedure is essential
+systems in place for onsite sanitation whereof the to check environmental pollution. The frequency
+faecal sludge output needs to be managed in an of cleaning is determined by the desired
+environmentally safe manner including the proper performance of the OSS system for the local
+engineering design, construction and maintenance conditions. For example, if the septic tank is
+of septic tank systems, pit latrines and such other soaking away into the ground, with no ground
+systems generating faecal sludge. water issues, frequency of emptying can be less.
+On the other hand, if effluent is overflowing to
+surface drain, more regular emptying may be
+2.3. gaPS and iSSueS in urban
+required to prevent sludge overflow. Notably,
+Sanitation
+the following issues create barriers to regular tank
+cleaning, and septage collection:
+While onsite sanitation is prevalent in cities, there
+are major gaps in its implementation across the
+• Illegal Manual scavenging: Though a specific
+sanitation service chain. While the gaps and
+act has been passed against Manual Scavenging,
+consequences of lack of access to toilets are well
+(The Prohibition of employment as Manual
+reported, those relating to septage collection,
+Scavengers and their Rehabilitation Act, 2013),
+conveyance and treatment remain largely unknown
+social and cultural acceptance of such practices
+and unaddressed by most, if not all, municipal
+act against formal and systematic methods
+bodies and most state governments. even in the
+of cleaning tanks.
+general discourse, this major health hazard is not
+well understood or talked about!
+• No / Limited access to tanks: Septic tanks
+access: Issues in access to toilets arise due are often placed under toilets, or are sealed,
+to households having financial issues and space or cemented over, making it difficult to access
+crunch for constructing individual toilets. This them for cleaning/ emptying which
+leads to members of households without toilets dis-incentivizes their frequent cleaning.
+practicing open defecation2. There are also
+significant cultural and social barriers (issues • Inappropriate tank sizing & design: Septic
+around perceptions of pollution and caste; and tanks connected to individual toilets are often
+a general social acceptance of open defecation oversized due to lack of awareness among
+that prevents households from investing in safe construction contractors about the design
+sanitation and its universal and consistent use – norms. These tanks do not meet the standards
+in both urban and rural areas. This behavioural prescribed in the National Building Code, the
+aspect is one of the significant reasons why India Indian Standard Codes and the CPHeeO3
+has such high rates of open defecation compared Manual. As a result, households typically notice
+to other even poorer and less developed countries
+in Africa and in Asia.
+3 The Central Public Health and Environmental Engineering
+Organization (CPHEEO) is the technical wing of the MoUD and
+deals with matters related to urban water supply and sanitation
+2 Swacchta Status Report - NSSO http://cpheeo.nic.in/Onsite%20Sanitation/suk/cha/Chap1-6.pdf
+
+13
+any water body available, and often these sites are
+the need for cleaning once the tanks fill up, and
+some distance away from the main city.
+call for emptying services.
+Poor awareness: Faecal Sludge and septage
+In many cases, where households do not
+management has been accorded low priority and
+understand the utility of a septic tank as a requisite
+there is poor awareness about its inherent linkages
+pre-treatment unit, it merely acts as a large
+with public health.
+containment tank, with overflow to the drains.
+Masons who construct these, often oversize
+fragmented institutional roles and
+them at the request of the households. This
+responsibilities: There are considerable
+leads to extraction and emptying being done at
+gaps and overlaps in institutional roles and
+very infrequent levels (once in 10-15 years). The
+responsibilities at the national, state, and city levels.
+overflow is often just connected to available open
+drains instead of a proper soak pit, making entire
+Lack of an integrated city-wide approach:
+drain surroundings a health hazard.
+Faecal Sludge and septage management
+investments are currently planned in a piece-meal
+• Lack of infrastructure, and a regulated
+manner and do not take into account the full cycle
+schedule for cleaning: ULBs are often faced
+of safe confinement, treatment and safe disposal.
+with financial and personnel constraints in
+providing recommended service levels to
+Limited technology choices: Technologies have
+households - for example, insufficient suction
+been focussed and the disposal techniques are
+emptier trucks, trained human resource, safety
+not environmental friendly no cost-effective, and
+equipment, etc. to ensure regular cleaning/
+sustainable investments for safe management and
+emptying of septic tanks.
+disposal has been thought off on a large scale.
+• Lack of formal private players: The sector is
+gender Sensitive gap: The burden of poor
+dominated by informal small-scale contractors
+sanitation (compounded by the lack of FSSM
+that lead to difficulty in monitoring of the process
+services) disproportionately affects women,
+that they follow for emptying and disposal.
+especially the urban poor, because this falls along
+Domination by informal players also makes it
+established fault-lines of malnutrition and family
+harder to institutionalize best practices and
+health caregiving. This policy, therefore, will
+regulations, which prevents establishment of
+promote gender mainstreaming in FSSM where
+norms around scheduled and safe cleaning.
+women are seen as active agents and participants
+of change, not merely as recipients or victims
+treatment and disposal: Typically, most
+of policies. The economic Survey Report (2016-
+small-medium towns and cities lack adequate
+17) of the Finance Ministry indicates the adverse
+centralized/ decentralized facilities and designated
+impact of lack of sustainable sanitation on health
+sites for sewage and for septage treatment and
+of women and impedes in cognitive development
+disposal. As a result, all sewage is dumped without
+of girls and infants.
+treatment into the rivers, while untreated sludge
+and septage is disposed of in a dumping ground/
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+14
+2.4. nationaL decLaration on fSSM Policy is being promulgated to address the gaps
+and provide the necessary directions to diverse
+MoUD recognizes that the end objectives and stakeholders engaged in provision of FSSM
+corresponding benefits of SBM cannot be services.
+achieved without proper management of faecal
+sludge and septage across the sanitation service
+2.5. fSSM internationaL PerSPectiVe
+chain. Further, it is well understood that sewerage
+coverage will not meet the complete sanitation
+Globally, around 2.7 billion people are served by
+needs in all areas, and a strategy which is a
+onsite sanitation technologies and it is expected
+combination of OSS and off-site (decentralised
+that the number is going to get doubled by 2030.
+and centralised) must co-exist in all cities and
+On Site Sanitation (OSS) is not only used to fulfill
+must be given equal attention. Over time the
+the needs of rural population but also the needs
+relative proportions of coverage by OSS and off-
+of around one billion people in urban areas. In
+site systems may change but both will need to
+developing countries OSS, have much wider
+be managed well. However, the current policies
+coverage than sewer systems. For example,
+are not explicit enough and also do not provide
+in Sub-Saharan Africa, 65-100% of sanitation
+an outcome-focused direction on this issue. As a
+access in urban areas is provided through onsite
+first step, MoUD and a host of research and civil
+technologies. Though OSS is used widely the
+society organisations jointly drafted and signed
+management of FSSM is inadequate and needs
+a National Declaration on Faecal sludge and
+critical attention.
+Septage management (FSSM) on 9th September,
+2016. Pursuant to the Declaration, this FSSM
+
+15
+• With the fast urbanization the conventional
+sewerage systems are not likely to keep pace
+with the growing demand in the developing
+countries
+• Most of the Sewerage systems that have been
+constructed in low-income countries have failed
+because of high O & M costs.
+• For more than a decade, there is a shift in
+approach among the practitioners globally and
+they have started to acknowledge and consider
+decentralized technologies and FSSM services as
+long-term and sustainable options.
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+16
+3 OBJeCTIVeS AND SCOPe
+3.1. ViSion iii. Define the roles and responsibilities of various
+government entities and agencies, and of other
+The vision for Faecal Sludge and Septage
+key stakeholders such as the private sector, civil
+Management in urban India is:
+society organisations and citizens for effective
+implementation of FSSM services throughout the
+All Indian cities and towns become totally sanitized,
+country.
+healthy and liveable and ensure sustenance of
+good sanitation practices with improved Onsite
+iv. enable and support synergies among relevant
+Sanitation Services together with faecal sludge and
+Central Government programs such as SBM,
+septage management to achieve optimum public
+AMRUT and the Smart Cities Mission to realise
+health status and maintain clean environment with
+safe and sustainable sanitation for all at the
+special focus on the poor.
+earliest, possibly by the year 2019.
+3.2. objectiVeS v. While not compromising the eventual compliance
+to the strict environmental discharge standards
+The key objective of the urban FSSM Policy is to
+already set, recognising the constraints in
+set the context, priorities, and direction for, and
+achieving these standards, adopt an appropriate,
+to facilitate, nationwide implementation of FSSM
+affordable and incremental approach towards
+services in all ULBs such that safe and sustainable
+achieving these standards.
+sanitation becomes a reality for all in each and
+every household, street, town and city. More
+vi. Mitigate gender-based sanitation insecurity
+specifically, the Policy will:
+directly related to FSSM, reducing the
+experience of health burdens, structural
+i. Move India on the path of mainstreaming FSSM
+violence, and promote involvement of both
+in urban India by the year 2019, and ensure that
+genders in the planning for and design of
+all benefits of wide access to safe sanitation
+sanitation infrastructure.
+accrue to all citizens across the sanitation
+value chain with containment, extraction,
+transportation, treatment, and disposal / re-use 3.3. SPecific MiLeStoneS
+of all faecal sludge, septage and other liquid
+waste and their by-products and end-products. 3.3.1. Leveraging fSSM to achieve 100%
+access to safe sanitation
+ii. Suggest and identify ways and means, including • Promoting access for households to safe
+the methods and resources, towards creation faecal sludge and septage management facilities
+of an enabling environment for realising safe (including proper disposal arrangements).
+and sustainable FSSM in India.
+
+17
+• Promoting community-planned and managed • Extending access to proper faecal sludge
+faecal sludge and septage management and septage management facilities for poor
+wherever necessary, for groups of households. communities and other disadvantaged
+settlements.
+• Adequate availability and 100 % upkeep and
+management of Public Sanitation facilities in all 3.3.3. Sanitary and Safe disposal
+Urban Areas, to rid them of open defecation and • Promoting proper functioning of faecal sludge
+environmental hazards and to safely manage their and septage management systems and ensuring
+faecal sludge and septage. proper collection and disposal of the faecal
+sludge.
+3.3.2. achieving integrated citywide
+Sanitation: Mainstreaming Sanitation • Promoting recycle and reuse of treated sewage
+• Mainstream thinking, planning and implementing for non-potable applications wherever possible.
+measures related to faecal sludge and septage
+management in all sectors and departmental • Promoting proper design and construction
+domains as a cross-cutting issue, especially in all of OSS facilities.
+urban management endeavours.
+3.3.4. awareness generation and behaviour
+• Strengthening national, state, city and local change
+institutions (public, private and community) to • Generating awareness about faecal sludge and
+accord priority to sanitation provision, including septage management and its linkages with public
+planning, implementation and O&M management. and environmental health amongst communities
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+18
+and institutions including hazards from OSS liquid support sanitation services, urban development
+overflow. and improved delivery of services in urban and
+peri-urban areas of India. It also covers the
+• Promoting mechanisms to bring about and initiatives undertaken and/or supported by all
+sustain behavioural changes aimed at adoption Central Government Ministries, Departments,
+of healthy sanitation designs and practices, Agencies, Authorities and Public Sector
+including the responsibility to ensure safe Undertakings that have a bearing on sanitation
+containment and management of faecal sludge services in urban and peri-urban areas. Further,
+and septage by urban households including liquid the Policy applies to every urban local body,
+effluent. outgrowths in urban agglomerations, census
+towns as declared by the Registrar General and
+Census Commissioner of India, notified areas,
+3.4. ScoPe
+notified industrial townships, areas under the
+control of Indian Railways, airports, airbases, Ports
+Only on-site sanitation facilities and areas served by
+and harbours, defence establishments, special
+such facilities would fall under the purview of this
+economic zones, State and Central Government
+FSSM Policy. It does not seek to cover network or
+organisations, places of pilgrimage, religious
+conventional sewerage system (including treatment
+and historical importance as may be notified by
+plants) of wastewater/sewage management.
+respective State Government from time to time.
+However it will address synergies between FSSM
+and sewerage systems or municipal solid waste
+The State Governments, ULBs, and relevant public
+(MSW) management, e.g., co-treatment of faecal
+and private utilities should take necessary steps
+sludge and septage at sewage treatment plants
+to ensure that this Policy covers all the projects,
+or co-treatment and management of faecal sludge
+programs and schemes related to provision
+and septage, and MSW.
+of onsite sanitation services in their respective
+jurisdictions, irrespective of the source(s) of funding
+Unless otherwise specified, the scope of this Policy
+for these projects, programs and schemes.
+extends to all the projects, programs and schemes
+of the Central Government that facilitate and
+
+19
+4 LeGISLATIVe AND
+ReGULATORy CONTexT
+4.1. centraL LawS and ruLeS Building Code of India published by the Bureau
+of Indian Standards (BIS) as applicable for Septic
+The legal context for FSSM includes municipal tanks, soak pits, cess pools, leach pits, drainage
+building byelaws, environment laws, laws for the fields etc. also need to be examined and taken into
+legal prohibition of “manual scavenging” and account while framing the FSSM policy. The Model
+institutional laws that provide for the establishment, Building Bye-Laws (MBBLs), 2016 framed by the
+powers and functions of local authorities. The Town and Country Planning Organisation can also
+first category, which includes the Municipal Law, be referred.
+the environment (Protection) Act, 1986 and the
+Water (Prevention and Control of Pollution) Act, The employment of Manual Scavengers and
+1974 provide a framework for control of effluent, Construction of Dry Latrines (Prohibition) Act,
+sewage and septage discharge. Further, the Solid 1993 put a ban on dry latrines, i.e., latrines with
+Waste Management (SWM) Rules, 2016 under the no water-seal or flushing mechanism, and the
+environment (Protection) Act apply to the final and employment of persons for manually carrying
+safe disposal of post-processed residual faecal human excreta. This was supplemented in 2013
+sludge and septage to prevent contamination with the Prohibition of employment as Manual
+of ground water, surface water and ambient air. Scavengers and their Rehabilitation Act, 2013 by
+Further, the SWM Rules 2016 will also apply which “hazardous cleaning” in relation to sewers
+for disposal and treatment of faecal sludge and and septic tanks was also banned. The law now
+septage, before or after processing, at landfills and provides that manual cleaning of sewers and septic
+for use as compost. The provisions of the National tanks, if necessary, may be carried out only in
+highly controlled situations, with adequate safety
+precautions, and in accordance with specific rules
+and protocols for the purpose.
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+20
+5 ROLeS AND
+ReSPONSIBILITIeS
+The Ministry of Urban Development (MoUD), across urban areas of India, there are a number
+Government of India (GoI) will be responsible for the of factors, constraints and opportunities that are
+overall guidance, coordination and interpretation of peculiar to specific situation of States and cities
+this Policy. It will disseminate the Policy among the with respect to sanitation, climate, physiographic
+State and ULB governments as well as dovetail it factors, economic, social and political parameters,
+with the Ministry’s urban development programmes and institutional variables. Therefore, each state
+and schemes. It will provide the necessary and city needs to formulate its own FSSM strategy
+technical and planning support to the States and and integrate the same in their respective State
+ULBs and will also design, lead and implement a and city sanitation plans in overall conformity to
+national awareness campaign on this issue. the National Policy (See Annexe 1 for State Level
+FSSM Template). Several other stakeholders
+GoI recognizes that sanitation is a State subject such as households, civil society organisations,
+and on-ground implementation and sustenance of the private sector (small, medium and large),
+public health and environmental outcomes requires research organisations, too have a critical role to
+strong city level institutions and stakeholders. play in achievement of safe and sustainable FSSM
+Although there are some common elements services for all.
+tabLe 1: SuMMary of roLeS and reSPonSibiLitieS
+Institution Lead Role Supportive Role
+Ministry • Technical and planning support to States and ULBs Formulation of State and City level
+of Urban • Training and capacity building of State level officials FSSM strategies and implementation
+Development and those from select ULBs plans
+• Funding through specific schemes and plans
+• National level awareness and behaviour change
+campaign
+• Support Research and Capacity Building in the
+sector
+• Create enabling environment for participation
+of the private sector, NGOs and CSOs in provision
+of FSSM services including to the poor and
+marginalized households and areas
+• National level monitoring and evaluation
+Ministry of • Enforce compliance of the relevant environmental Support and build capacity of State
+Environment, laws and rules during the collection, transport, Pollution Control towards enforcement
+Forest and treatment and disposal of faecal sludge and septage of relevant laws and rules
+Climate Change
+
+21
+Institution Lead Role Supportive Role
+Ministry of Social • Strive towards elimination of manual scavenging Help States and ULBs eliminate
+Justice and and rehabilitation of manual scavengers manual scavenging and rehabilitate
+Empowerment • Monitor and evaluate progress at the National Level manual scavengers
+• National level awareness campaign
+Ministry of Gender mainstreaming of IEC material
+Women and Child for FSSM across the country
+Development
+State • Develop State level FSSM Strategy and • Technical, financial and
+Governments Implementation Plan administrative support to ULBs
+• Develop Operative Guidelines on FSSM • Encourage coordination and
+• Training and capacity building of ULB officials cooperation among ULBs
+and others engaged in provision of FSSM services • Regulate and help ULBs set
+• State level awareness and behaviour change up systems to ensure financial
+campaign sustainability in provision of FSSM
+• Create enabling environment for participation services
+of the private sector, NGOs and CSOs in provision • Implement Municipal Byelaws.
+of FSSM services including to the poor and
+marginalized households and areas
+• Funding through specific schemes and plans
+• Support Research and Capacity Building
+in the sector
+• State level monitoring and evaluation
+Urban Local • Design, develop, plan and implement ULB level Create enabling environment for
+Bodies FSSM strategy NGOs and private initiatives to achieve
+• Set up and ensure operation of systems for 100% safe and sustainable FSSM
+safe and sustainable collection, transport, treatment
+and disposal of faecal sludge & septage
+• Develop expertise, in-house and outsourced,
+to provide safe and effective FSSM services
+• Awareness and behaviour change campaign
+to engage diverse stakeholders
+• Develop training programmes for masons to build
+requisite skills in construction of quality septic tanks
+as per BIS / NBC norms
+• Set up systems to ensure financial sustainability
+in provision of FSSM services
+• Achieve objectives of FSSM Policy in a time-bound
+manner
+• Design and implement plans to eliminate manual
+scavenging and rehabilitate manual scavengers
+• Funding through specific schemes and plans
+• Monitor and evaluate FSSM strategy and
+implementation plan
+• Implement Municipal Byelaws
+Households • Timely and regular cleaning of septic tanks through Engage with decision-makers at State
+approved entities and ULB level to ensure that they
+• Regular maintenance and monitoring of septic tanks receive good quality FSSM services
+• Timely payment of user fee and/or charges, if any,
+towards FSSM services
+• Practice Building Byelaws for construction of OSS.
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+22
+6 IMPLeMeNTATION
+APPROACH
+It is envisaged that State-specific FSSM Policy, already put in place such guidelines. They could be
+Strategy and Guidelines conforming to the National modified, if required, in the context of this FSSM
+Policy will be developed by each State. Policy. These existing State-level guidelines provide
+good examples for other States to prepare their
+own set of guidelines.
+6.1. S tate-LeVeL iMPLeMentation
+Strategy
+FSSM services are provided by a mix of formal
+public service providers, contractual operators and
+In line with the National FSSM Policy each state
+informal local service providers, but with very little
+is expected to develop and issue an FSSM
+supervision and control to ensure compliance with
+Implementation Strategy and Plan Guideline.
+environment, health, safety and laws prohibiting
+In accordance with State Policy and Plan, the
+manual scavenging. Rules, Byelaws, regulations
+Guidelines should provide an overall state-
+and operative guidelines for faecal sludge and
+level framework, objectives, timelines and
+septage management will address (but not limited
+implementation plans to the ULBs. States such
+to) the following:
+as Maharashtra, Odisha and Tamil Nadu have
+figure 2: iMPLeMentation ProceSS
+national and State Level performance
+State Level
+Policy, Preparation Monitoring
+implementation of fSSM
+of city
+Plan & fSSM
+service
+operational level fSSM
+guidelines levels
+for uLbs
+capacity
+national
+building of implementation
+fSSM
+uLbs for of fSSM policy
+Policy
+fSSM
+funding from national/State/uLb own funds
+
+23
+• Design of septic tanks, pits etc. (adapted to local • Penalty clauses for untreated discharge for
+conditions), including siting, and methods of households as well as desludging agents and
+approval of building plans, or retro-fitting existing unsafe emptying and handling of faecal waste.
+installations to comply with rules and byelaws.
+• Regular monitoring and evaluation of the entire
+• Delineation of private (individual houses, process of FSSM
+groups housing, institutions etc.) and public
+responsibilities (urban local bodies and other • Training, accreditation, education and awareness
+local authorities) in relation of faecal sludge and programs
+septage management
+All public and private sector staff should adhere
+• Details of the planning and implementation to safety norms as provided in the Manual on
+process for carrying out safe and sustainable Sewerage and Sewage Treatment published by
+management of all faecal sludge and septage. the Ministry of Urban Development and such other
+This may be integrated with overall city land safeguards under the Prohibition of employment
+use planning, with the timelines for holistically as Manual Scavengers and their Rehabilitation Act,
+addressing waste water management via on-site, 2013 and that the ULB may provide under its own
+decentralised or centralised systems. rules. For disposal of septage, the ULB will need
+to follow the standards set out in the environment
+• Special provisions for medium and large format (Protection) Act, 1986, and SWM Rules 2016
+real estate developments depending on the mode of disposal.
+• Frequency of desludging, and O&M It is important that all ULBs make provision of land
+of installations and the responsibilities and other infrastructure facilities required for safe
+of householders (owner/occupant) treatment and disposal /reuse of human waste
+generated in their areas. This should go hand
+• Operating procedures for desludging including in hand with strict enforcement of disposal by
+safety procedures with an emphasis on the desludgers, as well as recognition and partnership
+safety, health and dignity of sanitation workers with such providers of service. Desludging should
+(abiding by the Prohibition of employment as be carried out in an organised manner by taking
+Manual Scavengers and their Rehabilitation Act, into account of each and every septic tank and its
+2013) cleaning frequency through a registered agency.
+Desludgers should be asked to register with the
+• Licensing, record-keeping, monitoring and municipal bodies and there should be a strong
+reporting arrangements for faecal sludge and partnership and dis-incentive to unsafe disposal.
+septage service providers
+An important part of work on FSSM involves
+• Methods and locations of transport (conveyance), constant and deep engagement with communities,
+treatment and safe disposal so that they understand and support activities
+that ULBs will take up. It has been found that
+• Tariffs or cess/tax etc. for septage management communities are reluctant to have faecal sludge
+in the city
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+24
+treatment facilities close to their vicinity, but are system users, NGOs, municipal employees,
+not as sensitive to faecal sludge that is dumped relevant private sector firms, elected representative
+untreated close to their homes! and the media.
+Households should also be encouraged to have a each FSSM plan will have a specific monitoring
+regular desludging schedule and this too, should and evaluation framework to continuously gauge
+be monitored by the municipal / urban local bodies implementation progress and document lessons
+through a systematic monitoring system. Some for constant improvement. It is very important
+good examples are in setting up call centres, and that cities work systematically with each group
+formalizing associations of desludgers and ensuring of stakeholders to ensure alignment of goals and
+that households are regularly desludged. A system adoption. The ownership for all activity relating
+of incentives (for example, discounts on taxes) and to FSSM must be driven by the Municipal /ULB
+disincentives (penalties) should be set up. Chairperson and Chief executive concerned.
+FSSM plans need to be backed by enabling
+6.2. uLb LeVeL iMPLeMentation PLan
+regulatory and institutional framework. enforcement
+of all regulations should be strict, to ensure
+each ULB is expected to develop a detailed FSSM
+compliance and also provide the right dis-
+plan in conformity to the National FSSM policy and
+incentives. At the same time, timely rewards and
+respective State guidelines on FSSM. Citywide
+incentives should be given to both communities
+assessment of FSSM is the key step for FSSM
+and service providers to encourage positive
+process planning. Such plan should be technically
+behaviour.
+appropriate and financially feasible. Assessment
+in each area entails review of available information
+at city level, identifying information gaps, and
+conducting field studies where necessary.
+In addition, adequate attention and focus has to
+be paid to public outreach and behaviour change
+communications to ensure timely and necessary
+participation of all the key stakeholders. The range
+of stakeholders may include on-site sanitation
+
+25
+7 TeCHNOLOGICAL
+OPTIONS
+A line diagram and brief write up on dedicated the ULBs level, the treated effluent coming out
+Faecal Sludge Treatment Plant (FSTP) is part of of the treatment system should meet the CPCB
+the brief technical note attached as Annexure prescribed discharge norms.
+– III. Whatever the technical options used at
+8 FINANCING PLAN
+The Government of India may provide assistance promote engagement of private sector participation
+for funding projects proposed as part of FSM Plans across sanitation service chain and should
+through its ongoing urban development schemes encourage ULBs to start levying sanitation tax/ user
+and programs. However, the emphasis will be charges to meet the O&M cost for effective FSSM
+on improving the efficiency of existing sanitation operations at city level. They should also facilitate
+infrastructure and service delivery. the involvement of private sector participation
+through an easy and amenable PPP relationship
+State Governments should prioritize funds to framework, to ensure adequate financing and
+implement the FSSM plan at City level. They should sustainability of FSSM projects.
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+26
+9 MONITORING & eVALUATION
+At the national level, the Government of India State Government will be responsible for Monitoring
+is adopting Sanitation Benchmark framework and evaluation of its Cities’ performance, and
+of revised service level benchmarks for sanitation hence needs to devise data collection and
+that assess performance of citywide sanitation, reporting systems using indicator framework
+capturing on-site sanitation systems and sewage developed for Sanitation Benchmark. ULBs in turn
+management. Sanitation Benchmark framework need to develop database, registry of certified
+for revised Service Level Benchmarks for Sanitation on-site sanitation system, robust reporting format
+is attached as Annexure 2. to track compliance of households (establishments,
+etc.) with outcomes and process standards.
+10 CAPACITy BUILDING
+& TRAINING
+Government of India will help formulate a strategy Government, academic institutions and private
+on capacity building and training on FSSM to sector organizations. They also need to focus
+support States and Cities to build their personnel on capacity building, i.e. not just training but also
+capacities and organizational systems for delivery development of systems and capacities of ULBs
+of sanitation services. Government of India will in sanitation, in line with the Urban Sector Reforms
+make effort to integrate the FSSM components that the State may be implementing. ULBs will
+in ongoing capacity building programme. need to provide training on sanitation to their own
+staff – using the specialized agency selected by
+The State Government needs to identify agencies State Government. They will need to utilize ongoing
+that will train its State level and ULB personnel and Govt. of India and State Government Schemes for
+orientation of elected representatives on aspects training and capacity building in order to achieve
+related to FSSM. The States and ULBs need to set this. Training will also need to be imparted to
+up and develop strategies for citizen engagement private sector players and NGOs to help them
+through city sanitation task forces. These engage and deliver effectively in the provision
+agencies could be specialist agencies of the State of FSSM services.
+
+27
+11 exPeCTeD OUTCOMeS
+As this Policy is implemented across the country, it • Safe disposal of all collected faecal sludge and
+is expected to yield significant benefits in terms of septage at designated sites (sewage treatment
+improved public health indicators, reduced pollution plants, faecal sludge treatment facilities for safe
+of water bodies and groundwater from human and scientific disposal, etc.)
+waste, and resource recovery leading to reuse of
+treated waste and other end products. Some key • Continuous improvements in efficiency and
+projected outcomes are: effectiveness in the entire FSSM chain:
+containment, collection, conveyance, treatment
+• Containment of all human waste in 100% of the and disposal
+towns and cities
+• Preventing Contamination of water bodies and
+• Safe collection and conveyance of human waste groundwater from human waste (faecal matter)
+to treatment and disposal sites in all the towns and cities across India
+• Cost-effective solution for management of human • Nuisance from faecal sludge reduced to minimum
+waste through integrated network sewerage, levels, resulting in nuisance-free living space in
+small bore sewerage, and faecal sludge and urban India
+septage management.
+• Maximum reuse of treated sludge as fertilizer
+• Clarity among different stakeholders on identifying in farmlands, parks, gardens and other such
+and implementing best and economically viable avenues, reuse of treated sewage, as source
+sanitation solutions of energy where feasible, and any other
+productive uses.
+• Technical capability among ULBs to effectively
+implement FSSM • Drastic reduction in incidences of diseases due
+to safe & sustainable FSSM services.
+• Scheduled emptying of septic tanks or other
+containment systems at an interval of 2-3 years
+as recommended by CPHeeO Sewerage
+& Sewage Treatment Manual and the MoUD
+Advisory on Septage Management (2013)
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+28
+annexure – 1:
+FRAMeWORk FOR
+PRePARATION OF STATe
+LeVeL FSSM PLAN
+i. Cover page containing title of the document; 2. objectiVeS of the fSSM PoLicy
+name, address and logo of the issuer of the
+2.1. Vision [high level purpose of sanitation and
+Policy (Urban Development Department,
+FSSM such as clean cities, healthy living, high
+Municipal Administration Department, etc.)
+standards of living, become a preferred state
+for tourism / business destination, etc.]
+ii. Letter – Minister/Secretary, Department of
+Urban Development, Government of [State
+2.2. Objectives and Scope [why is the State issuing
+name] (Optional)
+the FSSM Policy, to meet what challenges and
+what is covered by this Policy (geographically,
+1. introduction
+institutionally, issues)]
+1.1. Current sanitation status in the State
+[information on toilet coverage, percentages 2.3. expected outcomes [what benefits for whom
+of sewered and on-site sanitation (OSS), State hopes to achieve from effective FSSM]
+challenges faced]
+3. LegiSLatiVe and reguLatory
+1.2. Definition of faecal sludge and septage; what
+context
+is faecal sludge and septage management
+(FSSM)
+3.1. Central Laws, Rules and Regulations
+[environment (Protection) Act, 1986 and the
+1.3. Sources of faecal sludge and septage
+Water (Prevention and Control of Pollution)
+[generated, collected, transported, treated
+Act, 1974 provide a framework for control of
+at present, what is not treated and disposed
+effluent, wastewater and septage discharge.
+of scientifically, ensuing environmental pollution
+The Municipal Solid Waste (MSW) Rules,
+and public nuisance]
+2016 under the environment (Protection)
+Act apply to the final and safe disposal of
+1.4. Importance of FSSM [alignment with overall
+post-processed residual faecal sludge and
+sanitation vision of the State; arising health,
+septage to prevent contamination of ground
+social, economic and environmental benefits]
+water, surface water and ambient air. Further,
+
+29
+the MSW Rules 2016 will apply to the final by the Ministry of Urban Development and
+and safe disposal of post-processed residual such other safeguards under the Prohibition of
+faecal sludge and septage. The employment employment as Manual Scavengers and their
+of Manual Scavengers and Construction Rehabilitation Act, 2013.]
+of Dry Latrines (Prohibition) Act, 1993 put
+a ban on dry latrines, i.e., latrines with no 3.2. State Laws, Rules and Regulations [list them
+water-seal or flushing mechanism, and the out along with their relevance to FSSM]
+employment of persons for manually carrying
+human excreta. This was supplemented in
+4. roLeS and reSPonSibiLitieS [Roles
+2013 with the Prohibition of employment as
+and responsibilities of the State Government,
+Manual Scavengers and their Rehabilitation
+ULB, Private sector, Research organisations,
+Act, 2013 by which “hazardous cleaning”
+NGOs, external funding agencies, households,
+in relation to sewers and septic tanks was
+service providers such as masons and
+also banned. The law now provides that
+architects; among others, areas covered
+manual cleaning of sewers and septic tanks,
+should include development of State and
+if necessary, may be carried out only in very
+ULB level Implementation Strategy and
+controlled situations, with adequate safety
+Guidelines on FSSM, formation of rules and
+precautions, and in accordance with specific
+regulation on FSSM, awareness generation
+rules and protocols for the purpose. All public
+and behavior change, training and capacity
+and private sector staff should adhere to
+building, funding sources and mechanisms,
+safety norms as provided in the Manual on
+enabling environment for the participation of
+Sewerage and Sewage Treatment published
+the private sector in providing FSSM services,
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+30
+monitoring and evaluation, and implementation 7. Monitoring and eVaLuation [outline
+of the FSSM strategy and action plan. Clear plans for development of a robust M&e
+delineation of responsibilities for each area at framework to measure and monitor expected
+each level (State / City).] outcomes at State and ULB level; such a
+framework will form part of the State FSSM
+5. iMPLeMentation aPProach [outline Implementation Strategy and Guidelines]
+of how the State Government plans to
+operationalize the FSSM Policy] 8. coMMunity engageMent and
+StakehoLder inVoLVeMent [Outline
+5.1. State FSSM Implementation Strategy and plans for developing a robust community
+Guidelines [brief on how the State Government engagement platform for continuous
+plans to develop the Implementation Strategy involvement of ULB citizens and support to
+and Guidelines and then operationalize them] FSSM activities being initiated by the state.
+Also, alert citizens to the dangers of untreated
+5.2. ULB-level Implementation Plan [what FSS in their environment and the need for all
+should be the key constituents of such an to pay for its safe treatment and disposal.
+Implementation Plan by each ULB; details of
+such a ULB level framework could be seen at: 9. caPacity buiLding and training
+www.ifsmtoolkit.pas.org.in] [outline the approach, potential or identified
+institutional partners, possible sources of
+funding, key audiences for capacity building
+6. financing fSSM
+and training, what skills need to be built upon
+for successful implementation of FSSM]
+6.1. Funding options for State and ULBs [Central
+Government Schemes, 14th Finance
+10. annexureS (oPtionaL) [add any specific
+Commission funds, State Government
+Central and/or State Government Guidelines,
+schemes]
+model implementation plans for ULBs, M&e
+framework, other relevant documents]
+6.2. Other funding models [private sector
+participation and funding, levying of fees
+and user charges, CSR funds, funding from
+external agencies]
+
+31
+annexure – 2:
+DRAFT SAN-BeNCHMARk
+FRAMeWORk
+for reViSed SerVice LeVeL benchMarkS for Sanitation
+Current SLB indicators Proposed Sanitation Benchmark
+(Sewerage System) (Sewerage + Onsite systems)
+1. coverage of sewerage network services 1. coverage of adequate sanitation system
+Total number of properties with individual Percentage of households with individual or group toilets
+connections to sewerage network as a percentage connected with adequate sanitation systems (sewer network/
+of total number of properties in the city. septic tank / double pit system) to total households in the city.
+2. collection efficiency of sewerage network 2. collection efficiency of sanitation system
+Quantum of sewage collected at the intake of Weighted average of collection efficiency of each sanitation
+the treatment plant to the quantity of sewage system, weighted by share of households dependent on each
+generated (as per CPHEEO, 80% of water sanitation system.
+consumed is generated as sewage).
+3. adequacy of sewage treatment capacity 3. adequacy of treatment capacity of Sanitation System
+Adequacy is expressed as secondary treatment Weighted average of adequacy of treatment plant capacity
+capacity available as a percentage of normative available for each sanitation system, weighted by share of
+wastewater generation. households dependent on each sanitation system.
+4. Quality of sewage treatment 4. Quality of treatment of sanitation system
+Quality of treatment is measured as a percentage Weighted average of quality of treatment of each sanitation
+of WW samples that pass the specified secondary system, weighted by share of households dependent on each
+treatment standards, that is, treated water samples sanitation system.
+from the outlet of STPs are equal to or better than
+the standards lay down by the GoI agencies for
+secondary treatment of sewage.
+5. extent of reuse and recycling of sewage 5. extent of reuse and recycling in sanitation system
+Quantity of sewage that is recycled or reused after Weighted average of extent of reuse of treated wastewater
+secondary treatment as a percentage of quantity and sludge after adequate treatment as a percentage of
+of sewage received at the treatment plant. sewage and sludge received at the treatment plant, weighted
+by share of household dependent on each sanitation system.
+Source: SAN Benchmarks: Citywide assessment of sanitation service delivery – including onsite sanitation, PAS Project,
+CEPT University; short URL - goo.gl/Uv7vLW available on website: www.pas.org.in
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+32
+annexure – 3:
+TeCHNOLOGICAL OPTIONS
+The write-up below provides a brief outline about
+various technological options practiced in the urban
+setting.
+Septic tank: A septic tank is a combined
+sedimentation and digestion tank where the
+sewage is held for one to two days. During this
+period, the suspended solids settle down to
+the bottom. This is accomplished by anaerobic
+digestion of settled solids (sludge) and liquid,
+resulting in reasonable reduction in the volume
+of sludge, reduction in biodegradable organic
+matter and release of gases like carbon dioxide, pore spaces. Chemical and biological processes
+methane and hydrogen sulphide. The effluent treat the effluent before it reaches groundwater,
+although clarified to a large extent, will still contain or a restrictive layer, such as hardpan, bedrock,
+appreciable amount of dissolved and suspended or clay soils. These processes work best where
+putrescible organic solids and pathogens. the soil is somewhat dry and permeable, and
+contains sufficient oxygen for several feet below
+the drain field.
+1. SePtic tank with drain fieLd
+In this modification of septic tank, treatment of 2. SePtic tank with Soak Pit
+sewage effluent occurs in the soil beneath the
+drain-field, which consists of long underground Soak pits are cheaper to construct and are
+perforated pipes or tiles connected to the septic extensively used. They need no media when lined
+tank. The network of pipes is laid filled in gravel- or filled with rubble or brick bats. The pits may
+trench or beds in the soil. A drain-field trench is be of any regular shape, circular or square being
+generally 18 to 36 inches wide and up to 100 feet more common. When water table is sufficiently
+long. Liquid waste flows out of the tank into the below ground level, soak pits should be preferred
+drain-field through the piping system and the soil only when land is limited or when a porous layer
+below provides the final treatment and disposal of underlies an impervious layer at the top, which
+the effluent. After the effluent has passed into the permits easier vertical downward flow than
+soil, most of it percolates downward and outward. horizontal spread out as in the case of dispersion
+The soil filters the effluent as it passes through the trenches.
+
+33
+Minimum horizontal dimension of soak pit should
+be 1 m, the depth below the invert level or inlet
+pipe being at 1 m. The pit should be covered and
+the top raised above the adjacent ground
+to prevent damage by flooding.
+3. SePtic tank with SMaLL bore
+SySteM:
+An in-house toilet discharging to a septic tank (or 5. twin Pit Pour fLuSh Latrine
+on-site digester) with liquids disposal via a small
+diameter sewer to a central collection sump or Pour-flush leaching pit latrines were first developed
+existing sewer system. in India in mid-forties with a single leach pit and
+squatting pan placed over it. When the pit in use
+gets filed up another pit is dug and the squatting
+4. SePtic tank with baffLeS:
+slab is removed and placed over the new pit.
+The fist pit is covered with earth and the excreta
+An anaerobic baffled reactor (ABR) is an improved
+is allowed to digest. After one or two years, the
+septic tank, which, after a primary settling chamber,
+digested excreta is used as manure. To overcome
+uses a series of baffles to force sewage to flow
+this shortcoming, the Twin Pit Water Seal Toilet
+under and over them as it passes from the inlet
+design was introduced and in this case when one
+to the outlet. The sewage is introduced into the
+pit is full, the excreta is diverted to the second pit.
+chamber at the bottom, leading to an enhanced
+Both pits are connected with a junction chamber
+contact with the active biomass which results
+at one end. Pit walls have a honeycomb structure.
+in an increased retention and anaerobic
+The bottom of the pit is not plastered and is
+degradation of suspended and dissolved organic
+earthen. Depending on the number of users of
+pollutants. ABRs are robust and can treat a wide
+toilet, size of the pit varies. The filled up pit can be
+range of sewage, but both remaining sludge and
+conveniently emptied after 1.5 to 2 years, when
+effluents still need further treatment in order to be
+most of the pathogens die off. The sludge can
+reused or discharged properly.
+safely be used as manure. Thus the two pits can
+be used alternately and perpetually.
+This is a suitable on-site sanitation measure for
+houses where the water table is sufficiently deep
+to avoid ground water pollution.
+Leach pits serve a dual function of (a) storage and
+digestion of excreted solids and b) infiltration of the
+waste liquids and are therefore, to be designed on
+
+NatioNal Policy oN Faecal Sludge aNd SePtage MaNageMeNt (FSSM)
+34
+the basis of the following parameters:
+• Sludge accumulation rate
+• Long term infiltration rate of the liquid fraction
+across the pit soil interface
+• Hydraulic loading on the pit
+• Minimum period required for effective pathogen
+destruction
+• Optimal pit emptying frequency. tanks / pit latrines can be treated by using “Faecal
+• FSTP to FSM - a Case Study Sludge Treatment Plant”. FSTP is designed to
+be aesthetically pleasing with no odor so that it
+could be located close to the town, hence keeping
+6. faecaL SLudge treatMent PLant
+distances low for desludging operators to dispose.
+(fStP)
+The plant runs on gravity (No electricity) with
+very little mechanical equipment that does not
+Where there is no sewerage / underground
+require skilled operators thus keeping operational
+drainage (UGD) system, most of the households
+expenditure low. These features enable the FSTP
+depend on septic tanks for sewerage disposal.
+to be financially sustained through their own funds.
+The collected faecal sludge from these septic
+referenceS:
+• 2016, “Primer on Faecal sludge and septage management”, Ministry of Urban Development, Government of India
+• 2015, “Guidelines for septage management in Maharashtra”, Swachh Maharashtra Mission, Urban Development
+Department, Government of Maharashtra
+• 2013, “Advisory Note on Septage Management in Urban India”. Government of India
+• 2013, “Manual on Sewerage and Sewage Treatment Systems”, Central Public Health and Environmental Engineering
+Organization (CPHeeO), MoUD.
+• 2015, “Inventorization of Sewage treatment plants”, Central Pollution Control Board, Government of India.
+• Performance Assessment System (PAS) Project, CEPT University, Ahmedabad. www.pas.org.in
+• Faecal sludge Management assessment and planning toolkit - www.ifsmtoolkit.pas.org.in
+• SAN Benchmarks: Citywide assessment of sanitation service delivery – including onsite sanitation, PAS Project, CEPT
+University; short URL - goo.gl/Uv7vLW available on website: www.pas.org.in
+• Faecal Sludge Management – Systems Approach for Implementation and Operation by Linda Strande, Mariska Ronteltap
+and Damir Brdjanovic published by IWA Publishing, London, Uk.
+• USEPA Publications (Decentralized Wastewater Treatment Systems: A Program Strategy; and A Homeowner’s Guide to
+Septic Systems
+• Model Municipal Building Byelaws 2016 – Town & Country Planning Organsiation (TCPO), MoUD
+• National Builind code of India (latest amended) published by Bureau pf Indian Standards.
+• Septic Tank and Drain-field Operation and Maintenance by Michael P. Vogel, Ed.D., MSU Extension Service Housing
+Specialist
+• Sustainable Sanitation and Water Management Portal
+• IS: 2470 (Part I and II). Indian Standard Code of Practice for Installation of Septic Tanks and Disposal of Septic Tank
+effluent, (Latest edition)
+
+35
+
+Government of India
+Ministry of Urban Development

@@ -1,0 +1,746 @@
+NATIONAL POLICY
+FOR
+RARE DISEASES, 2021
+
+Table of Contents
+1. BACKGROUND
+2. RARE DISEASES – ISSUES & CHALLENGES
+3. THE INDIAN SCENARIO
+4. EXPERIENCES FROM OTHER COUNTRIES
+5. NEED TO BALANCE COMPETING PRIORITIES
+6. DEFINITION & DISEASES COVERED
+7. POLICY DIRECTION
+8. PREVENTION AND CONTROL
+9. CENTRES OF EXCELLENCE AND NIDAN KENDRA
+10. GOVERNMENT OF INDIA SUPPORT IN TREATMENT
+11. DEVELOPMENT OF MANPOWER
+12. CONSTITUTION OF CONSORTIUM
+13. INCREASING AFFORDABILITY OF DRUG RELATED TO RARE DISEASES
+14. IMPLEMENTATION STRATEGY
+2
+
+1. Background
+Ministry of Health and family Welfare, Government of India formulated a National
+Policy for Treatment of Rare Diseases (NPTRD) in July, 2017. Implementation of the
+policy, however, faced certain challenges. A limiting factor in its implementation was
+bringing States on board and lack of clarity on how much Government could support in
+terms of tertiary care. Public Health and Hospitals is primarily a State subject.
+Stakeholder consultation with the State Governments at the draft stage of formulation of
+the policy could not be done in an elaborate manner. When the policy was shared with
+State Governments, issues such as cost effectiveness of interventions for rare disease vis-
+a-vis other health priorities, the sharing of expenditure between Central and State
+Governments, flexibility to State Governments to accept the policy or change it according
+to their situation, were raised by some of the State Governments.
+In the circumstances, though framed with best intent, the policy had
+implementation challenges and gaps, including the issue of cost effectiveness of
+supporting such health interventions for limited resource situation, which made it not
+feasible to implement. Given the challenges in implementing the policy, the need for
+wider consultation and recommendations, a decision was taken to reframe the National
+Policy for Treatment of Rare Diseases. An Expert Committee was constituted by Ministry
+of Health and Family Welfare in November, 2018 to review the NPTRD, 2017. The Terms
+and References of the Expert Committee are given below:
+a. To review the national Policy for Treatment of Rare Diseases, 2017 and to suggest
+amendments/changes as may be required.
+b. To define Rare Diseases for India.
+c. To draft National Policy for Rare Diseases.
+d. To suggest vision and strategy in country’s context.
+3
+
+Pending reframing the policy, the earlier policy has been kept in abeyance vide a non-
+statutory Gazette Notification dated 18-12-2018, till the revised policy is issued or till
+further orders, whichever is earlier.
+Based on the report of the Expert Committee and with the approval of the
+competent authority, the draft National Policy for Rare Diseases was finalized and
+placed in the public domain on 13.1.2020 inviting comments/views from all the
+stakeholders, general public, organisations and States/UTs.
+Comments/suggestions received from general public/organisations/stake-
+holders/States/UTs were referred to DGHS for examination and to submit
+recommendations. DGHS constituted an Expert Committee to examine the
+comments/suggestions received. Based on the examination of the
+comments/suggestions received and recommendations of the same Expert Committee
+and after further deliberation, the National Policy for Rare Diseases has been finalised.
+2. Rare Diseases: Issues & Challenges
+The field of rare diseases is complex and heterogeneous. The landscape of rare
+diseases is constantly changing, as there are new rare diseases and conditions being
+identified and reported regularly in medical literature. Apart from a few rare diseases,
+where significant progress has been made, the field is still at a nascent stage. For a long
+time, doctors, researchers and policy makers were unaware of rare diseases and until
+very recently there was no real research or public health policy concerning issues related
+to the field. This poses formidable challenges in development of a comprehensive policy
+on rare diseases. Nevertheless, it is important to take steps, in the short as well as long
+term, with the objective of tackling rare diseases in a holistic and comprehensive
+manner.
+4
+
+2.1 The varying definitions of rare diseases
+WHO defines rare disease as often debilitating lifelong disease or disorder with a
+prevalence of 1 or less, per 1000 population. However, different countries have their own
+definitions to suit their specific requirements and in context of their own population,
+health care system and resources. In the US, rare diseases are defined as a disease or
+condition that affects fewer than 200,000 patients in the country (6.4 in 10,000 people).
+EU defines rare diseases as a life-threatening or chronically debilitating condition
+affecting no more than 5 in 10,000 people. Japan identifies rare diseases as diseases with
+fewer than 50,000 prevalent cases (0.04%) in the country. A summary of the prevalence
+based definitions of rare diseases used in various countries is tabulated below:
+Table 1: Definitions of Rare Disease in different countries
+S No. Country Prevalence less than per 10,000
+population
+1 USA 6.4
+2 Europe 5.0
+3 Canada 5.0
+4 Japan 4.0
+5 South Korea 4.0
+6 Australia 1.0
+7 Taiwan 1.0
+Source: The I.C. Verma Sub-Committee Report ‘Guidelines for Therapy and Management’
+The use of varying definitions and diverse terminology can result in confusion and
+inconsistencies and has implications for access to treatment and for research and
+5
+
+development. According to a study1, that reviewed and analysed definitions across
+jurisdictions, most definitions, as discussed above, appear to consider disease
+prevalence, but other criteria also apply sometimes, such as - disease severity, whether
+the disease is life-threatening, whether there are alternative treatment options available,
+and whether it is heritable. The study found that relatively few definitions included
+qualifiers relating to disease severity and/or a lack of existing treatments, whereas most
+definitions included a prevalence threshold. The average prevalence thresholds used to
+define rare diseases ranges among different jurisdictions from 1 to 6 cases/10,000
+people, with WHO recommending a prevalence less than 10/10,000 population for
+defining rare diseases. The study concluded that attempts at harmonising the differing
+definitions, should focus on standardizing objective criteria such as prevalence thresholds
+and avoid qualitative descriptors like severity of the disease.
+However, it has been contested that disease prevalence alone may also not be an
+accurate basis for defining rare diseases, as it does not take into account changes in
+population over time. Hence, some have suggested that a more reliable approach to
+arriving at a definition could be based on the factors of – a) location - a disease which is
+uncommon in one country may be quite common in other parts of the world; b) levels of
+rarity - some diseases may be much more rare than other diseases which are also
+uncommon; and c) study-ability - whether the prevalence of a disease lends itself to
+clinical trials and studies.
+This underscores the need for further research to better understand the extent of
+the existing diversity of definitions for rare diseases and to examine the scope of arriving
+at a definition, which is best suited to the conditions in India. It shall be done on a priority
+basis as soon as sufficient data is available. Steps have already been taken for creation of
+a hospital based National Registry for rare diseases in India by ICMR.
+1. 1Richter, T., Nestler-Parr, S., Babela, R., Khan, Z. M., Tesoro, T., Molsen, E., & Hughes, D. A. (2015).
+Rare Disease Terminology and Definitions – A Systematic Global Review: Report of the ISPOR Rare
+Disease Special Interest Group [Electronic version]. Value in Health, 18, 906-914. Available at:
+https://www.ispor.org/raredisease-terms-definitions.pdf
+6
+
+2.2 Diagnosis of rare diseases
+Early diagnosis of rare diseases is a challenge owing to multiple factors that
+include lack of awareness among primary care physicians, lack of adequate screening and
+diagnostic facilities.
+Traditional genetic testing includes tests that can only address a few diseases. As
+a result, physicians most often provide their best guess on which tests are to be done. If
+the test is negative, further testing will be required using next generation sequencing
+based tests, or chromosomal microarray which are applicable, but expensive and time-
+consuming processes with interpretation and counselling issues at times.
+There is a lack of awareness about rare diseases in general public as well as in the
+medical fraternity. Many doctors lack appropriate training and awareness to be able to
+correctly and timely diagnose and treat these conditions. According to a recent report2, it
+takes patients in United States (US) an average of 7.6 years and patients in United
+Kingdom (UK) an average of 5.6 years to receive an accurate diagnosis, typically involving
+as many as eight physicians (four primary care and four specialists). In addition, two to
+three misdiagnoses are typical before arriving at a final diagnosis. Delay in diagnosis or a
+wrong diagnosis increases the suffering of the patients exponentially. There is an
+immediate need to create awareness amongst general public, patients & their families
+and doctors, training of doctors for early and accurate diagnosis, standardization of
+diagnostic modalities and development of newer diagnostic and therapeutic tools.
+2.3 Challenges in research and development
+A fundamental challenge in research and development for the majority of rare
+diseases is that there is relatively little known about the pathophysiology or the natural
+history of these diseases. Rare diseases are difficult to research upon as the patient pool
+2 Rare Disease Impact Report: Insights from patients and the medical community available at:
+https://globalgenes.org/wp-content/uploads/2013/04/ShireReport-1.pdf
+7
+
+is very small and it often results in inadequate clinical experience. Therefore, the clinical
+explanation of rare diseases may be skewed or partial. The challenge becomes even
+greater as rare diseases are chronic in nature, where long term follow-up is particularly
+important. As a result, rare diseases lack published data on long-term treatment
+outcomes and are often incompletely characterised.
+This makes it necessary to explore international and regional collaborations for
+research, collaborations with the physicians who work on any rare disease and with
+patient groups and families dealing with the consequences of these disorders. This will
+help gain a better understanding of the pathophysiology of these diseases, and the
+therapeutic effects that would have a meaningful impact on the lives of patients. There is
+also a need to review and where possible modify, clinical trial norms keeping in mind the
+particular challenges in rare diseases, without compromising on the safety and quality of
+the drugs or diagnostic tools.
+2.4 Challenges in treatment
+2.4.1 Unavailability of treatment
+Availability and access to medicines are important to reduce morbidity and
+mortality associated with rare diseases. Despite progress in recent years, effective or safe
+treatment is not available for most of the rare diseases. Hence, even when a correct
+diagnosis is made, there may not be an available therapy to treat the rare disease. There
+are between 7000 - 8000 rare diseases, but less than 5% have therapies available to treat
+them. About 95% rare diseases have no approved treatment3 and less than 1 in 10
+patients receive disease specific treatment. Where drugs are available, they are
+prohibitively expensive, placing immense strain on resources.
+3https://www.thelancet.com/journals/landia/article/PIIS2213-8587(19)30006-3/fulltext
+8
+
+2.4.2 Prohibitive cost of treatment
+As the number of persons suffering from individual rare diseases is small, they do
+not constitute a significant market for drug manufacturers to develop and bring to
+market drugs for them. For this reason, rare diseases are also called ‘orphan diseases’
+and drugs to treat them are called “orphan drugs”. Where, they do make drugs to treat
+rare diseases, the prices are extremely high apparently to recoup the cost of research
+and development. At present, very few pharmaceutical companies are manufacturing
+drugs for rare diseases globally and there are no domestic manufacturers in India except
+for Food for Special Medical Purposes(FSMP) for small molecule inborn errors of
+metabolism. Due to the high cost of most therapies, the government has not been able
+to provide these for free. It is estimated that for a child weighing 10 kg, the annual cost
+of treatment for some rare diseases, may vary from Rupees 10 lakh to more than 1 crore
+per year with treatment being lifelong and drug dose and cost, increasing with age and
+weight.
+Countries have dealt with this unique problem of high cost through various means
+that were suited to their local needs. Instruments like the Orphan Drug Act (ODA) in US &
+Canada, provide incentives to drug manufacturers to encourage them to manufacture
+drugs for rare diseases. The economic incentives & safeguards offered under the Act
+ensure benefits to the local patients. However, the exorbitant prices of drugs for rare
+diseases have led to concerns even in the developed countries about maintaining
+sustainability of the rare diseases funding/reimbursement programmes. The exorbitant
+prices have led to calls for transparency in setting prices of drugs and for price control
+and have even prompted scrutiny and congressional inquiries.
+3. The Indian Scenario
+Data on how many people suffer from different diseases that are considered rare
+globally, is lacking in India. The cases identified so far have been diagnosed at tertiary
+hospitals. The lack of epidemiological data on incidence and prevalence of rare diseases
+impedes understanding of the extent of the burden of rare diseases and development of a
+9
+
+definition. It also hampers efforts to arrive at correct estimation of the number of persons
+suffering from these diseases and describe their associated morbidity and mortality. In such
+a scenario, the economic burden of most rare diseases is unknown and cannot be
+adequately estimated from the existing data sets.
+Although extremely challenging, considering the complexity of various diseases and
+the difficulty in diagnosis, there is a clear need to undertake systematic epidemiological
+studies to ascertain the number of people suffering from rare diseases in India.
+So far only limited number of diseases has been recorded in India from tertiary care
+hospitals that are globally considered as rare diseases though ambit may encompass from
+7000 to 8000 disorders. The commonly reported diseases include Primary
+immunodeficiency disorders, Lysosomal storage disorders (Gaucher’s disease,
+Mucopolysaccharidoses, Pompe disease, fabry disease etc.) small molecule inborn errors of
+metabolism (Maple Syrup urine disease, organic acidemias etc.), Cystic Fibrosis,
+osteogenesis imperfecta, certain forms of muscular dystrophies and spinal muscular
+atrophy, etc.
+4. Experiences from other countries:
+While preparing the policy for rare diseases in India, policies of other countries have
+been reviewed. In United States of America, development of drugs for rare disease is sought
+to be encouraged through the Orphan Drugs Act, which incentivises industry by way of
+market exclusivity, grants to researchers and tax incentives on expenditure incurred during
+evaluation of drugs for their therapeutic potential. However, critics have pointed out that
+pharmaceutical companies have taken advantage of this arrangement and ‘gamed the
+system’ to maximise profits. The European Joint Programme on Rare Disease mostly focuses
+on research. National Health Service (NHS) England, for example, provides that the
+treatment for Spinal Muscular Atrophy (SMA) will be made available to the youngest and
+most severely-affected (SMA Type 1) patients immediately by Biogen (The pharmaceutical
+company that manufactures treatment for SMA), with NHS England offering funding on
+10
+
+National Institute for Health and Care Excellence (NICE) publication of final guidance. In
+Singapore, a fund - Rare Disease Fund – has been created to fund five medicines to treat
+three rare disease conditions. In Malaysia and Australia subsidised access for eligible
+patients is provided for expensive and lifesaving drugs.
+5. Need to balance competing priorities of public health in resource constrained
+settings
+Rare diseases place a major economic burden on any country and especially in
+resource-constrained settings. The financial capacity to support exorbitant cost of
+treatment is an important consideration in public health policy development with
+reference to treatment for rare diseases. In resource-constrained settings, it is pertinent
+to balance competing interests of public health for achieving optimal outcome for the
+resources allocated. As resources are limited and have multiple uses, the policy makers
+have to make choice of prioritizing certain set of interventions over others- the
+appropriate choice is then to support those interventions that would provide more
+number of healthy life years for given sum of money while simultaneously looking at the
+equity i.e., interventions that benefit poor who cannot afford healthcare are prioritized.
+Thus, interventions that address health problems of a much larger number of persons by
+allocating a relatively smaller amount are prioritized over others such as funding
+treatment of rare diseases where much greater resources will be required for addressing
+health problems of a far smaller number of persons.
+Hence, any policy on rare diseases needs to be considered in the context of the
+available scarce resources and the need for their utmost judicious utilization for
+maximizing the overall health outcomes for the whole of society measured in terms of
+increase of healthy life years.
+11
+
+6. Definition of Rare Diseases:
+6.1 There is no universal or standard definition of rare disease. A disease that occurs
+infrequently is generally considered a rare disease, and it has been defined by different
+countries in terms of prevalence – either in absolute terms or in terms of prevalence per
+10,000 population. A country defines a rare disease most appropriate in the context of its
+own population, health care system and resources.
+6.2 As mentioned above, India faces the limitation of lack of epidemiological data to be
+able to define rare diseases in terms of prevalence or prevalence rate, which has been
+used by other countries. To overcome this, a hospital based National Registry for Rare
+Diseases has been initiated by ICMR by involving centers across the country that are
+involved in diagnosis and management of Rare Diseases. This will yield much needed
+epidemiological data for rare diseases. In the absence of epidemiological data on
+diseases considered as rare in other countries, it is not possible to prescribe threshold
+prevalence rates to define a disease condition as rare.
+Till the time such data is available and the country arrives at a definition of a rare
+disease based on prevalence data, the term rare diseases, for the purpose of this policy,
+shall construe the following groups of disorders identified and categorized by experts
+based on their clinical experience:
+Group 1: Disorders amenable to one-time curative treatment:
+a) Disorders amenable to treatment with Hematopoietic Stem Cell Transplantation
+(HSCT) –
+i. Such Lysosomal Storage Disorders (LSDs) for which Enzyme Replacement
+Therapy (ERT) is presently not available and severe form of
+Mucopolysaccharoidosis (MPS) type I within first 2 years of age.
+ii. Adrenoleukodystrophy (early stages), before the onset of hard neurological
+signs.
+12
+
+iii. Immune deficiency disorders like Severe Combined Immunodeficiency
+(SCID), Chronic Granulomatous disease, Wiskot Aldrich Syndrome etc.
+iv. Osteopetrosis
+v. Fanconi Anemia
+b) Disorders amenable to organ transplantation
+i. Liver Transplantation -Metabolic Liver diseases:
+a. Tyrosinemia,
+b. Glycogen storage disorders (GSD) I, III and IV due to poor
+metabolic control, multiple liver adenomas, or high risk for
+Hepatocellualr carcinoma or evidence of substantial cirrhosis or
+liver dysfunction or progressive liver failure,
+c. MSUD (Maple Syrup Urine Disease),
+d. Urea cycle disorders,
+e. Organic acidemias.
+ii. Renal Transplantation-
+a. Fabry disease
+b. Autosomal recessive Polycystic Kidney Disease (ARPKD),
+c. Autosomal dominant Polycystic Kidney Disease (ADPKD) etc.
+iii. Patients requiring combined liver and kidney transplants can also be
+considered if the same ceiling of funds is maintained. (Rarely Methyl
+Malonicaciduria may require combined liver & Kidney transplant) etc.
+Group 2: Diseases requiring long term / lifelong treatment having relatively lower cost
+of treatment and benefit has been documented in literature and annual or more
+frequent surveillance is required:
+13
+
+a) Disorders managed with special dietary formulae or Food for special medical
+purposes (FSMP)
+i) Phenylketonuria (PKU)
+ii) Non-PKU hyperphenylalaninemia conditions
+iii) Maple Syrup Urine Disease (MSUD)
+iv) Tyrosinemia type 1 and 2
+v) Homocystinuria
+vi) Urea Cycle Enzyme defects
+vii) Glutaric Aciduria type 1 and 2
+viii) Methyl Malonic Acidemia
+ix) Propionic Acidemia
+x) Isovaleric Acidemia
+xi) Leucine sensitive hypoglycemia
+xii) Galactosemia
+xiii) Glucose galactose malabsorbtion
+xiv) Severe Food protein allergy
+b) Disorders that are amenable to other forms of therapy (hormone/ specific drugs)
+i) NTBC for Tyrosinemia Type 1
+ii) Osteogenes isImperfecta – Bisphosphonates therapy
+iii) Growth Hormone therapy for proven GH deficiency, Prader Willi
+Syndrome, Turner syndrome and Noonan syndrome.
+iv) Cystic Fibrosis- Pancreatic enzyme supplement
+v) Primary Immune deficiency disorders -Intravenous immunoglobulin and
+sub cutaneous therapy (IVIG) replacement eg. X-linked
+agammablobulinemia etc.
+14
+
+vi) Sodium Benzoate, arginine, citrulline, phenylacetate (Urea Cycle
+disorders), carbaglu, Megavitamin therapy (Organic acidemias,
+mitochondrial disorders)
+vii) Others - Hemin (Panhematin) for Acute Intermittent Porphyria, High
+dose Hydroxocobalamin injections (30mg/ml formulation – not
+available in India and hence expensive if imported)
+viii) Large neutral aminoacids, mitochondrial cocktail therapy,
+Sapropterin and other such molecules of proven clinical management
+in a subset of disorders
+Group 3: Diseases for which definitive treatment is available but challenges are to
+make optimal patient selection for benefit, very high cost and lifelong therapy.
+3a) Based on the literature sufficient evidence for good long-term outcomes exists for
+the following disorders
+1. Gaucher Disease (Type I & III {without significant neurological impairment})
+2. Hurler Syndrome [Mucopolysaccharisosis (MPS) Type I] (attenuated forms)
+3. Hunter syndrome (MPS II) (attenuated form)
+4. Pompe Disease (Both infantile & late onsetdiagnosed early before
+development of complications)
+5. Fabry Disease diagnosed before significant end organ damage.
+6. MPS IVA before development of disease complications.
+7. MPS VI before development of disease complications.
+8. DNAase for Cystic Fibrosis.
+3b) For the following disorders for which the cost of treatment is very high and either
+long term follow up literature is awaited or has been done on small number of
+patients
+1. Cystic Fibrosis (Potentiators)
+15
+
+2. Duchenne Muscular Dystrophy (Antesensce oligoneucletides, PTC)
+3. Spinal Muscular Atrophy (Antisense oligonucleotides both intravenous & oral
+& gene therapy)
+4. Wolman Disease
+5. Hypophosphatasia
+6. Neuronal ceroid lipofuschinosis
+6.3. The list of diseases under Group 1, Group 2 and Group 3 are not exhaustive and will be
+reviewed periodically based on updated scientific data by the Technical Committee.
+7. Policy Direction
+The policy aims at lowering the incidence and prevalence of rare diseases based
+on an integrated and comprehensive preventive strategy encompassing awareness
+generation, premarital, post-marital, pre-conception and post-conception screening and
+counselling programmes to prevent births of children with rare diseases, and within the
+constraints on resources and competing health care priorities, enable access to
+affordable health care to patients of rare diseases which are amenable to one-time
+treatment or relatively low cost therapy.
+Considering the limited data available on rare diseases, and in the light of
+competing health priorities, the focus would be on prevention of rare diseases as a
+priority for all the three groups of rare diseases identified by Experts. Public Health and
+hospitals being a State subject, the Central Government would encourage & support the
+States in their endeavour towards screening and prevention of rare diseases through
+Centres of Excellence under Rare Disease Policy and Nidan Kendras under Department of
+Biotechnology.
+16
+
+8. Prevention & Control of Rare Diseases:
+8.1 Capacity building of health professionals
+The Central Government will work with the State governments to build capacity of health
+professionals at various levels. The content of such capacity building would be based on
+the roles of various health professionals. The Centres of Excellence would develop
+Standard Operating Protocols to be used at various levels of care for patients with rare
+diseases to improve early diagnosis, better care coordination and quality of life.
+8.2 Prevention at different levels
+Though in the last two decades, due to advancement in technologies, understanding of
+the pathophysiological mechanisms of rare genetic disorders has somewhat improved,
+yet the treatment modalities are few and the available therapies may not lead to “cure’.
+More importantly, these are exorbitantly costly and not universally available &
+accessible. Accordingly, prevention needs to be the focus for all genetic disorders. The
+prevention of genetic disorders can be done at multiple levels. For application of these
+strategies, the first step is to build the capacity of health professionals and increase
+awareness in the population at large about the prevalence of such diseases and
+prevention measures. Frontline workers will be adequately capacitated for screening of
+rare diseases. Adequate IEC material will be designed and made available across multiple
+levels of the health care pyramid as this forms a basic pillar of tackling the issue of limited
+awareness.
+8.2.1 : Primary Prevention: This aims at preventing the occurrence of the disease, i.e.,
+preventing birth of an affected child. Though not always feasible, this strategy yields the
+highest returns in terms of decreasing the incidence & prevalence of rare disorders in the
+population in the long run. Some of the strategies can be as follows:
+Examples include avoidance of pregnancy in advanced age, or any other rare monogenic
+disorder by not marrying a carrier, carrier couples not reproducing etc., but these are not
+feasible options in the real world scenario. So in most situations the feasible preventive
+17
+
+strategy is secondary prevention. However, a simple checklist will be made available to
+primary health care providers in the health and wellness clinics to identify a couple at risk
+based on disease in a previous sib or family history of that disorder.
+8.2.2 : Secondary prevention: This strategy focuses on avoiding the birth of affected fetus
+(prenatal screening and prenatal diagnosis), early detection of the disorders, appropriate
+medical intervention to ameliorate or minimize the manifestations (newborn screening).
+a) Prenatal screening: The common screening methods presently recommended for
+all pregnancies include biochemical screening and ultrasonography for
+chromosomal disorders like Down syndrome etc. and ultrasonography for other
+structural defects. In the context of rare diseases, objective of the prenatal
+screening and diagnosis is to identify the high risk mothers for having an affected
+fetus with a rare disease. These mothers can be identified based on the family
+history (previous affected child or affected relative with a known or suspected
+genetic disorder). Based on the suspected disease a targeted screening of the
+affected child or couple for a specific disorder or a carrier testing for monogenic
+disorders using next generation sequencing technique can be offered, the latter
+being presently expensive.
+b) Prenatal diagnosis by invasive testing (e.g., by Chorionic villus sampling and
+amniocentesis): is possible for any single-gene disorder if the disease causing
+variant in the gene/enzyme defect is known and for any chromosomal abnormality.
+Most common indications are known single gene disorders or chromosomal
+abnormality in a previous affected child in the family. These tests can also be
+offered if the married couple is found to be carrier for any single gene disorder and
+mutations have been identified in the couple. Now a day, prenatal diagnosis for
+above mentioned disorders are widely available in India at many institutions. The
+invasive procedures are performed by obstetricians and fetal
+18
+
+medicine experts. These procedures, however, carry a small risk of fetal loss which
+is very low if done by experienced specialists. This has to be explained to the family
+before the procedure. Cost would primarily depend on the type of the test to be
+performed on the sample. If the fetus is found to be affected, the couple has the
+option for termination of pregnancy, the legal age of which in India has been
+increased to 24 weeks of pregnancy.
+c) Newborn screening(NBS): is the best example of secondary prevention in which the
+babies are screened within few days of birth before symptoms of the disease
+manifest and treatment is initiated which prevents morbidity and mortality. In the
+developed world NBS is being offered for many rare disorders particularly the
+treatable ones (e.g., LSDs, SCID) apart from the common disorders.
+d) Early postnatal diagnosis and treatment: before development of severe
+manifestations /complications which are irreversible is also included in secondary
+prevention for disorders amenable to therapy which would require increasing
+awareness and better availability of diagnostics. Timely referral of the suspected
+patients & their families to appropriate facilities that are equipped to make a
+correct diagnosis and where indicated, initiate treatment is the key. Genetic testing
+will also be augmented by laboratories under the National Genomics Core funded
+by the Department of Biotechnology and Institute of Genomics and Integrative
+Biology (IGIB) & Centre for Cellular and Molecular Biology (CCMB) under CSIR.
+8.2.3 : Tertiary prevention refers to provision of better care and medical rehabilitation to
+those rare disease patients who present at an advanced stage of the disease. It
+encompasses providing best supportive care to the affected patients with various rare
+disorders including the ones for which no specific treatment is available. This would
+improve quality of life of affected individuals and families. Supportive care includes
+developmental assessment and intervention including early stimulation and behavioural
+19
+
+intervention, physical therapy and rehabilitation, provision of visual and hearing aids and
+above all emotional and psychological support to affected individuals and families.
+8.2.4 : Optimal screening and diagnosis strategy: Considering the competing priorities
+within available resources, universal screening of all pregnancies and/or all newborns in
+the country for all rare disorders is not feasible. The policy recommends a screening and
+diagnostic strategy wherein those pregnant women in whom there is a history of a child
+born with a rare disease and that rare disease diagnosis has been confirmed, would be
+offered prenatal screening test(s) through amniocentesis and / or chorionic villi sampling.
+This strategy is in sync with the policy direction of reducing the incidence of rare diseases
+in the population. In cases where, the diagnosis could not be established during the
+prenatal period, it would be imperative to offer to the newborn or the infant as the case
+may be and would include newborn screening for (a) small molecule Inborn Errors of
+Metabolism by liquid chromatography – tandem mass spectrometry (LC-MS/MS), (b)
+diagnosis of SCID by T cell receptor excision circles (TREC) and (c) diagnosis of lysosomal
+storage disorders (LSDs) by microfluids / LC-MS/ MS. (d) diagnosis of disorders by newer
+but economical molecular diagnostic platforms.
+9. Centres of Excellence (COE) and Nidan Kendras
+9.1 The Government will notify selected Centres of Excellence, which will be premier
+Government tertiary hospitals with facilities for diagnosis, prevention and treatment of
+rare diseases. To begin with, the following institutes would be notified as Centers of
+Excellence for Rare Diseases:
+a) All India Institute of Medical Sciences, New Delhi
+b) Maulana Azad Medical College, New Delhi
+c) Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow
+d) Post Graduate Institute of Medical Education and Research, Chandigarh
+e) Centre for DNA Fingerprinting & Diagnostics with Nizam’s Institute of Medical
+Sciences, Hyderabad
+f) King Edward Medical Hospital, Mumbai
+20
+
+g) Institute of Post-Graduate Medical Education and Research, Kolkata
+h) Center for Human Genetics (CHG) with Indira Gandhi Hospital, Bengaluru
+However, more Centres of Excellence can be added for regional outreach if they are
+found to be suitable in terms of infrastructure and human resources based on
+recommendations of technical committee.
+9.2 The responsibilities and activities of the COEs would be as follows:
+ Education & Training at all levels
+ Screening – Antenatal, neonatal (specified disorders), High risk screening
+(Both antenatal & in newborns and children)
+ Diagnostics- Cytogenetic, molecular, Metabolic
+ Prevention by prenatal screening &diagnosis
+ Research in the area of low cost diagnostics & therapeutics.
+ Treatment of rare diseases.
+9.3 The proposed COEs shall be given one-time financial support up to a ceiling of Rs 5
+crore for procurement of equipment as per individual centers need for strengthening
+patient care services for screening, diagnosis and prevention (prenatal diagnosis) of rare
+diseases based on a gap analysis. The list of equipments which are likely to be useful for
+these activities is annexed.
+9.4 These Centre of Excellence will take the required decision for treatment and fund
+allocation on rare diseases cases within 02 weeks of receiving the fresh application.
+9.5 Nidan Kendras: Nidan Kendras have been set up by Department of Biotechnology (DBT)
+under Unique Methods of Management and treatment of Inherited Disorders (UMMID)
+project for genetic testing and counseling services. These Nidan Kendras will be performing
+screening, genetic testing and counseling for rare diseases. Nidan Kendras possessing the
+facility for treatment may do so under the guidance and supervision of a CoE.
+21
+
+List of Nidan Kendras is given below:
+ Lady Hardinge Medical College (LHMC), Delhi
+ Nizam’s Institute of Medical Sciences (NIMS), Hyderabad, Telangana
+ All India Institute of Medical Sciences (AIIMS), Jodhpur
+ Army Hospital Research & Referral, Delhi
+ Nil Ratan Sircar (NRS) Medical College and Hospital, Kolkata
+Currently Nidan Kendras/Mentor Institutes are supporting aspirational districts for
+screening of rare diseases. List of aspirational districts covered under the programme is
+given below:
+Name of the Mentor Institute Aspirational District State
+LHMC, New Delhi Mewat Haryana
+CDFD, Hyderabad Yadgir Karanataka
+AIIMS, New Delhi Haridwar Uttarakhand
+CMC, Vellore Washim Maharashtra
+MAMC, New Delhi Ranchi / Bokaro Jharkhand
+SGPGIMS, Lucknow Shrawasti Uttar Pradesh
+NIIH (KEM hospital campus), Mumbai Nandurbar Maharashtra
+More aspirational districts will be covered in future either by setting up of more Nidan
+Kendras or by adopting more than one aspirational districts by existing Nidan Kendras.
+10. Government of India support in treatment
+The following initiatives shall be taken for patients of Rare Diseases:
+i. Financial support upto Rs. 20 lakh under the Umbrella Scheme of Rashtriya
+Arogaya Nidhi shall be provided by the Central Government for treatment, of
+those rare diseases that require a one-time treatment (diseases listed under
+Group 1). Beneficiaries for such financial assistance would not be limited to BPL
+families, but extended to about 40% of the population, who are eligible as per
+22
+
+norms of Pradhan Mantri Jan Arogya Yojana, for their treatment in Government
+tertiary hospitals only.
+ii. State Governments can consider supporting patients of such rare diseases that
+can be managed with special diets or hormonal supplements or other relatively
+low cost interventions (Diseases listed under Group 2).
+iii. Keeping in view the resource constraints, and a compelling need to prioritize the
+available resources to get maximum health gains for the community/population,
+the Government will endeavour to create alternate funding mechanism through
+setting up a digital platform for voluntary individual and corporate donors to
+contribute to the treatment cost of patients of rare diseases.
+iv. Voluntary crowd-funding for treatment
+Keeping in view the resource constraint and competing health priorities, it will be
+difficult for the Government to fully finance treatment of high cost rare diseases.
+The gap can however be filled by creating a digital platform for bringing together
+notified hospitals where such patients are receiving treatment or come for
+treatment, on the one hand, and prospective individual or corporate donors
+willing to support treatment of such patients. The notified hospitals will share
+information relating to the patients, diseases from which they are suffering,
+estimated cost of treatment and details of bank accounts for donation/
+contribution through online system. Donors will be able to view the details of
+patients and donate funds to a particular hospital. This will enable donors from
+various sections of the society to donate funds, which will be utilized for
+treatment of patients suffering from rare diseases, especially those under
+Group 3. Conferences will be organised with corporate sector companies to
+motivate them to donate generously through digital platform. Ministry of
+Corporate Affairs will be requested to encourage PSUs and corporate houses to
+contribute as per the Companies Act as well as the provisions of the Companies
+(Corporate Social Responsibility Policy) Rules, 2014 (CSR Rules). Promoting health
+23
+
+care including preventive health care is included in the list in the Schedule for CSR
+activities.
+Treatment cost of the patient will be first charge on this fund. Any leftover fund
+after meeting treatment cost can be utilized for research purpose also.
+11. Development of manpower
+Following initiatives will be taken for strengthening of manpower:
+ State Governments will be requested to create Department of Medical
+Genetics at least in one medical college in the State for imparting education
+and increasing awareness amongst health care professionals.
+ Services of Nidan Kendras set up under Department of Biotechnology will also
+be utilised for training of medical practitioners and staff for screening for rare
+diseases.
+12. Constitution of Consortium
+(a) Consortium of Centres of Excellence so created will synchronize prevention
+and treatment efforts. AIIMS, Delhi will be the nodal hospital to coordinate with other
+Centres of Excellence for various activities relating to prevention and treatment of rare
+disease.
+(b) National Consortium for Research and Development on therapeutics for Rare
+Diseases: National Consortium can be provided with an expanded mandate to include
+research & development, technology transfer and indigenization of therapeutics for rare
+diseases. It will be convened by Department of Health Research (DHR) with ICMR as a
+member.
+24
+
+13. Increasing affordability of drug related to rare diseases
+(a) Research & Development activities on rare diseases
+Indian Council of Medical Research (ICMR), Department of Biotechnology, Department of
+Pharmaceuticals, Department of science and Technology and Council of Scientific &
+Industrial Research will be requested to promote research and development in the field
+of rare diseases for diagnosis and treatment of rare diseases.
+Creation of an integrated research pipeline to start the development of new drugs, for
+which pharmaceutical companies would be encouraged and research organizations as
+well as funding agencies would be involved in this important endeavour. Research for
+repurposing the drugs and use of biosimilar would be encouraged. Approval for new
+drugs and decision related to trials will continue to be provided by Drugs Controller
+General of India under the New Drugs and Clinical Trial Rules, 2019.
+(b) Ministry of Finance will be requested for reduction in custom duties on import of
+medicines related to rare diseases.
+(c) Ministry of Chemicals and Fertilizers, Department of Pharmaceutical (DoP), National
+Pharmaceutical Pricing Authority (NPPA) shall take measures to document and make
+publicly available the prices of drugs for rare diseases and work towards affordability of
+drugs for rare diseases, in consultation with the Ministry of Health and Family Welfare.
+(d) Measures for creating conducive environment for indigenous manufacturing of drugs
+for rare diseases would be taken. Department of Pharmaceuticals, Department for
+Promotion of Industry and Internal Trade (DPIIT) will be requested to promote local
+development and manufacture of drugs for rare diseases at affordable prices and take
+legal/legislative measures for creating conducive environment for indigenous
+manufacturing of drugs for rare diseases at affordable prices. PSUs would be encouraged
+for local manufacturing of drugs for rare diseases.
+25
+
+14. Implementation strategy
+Keeping in view lack of availability of epidemiological data on rare diseases,
+constraints on resources and competing health priorities, the focus of the Government
+will be on the following:
+i. The Government will have a hospital based National Registry for Rare Diseases at
+ICMR with the objective of creating a database of various rare diseases. Steps
+have already been taken in this direction by ICMR. Over a period of time, the
+registry is expected to yield information on hospital based data and disease
+burden.
+ii. The Government shall take steps to create awareness amongst all the levels of
+health care personnel as well as general public towards the rare diseases. This will
+encourage people to seek pre-marital genetic counselling, identification of high-
+risk couples & families and also result in prevention of births as well as early
+detection of cases of rare diseases. Simple standard protocols/algorithms would
+be developed for screening and diagnosis in order to avoid missing cases and
+provide best possible management.
+iii. Public Health and hospitals being a State subject, the Central Government shall
+encourage and support the State Governments in implementation of a targeted
+preventive strategy.
+iv. The Government shall provide financial assistance upto Rs. 20.00 lakh (under the
+Umbrella Scheme of Rashtriya Arogya Nidhi) to the entitled population, as per
+PMJAY norms, for their treatment in Government tertiary hospital, for rare
+diseases amenable to one-time treatment (identified under Group 1).
+v. The State Governments may undertake treatment of disorders managed with
+special dietary formulae or food for special medical purposes (FSMP) and
+Disorders that are amenable to other forms of therapy (hormone/ specific drugs)-
+diseases covered under Group 2.
+vi. The Government shall notify selected Centres of Excellence at premier government
+hospitals for comprehensive management of rare diseases. The Centres of
+Excellence will be provided one time grant subject to maximum of Rs. 5 crore
+26
+
+each for infrastructure development for screening, tests, treatment, if such
+infrastructure is not available.
+vii. The Government shall create a digital platform for bringing together notified
+Centres of Excellence where patients of rare diseases can receive treatment or
+come for treatment, on the one hand and prospective voluntary individual or
+corporate donors willing to support treatment of such patients. Funds received
+through this mechanism will be utilized for treatment of patients suffering from
+rare diseases.
+viii. In order to maintain transparency of transactions in provision of funding under
+RAN/ crowd funding etc., the Centres of Excellence receiving the funds should
+have linkages with the ICMR registry.
+ix. The Government shall facilitate the creation of an enabling environment that
+promotes research & development of diagnostic and therapeutic modalities
+within the Country. Consortium of Centres of Excellence shall be created so that
+research efforts are synchronized. AIIMS, Delhi will be nodal hospital to
+coordinate with other Centres of Excellence for various activities.
+x. State Governments will be requested to create Department of Medical Genetics
+at least in one medical college in the State for imparting education and increasing
+awareness amongst health care professionals. This will strengthen manpower
+base in the country for managing Rare Diseases.
+xi. Department of Pharmaceuticals, Department for Promotion of Industry and
+Internal Trade (DPIIT) will be requested to promote local development and
+manufacture of drugs for rare diseases by public and private sector
+pharmaceutical companies at affordable prices and take legal/legislative
+measures for creating conducive environment for indigenous manufacturing of
+drugs for rare diseases at affordable prices. PSUs could also be encouraged for
+local manufacturing of drugs for rare diseases.
+xii. Ministry of Finance will be requested for reduction in custom duties on import of
+medicines related to rare diseases.
+*****
+27
+
+Annexure
+Suggestive List of Equipment, which may be required for strengthening of patient services at
+Centres of Excellence for screening, diagnosis and prevention (prenatal diagnosis) of rare
+disease.
+ Cytogenetic workstation with software with Fluorescent in situ hybridization
+ Multimode readers for both ELISA and fluorescent enzyme assays
+ DNA Sequencer with 8 capillary sequencer
+ Mi Seq next generation sequencer
+ Next Seq next generation sequencer
+ Liquid chromatography Mass Spectroscopy (Tandem Mass Spectrometry)
+ HPLC (quarternery pump high Performance Liquid Chromatography)
+ GCMS (gas chromatography Mass Spectrometry)
+ Microfluidics platform
+ Real Time PCR (96 well format) for real time polymerase chain reaction
+ High throughput rNA and DNA extraction systems
+ Quality Check stations and microtips station
+ Chromosomal Micro array platform
+ Newborn Screening platfrom for fluroimmunoassay
+ Antenatal screening equipment (one stop screening for pre-ecclampsia and chromosomal
+aneuploidies)
+ Bio-informatics set up for Nest generation data analysis using High End desktop
+ Eonis tm system for DNA based newborn screening for rare disorders
+ Capillary Electrophoresis system for newborn screening of hemoglobinopathies
+ Upgradation of existing equipment’s may also be considered to save costs benefiting a larger
+section
+ Any other with permission of the MOHFW with proper justification and as decided by a
+technical committee of experts set up by MoHFW.
+28

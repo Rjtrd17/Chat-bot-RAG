@@ -1,0 +1,188 @@
+No. 238/78/2017-Wind
+Ministry of New & Renewable Energy
+(Wind Energy Division)
+Block No.14, CGO Complex,
+Lodhi Road, New Delhi-110003
+Dated: 14 May 2018
+National Wind-Solar Hybrid Policy
+Ministry of New & Renewable Energy issued draft National Wind-solar
+Hybrid Policy in June 2016. The Policy has been finalized after having detailed
+consultation with stakeholders.
+2. The National Wind-solar Hybrid Policy is hereby released by the Ministry
+for information of all stakeholders and general public.
+[J. K. Jethani]
+Scientist-E
+
+NATIONAL WIND-SOLAR HYBRID POLICY
+1. INTRODUCTION
+1.1 India has set an ambitious target of reaching 175 GW of installed
+capacity from renewable energy sources by the year 2022, which includes
+100 GW of solar and 60 GW of wind power capacity. Various policy
+initiatives have been taken to achieve this target. At the end of 2017-18
+the total renewable power installed capacity in the country was almost 70
+GW.
+1.2 Solar and wind power being variable in nature pose certain
+challenges on grid security and stability. Studies revealed that in India
+solar and wind resources are complementary to each other and
+hybridization of these two technologies would help in minimizing the
+variability apart from optimally utilizing the infrastructure including land
+and transmission system.
+1.3 Superimposition of wind and solar resource maps shows that there
+are large areas where both wind and solar have high to moderate
+potential.
+1.4 The existing wind farms have scope of adding solar PV capacity
+and similarly there may be wind potential in the vicinity of existing solar
+PV plant.
+1.5 Suitable policy interventions are therefore, required not only for new
+wind-solar hybrid plants but also for encouraging hybridization of existing
+wind and solar plants.
+
+1.6 To smoothen the wind solar hybrid power further, appropriate
+capacity of battery storage may also be added to the project.
+2. AIMS AND OBJECTIVE
+2.1 The main objective of the Policy is to provide a framework for
+promotion of large grid connected wind-solar PV hybrid system for optimal
+and efficient utilization of transmission infrastructure and land, reducing
+the variability in renewable power generation and achieving better grid
+stability.
+2.2 Policy also aims to encourage new technologies, methods and way-
+outs involving combined operation of wind and solar PV plants.
+3. PERIOD OF ENFORCEMENT
+This policy will remain in force unless withdrawn, modified or superseded
+by the Government. The Government will undertake a review of this Policy
+as and when required.
+4. WIND-SOLAR HYBRID SYSTEMS
+4.1 Under the category of wind-solar hybrid power plants, Wind Turbine
+Generators (WTGs) and Solar PV systems will be configured to operate
+at the same point of grid connection. There can be different approaches
+towards integrating wind and solar depending upon the size of each of the
+source integrated and the technology type.
+4.2 In case of fixed speed wind turbines connected to grid using an
+induction generator, the integration can be on the HT side at the AC output
+bus. However, in case of variable speed wind turbines deploying inverters
+
+for connecting the generator to the grid, the wind and the Solar PV system
+can be connected to the intermediate DC bus of the AC-DC-AC converter.
+4.3 The second important aspect would be related to the sizing – which
+would depend on the resource characteristics. In order to achieve the
+benefits of hybrid plant in terms of optimal and efficient utilization of
+transmission infrastructure and better grid stability by reducing the
+variability in renewable power generation, in the locations where the wind
+power density is quite good, the size of the solar PVs capacity to be added
+as the solar-hybrid component could be relatively smaller. On the other
+hand, in case of the sites where the wind power density is relatively lower
+or moderate, the component of the solar PV capacity could be relatively
+on a higher side.
+However, a wind-solar plant will be recognized as hybrid plant if the rated
+power capacity of one resource is at least 25% of the rated power capacity
+of other resource.
+5. IMPLEMENTATION STRATEGY
+5.1 The implementation of wind solar hybrid system will depend on
+different configurations and use of technology.
+a. Wind-Solar Hybrid- AC integration:
+In this configuration the AC output of the both the wind and solar
+systems is integrated either at LT side or at HT side. In the later
+case both system uses separate step-up transformer and HT output
+of both the system is connected to common AC Bus-bar. Suitable
+control equipment are deployed for controlling the power output of
+hybrid system.
+
+b. Wind-Solar Hybrid- DC integration:
+DC integration is possible in case of variable speed drive wind
+turbines using convertor-inverter. In this configuration the DC output
+of the both the wind and solar PV plant is connected to a common
+DC bus and a common invertors suitable for combined output AC
+capacity is used to convert this DC power in to AC power.
+5.2 New Wind-Solar Hybrid Plants:
+New wind-solar hybrid projects shall be encouraged with following
+provisions:-
+i. The hybrid power generated from the wind-solar hybrid project may
+be used for (a) captive purpose; (b) sale to third party through open
+access; (c) sale to the distribution company (ies) either at tariff
+determined by the respective SERC or at tariff discovered through
+transparent bidding process; and (d) sale to the distribution
+company (ies) at APPC under REC mechanism and avail RECs.
+ii. The power procured from the hybrid project may be used for
+fulfilment of solar RPO and non-solar RPO in the proportion of rated
+capacity of solar and wind power in the hybrid plant respectively.
+iii. For procurement of hybrid power through transparent bidding
+process different parameters may be used. Parameters that may be
+considered for bidding could be capacity delivered at grid interface
+point, effective CUF and unit price of electricity.
+iv. Government entities may invite bids for new hybrid plants keeping
+qualifying criteria such as those discussed in iii above, the tariff
+being the main criteria for selection.
+
+5.3 Hybridisation of existing wind/solar PV plants:
+Existing wind or solar power projects, willing to install solar PV plant
+or WTGs respectively to avail benefit of hybrid project, may be allowed to
+do so with following Conditions:
+i. No additional connectivity/transmission capacity charges shall be
+levied by the respective transmission entity for hybridisation at
+existing wind/solar PV plants if already granted transmission
+connectivity/ access is being used. Transmission charges may be
+applicable for the additional transmission capacity/ access granted
+as per prevailing regulation.
+ii. In case capacity margins are available at the receiving transmission
+sub-station of respective transmission entity, at which the existing
+wind/solar projects is connected, additional transmission
+capacity/access may be allowed subject to its technical feasibility.
+In such a case, any transmission augmentation required up to the
+receiving transmission sub-station will be the responsibility of project
+developer.
+iii. In case of AC integration assessment of solar and wind power
+injected from the hybrid project in to the grid will be worked out by
+apportioning the reading of main meter installed at the receiving
+station on the basis of readings of ABT meters installed on LT or HT
+side of the wind and solar PV plant as the case may be.
+iv. In case of DC integration assessment of solar and wind power
+injected from the hybrid project in to the grid will be worked out by
+apportioning the reading of main meter installed at the receiving
+station on the basis of readings of DC meters installed at the DC
+output of the wind and solar PV plant. Till such time the methodology
+
+for DC metering of hybrid systems and standards & regulations are
+framed for DC meters, only AC integration will be permitted.
+v. The additional solar/wind power generated from the hybrid project
+may be used for (a) captive purpose; (b) sale to third party through
+open access; (c) sale to the distribution company (ies) either at tariff
+determined by the respective SERC or at tariff discovered through
+transparent bidding process; and (d) sale to the distribution
+company (ies) at APPC under REC mechanism and avail RECs. For
+bidding purpose, State or Central entities may bid for hybridization
+of existing projects connected to InSTS or ISTS as the case may be.
+vi. Government entities may invite bids for hybridisation of existing wind
+and solar plants with tariff being the main criteria for selection.
+vii. The additional solar/wind power procured from hybrid project shall
+be used for fulfilment of solar/non-solar RPO as the case may be.
+5.4 Battery Storage:
+Battery storage may be added to the hybrid project (i) to reduce the
+variability of output power from wind solar hybrid plant; (ii) providing higher
+energy output for a given capacity (bid/ sanctioned capacity) at delivery
+point, by installing additional capacity of wind and solar power in a wind
+solar hybrid plant; and (iii) ensuring availability of firm power for a
+particular period.
+Bidding factors for wind solar hybrid plants with battery storage may
+include minimum firm power output throughout the day or for defined
+hours during the day, extent of variability allowed in output power, unit
+price of electricity, etc.
+
+6. REGULATORY REQUIREMENTS
+The Central Electricity Authority and CERC shall formulate necessary
+standards and regulations including metering methodology and
+standards, forecasting and scheduling regulations, REC mechanism,
+grant of connectivity and sharing of transmission lines, etc. for wind-solar
+hybrid systems.
+7. STANDARD AND QUALITY
+For wind turbines, solar modules and balance of systems, the technical
+guidelines issued by the Ministry from time to time for grid connected
+systems will be followed.
+8. INCENTIVES
+The Government will encourage development wind-solar hybrid systems
+through different schemes and programmes. All fiscal and financial
+incentives available to wind and solar power projects will also be made
+available to hybrid projects.
+9. RESEARCH AND DEVELOPMENT
+Government will support the technology development projects in the field
+of wind-solar hybrid systems. Besides, support will be provided for
+development of standards for hybrid systems.

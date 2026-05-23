@@ -1,0 +1,836 @@
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:2)(cid:7)(cid:8) (cid:9)(cid:10)(cid:11)(cid:2)(cid:6)(cid:8) (cid:12)(cid:10)(cid:2)(cid:6)(cid:13)(cid:14)(cid:5)(cid:10)(cid:3)(cid:8) (cid:15)(cid:5)(cid:7)(cid:4)(cid:16)(cid:17)
+BACKGROUND
+1. India is poised for rapid economic growth. Such future growth will largely come from
+the secondary and tertiary sectors of the economy, i.e., the industrial and service sectors.
+Since economic activities in these sectors primarily take place in urban areas, the state of
+our towns and cities is crucial to India’s future growth.
+2. Further, India’s urban population is currently around 30% of its total population.
+Experience across the world has been that as economies grow, rapid urbanization takes
+this proportion to over 60% before it begins to stabilize. As such, it is projected that India’s
+urban population would grow to about 473 million in 2021 and 820 million by 2051, as
+against only 285 million in 2001. Hence, cities must not only meet the mobility needs of
+the current population but also provide for the needs of those yet to join the urban population.
+In this context, the Government of India has launched the National Urban Renewal Mission
+(NURM) that inter-alia seeks to bring about comprehensive improvements in urban
+infrastructure, committing substantial funds for this purpose and requiring a series of reforms
+that would make the investments sustainable.
+3. For urban areas to be able to support the required level of economic activity, they
+must provide for the easy and sustainable flow of goods and people. Unfortunately, however,
+such flow of goods and people has been facing several problems. Most prominent among
+them have been the following:
+• Accessing jobs, education, recreation and similar activities is becoming
+increasingly time
+consuming. Billions of man
+hours are lost with people
+“stuck in traffic”. The
+primary reason for this has
+been the explosive growth
+in the number of motor
+vehicles, coupled with
+limitations on the amount of
+road space that can be
+provided. For example, on
+an average, while the
+population of India’s six
+1
+
+major metropolises increased by about 1.9 times during 1981 to 2001, the number
+of motor vehicles went up by over 7.75 times during the same period.
+• The cost of travel, especially for the poor, has increased considerably. This is
+largely because the use of cheaper non-motorised modes like cycling and walking
+has become extremely risky, since these modes have to share the same right of
+way with motorized
+modes. Further, with
+population growth, cities
+have tended to sprawl and
+increased travel distances
+have made non-motorized
+modes impossible to use.
+This has made access to
+livelihoods, particularly for
+the poor, far more difficult.
+• Travel in the city has
+become more risky with accident rates having gone up from 1.6 lakh in 1981 to
+over 3.9 lakh in 2001. The number of persons killed in road accidents has also
+gone up from 28,400 to over 80,000 during the same period. This again has
+tended to impact the poor more severely as many of those killed or injured tend
+to be cyclists, pedestrians or pavement dwellers.
+• Increased use of personal vehicles has led to increased air pollution.
+4. Unless the above problems are remedied, poor mobility can become a major
+dampener to economic growth and cause the quality of life to deteriorate. A policy is,
+therefore, needed on the approach to dealing with this rapidly growing problem as also
+offer a clear direction and a framework for future action.
+VISION
+• To recognize that people occupy center-stage in our cities and all plans would be
+for their common benefit and well being
+• To make our cities the most livable in the world and enable them to become the
+“engines of economic growth” that power India’s development in the 21st century
+• To allow our cities to evolve into an urban form that is best suited for the unique
+geography of their locations and is best placed to support the main social and
+economic activities that take place in the city.
+2
+
+OBJECTIVES
+5. The objective of this policy is to ensure safe, affordable, quick, comfortable, reliable
+and sustainable access for the growing number of city residents to jobs, education, recreation
+and such other needs within our cities. This is sought to be achieved by:
+• Incorporating urban transportation as an important parameter at the urban
+planning stage rather than being a consequential requirement
+• Encouraging integrated land use and transport planning in all cities so that travel
+distances are minimized and access to livelihoods, education, and other social
+needs, especially for the marginal segments of the urban population is improved
+• Improving access of business to markets and the various factors of production
+• Bringing about a more equitable allocation of road space with people, rather
+than vehicles, as its main focus
+• Encourage greater use of
+public transport and non-
+motorized modes by offering
+Central financial assistance
+for this purpose
+• Enabling the establishment of
+quality focused multi-modal
+public transport systems that
+are well integrated, providing
+seamless travel across
+modes
+• Establishing effective regulatory and enforcement mechanisms that allow a level
+playing field for all operators of transport services and enhanced safety for the
+transport system users
+• Establishing institutional mechanisms for enhanced coordination in the planning
+and management of transport systems
+• Introducing Intelligent Transport Systems for traffic management
+• Addressing concerns of road safety and trauma response
+• Reducing pollution levels through changes in traveling practices, better
+enforcement, stricter norms, technological improvements, etc.
+3
+
+• Building capacity (institutional and manpower) to plan for sustainable urban transport
+and establishing knowledge management system that would service the needs of
+all urban transport professionals, such as planners, researchers, teachers, students,
+etc
+• Promoting the use of cleaner technologies
+• Raising finances, through innovative mechanisms that tap land as a resource, for
+investments in urban transport infrastructure
+• Associating the private sector in activities where their strengths can be beneficially
+tapped
+• Taking up pilot projects that demonstrate the potential of possible best practices
+in sustainable urban transport
+NEED FOR A NATIONAL POLICY
+6. Although the responsibility for
+management of urban areas (and
+thus urban transport) rests with the
+State governments, a Central policy
+is considered necessary as:
+• Several key agencies that
+would play an important
+role in urban transport
+planning work under the
+Central government, with
+no accountability to the
+State government
+• Several Acts and Rules, which have important implications in dealing with urban
+transport issues, are administered by the Central Government
+• A need exists to guide State level action plans within an overall framework.
+• The launching of the NURM has provided a timely platform for providing significant
+financial support from the Central Government for investments in urban transport
+infrastructure. As such, this offers an opportunity for a meaningful national policy
+that would guide Central financial assistance towards improving urban mobility.
+4
+
+• A need exists to build capacity for urban transport planning as also develop it as a
+professional practice.
+• A need exists to take up coordinated capacity building, research and information
+dissemination to raise the overall level of awareness and skills.
+REALIZING THE POLICY OBJECTIVES
+7. The objectives of this policy would be achieved through a multi-pronged approach that
+would revolve around the measures highlighted in the previous section. These are further
+elaborated in the sections that follow.
+Integrating land use and transport planning
+8. Cities in India vary considerably in terms of their population, area, urban form, topography,
+economic activities, income levels, growth constraints, etc. Accordingly, the design of the
+transport system will have to depend on these city specific features. Further, transport planning
+is intrinsically linked to land use planning and both need to be developed together in a
+manner that serves the entire population and yet minimizes travel needs. In short, an integrated
+master plan needs to internalize the features of sustainable transport systems. In developing
+such plans, attention should also be paid to channel the future growth of a city around a pre-
+planned transport network rather than develop a transport system after uncontrolled sprawl
+has taken place. Transport plans should, therefore, enable a city to take an urban form that
+best suits the geographical constraints of its location and also one that best supports the
+key social and economic activities of its residents. Unfortunately, however, transport planning
+has not received the extent of attention it should have in drawing up strategic development
+and land use plans.
+9. The Government of India would,
+therefore, promote the development of
+such integrated land use and transport
+plans for all cities. To enable this, all
+urban development and planning
+bodies in the States would be required
+to have in house transport planners
+as well as representation from
+transport authorities in their
+managements. The Government of
+India would extend support for the
+preparation of such integrated land
+use and transport plans, to the extent of 50% of the cost involved in developing such plans,
+provided the city also demonstrates its willingness to act in accordance with them. In order
+5
+
+to create models for possible learning and replication, the Government of India would fully
+support pilot studies in a few sample cities, of different characteristics and in different regions
+of the country. As part of this exercise, each city would also be encouraged to identify
+potential corridors for future development and then establish a transport system that would
+encourage growth around itself. For example, radial corridors emerging from the city and
+extending up to 20-30 kms could be reserved for future development. Such corridors would
+have to be protected from encroachment by putting up physical barriers along such reserved
+corridors and physically constructing roads on short stretches even before settlements come
+up. This would imply that stretches of the corridor would come up first in order to guide the
+location of the settlements and not allow undue sprawl to take place.
+10. A scheme already exists under which the Central Government provides partial financial
+support for traffic and transport studies in cities. This would be modified to enhance the
+extent of Central Government support and also make these studies more broad based to
+integrate transport planning with land use planning, keeping projected populations in mind.
+Equitable allocation of road space
+11. At present, road space gets
+allocated to whichever vehicle occupies
+it first. The focus is, therefore, the
+vehicle and not people. The result is that
+a bus carrying 40 people is allocated only
+two and a half times the road space that
+is allocated to a car carrying only one or
+two persons. In this process, the lower
+income groups have, effectively, ended
+up paying, in terms of higher travel time
+and higher travel costs, for the
+disproportionate space allocated to
+personal vehicles. Users of non-
+motorized modes have tended to be
+Is this the congestion problem everywhere??!!
+squeezed out of the roads on account of
+serious threats to their safety. If the focus of the principles of road space allocation were to be
+the people, then much more space would need to be allocated to public transport systems
+than is allocated at present.
+12. The Central Government would, therefore, encourage measures that allocate road space
+on a more equitable basis, with people as its focus. This can be achieved by reserving lanes
+and corridors exclusively for public transport and non-motorized modes of travel. Similarly
+lanes could be reserved for vehicles that carry more than three persons (popularly known as
+High Occupancy Vehicle Lanes). Past experience has been that such reserved lanes are not
+6
+
+respected by motorists and therefore lose meaning. In order to facilitate better enforcement
+of such lane discipline, suitable provisions would be introduced in the Motor Vehicles Act and
+other instrumentalities to enable stringent penalties for violation.
+Priority to the use of public transport
+13. It is well known that public
+transport occupies less road space
+and causes less pollution per
+passenger-km than personal
+vehicles. As such, public transport
+is a more sustainable form of
+transport. Therefore, the central
+government would promote
+investments in public transport as
+well as measures that make its use
+more attractive than in the past.
+Towards this end, the Central
+government would encourage all
+State capitals as well as other cities
+with a population of more than one
+million to start planning for high
+capacity public transport systems. In doing so, they should look at various proven
+technologies around the world, including the use of available waterways, They should
+adopt a technology that would best suit the city requirements in the next 30 years.
+Comprehensive city wide plans should be drawn up comprising trunk and feeder corridors
+as well as good integration with personal modes, suburban traffic, etc. High cost trunk
+route systems should, through appropriate hub-spoke arrangements be integrated with
+feeder systems that enable higher ridership on such trunk systems.
+14. In order to effectively promote such investments, the Central Government would:
+• Provide 50% of the cost of preparing comprehensive city transport plans and
+detailed project reports
+• Offer equity participation and/or viability gap funding to the extent of 20% of the
+capital cost of public transport systems
+• Offer 50% of the cost of project development whenever such projects are sought
+to be taken up through public-private partnerships, so that a sound basis for
+attracting private partners can be established. The remaining cost of such project
+development would have to come from the city development authority/State
+government and a project developer.
+15. Some allied issues that need to be addressed in this context are:
+7
+
+Quality and pricing of Public Transport
+16. So far, fares for public transport have been set on the premise that this mode of travel
+is used by the poor, who have no other means of meeting their travel needs. As such, fares
+have been kept low as a measure of social equity. This has resulted in most public transport
+systems being unable to recover their operating costs. It has, in fact, encouraged poorly
+operated systems that have been financially sustainable only through serious compromises
+on the quality of the service they render. In the present day context, however, public transport
+serves another social purpose. It helps reduce congestion and air pollution, if users of personal
+vehicles can be persuaded to shift to public transport. Their needs are, however, for improved
+quality and not so much for low fares. It is, therefore, necessary to think of different types of
+public transport services for different segments of commuters. Those who place a premium
+on cost are the poorest sections of society and need to be given affordable prices. The cost
+of providing public transport for them needs to be subsidized by other sections of society.
+However, there is another segment that values time saved and comfort more than price. This
+segment is comparatively better off and would shift to public transport if high quality systems
+are available to them. The cost of providing public transport to them need not be subsidized
+and can be met from the fare revenues. As such, the Central Government would encourage
+the provision of different levels of services – a basic service, with subsidized fares and a
+premium service, which is of high quality but charges higher fares and involves no subsidy.
+17. To facilitate this, the Central Government would offer support under the NURM for
+premium service infrastructure such as improved bus stations and terminals, improved
+passenger information systems, use of intelligent transport systems for monitoring and
+control, restructuring of State Transport Corporations, etc.
+18. To ensure that the fares charged are fair and reasonable, the Central government
+would require that a regulatory authority be set up by the State Government to, inter-alia,
+regulate the prices to be charged by different types of public transport services.
+Technologies for Public Transport
+19. There is a wide spectrum of
+public transport technologies. At one
+end are high capacity, but high cost,
+technologies like underground metro
+systems and at the other are low
+capacity bus systems running on a
+shared right of way. Within these
+extremes are a range of intermediate
+possibilities, such as buses on
+dedicated rights of way, elevated sky
+bus and monorail systems, electric
+8
+
+trolley buses, etc. While some of
+them are most effective over high
+density trunk corridors others prove
+useful as feeder systems or sub-
+systems that serve limited sub-
+areas within a city. Similarly, there
+are examples of available waterways
+being taken advantage of for public
+transport as also systems like
+ropeways that suit hilly terrains.
+While the high capacity rail systems
+and buses on shared rights of way
+are the only ones tried out in India,
+several of the others have proved
+successful in other parts of the
+world. Electric trolley buses have been running in San Francisco. New Bus Rapid Transit
+Systems (BRTS) have become very popular in cities like Bogota (Colombia) and Curritiba
+(Brazil).
+20. Each of these technologies has its unique characteristics and is best suited to a
+specific situation. Factors such as the urban form, terrain, availability of waterways, level of
+demand, direction and extent of sprawl, projections for future growth, extent of population
+density etc. are major determinants of the technology that should be chosen. The table at
+Attachment – I highlights the advantages and disadvantages of some of the available public
+transport technologies also indicating the technologies that best suit different local situations.
+While rail based systems seem to suit dense cities with limited sprawl and only a few spinal
+corridors, bus systems seem better where urban densities are lower and the city has spread
+over a large area. Given the wide
+range of possibilities, it is not
+possible to prescribe a particular
+technology in a generic policy and
+such a choice will have to be made
+as a part of city specific land use
+and transport plans. It would also
+depend on the kind of city that would
+need to evolve at the particular
+location. The Central Government
+would, therefore, encourage all
+proven technologies and not
+promote any specific technology. In
+order to facilitate the proper
+evaluation of all the available
+9
+
+technologies around the world, it would create a knowledge center that would provide the
+necessary information required for taking the right technological decisions for a specific city.
+Wherever necessary, support would be provided for techno-economic studies to be conducted
+by leading global consultants.
+Integrated public transport systems
+21. All cities have corridors that have varying densities of travel and hence need technologies
+that best match the level of demand on the corridor. This often requires different operators
+managing such systems. However, a good public transport system is one that is perceived
+by the user as a single system and allows seamless travel between one made and the other
+as also between systems managed by different operators. Such seamless interchange is
+possible if proper inter-change infrastructure is available and users are able to use a single
+ticket over all such systems. This also requires that a single agency takes responsibility for
+coordination so that there is a common approach to public transport planning and
+management.
+22. Accordingly, the Central government would expect that investments in public transport
+systems would also seek to ensure that such systems are well integrated and offer a
+seamless system to the users. Central government’s financial support would be contingent
+on appropriate authorities/entities being set up to ensure that a coordinated and integrated
+public transport system becomes available.
+Financing
+23. The Central Government would encourage high capacity public transport systems being
+set up through the mechanism of Special Purpose Vehicles (SPV) and would offer financial
+support either in the form of equity or one time viability gap financing, subject to a ceiling of
+20% of the capital cost of the project, after evaluating various parameters such as:
+• Extent of resources mobilized by the State government through exploitation of its
+land resources
+• Extent of resources likely from private participation
+• Institutional mechanisms set up by the State government to ensure a well
+coordinated public transport system
+• Willingness to divert funds from projects that add to road capacity towards public
+transit systems
+• Initiatives taken to promote non-motorized transport and improve safe access
+to public transport.
+10
+
+• Willingness to introduce premium public transport systems that are priced high
+but offer better quality with a view to limit the subsidy requirements in normal
+services.
+• Willingness to involve the private sector in operations under the overall supervision
+and coordination of a public agency
+• Willingness to price public transport systems in such a manner as to be financially
+sustainable at the operating stage or depend only marginally on public budgets
+24. The basic principle in financing such public transport systems would be that the
+government should provide the infrastructure but the users (direct and indirect beneficiaries
+within the city) must pay for the operating costs and the rolling stock.
+25. The Central government’s capital support would take the form of equity participation or
+one time viability gap funding and would be subject to a ceiling of 20% of the capital cost of
+the project. Preference will be given to those who are able to demonstrate additional resources
+for the project through dedicated taxes and innovative financing methods.
+Role of para-transit
+26. Para transit is normally expected to fulfill a need that neither public transport or personal
+vehicles are able to fulfill. They normally cater to a category of occasional trips such as trips
+to airports or rail stations with excessive baggage, or emergency trips that have to be
+undertaken immediately and it is not possible to wait for public transport. Para transit would
+not normally be used for regular commute trips to work or school. However, when the quality
+of public transport deteriorates, para-transit tends to substitute for public transport.
+Unfortunately, this has started happening in many Indian cities. As such, this policy would
+seek to restore para-transit to its normal role by persuading the improvement of public transport.
+Priority to non-motorized
+transport
+27. With increasing urban
+sprawl and rising income levels,
+non-motorized transport has lost
+its earlier importance. Statistics
+show that the share of bicycle trips
+out of the total trips in Delhi has
+declined from 17% in 1981 to 7%
+in 1994. The longer trip lengths
+have made cycling more difficult.
+Further, non-motorized modes are
+11
+
+also exposed to greater
+risk of accidents as
+they share a common
+right of way with
+motorized vehicles.
+However, non-motorized
+modes are
+environmentally friendly
+and have to be given
+their due share in the
+transport system of a
+city. The problems being
+faced by them would
+have to be mitigated.
+28. First of all, the
+safety concerns of cyclists and pedestrians have to be addressed by encouraging the
+construction of segregated rights of way for bicycles and pedestrians. Apart from improving
+safety, the segregation of vehicles moving at different speeds would help improve traffic flow,
+increase the average speed of traffic and reduce emissions resulting from sub-optimal speeds.
+Such segregated paths would be useful not only along arterials, to enable full trips using
+NMT but also as a means of improving access to major public transport stations. Such
+access paths, coupled with safe bicycle parking places, would contribute towards increasing
+the use of public transport. Creative facilities like shade giving landscaping, provision of
+drinking water and resting stations along bicycle corridors would also be encouraged as they
+can mitigate, to a large extent, adverse weather conditions. The use of the central verge
+along many roads, along with innovatively designed road crossings, seems to offer promise
+for being developed as cycle tracks.
+29. It has been the experience that many such cycle tracks and pedestrian paths do not
+get used as initially envisaged. However, a view has been that this is because these facilities
+are designed badly and without fully recognizing the limitations and problems faced by cyclists
+or pedestrians. It would, therefore, be essential that such facilities be constructed after an
+open debate on the designs with experts and the community that is expected to use them.
+It is expected that such public appraisal would lead to designs that enable greater use by the
+potential beneficiaries. Encroachment of footpaths too affects pedestrian safety adversely
+and requires strict enforcement coupled with public participation. Pedestrian safety is also
+adversely affected by the lack of safe crossing facilities at busy intersections of even high
+traffic corridors.
+12
+
+30. The Central Government
+would give priority to the
+construction of cycle tracks and
+pedestrian paths in all cities, under
+the National Urban Renewal
+Mission (NURM), to enhance
+safety and thereby enhance use of
+non-motorized modes. Cities would
+also be encouraged to explore the
+possibility of a public bicycle
+program, where people can rent a
+bicycle for use in specially
+designated areas
+. 31. The Central government
+would support the construction of safe pedestrian crossings at busy intersections and high
+traffic corridors.
+32. The Central Government would support formulation and implementation of specific
+“Area Plans” in congested urban areas that propose appropriate mix of various modes of
+transport including exclusive zones for non-motorized transit.
+33. The Central Government would also take up pilot projects, in a sample set of cities, to
+demonstrate the improvements that are possible through the enhanced used of cycling, for
+possible replication in other cities.
+Parking
+34. Land is valuable in all urban
+areas. Parking places occupy
+large portions of such land. This
+fact should be recognized in
+determining the principles for
+allocation of parking space.
+35. Levy of a high parking fee,
+that truly represents the value of
+the land occupied, should be used
+as a means to make the use of
+public transport more attractive.
+Preference in the allocation of
+parking space for public transport
+....and this is the “Parking Problem”
+vehicles and non-motorized modes
+13
+
+as well as easier access of work places to and from such spaces would go a long way in
+encouraging the use of sustainable transport systems. Park and ride facilities for bicycle
+users, with convenient inter-change, would be another useful measure. Simultaneously, a
+graded scale of parking fee, that recovers the economic cost of the land used in such parking,
+should be adopted. The objective would be to persuade people to use public transport to
+reach city centers.
+State governments would be required to amend building bye laws in all million plus cities so
+that adequate parking space is available for all residents / users of such buildings. To enable
+this, FAR norms would be made more liberal. Multi-level parking complexes should be made
+a mandatory requirement in city centers that have
+several high rise commercial complexes. Such
+complexes could even be constructed underground,
+including below areas declared as green belts in the
+master plan. Such complexes could come up through
+public-private partnerships in order to limit the impact
+on the public budget. All such parking complexes would
+be encouraged to go in for electronic metering so that
+is there is better realization of parking fees to make
+the investments viable and also a better recovery of
+the cost of using valuable urban space in the parking
+of personal motor vehicles. In residential areas too,
+appropriate changes in bye-laws would be considered
+to free the public carriage way from parked vehicles
+that impede the smooth flow of traffic. Proposals for
+parking complexes would also be given priority under
+the National Urban Renewal Mission. Provisions would also be made in the appropriate
+legislation to prevent the use of the right of way on road systems for parking purposes.
+Freight traffic
+36. As economic activities in cities expand and city population grows, a substantial amount
+of freight traffic would be generated. The timely and smooth movement of such freight is
+crucial to the well being of the people and the viability of the economic activities they undertake.
+However, with limited capacity of the transport system, it is essential that freight traffic and
+passenger traffic are so staggered as to make optimum use of the transport infrastructure. It
+is a time honored and tested practice to use off-peak passenger travel times to move freight.
+Many cities have earmarked late night hours for the movement of freight and restricted the
+entry of heavy vehicles into cities during day time. Further, several cities have by-passes that
+enable through traffic to go around the city and not add to city traffic. These practices are
+sound and would be encouraged in all cities. For this purpose, cities would be encouraged to
+build by-passes, through innovative and viable public – private partnerships. Similarly, facilities
+14
+
+for the parking of freight vehicles outside city limits, such as truck terminals, would also be
+encouraged through public-private partnerships. Proposals for such facilities would be
+considered under the National Urban Renewal Mission.
+Legal and Administrative Issues
+37. The current structure of governance for the transport sector is not equipped to deal with
+the problems of urban transport. These structures were put in place well before the problems
+of urban transport began to surface in India and hence do not provide for the right co-ordination
+mechanisms to deal with urban transport. The Central Government will, therefore, recommend
+the setting up of Unified Metropolitan Transport Authorities (UMTA’s) in all million plus cities,
+to facilitate more co-ordinated planning and implementation of urban transport programs and
+projects and an integrated management of urban transport systems. Such Metropolitan
+Transport Authorities would need statutory backing in order to be meaningful.
+38. The Central Government would also encourage the setting up of professional bodies
+that have the capacity to make scientific assessment of the demand on various routes and
+contract services that can be properly monitored. Towards this end, it would encourage
+the setting up of umbrella bodies that regulate the overall performance of the public transport
+system and ensure that the city has a comprehensive public transport system. Such bodies
+would, inter-alia, design networks and routes, assess demand, contract services, monitor
+performance, manage common facilities like bus stations and terminals, etc. They would
+have representation from all the major operators and stakeholders.
+39. Model legislation would be drafted for cities to consider and adopt, with such
+modifications as may be required to suit city specific requirements.
+Capacity building
+40. The responsibility for the planning and implementation of urban transport systems
+rests with the State governments and the municipal bodies. However, since the problems
+associated with urban transport are of relatively recent origin in India, having surfaced
+only from the early 1990s, the ability to fully understand and deal with these problems is
+yet to fully mature. This calls for concerted efforts at strengthening capabilities at the State
+and city level to address these issues and undertake the task of developing sustainable
+urban transport systems.
+41. Capacity building will have to be addressed at two levels – institutional and individual.
+Institutional capacity would primarily involve creating a pool of knowledge and a knowledge
+management center that would sustain and enhance expertise as well as facilitate more
+informed planning. It would also sponsor regular research to help formulate the right mitigation
+strategies, without merely adopting what other countries have tried. The Institute of Urban
+15
+
+Transport (India), an existing institute under the purview of the Ministry of Urban Development
+would be suitably strengthened to discharge this responsibility. It would be built up to serve
+as a national level facility to provide continuous advice and guidance on the principles of good
+urban transport planning as emerges from its research. Advice on new technologies would
+also be regularly available to implementing agencies from this institute. For this purpose, the
+institute would become a store house of information on the various public transport technologies
+being used in different parts of the world and would maintain the latest information and
+literature on the experience with such technologies. It would, in fact be a comprehensive
+repository of the best practices in the field.
+42. The virtual lack of a database on urban transport statistics has severely constrained
+the ability to formulate sound urban transport plans and reliably assess the impact of the
+different initiatives that have been taken. The national level institute would build up a
+database for use in planning, research, training, etc in the field of urban transport.
+43. The Central Government would also encourage the development of such institutional
+capacity at the State level through the platform of the National Urban Renewal Mission. A
+specific scheme would need to be formulated for this purpose.
+44. At the individual level, a major exercise of training and skill development of the public
+officials and other public functionaries would be taken up to make such officials aware of the
+nuances of urban transport planning and the specific issues involved in managing city transport.
+This would be targeted at personnel belonging to the State transport departments, municipal
+corporations, metropolitan development authorities, traffic police, environmental authorities,
+State Transport Corporations, Public Works Departments, etc.
+45. It is recognized that there are several proven technologies for public transport around
+the world that have yet to be adopted in India. In order to build up the necessary capacity to
+adopt such technologies within the country, the Central Government would facilitate joint
+ventures and collaboration agreements
+between such technology providers and
+suitable Indian companies. Necessary
+incentives would be provided to enable
+such technologies to get
+commercialized in India. This could be
+by way of financing customized
+prototypes, development of designs to
+suit Indian conditions, trial operations,
+training of the technical personnel, etc.
+The objective would be to ultimately build
+a level playing field for all proven
+technologies.
+16
+
+46. As part of the exercise of skill development, academic programs in urban transport,
+especially at the post-graduate level, would be strengthened so that a nucleus of qualified
+urban transport professionals becomes available in the country. Suitable collaborations, with
+leading institutes abroad, would be established to offer expertise to such programs in the
+initial years. An annual urban transport conference would also be institutionalized, to bring
+together the urban transport professionals in the country to share their experiences.
+International experts would be invited to such a conference so that Indian professionals are
+able to exchange information and learn from developments and experiences abroad. A well
+rated urban transport journal would also be started.
+Use of cleaner technologies
+47. While petroleum based fuels are by far the most commonly used today, other alternatives
+have been emerging, though slowly. CNG has been adopted in a big way for bus transport in
+Delhi. Electric trolley
+buses are also being
+proposed in the city.
+Electric vehicles have
+already entered the market
+for cars and auto
+rickshaws. Electric two
+wheelers are also under
+development. Such
+cleaner technologies need
+to be encouraged so that
+the problem of vehicular
+pollution can be more
+effectively dealt with.
+Besides, renewable
+sources need to be tapped
+as a measure of
+sustainable development
+and in recognition of India’s energy security concerns. The Central Government would, therefore,
+encourage the research, development and commercialization of cleaner technologies.
+48. New technologies always find it difficult to enter an established market and new auto
+fuel technologies would also face this problem. However, in view of their many advantages,
+they would be offered suitable concessions and benefits that would enable them to make an
+entry and compete with established technologies on more equitable terms. It is expected
+that such competition will also encourage established technologies to improve their performance
+characteristics and compete with the emerging choices.
+17
+
+49. Several vehicles on our roads tend to be poorly maintained and are overly polluting.
+This is partly because the requirements of proper maintenance are not stringent and are
+largely driven only by the owner’s motivation to save on fuel cost. Even where such motivation
+exists, the lack of a widespread network of good quality repair facilities discourages them for
+the exertion of having their vehicles
+periodically tested.
+50. In order to overcome these
+problems, the Central Government
+would, lay down a clear and time
+bound schedule of progressively
+tighter emission norms, with
+adequate lead-time, to allow the
+auto and oil industry to make the
+required investments. Measures
+would also be introduced to
+incentivize the use of fuel efficient
+(zero pollution) and small sized
+vehicles that use up little road
+space and also cause low pollution.
+Statutory provisions would also be introduced requiring all in-use vehicles in a city, including
+personal motor vehicles, to undergo a periodic check up and obtain a specified certification.
+States would be encouraged to set up such certification facilities, in partnership with the
+private sector. The Central Government would also support the establishment of training
+centers for the staff of such certification establishments so that there are adequate skilled
+personnel, both for certification and for undertaking the required repairs. All of these would
+require that an effective regulatory body be set up to prescribe, monitor and enforce the
+adherence of emission and safety standards.
+Innovative financing mechanisms using land as a resource
+51. It is evident that huge capital investments will be required in dealing with the urban
+transport problems. Whether they are for constructing capital intensive mass transit systems
+or segregated rights-of-way for cycles and pedestrians, a substantial financial burden would
+devolve on the government. Most State governments and local bodies do not have the required
+resources and, therefore, alternative methods of financing would have to be explored.
+52. The Central Government would encourage the levy of dedicated taxes to be credited to
+an urban transport fund and used exclusively to meet urban transport needs within the State.
+Such dedicated taxes could be in the form of a supplement to the petrol and diesel taxes,
+betterment levy on land owners or even an employment tax on employers. In fact, revenues
+18
+
+from a betterment levy along new high capacity public transport corridors would be included
+as a component of the financing plan for such new public transport systems.
+53. The Central Government would also encourage partnerships and greater use of private
+capital in areas where the private sector can competitively deliver urban transport services.
+More specifically, the greater use of private buses in city areas would be encouraged to
+reduce the dependence on public budgets. The commercial utilization of land resources,
+available with public transport service providers, is also recommended to raise additional
+resources.
+Association of the private sector
+54. There are several activities in which the private sector can be beneficially engaged,
+thereby saving financial resources for activities that only public agencies can best perform.
+However, these have to be done under conditions that strike a fair balance between the
+universal obligations of the government and the profit motive of the private operator. Accordingly,
+the Central Government would encourage a more liberal use of the private sector, especially
+in activities like the operation and maintenance of parking facilities, certification facilities,
+repair facilities, construction and management of terminal facilities, etc. Till the mid 1980s
+most public transport services were largely provided by publicly owned State Transport
+Corporations. Since then, however, some States have permitted privately run services. While
+public operations have tended to be high cost and most State Transport Corporations have
+run up heavy losses, the reliability and safety record of inadequately regulated private operators
+has been poor. On balance, the Central Government would encourage the State Governments
+to involve the private sector in providing public transport services, but under well structured
+procurement contracts.
+NEED FOR PUBLIC AWARENESS AND COOPERATION
+55. Urban transport policies can not succeed without the fullest co-operation of all the city
+residents. Such cooperation can be best secured if the objective of any initiative is made
+clearly known to them. It is, therefore, necessary to launch intensive awareness campaigns
+that educate people on the ill effects of the growing transport problems in urban areas -
+especially on their health and well being. The campaigns would seek their support for initiatives
+like greater use of public transport and non-motorized vehicles, the proper maintenance of
+their vehicles, safer driving practices, etc. Such campaigns would also encourage individuals,
+families and communities to adopt “Green Travel Habits” that would make travel less polluting
+and damaging. The Central Government would take up a major awareness campaign in this
+regard and seek the support of the State Government in its implementation. Particular emphasis
+would be laid on bringing about such awareness amongst children through inputs in their
+school curricula.
+19
+
+PILOT PROJECTS
+56. In order to demonstrate the potential benefits from the policy measures suggested
+herein, the Central Government would take up pilot projects in a sample set of cities drawn
+from different regions and different city types so that tested models of best practices can be
+established for replication in other cities.
+20
+
+Annex 1
+Relative characteristics of available public transport technologies
+Technology Advantages Disadvantages Some cities Useful for
+where operating
+Very high carrying Very high capital costs Singapore, Very high density
+Heavy rail
+capacity High per unit operating Tokyo, corridors, where road
+systems – costs if capacity utilization is Hongkong and space is very limited.
+High speed low
+several cities in Well suited for densely
+underground,
+Very low pollution in Inflexible Europe and populated cities that
+elevated operations Long gestation period have low sprawl and
+North America
+Needs extensive feeder few spinal, long haul
+or at grade
+Needs very little network or very dense corridors
+urban space captive area At grade systems are
+Complex interconnectivity very good for sub-
+with feeder system urban systems and
+Relatively complex the fringe areas of a
+technology requiring city where space is
+highly specialized
+more easily available
+manpower for O&M
+Light rail Capital costs are less Capital costs higher than for Several cities in Medium density
+systems than for heavy rail bus systems North America corridors where
+systems Inflexible
+and Europe space availability is
+Per unit operating Per unit operating costs adequate for
+costs are less than for higher than for bus systems supporting elevated
+if capacity utilization is low
+heavy rail systems structures or at grade
+Needs substantial urban tracks
+Low pollution levels space if at grade
+Medium density cities
+Carrying capacity is lower
+Needs less urban
+than for heavy rail systems with limited sprawl
+space than bus based though comparable to high
+systems capacity bus systems
+Needs extensive feeder
+Needs limited urban
+network or dense captive
+space if elevated or
+area
+underground
+Complex interconnectivity
+(however capital costs
+with feeder system
+go up
+Relatively complex
+technology requiring
+specialized skills for O&M
+21
+
+Technology Advantages Disadvantages Some cities Useful for
+where operating
+High Capital costs lower than Capacity not as high as Brazil, Colombia Medium density
+capacity for rail based systems heavy rail systems though and several corridors where
+bus Low O&M costs comparable to light rail other cities in space availability is
+systems Higher capacity than systems Latin America adequate for
+supporting the
+on normal bus services More polluting than rail
+dedicated right of
+dedicated
+More flexible than rail based systems way
+lanes based systems
+Needs imported fuel
+Needs less extensive Medium density cities
+feeder network than rail Needs urban space for with limited sprawl
+based systems
+dedicated corridor
+Easy connectivity with
+feeder system
+Relatively simple
+technology with easy
+availability of manpower
+for O&M
+Sky bus System is non-polluting Not yet proven anywhere on Medium density
+corridors where
+Needs limited urban commercial operations
+space is limited
+space for supporting
+Promising for dense
+elevated structures Inflexible
+city centers
+Advantages / disadvantages of normal bus
+Electric All routes suitable for
+system but with a higher capital cost, though
+Trolley bus buses but where
+non-polluting. Relatively inflexible and impacts , San Francisco local pollution has to
+city aesthetics due to overhead clutter. be low
+Normal Very low capital cost Very low capacity Most cities around Low density corridors
+buses on Low operating costs Polluting the world where local pollution
+shared is not a critical issue
+right of Highly flexible Low speeds
+Feeder to higher
+way Do not need feeder Poor social image
+capacity systems
+systems
+22

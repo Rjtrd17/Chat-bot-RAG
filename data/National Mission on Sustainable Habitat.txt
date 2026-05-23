@@ -1,0 +1,2583 @@
+Ministry of Housing and Urban Affairs
+Government of India
+National Mission
+on Sustainable Habitat
+2021-2030
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 1
+
+Published by:
+Ministry of Housing and Urban Affairs, Government of India
+Terms of use:
+All rights reserved.
+No portion of this document may be reproduced, printed for commercial
+purposes without prior permission of the Ministry of Housing and Urban
+Affairs, Government of India.
+Not for Sale
+
+National Mission
+on Sustainable Habitat
+2021-2030
+NATIONAL MISSION ON SUSTAINABLE HABITAT | i
+
+ii | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+NATIONAL MISSION ON SUSTAINABLE HABITAT | iii
+
+iv | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+NATIONAL MISSION ON SUSTAINABLE HABITAT | v
+
+vi | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+NATIONAL MISSION ON SUSTAINABLE HABITAT | vii
+
+viii | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Contents
+Message of the Hon’ble Union Minister for Housing and Urban Affairs .................iii
+Message of the Hon’ble Minister of State for Housing and Urban Affairs ...............v
+Message of the Secretary (Housing and Urban Affairs) ..........................................vii
+Abbreviations................................................................................................................xi
+Executive Summary ....................................................................................................xv
+1. Introduction ........................................................................................1
+2. Climate Change: Hazards and Vulnerabilities .................................3
+3. National Mission on Sustainable Habitat .........................................7
+3.1 Paris Agreement and India’s NDC .......................................................................7
+3.2 National Action Plan on Climate Change .............................................................8
+3.3 Overview: National Mission on Sustainable Habitat.............................................9
+3.3.1 Definition ....................................................................................................11
+3.3.2 Objectives ..................................................................................................11
+3.3.3 Key Priorities ..............................................................................................11
+3.3.4 Linkages with SDGs ...................................................................................11
+4. Energy and Green Building .............................................................13
+4.1 Key Priorities ......................................................................................................13
+4.2 Key Strategies ....................................................................................................14
+4.3 Linkages with Policies and Programmes ...........................................................15
+5. Urban Planning, Green Cover and Biodiversity ............................17
+5.1 Key Priorities ......................................................................................................17
+5.2 Key Strategies ....................................................................................................18
+5.3 Linkages with Policies and Programmes ...........................................................19
+6. Mobility and Air Quality ...................................................................21
+6.1 Key Priorities ......................................................................................................21
+6.2 Key Strategies ....................................................................................................21
+6.3 Linkages with Policies and Programmes ...........................................................23
+NATIONAL MISSION ON SUSTAINABLE HABITAT | ix
+
+7. Water Management ..........................................................................25
+7.1 Key Priorities ......................................................................................................25
+7.2 Key Strategies ....................................................................................................27
+7.3 Linkages with Policies and Programmes ...........................................................28
+8. Waste Management ..........................................................................31
+8.1 Key Priorities ......................................................................................................31
+8.2 Key Strategies ....................................................................................................32
+8.3 Linkages with Policies and Programmes ...........................................................33
+9. Cross-Cutting Strategies for enabling Climate Actions ...............35
+9.1 Urban Governance .............................................................................................35
+9.2 City Level Monitoring Mechanism ......................................................................36
+9.3 Capacity Building ..............................................................................................38
+9.4 Data, Technology and Innovation .......................................................................38
+9.5 Financing............................................................................................................39
+References ............................................................................................41
+Annexure I: Case studies on various thematic areas ............................45
+Chandigarh: Construction and Demolition (C&D) Waste Plant ................................45
+Thane: Energy and Green Buildings ........................................................................46
+Thanjavur City: Rejuvenation and conservation of urban environment ...................47
+Annexure II: Indicative list of proposed cities under NMSH ..................49
+Indicative list of proposed cities under NMSH..........................................................49
+Annexure III: Key Deliverables and Timelines (2021-30) ......................51
+Annexure IV: Key Contributors ..............................................................57
+x | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Abbreviations
+4R Reduce, Reuse, Recycle, and ICCC Integrated Command and Control
+Recovery Centre
+AJAY Atal Jyoti Yojana IEC Information, Education and
+AMRUT Atal Mission for Rejuvenation and Communication
+Urban Transformation IPCC Inter-governmental Panel on Climate
+BEE Bureau of Energy Efficiency Change
+BIS Bureau of Indian Standards ITS Intelligent Transportation System
+BRTS Bus Rapid Transit System JJM-U Jal Jeevan Mission - Urban
+BUR Biennial Update Report JSA Jal Shakti Abhiyan
+C&D Construction and Demolition LAP/TPS Local Area Plan/Town Planning
+CAGR Compound Annual Growth Rate Scheme
+CapEx Capital expenditure LED Light-Emitting Diode
+CCAP City Climate Action Plan LEED Leadership in Energy and
+C-Cube Climate Centre for Cities Environmental Design
+CNG Compressed Natural Gas LHP Light House Project
+CPCB Central Pollution Control Board MBBL Model Building Bye-laws
+CSCAF ClimateSmart Cities Assessment MEEP Municipal Energy Efficiency
+Framework Programme
+CSR Corporate Social Responsibility MNRE Ministry of New and Renewable
+DAY-NULM Deendayal Upadhyay Antyoday Energy
+Yojana - National Urban Livelihoods MoEF&CC Ministry of Environment, Forest and
+Mission Climate Change
+DRR Disaster Risk Reduction MoHUA Ministry of Housing and Urban Affairs
+ECBC Energy Conservation Building Code MoP Ministry of Power
+EESL Energy Efficiency Services Limited MRF Material Recovery Facility
+EV Electric Vehicles MSWM Municipal Solid Waste Management
+FAME Faster Adoption and Manufacturing of NAPCC National Action Plan for Climate
+Electric/Hybrid Change
+FSSM Faecal Sludge and Septage NCMC National Common Mobility Card
+Management NDC Nationally Determined Contribution
+FSTP Faecal Sludge Treatment Plant NDMA National Disaster Management
+GCF Green Climate Fund Authority
+GDP Gross Domestic Product NGO Non-Governmental Organisation
+GHG Greenhouse Gases NITI National Institution for Transforming
+GHTC - India Global Housing Technology Challenge India
+- India NIUA National Institute of Urban Affairs
+GIS Geographical Information System NMMU National Mission Management Unit
+GoI Government of India NMSH National Mission on Sustainable
+GRIHA Green Rating for Integrated Habitat Habitat
+Assessment NMT Non-Motorised Transport
+NATIONAL MISSION ON SUSTAINABLE HABITAT | xi
+
+NRW Non-Revenue Water TCPO Town and Country Planning
+NULP National Urban Learning Platform Organisation
+NUTP National Urban Transport Policy TNA Training Needs Assessment
+O&M Operation and Maintenance TOD Transport Oriented Development
+ODF Open Defecation Free TTRO Tertiary Treatment Reverse Osmosis
+PBS Public Bicycle System UDA Urban Development Authority
+PMAY-U Pradhan Mantri Awas Yojana - Urban ULB Urban Local Body
+PPP Public Private Partnership UMTA Unified Metropolitan Transport
+PWD Public Works Department Authority
+RCA Recycled Concrete Aggregate UNFCCC United Nations Framework Convention
+RDF Refused-Derived Fuel on Climate Change
+RWA Resident Welfare Association UNICEF United Nations Children’s Fund
+SBM-U Swachh Bharat Mission – Urban URDPFI Urban and Regional Development
+SCF-S Segregated Combustible Fraction Plans. Formulation and
+SCM Smart Cities Mission Implementation guidelines
+SDG Sustainable Development Goal USGBC US Green Building Council
+SECI Solar Energy Corporation of India UTF Urban Transport Fund
+SLNP Street Lighting National Programme VCF Value Capture Financing
+SPV Special Purpose Vehicle VGF Viability Gap Funding
+STP Sewage Treatment Plant WHO World Health Organisation
+SWD Storm Water Drainage WRI CAIT World Resources Institute Climate
+SWM Solid Waste Management Analysis Indicators Tool
+xii | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+NATIONAL MISSION ON SUSTAINABLE HABITAT | xiii
+
+xiv | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Executive Summary
+I
+ndia is witnessing rapid urbanisation. According to The revised NMSH has identified five thematic areas,
+Census 2011, about 377 million people comprising namely (i) Energy and Green Building, (ii) Urban
+31.14% of the total population lived in urban areas. Planning, Green Cover and Biodiversity, (iii) Mobility
+The urban population is projected to grow to about and Air Quality, (iv) Water Management, and (v) Waste
+600 million by 2031. While cities are engines of growth, Management. Key mitigation and adaptation strategies
+they also contribute to more than 70% of India’s to facilitate the development of sustainable habitat have
+greenhouse gas (GHG) emissions. also been recommended under each thematic area.
+There has been a perceptible increase in number as The first thematic area “Energy and Green Buildings”
+well as intensity of extreme weather events in recent focuses on reducing the energy consumption for
+times in India, which can be directly attributed to lighting, heating, and cooling, etc. in India’s real estate
+climate change. India has unique geo-climatic and sector and shifting to cleaner renewable energy sources
+socio-economic conditions, and is vulnerable, in through adoption of green building technologies. Key
+varying degrees, to rising sea levels, floods, droughts, mitigation and adaptation strategies recommended
+cyclones, landslides, avalanches, storms, and heat under this area include undertaking energy audit of all
+waves. Indian cities are especially susceptible to the municipal services, including water supply, sewage,
+effects of climate change due to limited access to and storm water management on an annual basis and
+basic services, infrastructure, livelihood, and health. It is promoting renewable energy, and 100% installation of
+estimated that India will experience a decline of about energy-efficient streetlights.
+2-6% in its GDP under the carbon-intensive scenario
+by 2050, which could pose a serious threat to its
+The second thematic area on “Urban Planning,
+development goals and investments.
+Green Cover and Biodiversity” lays emphasis on
+integrated urban and regional planning approaches
+National Action Plan for Climate Change (NAPCC), to climate-sensitive development and preservation
+launched in 2008, outlines multi-pronged, long term and rejuvenation of water bodies, green spaces, and
+strategies to address climate change and its impacts. eco-sensitive areas. Key mitigation and adaptation
+As a part of NAPCC, National Mission on Sustainable strategies include mapping of all eco-sensitive zones,
+Habitat (NMSH) aims at (i) Promoting low-carbon urban biodiversity rich areas, natural assets in the city, and
+growth towards reducing GHG emissions intensity for promoting maintenance of green cover using an
+achieving India’s NDC, and (ii) Building resilience of ecological approach, specifically focusing on native tree
+cities to climate change impacts and strengthening their species and sustaining urban biodiversity.
+capacities to ‘bounce back better’ from climate related
+extreme events and disaster risks. The first version of
+The third thematic area on “Mobility and Air
+NMSH released in 2010 has now been revised in the
+Quality” highlights the need to formulate and
+context of Nationally Determined Contributions (NDCs)
+implement strategies focusing on inclusive and
+under the Paris Agreement, Sustainable Development
+multi-modal mobility options in order to arrest the
+Goals (SDGs), and New Urban Agenda (NUA).
+rapid growth of private motor vehicles, which
+has led to traffic congestion and increasing air pollution
+“Sustainable Habitat” is defined in NMSH 2.0 as levels in metro cities. Key mitigation and adaptation
+“an approach towards a balanced and sustainable strategies recommended under this thematic area
+development of the ecosystem of habitat which offers include adopting cleaner and environment-friendly
+adequate shelter with basic services, infrastructure, technologies, such as Electric Vehicles (EVs),
+livelihood opportunities along with environmental and Compressed Natural Gas (CNG), biofuels, etc. and
+socio-economic safety including equality, inclusiveness creating incentives to attract and enable public-private
+and disaster-resilience”. partnership (PPP) in setting up charging infrastructure,
+shared mobility, first and last-mile connectivity and the
+use of clean renewable energy sources.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | xv
+
+The fourth thematic area on “Water Management” lays Recovery Facility (MRF) with provision for sorting
+emphasis on augmenting existing water resources by recyclables and facility for sorting SCF Segregated
+adopting rain-water harvesting (RWH), rejuvenation Combustible Fractions/Refuse Derived Fuels (RDF) as
+of waterbodies, recycling/ reuse of treated sewage, per the Solid Waste Management (SWM) Rules 2016 in
+water conservation, and promoting circular economy cities with over 0.5 million population.
+of water through development of City Water Balance
+Plan (CWBP). Key mitigation and adaptation strategies
+NMSH 2.0 also lists out enabling climate actions, which
+recommended include publishing Rapid Flood Risk
+are intended to address the overarching framework to
+Assessment Report to understand the reasons of
+facilitate adoption and implementation of the sector-wise
+flooding/water stagnation as well as flooding/water
+climate action strategies mentioned above. These include
+stagnation hotspots in the city, implementing an end-
+strategies pertaining to Urban Governance, Capacity
+to-end urban flood early warning system, efficient
+Building, Data, Technology and Innovation for the
+distribution of piped water supply, and encouraging
+mission. ClimateSmart Cities Assessment Framework
+100% recovery of Operation and Maintainance (O&M)
+(CSCAF), a first-of-its-kind assessment framework
+charges by water supply authorities and wastewater
+with 28 climate-relevant parameters across the five
+management.
+thematic areas, will serve as a tool for cities to assess
+their present situation vis-à-vis objectives and targets
+The fifth thematic area on “Waste Management” focuses of NMSH 2.0.
+on the need for cities to prioritise actions for waste
+reduction and waste management, and promote waste-
+The implementation period of NMSH 2.0 is from 2020-
+to-energy and waste-to-compost plants. Key mitigation
+21 till 2030. The goals of NMSH 2.0 are envisaged
+and adaptation strategies include segregating waste and
+to be achieved through various other Missions and
+3R (Reduce, Reuse, and Recycle) principles for better
+programmes of MoHUA, which are already being
+waste management, and facilitating setting up Material
+financed through budgetary and extra-budgetary
+resources.
+Bird’s-eye view of Udaipur City, Rajasthan
+xvi | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+NATIONAL MISSION ON SUSTAINABLE HABITAT | xvii
+
+xviii | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+1
+Introduction
+Since the late 19th century, earth’s surface areas. As per Census 2011, the urban population in
+temperature has risen by 1.14 oC (National India accounted for 31.16% of the total population (37.7
+Aeronautics and Space Administration, 2020), crores). The country has 53 city agglomerations with
+which is primarily attributed to anthropogenic- over a million people, and 6 city agglomerations with
+induced climate change, leading to widespread impacts over 10 million population. By 2030, the country’s urban
+on natural and human systems. It is estimated that population is expected to rise to about 600 million, and
+human activities have contributed to almost 78% of cities would generate 70% of India’s GDP (MGI, 2011).
+GHG emissions (Pachauri & Meyers, 2014) between
+1970 and 2010. As per SR 1.5 of Inter-Governmental
+As India undergoes rapid urbanisation and economic
+Panel on Climate Change (IPCC), the impacts of the
+growth, GHG emissions from urban areas are likely
+average temperature warming by more than 1.5 oC
+to increase further. Therefore, as hubs of population,
+are manifold: human death and illness are expected to
+economic activities, and infrastructure, cities are uniquely
+increase in pathways with warming greater than 1.5 oC
+positioned when seen through the climate lens. On one
+due to risks directly attributable to climate change, such
+side, cities are key contributors to climate change; on the
+as exacerbated urban heat islands, amplification of heat
+other, they also experience the severe impact of
+waves, extreme weather volatility, floods, droughts,
+climate change with varying degrees of risk to essential
+coastal inundation and an increase in vector-borne
+services, infrastructure, housing, livelihoods, and
+diseases, like malaria and dengue fever (IPCC, 2018).
+health. Urbanisation and unplanned growth have led to
+complex social, economic, and ecological challenges
+India is the 3rd largest emitter of GHG globally. While that the urban areas need to address, along with catering
+the per capita emissions are much lower - less than half to the current demand for essential infrastructure
+compared to the global average, more than 70% (Sethi, services and resource allocation towards better urban
+2015) of India’s emissions are generated from urban management.
+Urban Development in New Town Kolkata, West Bengal
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 1
+
+2 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+2
+Climate Change: Hazards
+and Vulnerabilities
+According to IPCC, rise in the global at risk from landslides and avalanches, and 15% of the
+average temperatures leads to increase landmass is prone to landslides. A total of 5,161 Urban
+in precipitation, extreme rainfall, cyclonic Local Bodies (ULBs) are prone to urban flooding .
+storms, coastal flooding and heatwaves.
+As per the Ministry of Environment, Forest and
+The recently released Global Climate Risk Index 2021
+Climate Change (MoEFCC) Third Biennial Update
+(David Eckstein, 2020) ranks India as the 7th most-
+Report (BUR) to United Nations Framework
+affected country from climate-related extreme weather
+Convention on Climate Chnage (UNFCCC), the diverse
+events (storms, floods, heat waves, etc.). This is based
+geography of India manifests varied climate regimes,
+on the recorded data for loss and damages during
+ranging from continental to coastal, heat and cold,
+2000- 2019 in terms of fatalities per 100,000 inhabitants
+aridity and negligible rainfall, to excessive humidity
+and losses per unit GDP as percentage. Besides,
+and torrential rainfall (MoEFCC, 2021). India has
+in 2019, India recorded its maximum rainfall since
+unique geo-climatic and socio-economic conditions
+1994, with the most number of cyclones and ‘severe
+and is vulnerable, in varying degrees, to floods,
+cyclones’. However, the impact of climate change and
+droughts, cyclones, landslides, avalanches, storms,
+climate hazards is not uniform country-wide, and varies
+and heatwaves. According to the National Disaster
+across regions due to differences in the exposure and
+Management Authority (NDMA 2019), out of the 36
+vulnerability of various systems (O’Brien, 2008).
+states and Union Territories (UTs) in the country, 27 are
+disaster-prone. 12% of the land area is prone to floods
+and river erosion; out of the 7,516 km coastline, around According to IPCC, the vulnerability of cities is
+5,700 km is prone to cyclones and tsunamis; 68% of the linked with several economic, social, cultural,
+cultivable land is vulnerable to droughts, hilly areas are institutional, political, and psychological factors
+Table 1: Loss and damages due to urban flooding in Indian cities (during 2000-20)
+Sr. Year(s) of
+Name of city Loss and damages
+No. occurrence
+2005: 100 homes damaged and 54 collapsed, 10 persons died. Urban flood
+Bengaluru, 2005, 2009, 2013,
+1 disrupted essential services in the city became non-functional. The flood in-
+Karnataka 2016
+undated all arterial roads.
+Chennai, 2015: Essential transit services were disrupted during the megaflood; It
+2 2004, 2015
+Tamil Nadu claimed 280+ lives, and more than 0.1 million people were rescued.
+Mumbai, 2005: 1,094 lives lost; all essential services including major transits operations
+3 2005, 2007, 2015
+Maharashtra were suspended. INR 550 crores loss was estimated in two days.
+Sri Nagar, 2014: Flood affected the entire Kashmir valley, halted all services (transport,
+4 Jammu & 2014 telecommunication, city administration, hospitals) within the city. The
+Kashmir estimated damage was INR 5,000-6,000 crores.
+2000: Urban floods damaged 35,693 homes and affected 0.2 milion people
+Hyderabad, 2001, 2002, 2006,
+5
+Telangana 2008
+2008: Floods affected 0.15 million people.
+6 Delhi 2010, 2013, 2016 2016: Heavy rainfall created havoc conditions
+Vadodara, 2019: Major transport operations were suspended; natural
+7 2005, 2013, 2019
+Gujarat habitats affected
+2018: Airport closed for 2 weeks with over INR 220 crores of loss and damag-
+8 Kochi, Kerala 2018, 2019
+es; floods were followed by drought, water scarcity, and public health issues.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 3
+
+that determine and affect the coping capacities Heat waves
+of institutions, communities, and infrastructure
+Higher daily peak temperatures and longer, more intense
+systems. The current projected increase of global
+heat waves are becoming increasingly frequent globally
+temperature by 1.5 to 2 oC is expected to increase
+due to climate change. Further, the decrease in the
+the frequency and intensity of extreme weather
+Diurnal Temperature Range (DTR) due to urbanisation
+events, and give rise to new vulnerabilities with
+is leading to human mortality and discomfort. Also,
+differential spatial and socio-economic impacts
+increased minimum temperatures in summer do not
+on communities. This will further impact the
+allow the necessary nocturnal cooling to neutralise
+hydrological cycle and existing water resources,
+the high maximum temperature during a heatwave,
+leading to droughts, floods, water scarcity, and food
+increasing its intensity and period. As per NDMA, India
+insecurity. In addition, extreme events cause loss
+is witnessing the impact of climate change, which is
+of life, and adversely impact the standards of living,
+increasing in intensity with each passing year and
+economic growth, and poverty reduction measures.
+having a devastating impact on human health, which is
+The impact would be particularly disastrous for
+evident from increasing number of heatwave casualties.
+India and will lead to differential impact on poor
+and vulnerable communities, which constitute
+between one quarter and one half of the population Cyclones
+across most Indian cities. It is estimated that, by
+India has a coastline of about 7,516 km, which is
+2050, under the carbon-intensive scenario, India
+exposed to nearly 10% of the world’s tropical cyclones
+will experience a decline of about 2-6% in its
+(NDMA, 2019). A recent study by the Indian Institute
+GDP (Mani, Bandyopadhyay, Chonabayashi,
+of Tropical Meteorology (IITM) indicates that frequency
+Markandya, and Mosier, 2018). Thus, climate
+of cyclones in the Arabian Sea has increased by 52%
+change can pose a severe threat to India’s
+between 2001 and 2019 (Deshpande, M., Singh, V.K.,
+development goals and investments.
+Ganadhi, M.K. et al., 2021). On average, about five or six
+tropical cyclones form in the Bay of Bengal and Arabian
+sea, and hit the coasts every year. About 71% of the
+coastal areas across ten states (Gujarat, Maharashtra,
+Figure 1: Climate Risk Management Framework (IPCC, 2014)
+4 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Goa, Karnataka, Kerala, Tamil Nadu, Puducherry, Climate change has led to increased occurrences of
+Andhra Pradesh, Odisha, and West Bengal) and islands irregular and high intensity short duration rainfall events,
+of Andaman, Nicobar, and Lakshadweep are prone which have rendered the cities more vulnerable to
+to cyclones (Ministry of Home Affairs (MHA), 2011). inundation and frequent flooding. The problem of urban
+In 2020 alone, nine cyclonic disturbances had their flooding has been further compounded due to increase
+landfall in India, adversely impacting cities and coastal in impervious areas, absence of systematic approach to
+communities. formulate and implement stormwater drainage systems,
+their inadequate O&M, and encroachment of drainage
+pathways in towns and cities (Central Public Health and
+Droughts and water scarcity
+Environmental Engineering Organisation (CPHEEO),
+The primary cause of drought is the deficiency of 2019).
+rainfall, including the timing, distribution, and intensity
+of deficiency. A prolonged period of relatively dry
+Landslides
+weather leading to drought is a widely recognised
+climate anomaly. Drought can be devastating as water National Landslide Risk Management Strategy,
+supplies dry up, crops fail, animals die, and malnutrition NIDM (2019) has indicated that landslide hazards
+and ill health become widespread. The environmental in India rank high among the hydrogeological hazards,
+effects of drought include increase in soil aridity and as they pose threat to life and livelihood, ranging from
+salinisation, depletion in groundwater levels, and disruptions of routine activities to widespread loss
+increased pollution of freshwater ecosystems. of life, property, and destruction in large parts of the
+mountainous regions.Himalayan and other hilly regions
+are affected by landslides and landmass movement
+According to MHA, a staggering 68% of India is prone
+activities. Some of the significant landslide incidents
+to drought of variable degrees. 35% of the country
+that occurred in the past are Katropi - 2017 (Himachal
+receives rainfall between 750 mm and 1,125 mm,
+Pradesh), Laptap Pampare - 2017 (Arunachal Pradesh),
+thereby falling in the drought-prone category, while
+Mirik - 2015 (West Bengal), Malin - 2014 (Pune),
+33% receives less than 750 mm and is categorised as
+Dasalgaon - 2007 (Maharashtra), Varunavat Parvat -
+chronically drought-prone (MHA, 2011). India has about
+2003 (Uttarakhand), Amboori - 2001 (Kerala), Malpa -
+17% of the global population, but it has only 4% of total
+1998 (Uttarakhand), Kalimpong - 1993 (West Bengal),
+freshwater resources. About 0.2 million people die
+Kohima - 1993 (Nagaland).
+every year in the country due to inaccessibility to water,
+sanitation, and hygiene (NITI Aayog, 2019). Cities with
+high population density are more prone to the impacts Rising sea levels and storm surges
+of drought, leading to acute water scarcity.
+According to India’s Third BUR, sea level along
+the Indian coast is estimated to be rising at
+Floods about 1.7 mm/year and at different rates along various
+parts of the coast. As per Census 2011, the total
+In India, about 40 million hectares of the country’s population of coastal districts is 171 million, which
+geographical area are flood prone (National Institute of accounts for 14.1% of India’s population. Several urban
+Disaster Management (NIDM), 2014). There has been areas with considerable wealth in the form of assets
+an increase in the intensity of urban floods over the and infrastructure, including the megacities of Mumbai
+past years, whereby major cities have been severely and Chennai, with high population density, are located
+affected. While increasing frequency of extreme rainfall along the coast. Further, the urban slum population
+events (Pachauri & Meyers, 2014) is one of the critical in these coastal cities is especially susceptible to
+factors responsible for the ‘urban floods’, increased be affected by regular flooding. Rising sea level can
+paved surfaces affecting run-off, lack of adequate aggravate the flooding of low lying areas during
+stormwater drainage, poor SWM systems leading to extreme events, such as storm surges, while leading to
+choking of the drains, etc. have also aggravated the increased coastal erosion. Coastal areas are vulnerable
+vulnerability. In the last two decades, urban India has to the threat of rising sea-level, and can experience
+experienced unprecedented high intensity floods and increased exposure to coastal hazards, such as storm
+flash floods in several cities, including Mumbai, Surat, surges during cyclones and related hazards.
+Kolkata, Chennai, Kochi, Srinagar, Hyderabad, and
+Bangalore among others (Table 1). In 2019 alone,
+floods led to more than 1,800 deaths across 14 states.
+United Nations Children’s Fund (UNICEF) estimates
+that around 2.4 million children were impacted by floods
+in India.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 5
+
+6 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+3
+National Mission
+on Sustainable Habitat
+3.1 Paris Agreement and India’s NDC
+India is a party to the Paris Agreement, a legally 5. To create an additional carbon sink of 2.5-3 billion
+binding international treaty on climate change tonnes of CO equivalent through additional forest
+2
+adopted by 196 countries at the Conference of and tree covers by 2030.
+Parties (COP) 21 held in Paris. Its goal is to limit
+6. To better adapt to climate change by enhancing
+global warming to well below 2 oC, preferably to
+investments in development programmes in
+1.5 oC, compared to pre-industrial levels. To that
+sectors vulnerable to climate change, particularly
+end, countries aim to reach global peaking of GHG
+agriculture, water resources, Himalayan region,
+emissions as early as possible to achieve a climate-
+coastal regions, health, and disaster management.
+neutral world by mid-century. In order to achieve these
+ambitious goals, the Paris Agreement has provisions 7. To mobilise domestic and new & additional funds
+for providing financial assistance to vulnerable and from developed countries to implement the above
+less-endowed countries as well as development mitigation and adaptation actions in view of the
+and transfer of technology for improving resilience resource required and the resource gap.
+to climate change and reducing GHG emissions.
+8. To build capacities, create a domestic framework
+The Agreement also lays great emphasis on
+and international architecture for quick diffusion
+strengthening climate-related capacity building in
+of cutting-edge climate technology in India
+developing countries, and calls for conservation
+and for joint collaborative R&D for such future
+and enhancement of GHG sinks and reservoirs. The
+technologies.
+Agreement requires all countries to determine their
+NDCs, and also report regularly on emissions and their
+implementation efforts (UNFCCC, 2016).
+India has committed to its NDCs (2021-30) and is on
+track to achieve the same (Economic Survey 2019-20).
+The NDCs for India are as follows:
+1. To put forward and further propagate a healthy
+and sustainable way of living based on traditions
+and values of conservation and moderation.
+2. To adopt a climate-friendly and cleaner path
+than the one followed hitherto by others at
+corresponding level of economic development.
+Floating Solar PV System at Kailasagiri Reservoir,
+3. To reduce the emission intensity of its GDP by 33- Tirupati, Andhra Pradesh
+35% by 2030 from the 2005 level.
+4. To achieve about 40% cumulative electric power
+installed capacity from non-fossil fuel-based
+energy resources by 2030 with the help of transfer
+of technology and low cost international finance,
+including from Green Climate Fund (GCF).
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 7
+
+3.2 National Action Plan
+on Climate Change
+The Prime Minister’s Council on Climate Change, NAPCC is being guided by the following principles to
+GoI, launched NAPCC in 2008 with 8 sub- achieve sustainable development while advancing the
+missions representing the multi-pronged, long- economic and environmental objectives:
+term, and integrated strategies to mitigate and
+adapt to the adverse impacts of climate change. The 1. Protecting the poor and vulnerable sections of
+plan aims at fulfilling India’s developmental objectives society through an inclusive and sustainable
+with a focus on reducing the emission intensity of its development strategy, sensitive to climate
+economy. Eight missions under NAPCC are as follows: change.
+1. National Solar Mission 2. Achieving national growth objectives through
+a qualitative change in direction that enhances
+2. National Mission for Enhanced Energy Efficiency
+ecological sustainability, leading to further
+3. National Mission on Sustainable Habitat mitigation of GHG emissions.
+4. National Water Mission 3. Devising efficient and cost-effective strategies for
+end-use Demand Side Management (DSM).
+5. National Mission for Sustaining the Himalayan
+Ecosystem 4. Deploying appropriate technologies for both
+adaptation and mitigation of GHG emissions
+6. National Mission for Green India
+extensively at an accelerated pace.
+7. National Mission for Sustainable Agriculture
+5. Engineering new and innovative forms of market,
+8. National Mission on Strategic Knowledge for regulatory, and voluntary mechanisms to promote
+sustainable development.
+Climate Change
+6. Effective implementation of programmes through
+unique linkages, including with civil society and
+local government institutions and through PPP.
+7. Welcoming international cooperation for
+research, development, sharing and transfer of
+technologies enabled by additional funding and
+a global Intellectual Property Rights (IPR) regime
+that facilitates technology transfer to developing
+countries under the UNFCCC.
+Riverfront Development in
+Indore, Madhya Pradesh
+8 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+3.3 Overview: National Mission
+on Sustainable Habitat
+India’s GHG emissions grew from 1,311.29 MtCO eq The ‘Ease of Living Index’ launched in 2018, aiming to
+2
+in 1994 to 3,202 MtCO eq in 2014, an overall increase improve institutional, social, economic, and physical
+2
+of 144% (WRI CAIT). The anticipated growth in urban urban systems to enhance the livability of cities,
+population will require the construction of additional includes various indicators aligned to climate mitigation
+as well as re-construction of existing urban infrastructure and adaptation targets.
+and buildings, which will increase demand on land for
+habitation and other purposes. Managing the carbon With the new global urban agenda, the SDGs, and India’s
+footprint of urban habitats and ensuring their climate and NDCs towards the Paris Agreement and paradigm shift
+disaster resilience are an important and challenging task in India’s urban discourse, this revised version of the
+for governments across countries, including India. To NMSH intends to align India’s national programs and
+foster sustainable development, mainstreaming climate initiatives with international goals and commitments.
+change mitigation and adaptation measures in This requires a closer review of the approaches and
+urban planning and policy frameworks is critical. mechanisms for urban policy and planning, programs
+With this vision, GoI launched NMSH 2010 and investments, infrastructure development, and
+under NAPCC, which highlights strategies and governance (Figure 2). The planning of cities needs to
+guidelines to mitigate GHG emissions and adapt be envisioned with an integrated and holistic approach
+to climate change impacts by building resilience in – making habitats that are sustainable, smart, low
+infrastructure assets and communities, measures carbon, resilient, and promote quality living for all. In
+for improving disaster risk management, and warning order to develop integrated strategies that promote
+systems for extreme weather events. sustainable habitat, NMSH 2.0 envisages to incorporate
+and address the growing needs and concerns that have
+In 2015, GoI further adopted various strategies to emerged in the past decade.
+mainstream sustainable development and climate
+actions in all urban investments and development
+activities as part of its various urban missions and
+programmes. These include the Atal Mission for
+Rejuvenation and Urban Transformation (AMRUT), Figure 2: Strategy for Global Commitments
+Pradhan Mantri Awas Yojana - Urban (PMAY-U),
+Adaptation
+Deendayal Upadhyay Antyoday Yojana - National
+• Reduce effects of climate
+Urban Livelihoods Mission (DAY-NULM), Swachh Bharat change in various sectors of
+Mission - Urban (SBM-U), and the Smart Cities Mission urban development
+(SCM). The missions focus on creating ‘lighthouses of
+replicable models of sustainable urban development Global
+and providing a high quality of life to citizens’. Commitments
+Mitigation
+• Paris Agreement
+• Key sources of GHG
+National Urban Policy Framework (NUPF) outlines an • Agenda 2030 emissions
+• New Urban Agenda • Sustainable and
+integrated approach for urban planning by analysing
+integrated land use
+key challenges and priorities for managing urban plan
+• Rejuvenate natural
+habitats. Further, MoHUA has introduced CSCAF - a
+resources
+first-of-its-kind assessment framework on climate-
+relevant parameters that will serve as a tool for cities to
+assess their present situation and will facilitate cities to
+adopt, implement and disseminate best practices. It will Support / Monitoring
+• Finance/Investment
+also set standards compared to the international efforts
+• Urban governance
+towards green, sustainable, and disaster-resilient urban • Technology and innovation
+• Capacity building
+habitats. Aligning with these missions and initiatives,
+• Facilitate implementation
+Indian cities have been actively working towards
+promoting sustainable urban development.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 9
+
+GHG Emissions Scenario
+India’s GHG emissions grew from 1,311.29 MtCO eq in 1994 to 3,202 MtCO eq. in 2014, indicating an overall
+2 2
+Compound Annual Growth Rate (CAGR) of 4.5%. Although India’s annual carbon footprint increased in 2014
+compared to previous years, the country is on track to meet its global climate action pledges of reducing the emission
+intensity of its GDP (emission per unit of GDP). India’s emission intensity reduced from 2,231.56 MtCO /million $
+2
+GDP in 2005 to 1,573.31 MtCO eq/million $ GDP in 2014. Consistent time series information on GHG emissions per
+2
+GDP from 1994 to 2014 are presented in Figure 3.
+Figure 3: India’s reduction of emission intensity CO/million $ GDP (2005 to 2014)
+2
+Per GDP Emission (MtCO eq.) Total Emission (MtCO eq.)
+2 2
+India GHGs: Sectoral analysis
+According to the World Resources Institute Climate Analysis Indicators Tool (WRI CAIT), India’s 2014 GHG profile
+was dominated by emissions from the energy sector, which accounted for over 63% of the total emissions, of which
+49% of the emissions was from electricity and heat generation, and 24% from manufacturing and construction
+sectors. Agriculture was the second highest source with 20.3% of the total emissions, Industrial processes, transport,
+and waste contributed 7.0%, 6.2%, and 1.9% respectively emissions, as represented in Figure 4.
+).qe
+OCtM
+ni(
+snoissimE
+).qe
+OCtM
+ni(
+snoissimE
+2
+2
+Figure 4: Sector-wise GHG emission (2005-14); source: WRI CAIT
+10 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Figure 5: Interlinkage between development and climate change
+Stakeholders
+• Government
+• Private
+• Think tank organisation Development
+• CBOs/NGOs
+• Multi and bilateral
+Climate
+organisations
+change
+Policy/Mission Finance Impact
+3.3.1 Definition 3.3.2 Objectives
+A central principle of sustainable development is a The objectives of the NMSH 2.0 are as follows:
+holistic view of life, where all objects and activities are
+interconnected and mutually affect one another. Further, 1. Promote low-carbon urban growth towards
+sustainable development aims to strike a balance reducing GHG emissions intensity for achieving
+between economic development, environmental India’s NDC.
+conservation, and promotion of equity, known as the
+economy, efficiency, and effectiveness of sustainable 2. Build resilience of cities to climate change
+development. impacts and strengthen their capacities to
+‘bounce back better’ from climate-related
+NMSH 2010 defined sustainable habitat as “achieving a extreme events and disaster risks.
+balance between the economic and social development
+of human habitats together with the protection of the
+3.3.3 Key Priorities
+environment, equity in employment, shelter, basic
+services, social infrastructure, and transportation.”
+To achieve the objectives of NMSH, the subsequent
+However, in the context of various global and national
+sections provide a roadmap for realising the key
+commitments, i.e. NUA, SDGs, NDCs within the Paris
+priorities of building a sustainable and climate-
+Agreement, it was decided to review/revise NMSH in
+resilient urban India under five thematic areas:
+2019.
+Energy and Green Building; Urban Planning, Green
+Cover and Biodiversity; Mobility and Air Quality;
+NMSH 2.0, through this Mission document, adopts the
+Water Management; and Waste Management. These
+following definition of sustainable habitat:
+thematic areas are broad buckets of interventions to be
+undertaken and may be merged, in the local context, as
+required.
+“An approach towards a balanced and sustainable
+development of the ecosystem of habitat which
+offers adequate shelter with basic services,
+3.3.4 Linkages with SDGs
+infrastructure, livelihood opportunities along
+with environmental and socio-economic safety
+While all the SDGs are important, the cities can focus on
+including equality, inclusiveness, and disaster
+the following SDGs as per the thematic areas in Table 2.
+resilience.”
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 11
+
+Table 2: Mapping of SDGs with NMSH thematic areas
+SDG 7: Affordable and Clean
+Energy Energy
+& Green
+Building SDG 11: Sustainable Cities
+and Communities
+Urban
+Planning, SDG 13: Climate Actions
+Green
+Cover, and SDG 15: Life on Land
+Biodiversity
+SDG 7: Affordable and Clean
+Energy
+Mobility and
+Air Quality
+SDG 11: Sustainable Cities
+and Communities
+Water SDG 6: Clean Water and
+Management Sanitation
+Waste SDG 12: Responsible
+Management Consumption and Production
+12 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+4
+Energy and Green Building
+4.1 Key Priorities
+Housing and buildings (residential and non- consumption for heating and cooling, land and material
+residential) are essential sectors of a country’s requirement, and other infrastructural demands.
+economy and known as growth escalators, Energy production must shift to cleaner, renewable
+which directly impact the quality of life. The energy sources (such as, solar photovoltaics (PV),
+construction sector of India, including housing accounts solar thermal, wind energy, hybrid-hydel power, small
+for 8% of GDP and employs 12% of the total workforce hydro, geothermal energy, tidal energy, biogas, waste-
+(Source: India Habitat III National Report, 2016). to- energy, etc.).
+Buildings consume 1/3rd of the global energy output
+and produce around 20% of the total GHG emissions
+There are several programmes designed by MoHUA,
+(WBCSD 2016).
+Ministry of Power (MoP), Ministry of New and
+Renewable Energy (MNRE) through the Bureau of
+In the wake of increasing frequency of extreme events, Energy Efficiency (BEE) and its State Nodal Agencies,
+such as floods, heatwaves, coastal flooding, storm Energy Efficiency Services Limited (EESL), Solar
+surges, etc., it is critical to mainstream and implement Energy Corporation of India (SECI) and others, to
+retrofitting of climate adaptation measures in the develop energy efficiency in cities and shift to renewable
+building sector. While there are various guidelines energy sources. For example, MNRE has a Solar Cities
+and regulations in this sector to promote sustainability program that is designed to support cities to prepare
+and address climate change impacts, there is a need a roadmap to transform to ‘renewable energy cities’ or
+for structured mainstreaming of various approaches ‘solar cities’. Similarly, BEE has a Municipal Demand
+and mechanisms in the existing city-level frameworks Side Management (MuDSM) program for reducing
+with appropriate implementation, monitoring, and electricity consumption in municipal services, promoting
+verification protocols. Further, the challenges prevailing energy-efficient appliances, and a Green Building Star
+in the sector include knowledge gaps at various levels, Rating program that the cities can take advantage
+issues related to enforcement and implementation, of to achieve energy and cost savings in providing
+high upfront cost of green technology, and limited various municipal services. EESL has Municipal Energy
+technological development. Efficiency Programme (MEEP), Street Lighting National
+Programme (SLNP), and Unnat Jeevan by Affordable
+LEDs and Appliances for All (UJALA), that the ULBs can
+With 50% of the building stock that is expected to be
+implement for promoting energy-efficient technologies
+constructed by the year 2030 yet to be built, electricity
+in their cities. Under AMRUT, over 6.2 million streetlights
+consumption in residential and commercial buildings is
+were replaced with energy-efficient LED street-lighting.
+bound to increase. Further, 80% of GHGs in India are
+SNLP has been instrumental in replacing over 5
+generated from the present energy demand in fossil
+million street lights in over 500 cities in India, leading
+fuels, such as coal, natural gas, and oil. The Bureau
+to 1.35 billion kWh of energy savings and cost saving
+of Energy Efficiency (BEE), a statutory body under
+of INR 7.42 billion every year. The cities can also take
+the Ministry of Power, GoI, estimates that electricity
+advantage of the solar street-lighting program through
+consumption in the commercial building sector alone
+Atal Jyoti Yojana (AJAY) - an initiative of MNRE.
+in India is expanding at a rate of over 9% per year.
+Similarly, as per the National Institution for Transforming
+India (NITI Aayog), GoI, the electricity consumption It is important to note that, even though the upfront
+in the residential sector is expected to increase 6-13 costs for green building technologies are high, over long
+times by 2047. Therefore, India’s real estate sector will term, the life cycle cost, including O&M, is considerably
+play a crucial role in addressing the climate-related lower. It is evident from research that the life cycle
+challenges, especially in reducing energy demand cost of green buildings is 24-28% less compared to
+and other resource requirements in terms of electricity conventional buildings (Weerasinghe et al, 2017).
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 13
+
+Similarly, the building sector has implemented policies 3. Promote installing renewable energy systems
+and codes, which elaborate on energy efficiency in in buildings (premises), including all municipal
+residential and commercial building sector - Model corporation buildings, to reduce the dependency
+Building Bye Laws (MBBL), 2016, National Building on fossil fuels.
+Code (NBC), 2016; the Energy Conservation Building
+4. Integrate ECBC 2017 for all new municipal
+Code (ECBC); the Eco- Niwas Samhita, 2018, and the
+buildings and Eco-Niwas Samhita 2018 for
+schemes deployed by BEE. During the last decade,
+residential buildings.
+these policies and guidelines have been revised
+to address and incorporate the emerging needs of 5. Green building guidelines should be integrated
+the sector. MBBL 2016 has provided guidelines for into development control regulations and building
+sustainable buildings to reduce energy and water rules/bye laws and made mandatory for all new
+consumption to 50% of the present consumption in constructions of more than 20,000 sq.m area.
+conventional buildings. NBC developed by the Bureau
+of Indian Standards (BIS) was updated in 2016 to 6. Promote roof cooling techniques within new
+include a chapter on ‘Approach to Sustainability’. ECBC developments in peri urban areas for all new
+2007 document developed for commercial buildings constructions of more than 20,000 sq. m area.
+was revised in 2017 to address the energy performance
+7. Rating systems notified in Development Control
+of the buildings at three levels. In 2018, ECBC for
+Regulations (DCRs)/ General Development
+residential buildings “Eco Niwas Samhita 2018” was
+Control Regulations and building rules/ bye laws
+also launched. However, the ECBC document applies
+to be made mandatory for all new constructions of
+only for new construction and does not apply to existing
+more than 20,000 sqm. area.
+buildings and renovation projects. For existing buildings,
+BEE has launched a scheme ‘Star Rating of commercial 8. Integrate norms and standards to address climate
+buildings’ with the objective of building a foundation for risks (heat, floods, extreme rainfall, cyclones
+enhancing energy efficiency in buildings. Besides, the & storm surges, water scarcity, etc.) in Model
+Green Rating for Integrated Habitat Assessment Building Bye- laws, 2016 and National Building
+(GRIHA) stipulates green building guidelines for both Code, 2016 for adoption by cities. Develop
+new and existing buildings. promotional/penalty schemes available for code
+compliance, pre-certification, certification of
+4.2 Key Strategies green buildings.
+9. All Municipal Corporations with a 10 lakh plus
+The impact of the energy & buildings sector is critical
+population should Institute a green building action
+from climate mitigation, adaptation and resilience per-
+cell for knowledge creation, public awareness,
+spective. Following strategies are recommended to facil-
+empanelling green building vendors, designing
+itate the development of sustainable habitats.
+green building schemes and their promotions,
+1. Undertake energy audit of all municipal services, verification, and faster approvals for green
+including water supply, sewage, and storm water buildings in the city. Develop a high-level green
+management, on an annual basis. building committee/equivalent comprising ex-
+officio members from municipal corporation, smart
+2. Promote 100% installation of energy-efficient
+city SPV, UDD, PWD, Green building certification
+streetlights and use of renewable energy operated
+agencies, and civil engineering/architect’s
+streetlights.
+membership association. The committee will
+provide strategic advice to promote and adopt
+energy efficient buildings and green buildings in
+Roof-top Solar PV System in Jaipur, Rajasthan
+the city.
+10. Water harvesting should be mandated to reduce
+surface runoff and reduce water scarcity.
+14 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+4.3 Linkages with Policies and Programmes
+Initiatives of MoHUA
+MoHUA has been promoting new and emerging technologies in the construction sector to reduce the overall pollution
+and emissions. Further, they are also promoting energy efficiency, resource management, and recovery through
+green building initiatives. Further, it is also promoting the uptake of renewable energy and reducing reliance on fossil
+fuels. The Ministry has spearheaded several initiatives, including the PMAY-U, AMRUT, SCM, and Model Building
+Bye-Laws, 2016.
+Global Housing Technology Challenge (GHTC) under PMAY-U
+• The objective of the GHTC (launched in January 2019) is to identify new emerging proven construction
+technologies, replacing conventional construction practices and building materials that are polluting, consume
+higher energy, and use natural resources.
+• Fifty four new emerging construction technologies were identified for construction of mass housing.
+• Six Light House Projects (LHPs) of about 1,000 houses each with necessary infrastructure in six regions of
+the country have been planned using six distinct technologies identified under GHTC. Funds for these projects
+have been allocated.
+• Future evolving technologies will be supported to foster an environment of research and development in the
+country through Incubation and Acceleration Support at the Indian Institute of Technology (IIT) Madras, IIT
+Mumbai, IIT Kharagpur, IIT Roorkee, and the Council of Scientific & Industrial Research (CSIR) lab at Jorhat
+to help technology initiators.
+Model Building Bye-Laws (MBBL), 2016
+• Rainwater Harvesting (RWH) is mandatory for buildings on plot size of 100 sq. m or more.
+• Rooftop solar photovoltaic (PV) system is mandatory for buildings on plot size of more than 500 sq. m.
+• Waste water recycle is mandatory for all buildings having a minimum discharge of 10,000 litres per day.
+• Processing of MSW should ensure implementation of the 4R rule of ‘Reduce, Reuse, Recycle, and Recovery’
+through promotion of waste-to-compost and segregation of dry and wet waste.
+• All buildings on plot sizes above 100 sq.m. to comply with the green norms and conform to the mandatory
+requirements for sanction as per Green Rating systems to reduce energy and water consumption to 50% of
+the consumption in conventional buildings.
+• 20% of the recreational space to be left unpaved for green space.
+AMRUT
+• Replacement of conventional lights with LEDs: 6.2 million streetlights replaced with LED lights out of targeted
+9.8 million lights. This is estimated to save around 1.35 billion kWh units of energy per year and reduce about
+1.1 million tonnes of CO emission per year.
+2
+• Energy audit of water pumps and replacement of inefficient pumps: MoUs were signed with 446 cities (29
+states/UTs), and field survey for energy was completed in 413 cities (28 states/UTs), out of which energy
+audit was completed in 370 cities (27 states/UTs). 11,567 pumps (26 states/UTs) have been identified for
+replacement.
+Smart Cities Mission (SCM)
+• In case of redevelopment and greenfield models of Smart Cities, at least 80% of the buildings should be
+energy-efficient and green buildings.
+• Renewable energy is to be promoted to ensure that a minimum of 10% of the city’s energy needs are met by
+solar power.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 15
+
+Smart Sustainable Campus
+Infosys Pune (Phase 2) is the largest campus in the world to earn Leadership in Energy and Environmental
+Design - Existing Building Operation and Maintenance (LEED-EBOM) - Platinum Certification from the US Green
+Building Council (USGBC), which is a globally accepted benchmark for design, construction, and operation of high-
+performance existing green buildings. LEED is one of the most stringent green rating tools for existing buildings,
+which verifies whether a building is performing sustainably.
+The campus started operations in 2004 with 114 acres in Hinjewadi, wherein efficiency improvements were
+achieved through large-scale retrofit projects in 10 office buildings, three food courts, employee training centre,
+guest house, and sports complexes across the campus that can accommodate 34,000 people. A two-pronged
+strategy was adopted in 2008, which were:
+• Designing new buildings to meet the highest efficiency standards
+• Implementing deep retrofits in old buildings to increase energy efficiency.
+The details of measures taken for efficient design in 6 years (2008 to 2014) and their impact is as under:
+• 663 million units (kWh) saved.
+• 0.56 million Tons of CO emissions reduced.
+2
+• 80 million USD spend on electricity, saved.
+• Ensuring that 90% of occupied space should be naturally lit (impact of day lighting i.e., employee health,
+work productivity, pleasant work space).
+• Re-engineering of chiller plants reduced energy consumption by 30%, number of equipments by 45% and
+space requirement by 25%.
+• Replacement of electric heaters with heat pumps is 3.5 times more efficient (1 kW electricity required for
+electric water heaters of 0.95 kW heating whereas 1 kW can heat 3.5 kW through heat pump). This led to a
+reduction of 4 MW of connected load across the campus.
+• 2.6 million sq. ft area covered with white roofs across Infosys campuses. reduced building heat gain and
+urban heat island effect.
+• 2000 street light retrofits, high-pressure sodium vapour luminaire of 250 W replaced with 90 W LED, migrated
+from yellow to white light for improving night vision, retrofit through replacement of standalone UPS systems
+with modular type high-efficiency UPS which improved efficiency by 15% as a result of a reduction in the
+number of UPS and annual maintenance costs.
+• Smart operations through Command and Control Centre to monitor, manage and optimise resources,
+data driven building operations through energy-saving algorithms, provide data to optimise future building
+designs, demystifying solar by publishing live data, ground level weather data, 2020 goal for corporates
+allow solar funding as part of home loan etc.
+According to a study, traditional “dark roofs” absorb significant sunlight - around 100 watts per sq. ft. While white
+roofs absorb less sunlight than either green or black roofs, they offset a portion of the warming effect from the
+GHG emissions. Both white and green roofs do a good job at cooling the building and cooling the air in the
+city. However, white roofs are three times more effective at countering climate change than green roof, and
+white roof is the most cost-effective over 50 years. The high installation cost of green roof, their environmental
+benefits may at least partially mitigate their financial burden (Source: Laurence Berkeley National Laboratory,
+California, USA).
+16 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+5
+Urban Planning, Green
+Cover, and Biodiversity
+5.1 Key Priorities and infrastructure requirements. Besides, lack of data to
+enable risk-informed planning, fund scarcity, and lack of
+qualified human resources (urban/town planners) pose
+Urban areas in India are expected to house more serious challenges in formulation, implementation, and
+than 40% of the country’s total population, and monitoring of climate actions at the city level. Spatial
+will contribute to over 75% of the national GDP and temporal data loss and damage due to disasters
+by 2030 (Source: MoHUA, SCM). However, as remain a gap. In addition, timely implementation and
+the cities expand, the energy demand is expected to monitoring of various spatial plans and provision for
+increase dramatcally, resulting in high GHG emissions revision, need to be enabled with the use of the latest
+and thereby contributing to the climate change. Since technological tools, such as Geographical Information
+much of India’s future development is centred around System (GIS) and Remote Sensing techniques.
+cities and urban areas, consistent with the objectives
+of the Paris Agreement, cities urgently need to plan
+Urban environment consists of many aspects, including
+and implement climate actions in an integrated and
+waterbodies, open spaces, and built-up areas. The
+inclusive way. This would include mitigation of GHG
+waterbodies and open spaces help people adapt better
+emissions and adaptation to climate change impacts
+to the adverse impacts of extreme climate events besides
+to foster comprehensive social, cultural, economic, and
+combating the urban heat island effect. These also
+environmental benefits.
+combat water crisis, acting as reservoirs for draining,
+retention for groundwater recharge, for protection in
+The cost of poor planning of Indian cities is estimated case of floods, and for maintaining biodiversity. Further,
+between 1.2% and 6.3% of the GDP by 2050 (Mani, local sources of freshwater decrease the dependence
+Bandyopadhyay, Chonabayashi, Markandya & Mosier, on energy for pumping purposes.
+2018). Therefore, there is an urgent need for urban
+planning reforms that can facilitate integrated urban
+Similarly, sufficiently large and protected green spaces
+and regional planning approaches to climate-sensitive
+reduce the impact of human activities on climate, while
+development, with active public participation in a
+biodiversity helps in carbon sequestration, air and water
+time bound manner. At the same time, adoption and
+purification, mitigation of impacts of environmental
+enforcement of existing mechanisms and guidelines,
+pollution, noise reduction, and microclimate regulation.
+such as the revised URDPFI guidelines 2014 on
+The effects of climate change and disasters (natural
+preservation and rejuvenation of water bodies, green
+and man-made) are faced by urban inhabitants, and
+and eco-sensitive areas, need to be strengthened by
+impact urban infrastructure. As effects of climate
+the Urban Development Authorities (UDAs) and Urban
+variability leading to extreme events are becoming
+Local Bodies (ULBs).
+more severe and frequent, the incidents of damage
+to urban infrastructure are also increasing. Therefore,
+As of July 2019, out of the 7,933 cities and towns, 2,843 all cities should be able to identify their potential
+have statutory Master Plans. The disaggregation of hazards, vulnerabilities, and risk as well as be prepared
+Master Plans in the form of Zonal Development Plans/ for a prompt response mechanism to combat any
+Local Area Plans /Layout Plans are rarely available disaster situations, including robust plans for recovery,
+for most cities and towns, leading to haphazard and reconstruction, and rehabilitation to ‘build back better’.
+unplanned growth. Moreover, a review of existing plans
+suggests that many towns and cities that have Master
+Plans or Development Plans, which do not match with
+the growing infrastructural requirements and emerging
+challenges arising out of climate change, environmental
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 17
+
+5.2 Key Strategies disaster resilient urban planning.
+6. Carry out rejuvenation and conservation of urban
+waterbodies as envisaged under the Jal Jeevan
+The following strategies are recommended for Urban
+Mission (JJM-Urban).
+Planning, Green Cover and Biodiversity to facilitate sus-
+7. Enforce existing guidelines to preserve and
+tainable habitat development:
+protect river floodplains, banks, river beds, natural
+1. Map all eco-sensitive zones, biodiversity
+drainage canals, and open areas.
+hotspots, natural resources in the city including
+8. Digitise the city drainage network, and used the
+waterbodies/drinking water sources, along with
+information to prepare drainage master plans,
+their catchments, open spaces/wetlands, and
+which include locations of storm water system,
+forest areas. Further, prepare a heat island
+waterbodies, streams, natural canals, invert
+map to inform mitigation actions to regulate
+levels, terrain, land use, and land cover.
+micro-climate and reduce GHG emissions locally.
+9. Ensure that 10-12% of city area is earmarked as
+2. Take appropriate disaster mitigation and
+recreation spaces, including the green and blue
+management measures in vulnerable areas
+infrastructure of the total developed area following
+as identified in the Vulnerability Atlas of India
+the URDPFI guidelines.
+(Source: Building Materials and Technology
+10. Develop green belt buffer zones around the
+Promotion Council (BMTPC)), which contains
+industries situated within the Master Plan limit.
+digitised state/UT-wise Hazard Maps with respect
+11. Prepare and implement City Climate Action
+to earthquakes, wind, and floods.
+Plan (mitigation and adaptation) for Million-plus
+3. Protect and prevent the construction of roads
+cities, and integrate with the Master Plan, Local
+and buildings on wetlands/waterbodies and flood
+Areas Plans, and Town Planning Schemes, as
+zones to maintain channels for surface runoff.
+applicable.
+4. Promote maintaining of green cover using
+12. Apart from the focus on land use and land cover
+an ecological approach, specifically focusing
+aspects, Make provisions for proper planning
+on native tree species and sustaining urban
+of water supply, sewerage, and storm water
+biodiversity that provides important ecosystem
+drainage networks in the Master Plans.
+services contributing to climate change mitigation
+13. Reduce impervious surfaces and encourage
+and adaptation, such as carbon sequestration,
+construction of permeable sidewalks and
+air and water purification, mitigation of impacts
+pavements to reduce the intensity of surface
+of environmental pollution, noise reduction, and
+runoff during monsoons and contribute to
+regulation of microclimate.
+increased recharge of the groundwater, thereby
+5. Develop a plan of action for city preparedness
+helping to address stresses, such as droughts
+to tackle natural and man-made disasters in
+and water scarcity.
+alignment with the Sendai Framework for the
+14. Take effective steps to increase green cover in
+Disaster Risk Reduction (DRR), NDMA guidelines
+urban areas, which prevents soil erosion (during
+(2010, 2014, 2019), and MoHUA’s Standard
+run-off) and help manage the surface and ground
+Operating Procedure (SOP) on Urban Flooding
+water hydrology. Eg. Maintain vegetation and
+(2017). State/city level development controls/
+trees to stabilise soil and and reduces the risk of
+codes should address multi-hazard risks in line
+landslides in hilly/mountainous areas.
+with the Vulnerability Atlas of India to enable
+Rejuvenation of City Greens by
+Gwalior Smart City, Madhya Pradesh
+18 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+5.3 Linkages with Policies and Programmes
+Initiatives of MoHUA
+Rejuvenation of waterbodies is critical to combat urban water stress. Waterbodies are essential, as they cater to
+drinking water needs, act as retention basins for groundwater recharge, protect during floods, and help to maintain
+biodiversity. Having local sources of fresh water decreases the dependence on energy used for pumping purposes.
+Open spaces play a critical role in climate mitigation and adaptation aspects by improving the microclimate and
+enabling groundwater recharge.
+AMRUT
+• INR 176.8 billion has been allocated by MoHUA for development and restoration of green spaces and parks.
+• 1,770 parks have been developed at a cost of INR 9.9 billion, and creation of another 650 green spaces and
+parks worth INR 5.2 billion is under progress. The development of green space and parks with special provision
+for child-friendly components has ensured access to amenities, reduction in carbon footprints, increase in
+groundwater level, and improvement in quality of life of citizens.
+• Local Area Plans/Town Planning Schemes (LAP/TPS) worth INR 0.5 billion has been launched as a pilot
+scheme in 25 cities @ INR 0.02 billion per city to catalyse planned and sustainable urban growth. The scheme
+will enhance the public realm (public spaces, areas under roads, etc.) by enabling the redevelopment of the
+existing built environment, preparing a new layout with enhanced infrastructure provision, and providing for
+planned urban expansion.
+• Formulation of GIS-based Master Plans for 500 cities is one of the crucial reforms under AMRUT. It is a
+100% centrally-funded sub-scheme with a total outlay of INR 5.15 billion, having three components, i.e., geo-
+database creation, GIS-based master plan formulation, and capacity building.
+URDPFI Guidelines, 2014
+• The URDPFI guidelines provides detailed methodology and framework for preparing various types of spatial
+plans, such as Metropolitan Regional Plan, Regional Plan, Master Plan, Zonal Development Plan, and Local
+Area Plan.
+• It advocates for the development of compact cities, ensuring the use of public transport, and facilitating non-mo-
+torised transport (NMT). Norms for charging infrastructure in DCRs with a vision to implement ‘electric mobility’
+and emphasis on Transport Oriented Development (TOD) for a span of the next 30 years have also been
+incorporated.Guidelines.
+Smart Cities Mission (SCM)
+• A key feature of SCM is preservation and development of open spaces - parks, playgrounds, and recreational
+facilities.
+Park for citizens in Diu, UT of Daman and Diu
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 19
+
+20 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+6
+Mobility and Air Quality
+6.1 Key Priorities recreation at affordable cost and within a reasonable
+time. This articulates the importance of incorporating
+urban transport as an integral component of land use
+Urban India has experienced unprecedented plans under the Urban Planning component. Further,
+growth of private motor vehicles during the SCM, AMRUT, Automotive Mission Plan 2026, and
+last decade, resulting in traffic congestion and Faster Adoption and Manufacturing of Electric/Hybrid
+increase in air pollution levels. The average (FAME) India are playing a key role in promoting
+growth of vehicle registration in the country during 2001- sustainable mobility. Studies show that bus systems
+16 was 9.4%. Five metro cities have a vehicle registration supported by quality pedestrian and cycling networks
+rate of over 500 per 1,000 people, and account for over for first and last-mile connectivity form the most cost-
+54% of the total vehicles in the metropolitan cities as of effective public transport solution. The Metro Rail
+2011 (Source: Indian Institute for Human Settlements, Policy, 2017 has also supported the construction of
+2015). The public bus services are also limited to metro networks across various cities to reduce private
+large cities, and most cities lack road safety measures vehicle ownership. The missions have enabled several
+for pedestrians and cyclists. It is estimated that the cities to improve their bus systems, footpaths, and
+transport sector alone contributes to almost 13% cycling networks.
+(Source: International Transport Forum - Organisation
+for Economic Co-operation and Development, 2019) 6.2 Key Strategies
+of carbon dioxide emissions in India, more than three
+times compared to what it emitted in 1990. Therefore, The folllowing strategies are recommended to address
+cities need to formulate and implement strategies the issues related to urban mobility and air quality to
+focusing on inclusive and multi-modal mobility options facilitate the development of sustainable habitat:
+that will not only address the problems related to the
+1. Municipal Corporations should prepare action
+high consumption of non-renewable energies, but also
+plans to promote the use of clean technology-
+promote health and user safety, and equal mobility
+based shared vehicles. Adoption of cleaner
+options for all.
+and environment-friendly technologies, such as
+The development of urban transport is guided by the Electric Vehicles (EV), Compressed Natural Gas
+National Urban Transport Policy (NUTP), 2006, which (CNG), bio-fuels, etc., and provision of necessary
+emphasises planning for people rather than vehicles infrastructure. Cities should also encourage the
+by providing sustainable mobility and accessibility to all shift of goods vehicles to cleaner fuels to reduce
+citizens to place of work, education, social services, and air pollution.
+Traffic Management at Sursadan Junction,
+Agra, Uttar Pradesh
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 21
+
+2. Incentives should be provided to attract and all streets. All cities shall implement the Ministry’s
+enable PPP to set up charging infrastructure, guidelines on NMT (2016) in coordination with
+shared mobility, first and last-mile connectivity, UDAs, and shall design and implement green
+and the use of renewable energy sources. cover and open spaces along the walking and
+cycling paths. Cool pavements with good water
+3. Mixed use of walking, cycling within the city should
+absorption pavement technologies should be
+be promoted in line with the National TOD Policy
+used in all walking and cycling paths.
+2017. NMT plans should be developed to include
+no-car zones, docking stations, public bicycle 6. Cities should complement the Pollution Control
+sharing networks, etc. These facilities should be Board’s existing monitoring system to collect and
+designed with safety aspects for pedestrians and analyse data on localised pollution hot-spots.
+cyclists for better uptake. To implement the same, Municipal Corporations
+should adopt affordable technologies by
+4. In order to decongest cities and discourage the
+introducing low- cost air quality sensors and
+use of private vehicles, Municipal Corporations,
+linking the latter to the Integrated Command and
+in collaboration with the Traffic Department,
+Control Centres (ICCCs).
+should introduce and monitor strategies, like
+higher parking charges, congestion charging, 7. All million-plus cities should develop city-level
+charges on low occupancy vehicles, and higher clean air action plans, which should also include
+registration charges on the purchase of a second detailed monitoring of air pollution and its impact
+vehicle, mandatory parking requirement based on the CPCB guidelines.
+certification for private vehicle ownership,
+8. The choice of public transport should be
+mandating private parking spaces for registering
+assessed according to the corridor demand,
+new cars, etc. They should encourage usage of
+terrain, financial capacity, and affordability
+public transport by providing an affordable, safe,
+level. Typically, Metro Rail Systems form the
+comfortable, quick, reliable, and environment-
+high-capacity systems and are suited for high
+friendly mode of public transport. Cities should
+demand corridors. Buses, Light Metro Rail
+establish quality-focused multi-modal public
+Systems (Metro Lite and Metro Neo), and Bus
+transport systems that are well-integrated,
+Rapid Transit System (BRTS), etc. typically
+providing seamless travel across modes and
+constitute the medium and low-capacity public
+encourage greater use of public transport and
+transport systems. Additionally, other modes
+non-motorised modes.
+such as cable cars, trolley buses, and water
+5. ULBs should promote NMT by improving transport etc., may be explored as per
+pedestrian safety, comfort, and convenience on requirements.
+Public Transport System in Chennai, Tamil Nadu
+22 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+6.3 Linkages with Policies and Programmes
+Initiatives of MoHUA
+An increase in the availability of public transport can promote the modal shift from private to public transport. This, in
+turn, helps tremendously to reduce carbon emissions by the transport sector.
+• National Urban Transport Policy, 2006
+• Metro Rail Policy, 2017
+• National Common Mobility Card (NCMC)
+• Integrated Command and Control Centre (ICCC)
+• Transit Oriented Development (TOD) Policy, 2017
+• Guidance documents UMTA & UTF Operations, Urban Bus Specification, Operation of City Bus
+Service, Non-Motorised Transport (NMT), Public Bicycle System (PBS), Value Capture Finance
+(VCF) Framework, CMP Toolkit, etc.
+Metro Rail
+• A total of about 721 km of the metro rail line is operational in 18 cities, and approximately 1,000 km of metro
+rail, including 82 km of Regional Rapid Transport System (RRTS) is under construction in 27 cities.
+• Standards for Light Urban Rail Transit System named “Metrolite” has been issued by the Ministry in July 2019.
+This system is suitable for cities with a lower projection of ridership. It can also be used as a feeder system to
+the metro system.
+• 42 MW of Rooftop Solar PV system in metro depots and station buildings has led to reduction of CO emissions
+2
+of 67,500 tonnes during 2019-20.
+Bus Rapid Transit System (BRTS)
+Presently, 400 km of BRTS is operational across the country, and 180 km of the same are under construction.
+National Common Mobility Card (NCMC)
+NCMC is an inter-operable transport card that runs on a RuPay card, and will enable people to pay multiple kinds
+of transport charges, including metro services, bus travel, toll taxes, parking charges, retail shopping, and even
+withdraw money across the country.
+AMRUT
+Central Government has allocated INR 14.36 billion for NMT in urban areas, of which 149 projects worth INR 2.37
+billion to develop footpaths/walkways/skywalks, sidewalks, foot over-bridges, facilities for NMT, and multi-level
+parking have been completed. 184 projects worth INR 7.87 billion are under progress. These projects will enhance
+the zero-carbon public mobility for all. In order to facilitate the availability of charging infrastructure for EVs, MBBL
+2016 and URDPFI guidelines 2014 have been amended in February 2019 to facilitate states/cities to make provisions
+in their bye-laws for providing EV charging infrastructure.
+SCM
+ICCC projects under SCM includes some of the Intelligent Transport System (ITS) components, like camera- based
+city surveillance, smartstreet lights, smart parking, traffic management, environmental sensors, Bus Intelligent
+Transport System, common mobile apps, etc., to strengthen the urban transport system. More than 60 cities across
+India are in the process of establishing ICCCs. Ministry’s support to ‘Streets for People and Cycle for Change’
+initiatives further help in promoting NMT.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 23
+
+24 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+7
+Water Management
+7.1 Key Priorities
+The increase in urbanisation and the resultant Urban water management is now on the verge of a
+economic activities have increased the revolution in response to rapidly escalating urban
+demand for water by many folds in cities. NITI demand for water and the need to make urban
+Aayog estimates (2019) suggest that India water systems resilient to climate change. Growing
+will become water-stressed by 2025. More than 20% competition, conflicts, shortages, waste, and
+of India’s groundwater has dried up or is in a critical degradation of water resources make it imperative to
+state, emphasisng the need to augment existing rethink conventional concepts - to shift from an
+water resources through recharge, rejuvenation, and approach that attempts to manage different aspects
+storage, including RWH. With climate change expected of the urban water cycle in isolation to an integrated
+to cause variation in precipitation patterns and affect approach supported by all stakeholders.
+water availability, there is an urgent need for cities to
+adopt integrated water and waste water management The recently launched Jal Jeevan Mission (Urban)
+systems. intends to promote the circular economy of water by
+developing CWBPs, focusing on recycle/reuse of
+Cities are currently managing different water cycle treated sewage, rejuvenation of waterbodies, and water
+components, including surface water, rainwater, conservation. Further, 20% of the water demand is to be
+groundwater, storm water, and wastewater. However, met by reused water with the development of institutional
+the ability of these isolated management systems to mechanisms.
+deliver services is increasingly jeopardised due to rapid
+population growth, spatial expansion of cities/towns, as MoHUA published the ‘Manual on Water Supply and
+well as climate variability. Treatment’ in May 1999 to assist ULBs in managing
+urban water supply. It has also published a ‘Manual
+As per Census 2011, 70.6% of the urban households on O&M of Water Supply Systems’ in January 2005
+(HHs) have access to piped water sources, whereas to assist ULBs in execution and O&M of urban water
+26.9 % HHs depend upon non-piped sources, such as supply. The manual provides detailed guidelines
+wells, hand pumps, tube wells/bore wells. The remaining and methodology for planning, designing, execution,
+2.5% depend on unimproved sources, such as springs, and O&M of water supply systems. It also provides
+rivers/canals, tanks/ponds/lakes, etc. Poor availability information on the recent technical advances and
+of water (i.e., 0.5 - 5 hrs a day) and inefficiency in water trends in developing protected water supply systems.
+supply (i.e. unaccounted-for-water up to 50%) are the
+major shortcomings in the urban water supply. Besides, In order to address the problem of urban sanitation,
+large inequities exist in both the quality and quantity of SBM-Urban was implemented to cover all cities and
+water supplied. make the country ‘Open Defecation Free’ (ODF).
+Besides, the mission aims to provide universal
+Urban water supply service, at present, is fraught with coverage of sewerage system, including faecal septage
+myriad challenges. On one hand, local water resources management in 500 Mission cities.
+(surface and groundwater) are getting exhausted/
+polluted, and cities are reaching much beyond their The Ministry has released the ‘Manual on Sewerage
+catchment area to source surface water. On the other and Sewage Treatment Systems, 2013’ in three
+hand, due to operational and management challenges, parts: Part A: Engineering, Part B: O&M, and Part C:
+the water distribution systems are suffering from Management. The manual provides information on the
+substantial physical losses. The existing challenges recent technical advances and trends in the planning,
+faced today by the water sector include inefficient designing, execution, O&M, and asset management,
+supply and demand management, absence of equity in which all the ULBs refer to in urban areas. It also
+water distribution, financial and institutional issues and provides the technological interventions to prevent
+leakage management, limited metering, and archaic untreated discharge of sewage to avoid groundwater
+billing and collection systems. contamination.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 25
+
+Providing safe, reliable, and affordable water supply to address the problem of water crisis. Within the
+through efficiently managed arrangements is a crucial existing urban development framework, particularly
+goal for the water supply sector. MoHUA has issued AMRUT, initiatives are taken up for implementation
+a Guidance Note for Continuous Water Supply (24/7 and monitoring of existing Stormwater Drainage (SWD)
+supply) in 2009. These guidelines intends to sensitise systems. MoHUA has prepared a ‘Manual on SWD
+state governments, ULBs, and service providers to the Systems, 2019’ to provide necessary guidance to all the
+policy and operational issues that need to be addressed. stakeholders towards aspects of sustainable design,
+The guidelines are under the process of revision. A planning, and management of SWD systems across
+paradigm shift is required to consider stormwater as towns and cities.
+a resource instead of waste, and leverage stormwater
+Water Management System in Dehradun, Uttarakhand
+26 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+7.2 Key Strategies
+In alignment with India’s vision and ongoing programmes, rejuvenation of waterbodies. All ULBs should
+the following water management strategies are protect and prevent the construction of roads
+recommended to ensure sustainable habitats: and buildings on wetlands/waterbodies and flood
+zones to maintain existing channels for surface
+1. City administrations should implement supply
+water runoff.
+side management for efficient distribution of piped
+water supply. Water supply departments and Jal 6. City administrations should mandate treatment,
+Nigams should adopt 100% water metering, and recycle and reuse of at least 20% of the wastewater
+develop an appropriate water tariff structure, in alignment with the guidelines of JJM(U), and
+considering the water usage and income levels of promote circular economy of water through the
+the consumers. This could be achieved through development of CWBPs. Decentralised wastewater
+practising escalating tariff, i.e., the consumption management approach should be promoted for
+level of 20 lpcd (as per WHO and UNICEF) should areas where there is a possibility for localised
+be subsidised, and at 135 lpcd, full cost recovery reuse of treated wastewater (as compared to all
+should be built into the tariff. The tariff should be sewage being treated in one far corner), which
+increased for consumption levels above the set will reduce the usage of fresh water. Building and
+benchmarks, which will not only help in sustainable construction projects, having an area of more than
+consumption of water, but also augment revenues. 20,000 sq. m (or as per latest norms) should install
+treatment plants within their premises to treat
+2. Full recovery of O&M charges should be
+100% of the generated wastewater. Building and
+encouraged by Jal Nigams and Water supply
+construction projects with an area of more than
+departments/authorities through rationalising user
+5,000 sqm. (or as per latest norms) should install
+charges and improving the efficiency of water
+treatment plants within their premises in case of
+tax collection. For conventional underground
+unavailability of municipal sewage network.
+sewerage systems, the user charges could be
+linked to the water consumption of the relevant 7. All Municipal Corporations should conduct water
+property. O&M subsidies should be phased out in and energy audits for water supply systems and
+the short term for moving towards 100% O&M cost wastewater management, especially treatment
+recovery. Capital Expenditure (CapEx) recovery plants and pumping stations. All ULBs should
+should be aimed for in the long run. Energy-efficient undertake NRW assessments and put in place
+equipments for wastewater pumping should Reduction Strategy and Action Plan, incorporating
+be promoted, as it leads to a reduction in GHG options for active leakage control (at distribution
+emissions (CO emissions) per kWh of electricity mains, storage tanks, and service connection
+2
+consumed, thereby reducing O&M costs. points). Cities should aim to achieve the target of
+NRW below 20%.
+3. ULBs should map the significant ground and
+surface water sources (catering to 5% or more 8. While strategising (planning) the wastewater
+of a city’s water needs), and prepare a plan for management approach for an urban area,
+augmenting existing water resources through administrative authorities should shift their focus
+recharge, rejuvenation, and storage. ULBs should (end objective) from the conventional ‘disposal-
+make GIS-enabled urban plans for water supply oriented’ approach to the ‘recycle and reuse-
+and sewerage systems. RWH should be made oriented’ approach. Relevant authorities should
+mandatory within all buildings to replenish and develop advisories/standards for safe use of
+recharge the groundwater. wastewater, greywater, and sludge in various
+activities, with special focus on managing
+4. Continuous (24x7) water supply should be adopted
+associated health risks. This includes, but not
+by relevant authorities, which will prevent the
+limited to, the following: (a) Integration of stormwater
+contamination of drinking water and optimise the
+management systems with wastewater recycling
+use of fresh and treated water. Reduction of the
+systems shall be made, wherever possible, (b)
+non-revenue water (NRW) should be ensured by
+Reuse of greywater, after primary treatment, in
+identifying illegal water connections through water
+flush toilets should be encouraged, ensuring no
+audits and community involvement.
+human contact, (c) Authorities are encouraged to
+develop regulations for new development to reuse
+5. Municipal Corporations should develop Integrated
+greywater, minimising impacts on freshwater,
+Urban Water Resource Plans, which includes
+strategies for prevention of encroachments and
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 27
+
+(d) Develop plans/agreements with industries 10. Rejuvenation and conservation of water bodies
+situated within/nearby to use the treated should be promoted, as they act as essential
+wastewater in their manufacturing process, reservoirs for drinking water, retention basins for
+based on the quality of the treated wastewater, groundwater recharge and risk prevention in case
+(e) Mandate use of recycled wastewater in cooling of floods.
+towers of commercial and institutional buildings,
+11. Recycling and reuse of wastewater should be
+and (f) Develop plans/agreements to utilise the
+promoted, as it reduces the stress on the existing
+treated wastewater from STPs in thermal power
+water resources, which are adversely affected by
+plants.
+climate change.
+9. All ULBs should publish a rapid flood risk
+assessment report to analyse the reasons for
+flooding/water stagnation, the hotspots, level,
+and frequency. All Municipal Corporations should
+implement an end-to-end urban flood early
+warning systems and link the same with ICCC,
+where possible.
+7.3 Linkages with Policies and Programmes
+Initiatives of MoHUA
+Considering that climate change is expected to create additional pressure on the existing water resources, reducing
+NRW is considered a robust climate smart solution. Further, it can also be used as a demand management instrument
+to decrease additional stress on existing water resources. NRW reduction will cater to the reduction in energy
+consumption required for pumping water, thereby reducing GHG emissions.
+AMRUT
+• The Mission focuses on sustainable water management, comprising universal water supply coverage, reducing
+NRW (universal water supply, water meters, and leakage detection technologies), double piping systems in
+group housing societies, and water conservation interventions.
+• The central government has allocated INR 390 billion (50% of the total budget) to the water supply sector. 553
+water supply projects worth INR 76.83 billion have been completed, and 759 projects worth INR 338.6 billion
+are under progress.
+• Water tap connections have been provided for 9.5 million HHs, and additional 4.42 million water tap connections
+will be provided under the Mission to achieve universal coverage.
+• Energy audit of water pumps and replacement of inefficient pumps is another essential milestone. MoUs have
+been signed with 474 cities (30 states/UTs) , and field survey for energy audit has been completed in 420 cities
+(29 states/UTs), out of which energy audit has been completed in 396 cities (27 states/UTs) and 13,051 pumps
+(26 states/UTs) have been identified for replacement.
+• In order to address water scarcity, Jal Shakti Abhiyan (JSA) was launched by the Ministry of Jal Shakti in 754
+water-stressed ULBs on 01 July 2019. MoHUA under AMRUT has participated actively in the Mission and
+issued guidelines for urban water conservation to undertake conservation, restoration, recharge, and reuse
+of water. It aims to create ‘Jan Andolan’ through asset creation and communication campaigns to ensure
+interventions in the four major thrust areas for urban water conservation, namely: RWH, reuse of treated
+wastewater, rejuvenation of waterbodies, and plantation. During JSA, 239,847 RWH structures have been
+installed till date; 420 MLD wastewater have been treated, 1,480 water bodies covering 6,082 acres of land
+have been rejuvenated; 7.5 million saplings have been planted, providing green cover to 893.15 sq.km area,
+and 3.4 million citizens have registered their participation.
+• In order to ensure sewerage and septage management, besides laying underground sewerage systems and
+installing septic tanks, the Mission promotes recycle and reuse of wastewater to improve water use efficiency
+and reduce dependence on drinking water for non-potable uses. The target of the Mission is to provide 14.5
+million sewer connections to enhance substantial sewerage network coverage. INR 324.56 billion (42% of the
+Mission budget) has been allocated for sewerage and septage projects.
+28 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+• Under the Mission, 257 projects on networked underground sewerage systems, augmentation and rehabilitation
+of old sewerage systems, STPs, Tertiary Treatment Reverse Osmosis (TTRO) plants, Faecal Sludge Treatment
+Plants (FSTPs), and mechanical and biological cleaning of sewers/septic tanks worth INR 52.64 billion have
+been completed. Another 548 projects worth INR 265.7 billion are under progress.
+• So far, about 6 million sewer connections have been provided, leading to treatment of wastewater and its
+reuse in industries, thermal power plants, horticulture, etc. It has led to improved hygiene conditions, cleaner
+environment, and better quality of life.
+• Ministry has brought out the ‘Faecal Sludge and Septage Management Policy (FSSM), 2017’, wherein detailed
+guidance/approach to roll out FSSM policy is provided which, inter alia, emphasises on the objectives, septage
+collection, and transportation, treatment and disposal, specific milestones, and leveraging FSSM to achieve
+100% access to safe sanitation.
+• Construction and improvement of stormwater drains while adhering to guidelines contained in ‘Manual on
+Stormwater Drainage Systems (2019)’ has been taken up in order to reduce flooding. INR 29.6 billion has
+been allocated towards drainage projects. So far, 475 projects worth INR 7.0 billion have been completed, and
+another 297 projects worth INR 21.4 billion are under progress.
+• SOP on urban floods was issued in 2017 to mitigate and manage floods in cities.
+• AMRUT 2.0 is a step towards ‘AatmaNirbharBharat’ with aim of making the cities ‘water-secure’ and providing
+functional water connections to all HHs.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 29
+
+30 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+8
+Waste Management
+8.1 Key Priorities
+Urban India generates about 55 million tonnes Since 2016, in order to create healthy competitiveness
+of municipal solid waste (MSW) annually and to evaluate the performance of ULBs, the Annual
+(Source: Planning Commission Report, 2014). Swachh Survekshan (cleanliness survey) is carried out,
+As per a 2009 report of the Department of under which the ULBs are ranked based on various
+Economic Affairs (DEA), per capita waste generation parameters of cleanliness. In the first round of Swach
+is increasing by about 1.3% annually. It is estimated Survekshan, 73 million-plus cities were evaluated.
+that 10-25% of the total MSW generated in Indian Similarly in 2017, the survey was conducted among 434
+cities is Construction and Demolition (C&D) waste, cities. Swachh Survekshan 2018 and 2019 covered
+of which only 5% is recycled and reused. The total 4,203 and 4,237 ULBs respectively. The Swachh
+quantum of waste from the construction industry was Survekshan 2020 covered 4,242 cities, and introduced
+estimated to be around 100 million tonnes per annum the concept of ‘Continuous Survekshan’ to ensure
+in 2018 (NITI Aayog, 2019). According to MoEF&CC, that the Mission outcomes are sustained through a
+MSW generation is expcted to reach 0.45 million continuous quarterly monitoring and verification.
+tonnes per day (TPD) by 2031, and 1.19 million TPD
+by 2050. The relationship between solid waste and
+SWM Rules 2016 emphasises on source segregation
+GHG emissions is well established. GHGs can
+of waste into three streams (i.e., bio-degradable, non-
+be avoided through scientific management of waste.
+bio-degradable, and domestic hazardous waste) and
+The first principle of the integrated waste management
+proper transportation and treatment of solid waste.
+hierarchy is reduction of waste generation at source.
+The Rules insist that all industrial units, located
+Therefore, it is essential for cities to prioritise actions
+within 100 km from the refused-derived fuel (RDF)
+for waste reduction and accordingly plan their future
+and waste-to- energy plants based on solid waste,
+waste management operations and infrastructure
+shall make arrangements within six months from the
+requirements.
+date of notification of these Rules to replace at least
+5% of their fuel requirement by refused derived fuel
+On 2nd October 2014, SBM-U was launched by MoHUA, so produced. As per the latest amendment to the
+with the objectives of making the country Open Electricity Tariff Policy 2006 by the Ministry of Power,
+Defecation Free (ODF) and promoting scientific SWM. it is mandatory for the state electricity distribution
+With this vision, India has embarked on the journey of companies (Discoms) to purchase all power generated
+cleanliness, duly advocating compliance with the SWM from MSW at the rate determined by the appropriate
+Rules 2016, C&D Waste Rules 2016, and the Plastic authority. Further, as per the Policy on Promotion of
+Waste Management Rules 2016, among others. At the City Compost, the Ministry of Chemicals & Fertilisers
+time of the launch of SBM-U, 26,000 TPD of waste was will provide a fixed market development assistance
+being treated, which has been enhanced substantially in of INR 1,500/metric tonne of city compost for scaling
+the last 6 years of the Mission to approximately 96,000 up and consumption of the product. Initially, the
+TPD (as reported by the states/UTs in November 2020). marketing and promotion of city compost will be done
+The total waste generated is about 0.15 million TPD. through the existing fertiliser companies.
+About 98% of the total municipal wards have door-to-
+door collection, 68% of the total waste generated is
+As a part of capacity building, MoHUA has conducted
+processed, and 77% of the total wards practice source
+130 workshops on various components of SBM-U,
+segregation. In order to enhance the progress and
+including municipal SWM, covering more than 2,400
+sustain the achievements, the proposal to continue the
+ULBs and 5,000 officials across the country. Additionally,
+Mission under SBM 2.0 is under examination by the
+MoHUA has brought more than 20 advisories on various
+government.
+components of the SBM.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 31
+
+8.2 Key Strategies
+Cities are advised to follow the suggested strategies for 5. City administration should plan and implement
+developing sustainable habitat: strategies for onsite processing of wet waste and
+segregation of dry waste, and provide incentives
+1. Segregation of waste and 4R principles for efficient
+to reduce waste generation at the source.
+waste management should be implemented.
+They should promote technology integration
+State/city authorities should establish targets
+for efficient collection and processing of waste.
+and promote replacement of virgin materials with
+Residents and RWAs should be incentivised to
+recycled materials (linear to circular economy).
+collect wet waste and process them into compost
+2. Resource efficiency of cities with more than on-site, as far as possible.
+0.5 million population should be maximised by
+6. City administration should prepare a remediation
+facilitating set-ups for Material Recovery Facility
+plan for legacy dumpsites in the city to avoid/
+(MRF), with provision for sorting recyclables
+mitigate GHG emissions. Cities need to
+and facility for sorting segregated combustible
+scientifically operate and manage their landfills
+fractions (SCF)/RDF as per the SWM Rules 2016.
+as per the SWM Rules 2016.
+3. State governments should promote the use
+7. City administration should maintain the drains
+of RDF in cement factories to reduce coal
+and prevent clogging due to waste disposal in
+consumption and control GHG emissions.
+order to reduce the risk of flooding and other
+4. All major cities with a population of more than 0.5 associated health hazards.
+million should develop a mechanism to collect
+and process/reuse C&D waste as per the C&D
+Waste Management Rule 2016.
+Sewage collection in Devanahalli, Karnataka
+32 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+8.3 Linkages with Policies and Programmes
+Initiatives of MoHUA
+The relationship between solid waste and GHG emissions is well established. Generation of GHGs can be avoided
+through scientific waste management of waste. The first principle of the integrated waste management hierarchy is
+the reduction of waste generation at the source. C&D waste is a significant component of city waste. To reduce the
+pressure on the exploitation of natural resources, cities need to focus on finding greener ways to produce concrete,
+encouraging reuse of recycled materials to replace virgin materials.
+SBM-U
+• Waste to Compost
+• The assessed capacity of compost that can be generated in India from MSW is about 5.5 million TPA.
+• Current production is around 1.75 million TPA from 635 operational centralised compost plants.
+• Another 206 plants of 0.68 million TPA capacity are under construction.
+• Waste to Energy
+• The assessed capacity of power that can be generated from MSW is around 511 MW.
+• 7 plants are currently in operation, with a combined capacity of 88.4 MW.
+• Another 56 plants are coming up with the capacity of 415 MW
+SCM
+Waste management projects under the mission include distribution of bins, development of IT solutions for monitoring
+of trucks, among others.
+CPWD Guidelines for Sustainable Habitat, 2014
+• The amount of C&D waste in India is estimated to be around 10-12 million tonnes annually, and the proportion of
+concrete is estimated to be about 23-35% of the total waste.
+• The total available recycled concrete aggregate (RCA) in India is about 1.8 million tonnes annually.
+• A plan for systematic approach towards demolition of a building shall be developed to minimise the generated
+waste and maximise its use.
+• Various agencies/sub-contractors shall be involved and linked up with the steps for C&D waste reuse and
+recycling.
+• All C&D waste information shall be collected by contractors/waste management companies to ensure effective
+and efficient reuse of C&D waste (e.g. use of recycled aggregates).
+Segregated waste collection by battery-operated
+vehicle, Tirunelveli, Tamil Nadu
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 33
+
+34 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+9
+Cross-Cutting Strategies for
+enabling Climate Actions
+The enabling climate actions intend to address 2. Cities shall promote principles of sustainable
+the overarching framework to facilitate the neighbourhood planning and climate resilience to
+adoption and implementation of the sector- address climate mitigation and adaptation in the
+wise climate action strategies discussed in this ongoing and proposed activities, such mixed and
+Guidelines. These include strategies pertaining to the specialised land use, TOD, risk-informed land
+following: urban governance; capacity building; data, use, and infrastructure planning.
+technology and innovation; and financing mechanism
+3. City administration should analyse the local
+for the mission.
+climate risks and consider the same within all
+policies, plans, and projects. Cities need to
+9.1 Urban Governance develop CCAPs in line with the NMSH guidelines
+and CSCAF. CCAPs will also have to indicate
+Urban governance in climate change context refers to proposed actions and budgetary requirements to
+the ability and capacity of local/municipal governments carry out various activities under each thematic
+to make decisions and implement plans/programmes area till 2030.
+and strategies across a range of responsibilities and
+4. Municipal Corporations will institutionalise
+services for achieving a better quality of life, especially
+monitoring and implementation of climate actions
+for the vulnerable citizens’ group irrespective of the
+by establishing ‘Environment & Climate Change
+changes in the environment, climate, or weather
+Cell’. The Cell will closely coordinate with the
+patterns. Overall, it requires adequate legal and policy
+city-level multi-stakeholder committee on climate
+frameworks, efficient institutional and administrative
+change as instituted under CSCAF. This
+processes to enable the government response to the
+committee should include participants from
+needs of citizens in the context of climate change. At
+various stakeholders at the city/state level, such
+the city level, ULBs play a vital role in providing access
+as industry, civil society, sector experts, academia,
+to basic services, grievance/concern redressal, etc. It
+and scientific institutions.
+is to be noted that most of the urban missions in India
+are being implemented and converged at the ULB level. 5. ULBs will conduct regular monitoring of critical
+Therefore, it is vital to address the issues and challenges climate and environment parameters to
+of urban governance in a meaningful way. Some of the mainstream and improve the existing situation.
+recommended strategies are listed below: This mechanism includes and addresses CSCAF
+1. The centre will constitute a National Mission indicators.
+Management Unit (NMMU) to take up regular
+6. States/Cities shall implement existing institutional
+activities and handhold states/cities in
+and policy guidelines towards low-carbon and
+implementing the Mission. NMMU also has to take
+climate-resilient cities. For instance, setting up
+up capacity building (for ULB and state officials
+of the Unified Metropolitan Transport Authority
+on climate change related aspects) activities,
+(UMTA) and Urban Transport Fund (UTF) while
+along with developing Information, Education
+enabling coordinated and integrated urban
+and Communication (IEC) materials, which will
+transport planning and management.
+play an important role towards mass awareness
+generation and behaviourial change aspects.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 35
+
+9.2 City Level Monitoring
+Mechanism
+At the city level, ULB will be responsible for the The terms of reference for the city-level monitoring
+implementation of the Mission. The District Magistrate/ committee are mentioned below:
+Municipal Commissioner will chair the city-level 1. The ULBs are responsible for the implementation
+monitoring committee with the following members: of the Mission in the city.
+2. Monitoring day-to-day activities related to the
+Mission.
+District Magistrate/Municipal
+Chair/Member-Secretary 3. Undertake and review capacity building activities
+Commissioner
+at local levels under various missions/ schemes/
+CMO Member
+programmes of the Ministry.
+Chief Engineer (CE) (Water 4. Submit quarterly progress reports on the
+Member
+supply and sanitation) implementation of mission to State Level
+CE (Buildings) Member Committee.
+CE (Roads) Member 5. The ULB will also be responsible for building
+coordination and collaboration among
+CE (Electrical) Member
+stakeholders.
+Commissioner - Transport Member
+6. The City level committee should meet every three
+Town Planner, UDA Member
+months.
+Mitigation strategy Adaptation strategy
+• City inventory on GHG emissions, identification of • Climate change vulnerability assessment with present
+sources, and opportunities for reduction of emissions and future risks to community and environment, with
+under various thematic areas respect to physical and socio-economic aspects,
+including identification of vulnerable segments.
+• Analysis of collected data, estimatation of future
+emissions based on the socio-economic profile of a city, • Analysis of different scenarios of climate impact and
+and setting of targets and proposed actions risk levels (low/mid/high) on people, infrastructure, and
+investments.
+• Assessment of the local capacity to converge with
+existing policies/missions/schemes, etc. • Assessment of the local capacity to address climate
+change with an inventory of existing resources, local
+• Setting of goals to reduce emissions (short/mid/long
+knowledge, policies, schemes, missions, etc., which
+term) and consensus building on CCAPs.
+will complement the actions proposed under CCAPs.
+• Prioritisation of activities proposed as part of CCAP
+• Planning and implementation to enhance resilience
+under each thematic area and its institutionalisation.
+towards physical, environmental, economic, and social
+• Implementation plan with clear roles, responsibilities, impacts of climate change.
+and timeline.
+Cycle-for-Change,
+Bilaspur, Chhattisgarh
+36 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+ClimateSmart Cities Assessment Framework (CSCAF)
+MoHUA launched CSCAF under SCM in February 2019. This first-of-its-kind city level framework on climate-relevant
+parameters, including those of the National Clean Air Programme, is intended to drive climate-resilient and low car-
+bon development across urban India, in alignment with SDGs and India’s NDCs towards addressing global climate
+change.
+With 28 progressive indicators across five thematic areas (refer to figure below), CSCAF provides an overarching
+monitoring framework for assessing the progress made in alignment of the NMSH guidelines. CSCAF serves as a
+tool for cities to assess their performance on an annual basis, and provides an incremental roadmap to adopt and
+implement relevant climate actions. Results from CSCAF is used to monitor the progress, and inform NMSH. In addi-
+tion, the framework also facilitates the dissemination of context-specific best practices adopted by Indian cities, and
+assess the required skills and resources for scaling the same through its Secretariat at the Climate Centre for Cities
+(C-Cube) at the National Institute of Urban Affairs (NIUA).
+Climate Centre for Cities
+MoHUA, under SCM, has established the ‘C-Cube’ at NIUA to anchor climate actions across urban India. The Cen-
+tre ensures continuity of ongoing initiatives under CSCAF, including building capacity and knowledge retention for
+mainstreaming climate change action in all 500 Class-I cities. This includes, but not be limited to, municipal services,
+such as water supply, SWM, infrastructure, urban planning, land development, transportation, air quality, and ener-
+gy. Through climate smart development, cities will be able to respond to the changing climatic conditions and foster
+sustainable actions, thereby increasing the ease of living of citizens. At present, 126 cities, including the 100 Smart
+Cities, housing more than 140 million people, are reporting on climate actions. C-Cube is facilitating access to the
+required knowledge, training, project development, and financial support to achieve sustainable climate actions on
+the ground.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 37
+
+9.3 Capacity Building
+Capacity building - for strengthening both individual and Institutional capacity building
+institutional capacities at the city level - is an integral
+component of all the urban missions of the Ministry. 1. Relevant authorities should develop advisories/
+Implementing NMSH will require applying a climate standards for safe use of wastewater, greywater
+change lens and addressing local priorities towards and sludge in agriculture and aquaculture,
+climate mitigation and adaptation in the capacity building focusing on managing health risks associated
+programmes. It is intended that the individual training with such use. Authorities should also develop
+will enhance functional knowledge, improve job-related advisories on reuse of wastewater for farm
+skills, and focus on bringing an attitudinal change in forestry, urban forests, horticulture, watering
+state and municipal functionaries. Institutional capacity public parks, public gardens, road medians,
+building will enable institutional outcomes and bring green belts, industrial use, road washing, dust
+about more significant sustainable and transformative control, building construction, and other uses as
+change. deemed appropriate without compromising on the
+health risks associated with such uses.
+Capacity building initiatives should be targeted towards
+2. Capacity building programmes and modules are
+college students, professional architects, engineers,
+being developed and implemented by MoHUA
+planners, ULBs, and government organisations. These
+under CSCAF to train ULB officials, city level
+initiatives should specifically help the stakeholders
+experts and practitioners. ULBs, relevant city level
+understand various technologies, methods, and
+departments, and state line departments are to be
+processes to develop sustainable cooling, waste
+trained to refer the various tools and guidelines
+and water management/recycling, use of sustainable
+while implementing various Missions. Periodic
+materials, etc. to develop green infrastructure and its
+review of the progress of capacity building and
+potential cost benefits.
+training activities shall be mandatory at national
+and state/UT level. Each state/UT shall submit
+Recommended strategies for individual and institutional
+an annual action plan on capacity building to the
+capacity building are as follows:
+Ministry at the beginning of the financial year.
+1. Strategic training plans for ULB officials should
+3. Annual IEC plans and materials should be
+be carried out based on the Training Needs
+prepared and disseminated through various
+Assessment (TNA) on various issues, particularly
+events (offline/online) to increase public
+climate change related aspects. Nodal officers
+awareness and participation on issues related
+from the Environment and Climate Change
+to climate change, sanitation, public health, and
+Cell and other relevant departments are to be
+environment, among others.
+identified for participation, including training
+programmes implemented under CSCAF. This 4. Research and development on climate change
+may also include exposure visits. and related aspects should be encouraged
+with support from various research and
+2. Nodal officers should be encouraged to enroll in
+training organisations, NGOs, civil society,
+both online and offline training programmes with
+and international agencies. To that end, cities
+various recognised institutions and the National
+can leverage the ClimateSmart Cities Alliance
+Urban Learning Platform (NULP) of MoHUA. This
+instituted by MoHUA in partnership with C-Cube
+will aim at building a dedicated team of climate
+at NIUA.
+practitioners within the ULBs.
+3. Suitable staff should be encouraged to participate 9.4 Data, Technology
+in various workshops, seminars, etc. on regular
+and Innovation
+basis.
+4. Individual capacity building shall focus on The cities must use the transformational force of
+coaching and task-related assistance from peers data and emerging technologies for holistic urban
+and mentors. development. Urban managers and administrators
+require tools and early warning indicators that can
+provide them with objective insights on routine civic
+activities using advanced predictive capabilities to plan
+for future challenges. The significance of urban data to
+capture the growing and changing needs of the public
+38 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+is well documented. The advantage of interconnected 9.5 Financing
+technology and platforms sourcing data from all
+civic services and functions is possible in real-time, The implementation of NMSH will begin from 2021 till
+and the possibilities for urban impact are significant 2030 in alignment with the SDGs and India’s NDCs.
+(Richard Barkham, 2018). The significance of data The goals of NMSH are envisaged to be achieved
+to track and implement climate action measures has through various Missions and programmes of MoHUA.
+gained attention in recent times. Alongside the above Therefore, no separate financing is sought for
+possibilities, utilising the urban data ecosystem can put implementing NMSH. However, the following financing
+the cities’ thinking and agenda on climate change on the strategies are recommended:
+national and global policymaking platforms. With data
+insights giving a more accurate picture of resources, 1. In view of investment required to take up various
+capabilities, and aspirations, Indian cities can effectively activities, states/UTs need to mobilise resources
+position themselves to strategise and negotiate policies (technical/financial) from other sources, such
+and support provided by national governments and as own revenue sources (user fees, beneficiary
+global organisations. In essence, with data-backed charges, impact fees, etc.), municipal bond
+decision-making, cities will not just be able to tackle the markets, private sector investments, pool finance,
+effects of climate action, but also identify and anticipate PPP, Viability Gap Funding (VGF), Corporate
+the root causes, for advocating climate-responsive Social Responsibility (CSR) funds, bilateral and
+policies. Recommended strategies are as listed below: multi-lateral agencies (such as World Bank, Asian
+Development Bank, KfW, etc.), concessional
+1. ULBs should start using spatial/non-spatial loans, carbon markets, Green Bonds, among
+decision support tools, such as big data analytics, others. An incentive mechanism is to be devised
+including visual representations of results using by the states/UTs to encourage ULBs to adopt
+GIS technologies. climate-friendly measures.
+2. Collection and management of data on various 2. ULBs should find appropriate financing options,
+urban development and climate parameters at the including innovative mechanisms that tap land as
+city level is key to informed planning and decision- a resource for investments in urban infrastructure.
+making for urban climate actions. The data VCF policy framework will assist states/cities in
+collection should be standardised to enable easy assessing the scope of resource mobilisation,
+comparison across cities over time. For example, identifying the area of influence of proposed
+the lack of urban transport statistics has severely projects, and optimising resource mobilisation.
+constrained the ability to formulate sound urban
+transport plans and reliably assess the impact
+of the different initiatives that have been taken.
+Therefore, cities should collect regular data on
+public and private transport patterns to formulate
+sound urban transport plans. The use of Intelligent
+Transportation System (ITS) to enable real time
+tracking and information of public transport should
+be encouraged. Developing digital platform/apps
+to ensure end to end route planning, booking,
+electronic ticketing, and easy payment methods
+to make public transport attractive and enable
+safety measures to improve ridership, universal
+design for better access to public transport.
+3. In case of Smart Cities, where ICCCs have been
+established, the same should be integrated with
+end-to-end early warning systems to predict and
+manage extreme events and risks due to climate
+change.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 39
+
+40 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+References
+• Adelphi. (2015). Feasibility Study for a Waste • IPCC. (2018, December ). Summary of Urban
+NAMA in India. Policy Makers . From https://www.ipcc.ch/site/
+assets/uploads/sites/2/2018/12/SPM-for-cities.
+• Barros, V. R., Field, C. B., Dokken, D. J.,
+pdf
+Mastrandrea, M. D., Mach, K. J., Bilir, T. E., White,
+L. L. (2014). Climate Change 2014: Impacts, • ITF-OECD. (n.d.). Decarbonising Transport
+Adaptation, and Vulnerability. Part B: Regional in India. From https://www.itf-oecd.org/
+Aspects. Contribution of Working Group II to the decarbonising-transport-india-0
+Fifth Assessment Report of the Intergovernmental
+• Kahan, A. (2020, June 15). Global electricity
+Panel on Climate Change. Intergovernmental
+consumption continues to rise faster than
+Panel on Climate Change (IPCC). New York:
+population. From U.S.Energy Information
+Cambridge University Press.
+Administration: https://www.eia.gov/
+• CPHEEO.(2019).Manual on Stormwater Drainage todayinenergy/detail.php?id=44095
+Systems. From http://cpheeo.gov.in/cms/manual-
+• Mani, M., Bandyopadhyay, S., Chonabayashi,
+on-storm-water-drainage-systems---2019.php
+S., Markandya, A., & Mosier, T. (2018). South
+• David Eckstein, V. K. (2020). Global Climate Risk Asia’s Hotspots: The Impact of Temperature
+Index 2020. GermanWatch. and Precipitation Changes on Living Standards.
+South Asia Deccelopment Matters. Washington,
+• Deshpande, M., Singh, V.K., Ganadhi, M.K. et
+DC, United States of America: The World Bank
+al. Changing status of tropical cyclones over the
+Group.
+north Indian Ocean. Clim Dyn (2021). https://doi.
+org/10.1007/s00382-021-05880-z • MHA.(2011).Disaster Management in India. From
+http://sdmassam.nic.in/pdf/publication/undp/
+• Economic Survey 2019-20, Volume II, Economic
+disaster_management_in_india.pdf
+Division, Department of Economic Affairs, Ministry
+of Finance, Government of India. (January • MoEFCC. (2021). India: Third Biennial Update
+2020) From: https://www.indiabudget.gov.in/ Report to the United Nations Framework
+budget2020-21/economicsurvey/doc/echapter_ Convention on Climate Change. Ministry of
+vol2.pdf Environment, Forest and Climate Change,
+Government of India. From: https://unfccc.int/
+• IEA. (2021). India Energy Outlook 2021. From
+sites/default/files/resource/INDIA_%20BUR-
+IEA, Paris: https://www.iea.org/reports/india-
+3_20.02.2021_High.pdf
+energy-outlook-2021
+• National Aeronautics and Space Administration.
+• IIHS. (2015). Urban Transport in India
+(H. Shaftel, R. Jackson, S. Callery, D. Bailey,
+Challenges and Recommendations. From
+Editors, & Earth Science Communications Team
+https://iihs.co.in/knowledge-gateway/wp-content/
+NASA’s Jet Propulsion Laboratory) Retrieved
+uploads/2015/07/RF-Working-Paper-Transport_
+October, 2020 from NASAGlobal Climate Change.
+edited_09062015_Final_reduced-size.pdf
+Vital Signs of the Planet: https://climate.nasa.gov/
+• India INDC to UNFCCC. (n.d.). From https:// evidence/
+www4.unfccc.int/sites/submissions/INDC/
+• National Institute of Urban Affairs. (2016). India-
+Published%20Documents/India/1/INDIA%20
+Urban Climate Change Fact Sheets: Urban
+INDC%20TO%20UNFCCC.pdf
+Flooding. (NIUA, Ed.) Retrieved October 22,
+• IPCC. (2014). AR5 Synthesis Report: Climate 2020 from Smartnet.niua.org: https://smartnet.
+Change 2014. From https://www.ipcc.ch/report/ niua.org/sites/default/files/resources/FS%203_
+ar5/syr/ Urban%20Flooding.pdf
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 41
+
+• NDMA. (2019). Annual Report 2018-19, National the Parties on its Twenty First Session, Part Two:
+Disaster Management Authority (NDMA), Action taken by the Conference of Parties at its
+Government of India. https://ndma.gov.in/sites/ Twenty First Session. FCCC/CP/2015/10/Add.1,
+default/files/PDF/Reports/NDMA-Annual-Report- https://unfccc.int/resource/docs/2015/cop21/
+2018-19-English.pdf eng/10a01.pdf
+• NIDM. (2014), Country Profile. From https://nidm. • WBCSD. (2016). A handbook on creating dynamic
+gov.in/easindia2014/err/pdf/country_profile/India. local markets for energy efficiency in buildings.
+pdf From http://docs.wbcsd. org/2016/11/Energy_
+Efficient_Buildings_Handbook.pdf
+• NITI Aayog. (2019). Composite Water
+Management Index . National Institution for • Weerasinghe, A S, Ramachandra, T and
+Transforming India in association with Ministry of Thurairajah, N (2017) Life Cycle Cost Analysis:
+Jal Shakti and Ministry of Rural Development. Green Vs Conventional Buildings in Sri Lanka In:
+New Delhi: Niti Aayog. Chan, P W and Neilson, C J (Eds) Proceeding
+of the 33rd Annual ARCOM Conference, 4-6
+• O’Brien, G., O’keefe, P., Meena, H., Rose, J.,
+September 2017, Cambridge, UK, Association of
+& Wilson, L. (2008). Climate adaptation from a
+Researchers in Construction Management, 309-
+poverty perspective. Climate Policy, 194-201.
+318.
+• Pachauri, R., & Meyers, L. (. (2014). Climate Change
+• WRI CAIT. (n.d.). World Resources Institute CAIT
+2014: Synthesis Report. Intergovernmental Panel
+Climate Data Explorer. From https://cait.wri.org/
+on Climate Change (IPCC). Geneva, Switzerland:
+New York: Cambridge University Press.
+• PIB. (2018, December 28) Cabinet approves
+submission of India’s Second Biennial Update
+Report (BUR) to United Nations Framework
+Convention on Climate Change (UNFCCC).
+From Press Information Bureau: https://pib.gov.
+in/Pressreleaseshare.aspx?PRID=1557609
+• PreventionWeb The knowledge platform for
+disaster risk reduction. (2015, November 12).
+Retrieved October 22, 2020 from PreventionWeb:
+https://www.preventionweb.net/disaster-risk/risk-
+drivers/urban/
+• Richard Barkham, S. B. (2018, January). Urban
+Big Data: City Management and Real Estate
+Markets. From https://mitcre.mit.edu/ wp-content/
+uploads/2018/01/URBAN-DATA-AND-REAL-
+ESTATE-JAN-2018.pdf
+• Road Accidents in India. (2017) Ministry of Road
+Transport and Highways.
+• Sethi, M. (2015, May 10). Decoding Urban India’s
+Carbon Footprint: Spatial Numerical Mapping of
+Thermal Energy Emissions. JSTOR, 108(No. 9),
+1616-1623.
+• Swachh Bharat Mission. (2016). An Inclusive
+Swachh Bharat through the Integration of the
+Informal Recycling Sector. UN. (n.d.). From
+https://sdgs.un.org/goals
+• UN Habitat. (2018). Climate-proof urban and
+regional planning. New Delhi, https://unhabitat.
+org/cop24-2018-documents/Climate_ Action-
+Sheet_1-Final.pdf.
+• UNFCCC. (2016). Report of the Conference of
+42 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 43
+
+44 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Annexure I
+Case studies on various thematic areas
+Chandigarh: Construction and 2. It produces materials that can be utilised for
+cement concrete works, such as washed sand,
+Demolition (C&D) waste plant crushed aggregates of 10, 20, and 40 mm.
+3. The plant also manufactures road material (PCC
+Background
+kerbs, PCC channels, PCC tiles, paver blocks,
+etc.) at a relatively low cost. It reduces the in-
+The Goverment of India has notified the C&D Waste house cost of construction by approximately 10%.
+Management Rule, 2016, which is applicable to
+everyone who generates construction and demolition 4. Fees charged for collection and transportation
+waste (building materials, debris, rubble waste are INR 396 + GST for recycled aggregate and
+resulting from construction, re-modelling, repair sand, INR 198 + GST for silt per cu. m.
+and demolition of any civil structure of individual or
+5. It provides facility for the residents of Chandigarh
+organisation or authority). The Rules address the
+to dump their construction waste in an authorised
+scientific disposal of C&D waste to enable reuse and
+manner.
+recycling. All local government institutions are
+responsible for proper management of C&D waste within 6. CMC has also come up with a C&D waste
+its jurisdiction, including placing appropriate containers management policy, which has penalty provisions
+for collection of waste, removal at regular intervals, of INR 1,000 for residential and INR 5,000 for
+transportation to appropriate sites for processing and commercial buildings, in case they are involved in
+disposal. Chandigarh Municipal Corporation (CMC) has indiscriminate dumping of C&D waste.
+installed a C&D waste processing plant and a cement
+7. The policy also talks about provisions for
+concrete products factory to use recycled aggregates.
+C&D waste management while issuing new/
+reconstruction of building permits. Amounts of
+Project objectives
+INR 20/sq. m for new construction, and INR 160/
+• Develop a C&D waste processing unit in the sq.m for re-construction are charged .
+industrial area of Chandigarh.
+Achievements
+• Comply with the waste management policy of the
+1. Till date, 5,000 MT C&D waste has been
+city and C&D Waste Management Rules, 2016.
+processed into recycled products from the date of
+commissioning of the plant (15 May 2019), which
+Project location
+has resulted in natural resources savings, reduction
+• Industrial Area Phase I, Chandigarh implemented
+in the quantum of waste reaching landfills, and
+during December 2018 – May 2019.
+reduction in carbon footprints with numerous
+environmental benefits.
+Approach
+2. Economic benefits include reduction of
+transportation costs of the construction materials,
+CMC has set up the C&D waste processing plant in its
+job creation.
+industrial area for stacking, crushing, processing, and
+manufacturing of various C&D products. The plant has Limitations
+the following characteristics:
+The minimum land required for setting up a C&D waste
+1. It is set up with a capital cost of about INR 23 plant in Chandigarh is 3-4 acres. In future, stacking
+million and plant capacity of about 120 MT per of recycled materials will require extra land and
+day (8 hr shift) for crushing construction waste. environmental clearance.
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 45
+
+Thane: Energy and Green Buildings • Market assessment for best available technology
+with upgradability and compatibility was conducted.
+Background
+• Financial modelling was conducted to arrive at a
+Thane city, Maharashtra, is rapidly growing due feasible payback mechanism, and to develop a
+to extensive immigration and urbanisation. Thane PPP structure around the estimated capital and
+Municipal Corporation (TMC) is continuously undertaking expenditure.
+environment-oriented projects to reduce GHG
+• Bids were invited through public competitive
+emissions. TMC, with support from ICLEI South Asia,
+bidding.
+under the project of Urban Low Emission Development
+Strategies, undertook a feasibility assessment of the • The streetlight replacement was carried out,
+streetlight infrastructure. demand reduction was recorded, and a new
+baseline established.
+Project objectives • TMC has appointed a third-party expert to verify the
+energy saving and ensure transparent transactions
+• Establish a baseline of 8,000 plus street-lights, to the technology provider.
+performance contracting with involvement of
+private participation. Financial structure of the initiative
+• Optimise power consumption of LEDs. The project was based on a PPP arrangement with
+multiple stakeholders. Benefits and co-benefits of energy
+Approach of LED Street Lighting savings LED ESCO project has achieved maximum
+energy savings, i.e., 5.33 million kWh per year, and
+Initiative
+energy consumption for street lighting reduced by more
+than 60%, which helped in mitigating GHG emissions of
+A systematic approach for execution of LEDs was
+4,385 tonnes CO eq. annually. On the operational level,
+carried out, which is as follows: 2
+the share of GHG emissions from municipal services
+• Numerous stakeholders, including energy experts, in Thane has reduced from 35% in 2012-13 to 11.7%
+lighting experts, techno-commercial experts, in 2017-18. Connected load of streetlight infrastructure
+political and administrative heads, and local has reduced by 70%.
+residents, etc. were consulted to execute LED
+street-lighting projects across the city. The citizens have reported that white light provides
+better visibility and a heightened sense of safety.
+• Sites were selected across the city based on various
+Conventional technology was high maintenance prone,
+parameters, like electrical infrastructure, road type,
+whereas higher life of lamps (50,000 hrs against 15,000
+road width, geographical location, project visibility,
+hrs) implies lesser downtime and higher reliability. The
+etc.
+lighting optics as designed resulted in optimum lux
+• An investment grade audit was carried out at levels with uniform spread across the roads and hence
+different locations to establish the baseline and ensuring improved visibility.
+electrical infrastructure assessment of the site.
+LED lights fitting in Thane, Maharashtra
+46 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Thanjavur: Rejuvenation and • Development of a comprehensive plan of action
+incorporating all the aspects identified through pre-
+conservation of urban environment
+assessment as well as residents’ consultations.
+Background • The total project cost was INR 13 million, and the
+proposed plan was implemented through active
+Rejuvenation of a park (area 1,282 sq.m), situated on
+participation of the city Municipal Corporation
+the west side of ADB area of Thanjavur city in Tamil
+and residents. This park is service-oriented, and
+Nadu was completed. The park is one of the prominent
+revenue generation is not expected.
+public spaces of the neighbourhood, with amenities,
+such as children park, open spaces used for informal
+Benefits
+parking of four wheelers, trucks, and buses, which
+restrict the residents from using the park. This has led • Increased green cover leading to improvement in
+to the proposal for rejuvenating other neighbourhood the overall aesthetics and quality of environment.
+parks.
+• Installation of various play equipments for kids,
+which resulted in increased attractiveness.
+Project objectives
+• Enhancement in the park infrastructure, i.e., park
+• To improve the facilities in the park for an enhanced
+furniture, water fountains etc.
+ease of living.
+• Improvement of lighting facilities in and around the
+Approach park.
+An integrated approach involving pre-assessment and • Reduction in cases of garbage dumping.
+redevelopment was adopted to improve the condition of • Reclamation of the encroached portion of land
+the park. The key activities included:
+• Assessment of the existing condition and scope of
+improvement of the park.
+• Extensive involvement of the local residents to
+identify the facilities that need to be provided in the
+park.
+Rejuventaion of park in progress,
+Thanjavur, Tamil Nadu
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 47
+
+48 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Annexure II
+Indicative list of proposed cities under NMSH
+Cities
+List of proposed cities under NMSH covered
+Sl. under
+No.
+Million-plus Coastal Hilly Other Smart
+State UA/City AMRUT
+cities cities cities cities cities
+Andaman & Nicobar
+1 Port Blair   
+Island
+2 Vishakhapatnam    
+Andhra Pradesh
+3 Vijayawada  
+4 Arunachal Pradesh Pasighat  
+5 Assam Guwahati   
+6 Bihar Patna   
+7 Chandigarh Chandigarh   
+8 Raipur   
+Chhattisgarh
+9 Durg-Bhilainagar  
+10 Dadar & Nagar Haveli Silvassa  
+11 Diu  
+Daman & Diu
+12 Daman  
+13 Goa Panaji   
+14 Ahmedabad   
+15 Surat    
+16 Gujarat Vadodara   
+17 Rajkot   
+18 Porbandar  
+19 Haryana Faridabad   
+20 Himanchal Pradesh Dharamshala  
+21 Jammu & Kashmir Srinagar    
+22 Jamshedpur 
+23 Jharkhand Dhanbad  
+24 Ranchi   
+25 Bengaluru   
+26 Karnataka Mangaluru   
+27 Udupi  
+28 Kochi    
+29 Kozhikode   
+30 Malappuram 
+31 Thiruvananthapuram    
+32 Kerala Kannur   
+33 Kollam   
+34 Thrissur   
+35 Calicut 
+36 Ernakulam 
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 49
+
+Cities
+List of proposed cities under NMSH covered
+Sl. under
+No.
+Million-plus Coastal Hilly Other Smart
+State UA/City AMRUT
+cities cities cities cities cities
+37 Lakshadweep Kavaratti   
+38 Bhopal   
+39 Jabalpur   
+Madhya Pradesh
+40 Gwalior   
+41 Indore   
+42 Mumbai   
+43 Pune   
+44 Nagpur   
+Maharashtra
+45 Nashik   
+46 Vasai Virar City  
+47 Aurangabad   
+48 Manipur Imphal   
+49 Meghalaya Shillong   
+50 Mizoram Aizawl   
+51 Nagaland Kohima   
+52 NCT of Delhi Delhi   
+53 Puri  
+Odisha
+54 Paradip 
+55 Puducherry   
+Puducherry
+56 Karaikal  
+57 Ludhiana   
+Punjab
+58 Amritsar   
+59 Jaipur   
+60 Rajasthan Jodhpur  
+61 Kota   
+62 Sikkim Namchi  
+63 Coimbatore   
+64 Madurai   
+65 Tiruchirappalli   
+Tamil Nadu
+66 Kanyakumari 
+67 Chennai    
+68 Tuticorin   
+69 Telangana Hyderabad  
+70 Tripura Agartala   
+71 Kanpur   
+72 Lucknow   
+73 Ghaziabad  
+74 Uttar Pradesh Agra   
+75 Varanasi   
+76 Meerut  
+77 Prayagraj   
+78 Uttarakhand Dehradun   
+79 Kolkata   
+West Bengal
+80 Asansol  
+Total 80 53 23 11 55 70
+Sources: Million Plus Cities: Census of India
+Coastal Cities: Centre for Coastal Zone Management and Coastal Shelter Belt
+Hilly Cities: Only smart city mission cities have been selected
+Other Cities: TBD
+50 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Annexure III
+Key Deliverables and Timelines (2021-2030)
+Energy and Green Buildings
+Deliverables 2021-24 2024-27 2027-30
+Undertake energy audit of all municipal
+services, including water supply, sewage and
+storm water management on an annual basis
+Promote 100% installation of energy-efficient
+streetlights and use of renewable energy-
+operated streetlights
+Promote installation of renewable energy
+systems in buildings (premises), including all
+Municipal Corporation buildings
+Integrate ECBC 2017 for all new municipal In all million+ cities and state In all AMRUT cities with a In all
+buildings and Eco-Niwas Samhita 2018 for capitals based on the adoption population of more than 0.1 statutory
+residential buildings of MBBL 2016 and NBC 2016 million cities
+Integrate green building guidelines into
+development control regulations (DCRs) and In all million+ cities and state In all AMRUT cities with a In all
+building rules/bye-laws, and made mandatory capitals based on the adoption population of more than 0.1 statutory
+for all new constructions of more than 20,000 of MBBL 2016 and NBC 2016 million cities
+sq. m area
+Promote roof cooling techniques within new
+developments in peri-urban areas for all new
+constructions of more than 20,000 sq. m. area
+Rating systems notified in DCRs/GDCRs and
+In all million+ cities and state In all AMRUT cities with a In all
+building rules/bye-laws to be made mandatory
+capitals based on the adoption population of more than 0.1 statutory
+for all new constructions of more than 20,000
+of MBBL 2016 and NBC 2016 million cities
+sq. m. area
+Integrate norms and standards to address
+climate risks (heat, floods, extreme rainfall, In all million+ cities and state In all AMRUT cities with a In all
+cyclones and storm surges, water scarcity, capitals based on the adoption population of more than 0.1 statutory
+etc.) in MBBL 2016 and NBC 2016 for adoption of MBBL 2016 and NBC 2016 million cities
+by cities
+All Municipal Corporations to set up a green In all million+ cities and state In all AMRUT cities with a In all
+building action cell and a high-level green capitals based on the adoption population of more than 0.1 statutory
+building committee of MBBL 2016 and NBC 2016 million cities
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 51
+
+Urban Planning, Green Cover, and Biodiversity
+Deliverables 2021-24 2024-27 2027-30
+Map all eco-sensitive zones, biodiversity hotspots,
+natural assets in the city, and prepare a heat island
+All million-plus cities All AMRUT cities
+map to inform mitigation actions to regulate micro-
+climate and reduce GHG emissions locally
+Protect and prevent the construction of roads and
+buildings on wetlands/waterbodies and flood zones to All million-plus cities All AMRUT cities
+ensure channels for surface runoff
+Promote maintaining of green cover using an ecological
+approach, specifically focusing on native tree species All million-plus cities All AMRUT cities
+and sustaining urban biodiversity
+Develop a plan of action for city preparedness to tackle
+natural and man-made disasters, and check for its
+alignment with the Sendai Framework for DRR, NDMA
+guidelines (2010, 2014, and 2019) and MoHUA’s SOP City level plans for all
+All AMRUT cities
+on Urban Flooding (2017). State/city level development million-plus cities
+controls/codes should address multi-hazard risks in line
+with the Vulnerability Atlas of India to enable disaster
+resilient urban planning
+Rejuvenate and conserve urban waterbodies in line
+All million-plus cities All AMRUT cities
+with the Jal Jeevan Mission
+Enforce existing guidelines on preservation and
+protection of river floodplains, river banks, river beds, All million-plus cities All AMRUT cities
+natural drainage canals, and open areas
+Digitise city drainage network and prepare the drainage
+All million-plus cities All AMRUT cities
+master plan
+Ensure 10-12% of the total developed area under
+recreation spaces, including green and blue All million-plus cities All AMRUT cities
+infrastructure, in line with the URDPFI guidelines
+Develop green belt buffer zones around industries
+All million-plus cities All AMRUT cities
+situated within the ULB limit
+100% Master Plans in all
+Master Plans for all
+million-plus cities
+AMRUT cities
+Prepare and implement the Climate Action Plans
+(mitigation and adaptation) for million-plus cities, which 100% Local Area Plans
+100% Local Area Plans in
+is integrated with the Master Plan, local area plans, and (25 cities)
+all million-plus cities
+TP schemes
+CCAP for all million-plus CCAP for all AMRUT
+cities cities
+52 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Mobility and Air Quality
+Deliverables 2021-24 2024-27 2027-30
+Municipal Corporations should prepare action plan and
+promote the use of clean technology-shared vehicles
+Create incentives to attract and enable PPP in setting
+up charging infrastructure, shared mobility, first and
+last-mile connectivity, and the use of renewable energy
+sources for clean renewable energy sources
+Promote mixed-use and NMT plans to facilitate walking, In all million-plus In all cities with a
+cycling within the city in line with the National TOD Policy, cities and state population of more than
+2017 capitals 0.5 million
+In all million-plus In all cities with a
+Introduce strategies to decongest cities and discourage
+cities and state population of more than
+the use of private vehicles
+capitals 0.5 million
+Promote NMT by improving infrastructure for pedestrian
+In all million-plus In all cities with a
+safety, comfort and convenience on all streets; all
+cities and state population of more than
+Municipal Corporations are to implement the NMT
+capitals 0.5 million
+guidelines, 2016
+Complement the Pollution Control Board’s existing
+monitoring system to collect and analyse data on
+localised pollution hot-spots
+Develop city-level clean air action plans for all million-plus
+cities, which include detailed monitoring of air pollution
+and its impact based on the CPCB guidelines
+Enabling increase in
+overall public transport
+share to 30 % by
+expanding metro network
+Increase share of public transport, and implement metro
+network and rapid rail transit system (RRTS)
+Metro network in 50 cities
+Operationalisation of 82
+km of RRTS network
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 53
+
+Water Management
+Deliverables 2021-24 2024-27 2027-30
+Implement supply side management for efficient distribution
+of piped water supply. Water supply departments and Jal
+Nigams should adopt 100% water metering and develop 100% in all cities & towns
+appropriate water tariff structure taking into consideration
+the water usage and income levels of its users
+100% recovery of O&M charges should be encouraged
+by Jal Nigams and water supply departments/authorities
+100% in all cities
+through rationalising user charges and improving the
+efficiency of water tax collection
+ULBs should undertake mapping of major ground and
+surface water sources (catering to 5% or more of city’s water
+needs)and preparation of a plan for augmentation of existing
+water resource through recharge, rejuvenation, and storage.
+In all Class-I cities
+ULBs should make GIS-enabled urban plans, including
+water supply and sewerage systems. RWH should be
+made mandatory, based on area of the building, to replenish
+and recharge the groundwater
+Continuous (24x7) water supply to the cities should be
+100% in all cities & towns
+adopted by water supply authorities
+Municipal Corporations should develop Integrated
+Urban Water Resources Plan, including rejuvenation of
+urban waterbodies. All ULBs should protect and prevent In all Class-I cities
+construction of roads and buildings on wetlands/waterbodies
+and flood zones to ensure channels for surface runoff
+City water balance plan for all the cities
+and towns
+Mandate treatment, recycling, and reuse of wastewater Treatment of waste water:
+in line with the guidelines of JJM-U, and promote circular
+economy of water through development of city water 100% in all Class-I cities and 50% in
+balance plans Class-II and below towns
+Reuse at least 20% of treated waste
+water in all Class-I cities
+Conduct water and energy audits for water supply systems
+and wastewater management, especially treatment plants NRW less than 20% in all cities
+and pumping stations. All ULBs should undertake NRW
+assessments and put in place a NRW Reduction Strategy Audits in at least Class – I cities
+and Action Plan
+Relevant authorities should develop advisories/standards
+for safe use of wastewater, greywater, and sludge in various
+In all the cities & towns
+activities with special focus on managing health risks
+associated with such use
+All ULBs should publish rapid flood risk assessment report
+to understand the reasons of flooding/water stagnation
+as well as flooding/water stagnation hotspots, level, and
+In at least Class – I cities
+frequency. All Municipal Corporations should implement an
+end-to-end urban flood early warning system and link the
+same to ICCCs
+54 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Waste Management
+Deliverables 2021-24 2024-27 2027-30
+Segregation of waste and 4R principles in the city to better
+manage waste management. Further promote and establish 100% in all cities & towns
+targets to replace virgin materials with recycled materials
+Resource efficiency of cities with more than 0.5 million pop-
+ulation can be maximised by facilitating setups for MRF with
+provision for sorting recyclables and facility for sorting SCF/
+RDF as per the SWM Rules, 2016
+State governments should promote use of RDF in cement
+factories to reduce the coal consumption and control GHG
+emissions
+Develop a mechanism to collect and process/reuse C&D
+100% in all Class-I cities
+waste as per C&D Waste Management Rule, 2016
+City administration should plan and implement strategies
+for on-site processing of wet waste and segregation of dry
+100% in all cities & towns
+waste, and provide incentives to reduce the waste generation
+at source
+Prepare a remediation plan for legacy dumpsites to avoid
+GHG emissions. Cities need to scientifically operate and 100 % in all cities & towns
+manage their landfills as per SWM Rules, 2016
+City administration should maintain the drains and prevent
+clogging of the same due to waste disposal in order to reduce 100 % in all cities & towns
+the risk of flooding and other associated health hazards
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 55
+
+56 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+Annexure IV
+Key Contributors
+Ministry of Housing and Urban Affairs (MoHUA), Government of India
+• Shri Ashwini Kumar, IES, Additional Economic Adviser
+• Shri Dhanesh P. G., Under Secretary
+• Shri Puneet Bhatia, Asstt. Director
+• Shri Vicky Vikash Sinha, Section Officer
+National Institute of Urban Affairs (NIUA)
+• Dr. Umamaheshwaran Rajasekar, Head-Climate Centre for Cities & Chair-Urban Resilience Unit
+• Ms. Raina Singh, Senior Fellow, Climate Centre for Cities
+• Mr. Punit Gandhi, Senior Associate, Climate Centre for Cities
+• Mr. Anshul Abbasi, Senior Associate, Climate Centre for Cities
+• Mr. Deep Pahwa, Communication Expert
+Town and Country Planning Organisation (TCPO)
+• Mr. R. Srinivas, Town & Country Planner
+German Development Cooperation (Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ)) on commission by the German Federal Ministry for
+Economic Cooperation and Development (BMZ)
+• Mr. Kiran Rajashekariah, Senior Advisor, Sustainable Urban Development - Smart Cities
+• Ms. Tora Saikia, Technical Expert
+• Mr. Vibhor Sood, Technical Expert
+• Ms. Vaishali Nandan, Project Head - Climate Smart Cities
+NATIONAL MISSION ON SUSTAINABLE HABITAT | 57
+
+Notes
+58 | NATIONAL MISSION ON SUSTAINABLE HABITAT
+
+
+
+Ministry of Housing and Urban Affairs
+Government of India

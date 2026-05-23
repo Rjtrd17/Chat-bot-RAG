@@ -1,0 +1,1327 @@
+NATIONAL POLICY FOR
+CONTAINMENT
+OF
+ANTIMICROBIAL RESISTANCE
+INDIA
+2011
+Directorate General of Health Services
+Ministry of Health & Family Welfare
+Nirman Bhawan, New Delhi
+
+Developed under the Chairpersonship
+o f
+Dr. R. K. Srivastava,
+Directorate General of Health Services,
+Ministry of Health & Family Welfare
+Nirman Bhawan, New Delhi
+1
+
+2
+
+C
+ONTENTS
+S. No. Topic Page No.
+I. Executive Summary ------------------------------------------------------------- 5
+II. Members of Task Force--------------------------------------------------------- 9
+III. Terms of reference of the task force committee ---------------------------- 10
+IV. Background
+i. Aims of the National Antimicrobial Policy ------------------------------ 11
+ii. Promotion of rational usage of Antimicrobials -------------------------- 12
+iii. Infection prevention and Control Program -------------------------------- 13
+iv. Research in Antimicrobials ------------------------------------------------ 13
+v. Monitoring and evaluation ------------------------------------------------- 14
+1. ToR - 1 (Review the current situation regarding manufacture, use and
+misuse of antibiotics in the country)
+1.1 Functions of CDSCO--------------------------------------------------------- 15
+1.2 Functions of State Drug Control Authorities------------------------------ 16
+1.3 Mechanism for Enforcement of the Act In Respect of Sale
+and Manufacture of Drugs -------------------------------------------------- 16
+1.4 Proposed Action to monitor Sale of Antibiotics-------------------------- 19
+1.5 Proposed action for development of newer antimicrobial---------------- 20
+2. ToR - 2 (Design for creation of a National Surveillance System for
+antibiotic resistance)
+2.1 Background ----------------------------------------------------------------- 21
+2.2 Types of AMR Surveillance----------------------------------------------- 22
+2.3 Designs for AMR Surveillance ------------------------------------------- 23
+2.4 Operationalization of the Action Plan for AMR Surveillance--------- 28
+2.5 Research in AMR Surveillance ------------------------------------------- 28
+3. ToR - 3 (Studies documenting prescription patterns and establish a
+monitoring system for the same)
+3.1 Introductions----------------------------------------------------------------- 29
+3
+
+3.2 Objectives------------------------------------------------------------------- 31
+3.3 Methodologies---------------------------------------------------------------- 31
+4. ToR - 4 (Enforce and enhance regulatory provisions for use of antibiotics in
+human veterinary and industrial use)
+4.1 Regulatory provisions for use of antibiotics in veterinary and
+industrial use----------------------------------------------------------------- 35
+4.2 Proposed Action Plan: ------------------------------------------------------- 38
+4.3 Regulatory provisions for use of antibiotics in Human use------------- 39
+5. ToR - 5 (Specific intervention measures such as rational use of antibiotics
+and antibiotic policies in hospitals which can be implemented, as early
+as possible)
+5.1 Rational Use of Drugs------------------------------------------------------ 40
+5.2 Interventions----------------------------------------------------------------- 41
+5.3 Protocol ---------------------------------------------------------------------- 42
+5.4 Implementation------------------------------------------------------------- 44
+5.5 Constructive feedback of policy prior to implementation------------- 47
+5.6 Monitor implementation: we may form Drug and Therapeutics
+Committee which may carry out the following ------------------------ 47
+5.7 Assess outcome of Intervention: as below------------------------------ 48
+5.8 Education-------------------------------------------------------------------- 49
+5.9 Implementation of Infection Control Guidelines---------------------- 49
+6. ToR - 6 (Diagnostic Methods pertaining to antimicrobial Resistance
+Monitoring------------------------------------------------------------------------ 51
+7. Conclusions -------------------------------------------------------------------- 52
+8. Important Abbreviations-------------------------------------------------- 53
+4
+
+EXECUTIVE SUMMARY
+Antimicrobial Resistance Monitoring
+Antimicrobial resistance in pathogens causing important communicable diseases has
+become a matter of great public health concern globally including our country.
+Resistance has emerged even to newer, more potent antimicrobial agents like
+carbapenems. The factors responsible for this are widespread use and availability of
+practically all the antimicrobials across the counter meant for human, animal and
+industrial consumption. There are definite policies / guidelines for appropriate use of
+antimicrobials at national level in specific national health programmes being run in the
+country e.g. RNTCP, National AIDS control programme, etc. For other diseases of public
+health importance like enteric fever, diarrhoeal disease, respiratory infections, etc the
+individual hospitals are following their own antimicrobial policies and hospital infection
+control guidelines. To monitor antimicrobial resistance it is necessary to have regulations
+for use and misuse of antibiotics in the country, creation of national surveillance system
+for antibiotic resistance, mechanism of monitoring prescription audits, regulatory
+provision for monitoring use of antibiotics in human, veterinary & industrial sectors and
+identification of specific intervention measures for rational use of antibiotics.
+In this regard a task force has been constituted with following terms of reference:
+1. To review the current situation regarding manufacture, use and misuse of
+antibiotics in the country.
+2. To recommend the design for creation of a national Surveillance System
+for Antibiotic Resistance
+3. To initiate studies documenting prescriptions patterns & establish a
+Monitoring system for the same.
+4. To enforce and enhance regulatory provisions for use of antibiotics in
+human & veterinary and industrial use.
+5
+
+5. To recommend specific intervention measures such as rational use of
+antibiotics and antibiotic policies in hospitals
+6. Diagnostic Methods pertaining to antimicrobial Resistance Monitoring
+The official from Animal husbandry Department was co-opted for providing inputs on
+use of antimicrobials in veterinary sector. The members of the task force worked on
+various ToRs and made a work plan for monitoring of antimicrobial resistance in the
+country. Briefly the action plan of various ToRs is as follows:
+ For monitoring use and misuse of antibiotics: Schedule H of the drug
+and cosmetics act contains a list of 536 drugs which are required to be
+dispensed on the prescriptions of a registered medical practitioner. In order
+to have separate regulation to check unauthorized sale of antibiotics, a
+separate schedule as Schedule H1 may be introduced under the Drugs and
+Cosmetics Rules to regulate sale of antibiotics exclusively. Corresponding
+provisions under the Rules could be framed for their implementation. A
+system of colour coding of third generation antibiotics and all newer
+molecules like Carbapenems (Ertapenem, Imipenem, Meropenem),
+Tigecycline, Daptomycin may be put in place restricting their access to
+only tertiary hospitals. Appropriate steps should be taken to curtail the
+availability of fixed dose combination of antibiotics in the market
+ Hospital based sentinel Surveillance System for monitoring antibiotic
+resistance will be set up with the identification of one of more Central
+Institutions under the ministry of health as coordinating centres at the
+National Level. The design for AMR surveillance consists of
+o Identification of pathogens/diseases of public health importance
+o Creation of network of Antibiotic Susceptibility Testing (AST)
+o Standardizing methodology for microbial identification and AST
+6
+
+o The laboratories will perform AST using standardized methods and
+carbapenem resistant isolates will be stocked and sent to
+designated central laboratory for further analysis, like
+identification of NDM-1 isolates.
+o Strengthen Quality Systems in the network laboratories
+ We may also identify a central reference centre for Characterization and
+epidemiological study of resistance factors in microbial pathogens.
+ For documenting prescription patterns and establishing a monitoring
+system for the same following would be done
+o To study the consumption of various antibiotics in tertiary care
+public hospitals in Delhi under central government
+o To study the trends in antibiotic use in these hospitals of Delhi
+o Data generated will be used for intervention studies for rational use
+of antibiotics.
+ For enforcement and enhancement of regulatory provisions for use of
+antibiotics in human, veterinary and industrial use.
+o In India, the antibiotics are used widely in food animals as growth
+promoters and to prevent and treat infection. Non-therapeutic
+usage of antibiotics has been especially common in poultry
+production. However, there is no regulatory provision regarding
+the use of antibiotics in livestock.
+o Establish intersectoral coordination committee with experts from
+various sectors.
+o Develop regulations on usage of antimicrobials in poultry and
+other animals as well as the requisite labelling requirements in
+food.
+7
+
+ For promoting rational use of drugs various strategies suggested are:
+ Educational strategy: Training, printing materials, media-based
+approach
+ Managerial strategy: Monitoring & supervision, generic
+substitution, patient cost sharing (economic incentives) etc
+ Regulatory strategy: Enforcement, sanction, drug withdrawal,
+market control etc
+ Formulation & implementation of an antibiotic policy
+ With quality assured laboratory data in real time develop antibiotic
+policies that are standard national / local treatment guidelines
+advocating evidence based immunotherapy or combination
+therapy. This must include consideration of spectrum of antibiotics,
+pharmacokinetics / pharmacodynamics, adverse effects monitoring,
+cost and special needs of individual patient groups
+ For strengthening diagnostics for antimicrobial resistance monitoring
+the strategies are
+ Appropriate diagnostic tools already known should be selected as well as
+new ones developed for rapid identification of pathogens for AMR
+surveillance.
+ Robust quality assurance system should be implemented that could be
+carried out by a “neutral” central institute.
+8
+
+MEMBERS OF TASK FORCE
+1. Dr. R.K. Srivastava, DGHS - Chairperson
+2. Prof. Ranjit Roy Chaudhury, Member, Board of Governors, M.C.I.
+3. Dr. N.K. Ganguly, President, JIPMER, New Delhi
+4. Dr. S.K. Bramhachari, Director General, CSIR, New Delhi
+5. Dr. Surender Singh, Drugs Controller General of India, New Delhi
+6. Dr. Randeep Guleria, Prof. of Medicine, AIIMS, New Delhi
+7. Dr. Ajit Sinha, HoD, Deptt of Surgery, Safdarjung Hospital, New Delhi
+8. Dr. Usha Gupta, Sr. Consultant, Clinical Pharmacology, Fortis Hospital, NOIDA
+9. Dr. Manish Kakkar, Public Health Foundation of India, New Delhi
+10. Dr. Camilla Rodrigues, Consultant, Lab Medicine, PD Hinduja Hospital, Mumbai
+11. Dr. Chand Wattal, Chairperson, Clinical Microbiology, Sir Ganga Ram Hospital, New Delhi
+12. Dr. Anita Kotwani, Associate Prof., Pharmacology, VP Chest Institute, Delhi
+13. Director NCDC, Delhi - Member Secretary
+9
+
+TERMS OF REFERENCE
+OF THE TASK FORCE COMMITTEE
+1. Review the current situation regarding manufacture, use and misuse of
+antibiotics in the country.
+2. Design for creation of a National Surveillance System for antibiotic resistance.
+3. Studies documenting prescription patterns and establish a monitoring system
+for the same.
+4. Enforce and enhance regulatory provisions for use of antibiotics in
+human veterinary and industrial use.
+5. Specific intervention measures such as rational use of antibiotics and
+antibiotic policies in hospitals which can be implemented, as early as possible.
+6. Diagnostic Methods pertaining to antimicrobial Resistance Monitoring
+10
+
+BACKGROUND
+1. Aims of the National Antimicrobial Policy
+a) Understanding emergence and spread of antimicrobial resistance and the factors
+influencing it
+b) Establish a nationwide well coordinated antimicrobial program with well defined
+and interlinked responsibilities and functions of different arms of the program
+c) Rationalizing the usage of available antimicrobials
+d) Reducing antibiotic selection pressures by appropriate control measures
+e) Promotion of discovery of newer and effective antimicrobials based on current
+knowledge of resistance mechanisms
+f) Rapid and accurate diagnosis of infections and infectious diseases
+1.1 Action points
+General
+1. Establish government commitment and support for nation-wide antimicrobial
+program and within it the policy & set up national focal point for collaborations
+& compilation.
+2. Establish a National Alliance for prevention and control of antimicrobial
+resistance
+3. Institute a surveillance system that captures the emerging resistance, seeks and
+envisions trends in it’s spread and correlates with utilization of antimicrobial
+agents in community as health care set ups
+4. Promote rational usage of antimicrobial agents
+5. Strengthen infection prevention and control measures- healthcare associated and
+community based
+6. Support research in developing newer antimicrobial agents and improving usage
+of available ones, based on pharmacological properties
+7. Educate, train and motivate all stake holders in rational and appropriate usage of
+antimicrobials and its regulation
+11
+
+8. Establish a Quality System and a National registry for Antimicrobial resistance
+for bacteria, fungi and viruses at national focal point.
+9. Co-development of antimicrobial agents with pharmaceuticals and leaving the
+distribution, sales and promotion with the government
+1.2 Implementation
+1. Establishing a Surveillance Program
+- Establish that all Hospital/ health care set up should have an Infection control
+officer with well defined role and responsibilities
+- Formation of a Local Infection control team
+- Protocols on antimicrobial testing to be formulated and distributed in a
+categorized manner- primary/secondary tertiary health care set ups/standalone
+labs with/without automation
+- Interpretive criteria- e.g. CLSI/BSAC etc. to be standardized as per our needs and
+adopted nationwide
+- Software generation for data feeding and analysis
+- Collection of Data from Microbiology laboratory for both health care setups and
+community
+- Collection of Data from Pharmacy for both health care setups and community
+- Collection of Data from pharmaceuticals-sale by distributors and sale by retailers
+to be compared
+- Quality Control programs to be promoted and adopted EQAS to be set up at well
+established institutes
+2. Promotion of Rational Usage of Antimicrobials
+A. Personnel involved:
+- Local hospital/health care setup Infection prevention and Control Officer and
+Infection Control professionals
+B. Action points
+- Local health care set up Antimicrobial policy to be drawn by each health care
+setup
+12
+
+- Training modules on rational prescription to be created
+- Training of Undergraduate and postgraduate medical, dental, nursing, veterinary
+and pharmacy
+- Training and awareness of General Practitioners and Specialists
+- CMEs and workshops for all concerned
+- Banning non therapeutic usage in animals and farms
+- Pharmacists involvement
+- Ban over-the-counter (OTC) sale of antimicrobials - Schedule H1
+- Adherence on all levels to be sent in annually to the State director who shall put
+this data to the central director
+3. Infection Prevention and Control Program
+Establish and Strengthen Infection Control Programs
+- In both Health care set ups
+- Infection Control Plan and policy for tertiary care hospital
+- Infection control Committee to be set up in all health care institutions
+- Infection Control Team
+- Standard Operating Procedures (SOPs)
+- Immunization and vaccination of vaccine preventable diseases
+4. Research in Antimicrobials
+- Government sponsored, public-private partnership (PPP) model or pharmaceutical
+industry collaboration with govt. and private health care setups
+- Budget allotment, grants to be set aside
+- Community based research
+- Health care setup based research
+- Veterinary research
+13
+
+- Agriculture, fisheries, farms to be included
+- Rapid diagnostics researched and promoted
+- Regulatory mechanisms to be in place for prioritizing research
+- National Commitment in the form of Antimicrobial Policy and later on legislation
+Formation of Advisory Body
+- Formation of Steering Committee under the advisory body
+- Targets for all involved to be set up for tertiary care hospitals Deadlines to be
+formulated and implemented
+- Software to be generated & evaluated
+5. Monitoring and evaluation
+QC checks
+Audits
+Feedbacks to Advisory body
+Review of Action Plan annually
+New actionable for implementation to be developed regularly & give feed back
+14
+
+ToR-1: Review the current situation regarding manufacture,
+use and misuse of antibiotics in the country
+The quality of the drugs imported, manufactured and sold in the country is regulated
+under the provisions of Drugs and Cosmetics Act, 1940 and Rules made there under. The
+Act visualize the regulatory control over the drugs imported in to the country by the
+Central Government while the manufacture, sale and distribution of drugs is primarily
+regulated by the State Drug Control Authorities appointed by the State Governments.
+The manufacture and sale of the drugs is regulated through a system of licensing and
+inspection by the Licensing Authorities.
+The Central Drugs Standard Control Organization (CDSCO), headed by the Drugs
+Controller General (India) in the Directorate General of Health Services, is concerned
+with the regulatory control over the quality of drugs, cosmetics and certain notified
+medical devices under the Drugs and Cosmetics Act, 1940 and rules made there under.
+The organization has its head quarters at Food and Drug Bhawan, Kotla Road, Near ITO,
+New Delhi-110002 and has six zonal offices, two sub zonal offices, seven sea
+ports/Airports offices and six laboratories under its control.
+1.1 Functions of CDSCO
+a) Approval of new drugs including vaccines to be introduced in the country.
+b) Permission to conduct clinical trials.
+c) Registration and control on the quality of imported drugs and notified
+medical devices.
+d) Institutionalise regulatory measures and recommend amendments to the
+Drugs and Cosmetics Act and Rules made there under.
+e) Prescribing regulatory procedures and standards for drugs, cosmetics,
+diagnostic reagents and medical devices.
+15
+
+f) Approval of License as Central License Approving Authority for
+manufacture of large volume potentials, sera and vaccines, biotechnology
+products, medical devices and operation of blood banks and manufacture
+of blood products.
+g) Coordinating the activities of the States and advising them on matters
+relating to uniform administration of the Act and Rules in the country.
+State Drugs Control Organization is appointed by the State/Union Territory Governments
+to regulate the manufacture and sale of Drugs and Cosmetics.
+1.2 Functions of State Drug Control Authorities
+a) Licensing of Manufacturing Site for Drugs including API and Finished
+Formulation
+b) Licensing of Establishment for sale or distribution of Drugs
+c) Approval of Drug Testing Laboratories
+d) Monitoring of Quality of Drugs and Cosmetics marketed in the country
+e) Investigation and prosecution in respect of contravention of legal
+provision
+f) Recall of sub-standard drugs
+1.3 Mechanism for Enforcement of the Act in Respect of Sale and
+Manufacture of Drugs
+The manufacture and sale of drugs is a licensed activity under the Drugs and Cosmetics
+Act, 1940 and the licensees are required to comply with the provision of the Act and the
+conditions of the licence. The Act specifies offences and penalties for violations of the
+provisions of the Act.
+The licences for sale of drug (wholesale or retail) are granted by the State Licensing
+16
+
+Authorities. The licences are required to comply with the condition of licence as provided
+under Rule 65 of the Drugs and Cosmetics Rules. Some of the salient conditions are as
+under:
+I. The supply, otherwise than by way of wholesale dealing of any drug
+supplied on the prescription of a Registered Medical Practitioner should be
+effected only by or under the personal supervision of a registered
+pharmacists.
+II. The supply of any drug on a prescription of a registered medical
+practitioner should be recorded at the time of supply in a prescription
+register specially maintained for the purpose and the serial number of
+entry in this regard shall be entered on the prescription. The following
+particulars should be entered in the register-
+a) The date of supply.
+b) The name and address of the prescriber.
+c) Name and address of the patient.
+d) The name of the drug or preparation and the quantity.
+e) Batch number and date of expiry.
+f) Signature of the registered pharmacists.
+The licences should maintain an Inspection Book to enable an Inspector to record his
+impression and defects noticed.
+Schedule H of the drug provide a list of the drug which are required to be sold on the
+prescription of a registered medical practitioner and the manufacturer is required to label
+the drug with the symbol Rx and with the following words:
+‘Schedule H drug - warning: To be sold by retail on the prescription of a Registered
+Medical Practitioner only’.
+17
+
+The Drugs and Cosmetics Act provide penalty for manufacture, sale etc. of drugs in
+contravention in Act or the Rule made there under. Drug Inspector appointed under the
+Act is empowered to institute prosecutions in respect of breaches of the Act and Rules
+there under.
+Schedule M to the Drugs and Cosmetics Rules provides requirements for Good
+Manufacturing Practices and requirements of plant and equipment for manufacture of
+drugs. It specify in detail the requirements of premises, surroundings, personnel,
+sanitation, storage of raw materials, documentation and records, self inspections and
+quality control systems and site master files etc. The manufacturer should comply with
+the requirements of Schedule M under the conditions of the license.
+The manufacturer should provide and maintain adequate staff, premises, plant and
+machinery for manufacture of drugs under the conditions of license for manufacture of
+drugs. He should maintain records of manufacture including the testing of raw material
+and finished products. Each batch of the product should to be tested by the manufacturer
+either in their quality control laboratory or any laboratory approved by the Licensing
+Authority before releasing the product into market.
+A Drug Inspector appointed by the respective Governments should to inspect not less
+than once a year all establishment licensed for manufacture or sale within the area
+assigned to him and to satisfy himself that the conditions of license are being observed.
+He may draw samples of a drugs or cosmetics from the manufacturing or sale premises,
+where he has reason to doubt the quality of drug, in a prescribed manner and send them
+for test and analysis to the Government analyst to check the quality.
+The manufacturer should allow an inspector to inspect all registers and records
+maintained by him and to take samples of manufactured products, if required, and
+provides such information as required for the purpose of ascertaining whether the
+provisions of the Act and Rules there under have been observed. The inspection may be
+conducted by one or more inspectors to examine the premises, plant, appliances and
+process of manufacture, professional qualifications of technical staff and capability of the
+manufacturer to comply with the requirements of Good Manufacturing Practices and
+18
+
+requirements of plant and equipment before a license is granted.
+1.4 Proposed Actions to monitor Sale of Antibiotics
+ Schedule H of the drug and cosmetics act contains a list of 536 drugs
+which are required to be dispensed on the prescriptions of a registered
+medical practitioner. In order to have separate regulation to check
+unauthorized sale of antibiotics, a separate schedule as Schedule H1 may
+be introduced under the Drugs and Cosmetics Rules to regulate sale of
+antibiotics exclusively. Corresponding provisions under the Rules could be
+framed for their implementation. A provision could be incorporated for
+spot suspensions /cancellation of the sale licence for contravention of the
+provision of Schedule H1. Drug Inspectors in the Zonal and sub-zonal
+offices of CDSCO along with the State Drug Inspectors may conduct
+surprise raids at the chemist shops to ensure that the provision of the
+Drugs and Cosmetics Rules especially in respect of Schedule H1 are
+strictly complied by the licensees.
+ A system of colour coding of third generation antibiotics and all newer
+molecules like Carbapenems (Ertapenem, Imipenem, Meropenem),
+Tigecycline, Daptomycin may be put in place restricting their access to
+only tertiary hospitals.
+ Appropriate steps should also be taken to curtail the availability of fixed
+dose combination of antibiotics in the market, by and large combinations
+should be discouraged except for naturally interactive ones like Co-
+trimoxazole, Amoxyclav, etc.
+ A similar review needs to be carried out on the composition of topical
+antibiotics
+ The drug testing laboratories in the country should be strengthened in
+terms of infrastructure, number and also training of drug inspectors.
+19
+
+ Incentives should be given to pharmacies for not selling antibiotics
+without prescription and appropriate regulation for the same should be
+formulated.
+1.5 Proposed action for development of newer antimicrobials
+ The universities and prominent research institutes in the country should be
+encouraged by appropriate incentives to develop newer antimicrobials. In
+this regard, a National Technical Advisory Group on development of
+Newer Antimicrobials may be established.
+20
+
+ToR-2: Design for creation of a National Surveillance System
+for Antimicrobial Resistance
+2.1 Background:
+Antimicrobial resistance in pathogens causing important infectious diseases is a matter of
+great public health concern globally, as well as in India. A major factor responsible for
+this is the widespread use and availability of practically all antimicrobials over the
+counter for human as well as animal consumption.
+Though, there are definite policies / standard treatment guidelines for appropriate use of
+antimicrobials in specific national health programmes e. g. RNTCP (Revised National
+Tuberculosis Control Programme), NACP (National AIDS Control Programme),
+NVBDCP (National Vector Borne Disease Control Programme), the same are not
+available for other diseases of public health importance like enteric fever, diarrhoea /
+dysentery, pneumonia, etc.
+Reliable Indian data on antimicrobial resistance (AMR) for important pathogens of
+public health importance is an essential pre-requisite for developing appropriate
+guidelines for use of antimicrobials. Currently, there is no accepted national database of
+antimicrobial resistance in different pathogens except for those where there is a specific
+national health programme.
+Despite many microbiology laboratories (in both public as well as private sector)
+performing routine antibiotic susceptibility testing (AST) of at least bacterial pathogens,
+the data is neither analysed regularly nor disseminated for use by clinicians / public
+health experts / programme managers. Quality control and data sharing by these
+laboratories are other important issues that need attention.
+Analysis of the AST results from laboratories in India reveals an increasing trend of
+development of resistance to commonly used antimicrobials in pathogens of public health
+importance like Salmonella spps, Shigella spps, V. cholerae, Staph aureus, Gonococcus,
+Meningococcus, Klebsiella spps, Mycobacterium tuberculosis, HIV, and others.
+21
+
+There are a few examples of successful networking of laboratories carrying out
+antimicrobial sensitivity testing of gonococcus in the country under the GASP
+(Gonococcal antimicrobial susceptibility programme) with regional STD laboratory at
+Safdarjung Hospital, New Delhi being the referral laboratory.
+Evidence from the experience of countries like UK, Sweden and other European
+countries shows that a national plan on antimicrobial resistance monitoring has shown to
+impose restrictions on the injudicious use of antibiotics. It shall help to contain the
+problem of AMR in the country to a large extent.
+2.2 Types of AMR surveillance:
+Three types of surveillance can be done for AMR - Comprehensive surveillance,
+sentinel surveillance and point prevalence studies. Comprehensive AMR surveillance
+though giving actual estimate of AMR burden, includes the study of the whole population
+at risk / under study and needs the involvement of a large number of laboratories which is
+not practical specially in our country. Point prevalence studies are useful for validation of
+the representativeness of the surveillance data. Sentinel surveillance studies have been
+found to be quite useful in such situations.
+Sentinel surveillance for AMR
+Though it provides only indicative data, the same can be extrapolated to the rest of the
+population. It is also a suitable mode of surveillance when prolonged and detailed data is
+needed. This seems to be the best approach for our country. One or more central
+institutions under the Ministry of Health may be the coordinating centre(s) at the national
+level depending on the size of the laboratory network.
+22
+
+2.3 Design for AMR surveillance
+2.3.1 Identification of the pathogens / diseases of public health
+importance for surveillance
+Following bacterial pathogens isolated from different human infections / anatomical sites
+e.g. Blood stream infections, Skin and Soft tissue and surgical site infections, Respiratory
+infections, Gastro intestinal tract infections and Urinary Tract Infections (UTI) may be
+included in a phased manner for the purpose of AMR surveillance.
+First phase (Non fastidious bacterial pathogens)
+1. Following Gram Negative Bacilli (should address Extended Spectrum -
+lactamases [ESBLs] and Metallo -lactamases [MBLs], including NDM-1)
+may be included.
+ Pseudomonas aeruginosa
+ Acinetobacter spps
+ Klebsiella pneumoniae
+ Esch. coli
+2. Staphylococcus aureus (should address Methicillin Resistant Staph aureus
+- MRSA) Second phase in addition to the above the following organism surveillance
+will be added:
+ Enterococci specially VRE (Vancomycin Resistant Enterococci)
+ Salmonella , Shigella sp and Vibrio cholerae
+ Streptococcus pneumoniae, and H. influenzae
+2.3.2 Creating a network of AST laboratories
+Surveillance networks at different levels of healthcare system should be set up
+with unified protocols and SOPs, at least up to district level. Later on it may
+be expanded up to Peripheral Health Facility level also to obtain community
+based data on AMR. It was felt that since at the moment the basic
+infrastructure for AMR surveillance does not exist at the district level in the
+23
+
+country, it may not be feasible to carry out AMR surveillance at the district
+level to begin with. However, efforts should be made to develop the
+infrastructure at the district level in a phased manner.
+ The laboratory should preferably be a part of a large hospital having different
+types of facilities Outdoor and Indoor, ICU, Operation theatres, etc.
+ Identification of microbiology laboratories based in medical institutions or
+medical colleges across the country with an existing infrastructure for AST
+testing to generate data on the identified bacterial pathogens. The laboratory
+must have qualified microbiologists well versed with antimicrobial
+susceptibility testing techniques and should be carrying out AST for at least
+last 5 years. The laboratory must also be conversant with and following the
+quality control procedures for AST. Since at the moment very few laboratories
+in the country are NABL accredited specially in the public sector, this need
+not be the criterion for selecting the laboratories for the network at the
+moment and however, the network laboratories should be encouraged for
+NABL accreditation later on in a phased manner.
+ We may also identify a central reference centre for Characterization and
+epidemiological study of resistance factors in microbial pathogens
+ In the first phase, the following three central Govt. Hospital in Delhi will be
+included for AMR surveillance.
+ Sucheta Kriplani Hospital (SKH) & Lady Hardinge Medical College
+(LHMC), New Delhi
+ Dr Ram Manohar Lohia (RML) Hospital, New Delhi
+ Vardhman Mahavir Medical College (VMMC) and Safdarjung
+Hospital, New Delhi
+ Subsequently, in a phased manner, the surveillance network should be linked
+with existing special networks such as one for resistance monitoring in
+malaria, pneumonia or low-respiratory tract infection, tuberculosis and HIV
+etc.
+24
+
+2.3.3 Standardize methodology for microbial identification and AST
+ Develop standardized AST (Antimicrobial Susceptibility Testing) methodology
+including identification of antimicrobials to be tested and reported for each
+identified pathogen for AMR surveillance
+ Develop detailed Standard Operating Procedure (SOPs) for microbial
+identification and AST based on current CLSI (Clinical Laboratory Standards
+Institute) guidelines; the same may be made available to all the testing
+laboratories.
+ Though the network laboratories would be recommended to do the AST by Disc
+diffusion test using Modified Kirby Bauer method ,those following other
+standard methods e.g. Stokes method or doing MIC testing by methods like ‘E’
+test, automated systems may also be included provided they are following
+appropriate Quality control measures. Laboratories should also be having
+expertise to do MRSA, ESBL and Carbapenemase (Modified Hodge test /
+Imipenem + EDTA E test) testing. Carbapenem resistant isolates may be stocked
+and sent to a designated central laboratory for further molecular analysis (For
+NDM-1 etc). The identified central laboratory should be equipped with facilities
+to analyze mutations and Single Nucleotide Polymorphisms (SNPs) along with
+deep sequencing and DNA fingerprinting to identify strains with differential
+activities.
+ DNA-based technologies should be included wherever possible at it will not only
+identify the organism, but will also give a glimpse of resistance.
+ Reporting of results: AST results should be reported on a predestined
+format/template in terms of percentage sensitivity/resistance/ intermediate
+sensitivity with a clear denominator. Only isolates numbering more than 10
+should be used for the purpose of reporting, the data should also indicate the
+location and the site/source of the pathogen. Attempts should also be made to
+incorporate the history of use of antimicrobials in the given subject. The data can
+25
+
+be entered using excel sheet on a predesigned template taking into account the
+following parameters to generate surveillance data of OPD,WARD &ICU with
+validity period:
+ 1. Identify organism
+ 2. Segregate as per Grams Reaction: Gram positive/ Gram Negative organism
+ 3.Source : Blood, Urine, Respiratory, Pus / body fluids
+ 4. Percent sensitivity to the CLSI designated antibiotics
+ The above data is used in formulating the surveillance results as per the following
+template:
+Hospital surveillance data Validity of these data: Dec x + 1 yr
+(Jan-Dec of x year)
+S. No Most % prevalence S. No. Most sensitive 
+common antibiotics in
+pathogens descending order
+1   1  
+2   2  
+3   3  
+4   4  
+5   5  
+2.3.4 Strengthen Quality Systems in the network laboratories
+ Standardization of lab variables like qualities of antibiotic discs, different
+methodologies, different interpretation criteria, etc will help to generate reliable
+data on AMR.
+26
+
+ Institution of uniform testing methodology supported by availability of quality
+reagents and a robust quality assurance system (internal quality control and
+external quality assurance).
+ EQA (External Quality Assurance) for the network laboratories in the country
+should be established & this work can be assigned to one or more reputed
+institutions in the country who are already having infrastructure for quality
+assurance for AST testing
+2.3.5 AST Data analysis
+ Many laboratories are carrying out the analysis of AMR data manually or using
+Excel software. Few laboratories use WHONET 5 for AST data reporting and
+analysis.
+ The network laboratories should compile & analyzed data on regular basis & send
+the data quarterly to designated central coordinating institution.
+ There is a need of developing a user friendly tool / software for AST data
+compilation and analysis.
+2.3.6 Dissemination of AMR data
+ Development of a system of regular and timely dissemination of AST data to the
+participating labs, clinicians and policy makers is important.
+ The AMR data generated by the respective network laboratories should be sent to
+the coordinating centre, regularly on a quarterly (once in 3 months) basis.
+ The data to be sent electronically in a predefined template.
+ The data shall be collated and analyzed by the coordinating institution and
+subsequently made available to the policy makers and other stake holders.
+2.3.7 Development of National Repository of Bacterial strains / cultures
+There is also a strong need to establish a national repository of standard bacterial strains
+required for quality control of AST as well as repository of drug resistant strains
+(including molecular components like DNA / plasmids) isolated from the different
+27
+
+network laboratories. Already, Institute of Microbial technology (IMTECH), Chandigarh
+has the requisite infrastructure and expertise to do the same. The responsibility can be
+assigned to this institute for maintaining the repository of cultures and also supplying the
+same to the network laboratories as per the need/demand. In addition to IMTECH, other
+institutes can be identified for the purpose.
+2.4 Operationalization of the Action plan for AMR surveillance:
+2.4.1 A one (1) day sensitization workshop for the senior microbiologists of
+the network laboratories
+2.4.2 A 2-3 days training workshop for junior microbiologist/ data reporting
+personnel on various aspects of AST specially quality control and data
+analysis/ transmission.
+2.4.3 Followed by regular monitoring and review meetings once in 6/12 months
+2.5 Research in AMR Surveillance
+2.5.1: New and simple surveillance tools with the capability to detect AMR at the
+lowest capable health centre should be developed and its ability to track the
+infection should be established.
+2.5.2: All surveillance activities should be linked with epidemiological studies
+particularly surveillance around relevant vaccination programs.
+2.5.3: A National Health Policy Unit should be entrusted with analysis of the
+surveillance data and provide advisory for framing of policies for use of antibiotics
+according to region, nation or hotspots.
+28
+
+ToR-3: Studies documenting prescription patterns and
+establishing a monitoring system for the same
+3.1 Introduction
+The current worldwide increase in antimicrobial resistance and, simultaneously, the
+downward trend in the development of new antibiotics have serious public health and
+economic implications. The increased antimicrobial resistance (AMR) is a result of many
+factors, but the foremost cause is the overall volume of antibiotic consumption,
+particularly for indications that do not require such therapy.
+About 80% of antibiotics are used in the community and the rest are used in hospitals. It
+is estimated that 20-50% of all antibiotics use is inappropriate, resulting in an increased
+risk of adverse side effects, higher costs of therapy and higher rate of antimicrobial
+resistance of community pathogen.
+3.1.1 Need for surveillance of antibiotic use in the community
+Enhanced antibiotic surveillance is one of the strategies is one of the strategies to guide
+control of antibiotic overuse or misuse. This is because the ability to study population-
+based pattern of antimicrobial use provides a more comprehensive understanding of how
+the physician and patient use these agents. Promoting appropriate use of antibiotics
+through various interventions will help stop unnecessary prescribing and misuse of
+antibiotics. For suitable interventions to be carried out in the community it is essential to
+know the extent of antimicrobial use and pattern of antimicrobials in the population.
+In a number of developed country settings, extensive programmes have been developed
+to track patterns of AMR and antibiotic use over time. Most developing countries do not
+have systems for routinely monitoring AMR. Measuring AMR rates on the basis of
+hospital isolates and having in-patients antibiotic policy as is presently done in few
+hospitals, is inadequate for understanding the burden of increasing AMR on the
+community.
+29
+
+3.1.2 Situation in India
+Data on the use of antimicrobial agent at the population level are lacking in India as we
+do not have any database for the consumption of antimicrobials (antibiotics) in the
+community. This is mainly because in India, unlike many developed countries,
+prescriptions are kept by the patient and not with the pharmacist and antibiotics may be
+obtained with or without a prescription. Therefore, determining consumption of antibiotic
+use or trends in antibiotic use is problematic, more so in private sector, since there are no
+prescription records. Hence, there was an utmost need to develop a methodology that can
+measure consumption and trends in antibiotic use in the community.
+3.1.3 Methodology for surveillance of antibiotic use in the community
+Recently a methodology was established for surveillance of antibiotic use in the
+community for out-patients. The methodology used was bulk purchased data and
+conducting exit interviews of patients buying any antibiotic at private retail pharmacies in
+New Delhi.1 The methodology was replicated and extended in public and private sector.
+This study of surveillance of antibiotic use in the community (December 2007-
+November 2008) utilized the established methodology of patient exit interviews at three
+types of facilities: 20 private retail pharmacies, 10 public sector facilities, and 20 private
+clinics to obtain a complete picture over a year in New Delhi. The Anatomical
+Therapeutic Chemical (ATC) classification and the Defined Daily Dose (DDD)
+measurement units were assigned to the data. 39% of the patients had encountered with at
+least one antibiotic at private retail pharmacies and public facilities whereas 43% of
+patients visiting private clinics were prescribed antibiotics. Consumption pattern of
+antibiotics were similar at private retail pharmacies and private clinics where
+fluoroquinolones, cephalosporins, and extended spectrum penicillins were the three
+commonly prescribed groups of antibiotics. At public facilities, fluoroquinolones,
+penicillins, macrolides, tetracyclines, cephalosporins and co-trimoxazole group of
+1 Kotwani A, Holloway K, Chaudhury R R. Methodology for surveillance of antimicrobials use among out-patient in Delhi. Indian
+Journal of Medical Research 2009;
+129: 555-60.
+30
+
+antibiotic class were used in this descending order. Newer members from each class of
+antibiotics were prescribed.
+Based on this methodology and experience in conducting drug utilization and rational use
+of medicines studies, surveillance of antimicrobials will be conducted in selected
+hospitals of India in a phase manner. The first phase of the study will be conducted in
+three tertiary care hospitals under central government in Delhi.
+3.2 Objectives
+ To study the consumption of various antibiotics in tertiary care public hospitals in
+Delhi under central government
+ To study the trends in antibiotic use in these hospitals of Delhi
+ Data generated will be used for intervention studies for rational use of antibiotics.
+ Later on, the network should also include peripheral heath facilities as well as
+pharmacies to obtain community based data on antimicrobial usage.
+ Auditing of the pharmacies in the hospital, prescription of the practitioner as well
+as the pharmacies in the cities, districts and villages should be audited through a
+random selection basis.
+3.3. Methodology
+The first phase of the study will be conducted in NCT, Delhi and at tertiary care level of
+health care. Study will have a multi-disciplinary advisory committee of experts who will
+meet at regular intervals and their inputs will be helpful for implementation of the study.
+3.3.1 Facilities included:
+1. Sucheta Kriplani Hospital, New Delhi
+2. R. M. L. Hospital, New Delhi
+3. Safdarjung Hospital. New Delhi
+3.3.2 Study design and duration
+31
+
+Prospective study for approximate 3 months but will be continued as surveillance.
+Fourth month data will be analysed for overall consumption and trends of antibiotic use.
+3.3.3 Data collection methodology
+In-patients
+Consumption of antibiotics in various departments: Data on antibiotic consumption will
+be collected from all the important departments like, medicine, surgery, gynaecology,
+orthopaedics, ICU, etc.
+a. Data collection from medical store: Total consumption of all antibiotics
+used/consumed will be collected every month from in-patient indent/issued to
+each department.
+b. Prescription data: Prescription audit of approximate 10% of total in-patient in
+each department for each month will be done. For this data collectors will
+randomly pick 10% of prescriptions for the previous month and note down the
+details including the condition for which antibiotic was prescribed.
+Outcome measures: Consumption of each group of antibiotic will be defined in terms of
+total number of DDDs using the WHO ATC/DDD system2. Consumption will be
+expressed as DDD/100 bed/day.
+Out-patients
+a. Exit interview: Exit interviews will be carried out at the pharmacy of public
+hospital and for each special clinic operating in the public hospitals.
+For private hospital data collectors will do exit interview for each speciality in their OPD
+days and time.
+Exit Interviews – Exit interviews of the patient receiving any antibiotic at the
+chosen hospital/department/special clinic would be done. Two trained data
+collectors will carry out exit interviews outside the pharmacy of hospital. One
+counts all the patients visiting the pharmacy during the period of data collection
+2 World Health Organization. The anatomical therapeutic chemical classification system with defined daily doses
+(ATC/DDD) Norway: WHO, 2004. Available at
+http://www.who.int/classifications/actddd/en/
+32
+
+and checked whether they receive any antibiotic medicine. If the prescription has
+any antibiotic she/he will refer to the other data collector standing/sitting nearby
+and will interview the patient receiving an antibiotic as referred by his/her
+colleague. A pre-designed Performa will be used to collect data. The data
+collected would be
+ Total number of drugs prescribed in the prescription
+ Number of antibiotic(s) in the prescription
+ Name of the antibiotic as prescribed
+ Antibiotic prescribed as generic or trade name
+ Strength, dose and duration of antibiotic prescribed
+ Total amount prescribed
+ Total amount purchased/dispensed
+ Name, dose and duration of antibiotic dispensed
+ Nutritional (body weight)/ HIV status (anonymous) etc.
+Thirty exit interviews per month from each special clinic would be done and from
+general pharmacy 600 exit interviews will be done. For this required number of
+exit interviews to be conducted data collectors should visit 4-5 times the same
+facility/clinic to get a comprehensive picture.
+Outcome measures: Percentage of patients receiving antibiotics would be found
+out. Results would be expressed as DDD/100 patients. The denominator for exit
+interviews data is the number of patients attending the pharmacy/clinic during the
+time taken to do the target number of exit interviews.
+3.3.4 Data entry and data analysis
+A sophisticated software programme will be developed for entering the data and
+double entry will be done to check for errors.
+Data obtained will be analyzed to show monthly patterns of use and consumption
+of various group of antibiotic in all three public hospitals. Data will be compared
+33
+
+between hospitals, between various departments using different methodologies. A
+detailed secondary analysis will be done to find trends of antibiotic use.
+A meeting to disseminate the results of the study will be held at the end (4
+months) for all the stakeholders and participants of the study.
+3.3.5 Implementation
+Govt. of India, Ministry of Health will be coordinating the study with advisory
+committee/ task force .Project coordinator and the surveillance team set up for the
+purpose in the selected tertiary care hospitals will implement the surveillance of
+antimicrobials.
+3.3.6 Personnel required for the project
+ Project coordinator
+ Research Officer
+ Office assistant 1
+ Data collectors - 6
+ Office attendant 1
+ Software computer programmer
+ Bio Statistician
+ Data entry personnel
+3.3.7 Partners from each hospital
+ M. S. of each hospital
+ Officer who will coordinate the study from each hospital
+ Sister-in Charge
+ Pharmacy in-charge
+34
+
+ToR-4 : Enforce and Enhance regulatory provisions for
+use of antibiotics in human, veterinary and industrial use
+4.1 Regulatory provisions for use of antibiotics in veterinary and
+industrial use
+In livestock production, antibiotics are dispensed to animals for a number of different
+reasons viz. therapeutic treatment, disease prophylaxis and growth promotion. The
+administration of antibiotics against bacterial populations is a significant driving force for
+selection of resistant forms of bacteria, which can spread from one organism to another.
+There is therefore an important question of whether the use of antibiotics in animal food
+production poses a threat to human health. In particular, the worry is that resistant forms
+of bacteria may spread from animals and/or the environment (ground water / surface
+water / soil) to humans.
+4.1.1 The effects of use of antibiotics in food animals on human health
+There is a broad scientific consensus that the use of antibiotics in livestock, on some
+occasions, has detrimental effect on human health. The use of the antibiotic avoparcin as
+a growth promoter in food animals in Europe resulted in the development and
+amplification of Vancomycin-Resistant Enterococci (VRE) and subsequent colonization
+in human intestine. Vancomycin-resistance is a cause of concern because vancomycin is
+used as a last-line antibiotic for some hospital-acquired infections due to enterococci and
+staphylococci that have become resistant to the more commonly used antibiotics.
+The use of antibiotic enerofloxacin was approved for use in food production animals in
+many countries. The use of this antibiotic in food animals has resulted in the
+development of ciprofloxacin-resistant strains of Salmonella spp. and Campylobacter
+spp. These resistant bacteria have subsequently caused human infections. The use of
+animal feed supplements with the antibiotic tylosin has led to the development of
+35
+
+erythromycin-resistant streptococci and staphylococci not only in the animals but also in
+their handlers.
+WHO held a conference on use of antimicrobials issue and concluded that there is
+sufficient evidence showing that “the major transmission pathway for resistant bacteria is
+from food animals to humans” and has led to “increased frequency of treatment failure
+(in some cases deaths) and increased severity of infections”. In their recommendations,
+WHO specifically called for stricter legislation to minimize antimicrobial usage in
+livestock because as it may pose a significant risk to the human health.
+In 1997, the WHO’s report on `The medical impact of antimicrobial use in food animals’
+highlighted several causes where transfer of resistance from animals to human had
+occurred. It can happen through: direct contact with animals; the consumption of meat;
+drinking contaminated water or the transfer of genes between animal and human bacteria.
+The best known examples are the food borne pathogenic bacteria viz. Salmonella and
+Campylobacter and the commensal bacteria like Enterococcus. Scientific data has shown
+that resistance of these bacteria to routine antimicrobial treatment in humans is often a
+consequence of the use of certain antimicrobials in agriculture.
+4.1.2 International Regulations
+Driven by a concern for human health, Denmark initiated in 1995 a process to end the use
+of antibiotics as growth promoters in livestock production. This process involved both
+voluntary and legislative elements, which led to a total ban on use of antimicrobial
+growth promoters in Denmark since the end of 1999.
+Recognizing that antibiotic-resistance poses such a serious health threat, the European
+Union (EU) has banned the use of growth promoting antibiotics (specially those which
+are also used in human medicine) in animal feed. In December 1997, the EU banned the
+Animal Growth-Promoter (AGP) avoparcin in all its member states. In July 1997, the
+EU banned another four AGPs (tylosin, spiramycin, bacitracin and virginiamycin)
+because they belonged to classes of antimicrobial drugs used in human medicine.
+36
+
+Although the United States has yet to pass such a far-reaching policy decision about
+antibiotics in livestock production, the Food & Drug Administration (FDA) did ban one
+class of antibiotics used in poultry. Based on studies showing that high levels of
+fluoroquinolones in poultry led to drug resistance in humans, the FDA finally decided in
+2005 to prohibit the use of fluoroquinolones in animal husbandry
+4.1.3 Indian Scenario
+In India, the antibiotics are used widely in food animals as growth promoters and to
+prevent and treat infections. Non-therapeutic usage of antibiotics has been especially
+common in poultry production. However, cuurently there is no regulatory provision
+regarding the use of antibiotics in livestock.
+The Prevention of Food Adulteration Rules, 1995-part XVIII: Antibiotic and other
+Pharmacologically Active Substances, regulates the use of antibiotics and other
+pharmacologically active substances as given below:
+The amount of antibiotics for sea foods including shrimps, prawns or any other variety of
+fish and fishery products, shall not exceed the prescribed tolerance limit (mg/Kg[ppm])
+as mentioned below:
+a. Tetracycline (0.1)
+b. Oxytetracycline (0.1)
+c. Trimethoprim (0.05)
+d. Oxolinic acid (0.3)
+The use of any of the following antibiotics and other pharmacologically active substances
+shall be prohibited in any unit processing sea foods including shrimps, prawns or any
+other variety of fish and fishery products: All Nitrofurans, Chloramphenicol, Neomycin,
+Nalidixic Acid, Sulphamethoxazole, Aristolochia spp. and preparations thereof,
+Chloroform, Chlorpromazine, Colchicine, Dapsone, Dimetridazole, Metronidazole,
+37
+
+Ronidazole, Ipronidazole, other Nitroimidazoles, Clenbuterol, Diethylstilbistrol,
+Sulphonamide drugs, Fluoroquinolones and Glycopeptides
+4.2 Proposed Action Plan:
+4.2.1 Establishment of inter-sectoral coordination committee comprising
+experts from the following agencies:
+ Central Council for Scientific and Industrial Research (CSIR) (Chairperson: DG,
+CSIR)
+ Ministry of Health and Family Welfare
+ Ministry of Agriculture
+i. Indian Council for Agricultural Research
+ii. Department of Animal Husbandry
+ Food Safety and Standards Authority of India (FSSAI)
+ Agricultural and Processed Food Products Export Development Authority
+(APEDA)
+ Marine Products Export Development Authority (MPEDA)
+ Drug Controller General of India (Member Secretary)
+4.2.2 The inter-sectoral coordination committee may undertake the
+following activities:
+ Review of available data regarding the use of antimicrobials.
+ Generation of data by undertaking studies on the use of antimicrobials as Animal
+Growth-Promoters.
+ Specify the antibiotics for use in Livestock
+ Review of current laws on use of AGPs in other countries and feasibility of their
+implementation in India.
+ Development of regulations on usage of antimicrobials in poultry and other
+animals as well as the requisite labelling requirements in food.
+38
+
+ Review of Prevention of Food Adulteration Rules, 1995-part XVIII: Antibiotic
+and other pharmacologically active substances, if required, to enhance the scope
+(inclusion of other food products and antimicrobials).
+ Any other related issue.
+4.3 Regulatory provisions for use of antibiotics in Human use
+The regulations regarding manufacture, use and prevention of misuse of antibiotics for
+humans and animals in India are governed by the Drug Controller General of India with
+the help of State Drug Controllers.
+The current situation regarding “manufacture, use, misuse of antibiotics in the country”
+has been covered under ToR-I. The same also applies for the use of antibiotics in
+livestock.
+The recommendations made by the subgroup constituted for ToR-I, which is headed by
+DCG (I) would also be applicable for human and animal component of ToR-IV.
+39
+
+ToR-5 : Specific intervention measures such as rational use of
+antibiotics and antibiotic policies in hospitals
+5.1 Rational Use of Drugs
+Over the last 60 years, bacteria &in particular those pathogenic to humans have evolved
+towards antimicrobial drug resistance. Antimicrobial resistance is an issue of great
+significance for public health at the global level. Antibiotics are considered as wondered
+drug, but its irrational use & often inappropriate prescriptions makes it as abused drugs
+sometimes. The pathogens causing acute illness are showing resistance to antibiotics &
+pose a great threat to public health. Thus it is a fact that wide spread practices of
+medically ineffective and economically inefficient use of medicines has become a serious
+public health threat in many countries, jeopardizing quality of care, wastage of limited
+resources ,access to essential medicines and development of antibiotic resistance .
+Despite of existing policies, programs in different countries in various stages of
+implementation, sustainable effective interventions are lacking with significant impact in
+many of the countries including some part of India.
+Overuse, under-use, and misuse of medicines & antimicrobials remains a world wide
+hazard, as has been reported in the literature - over 15 billion injections per year, half un-
+sterile, many unneeded, 25-75% of antibiotic prescriptions inappropriate, 50% of people
+worldwide fail to take medicines correctly (Health quick 2003).
+Misuse and overuse of antibiotics, overuse and unsafe use of injections has been reported
+in Southeast Asian countries. All over the world 30-60% of PHC patients receive
+antibiotics which may be twice a s high as it may be clinically required. Large number of
+viral URTI and diarrhoea are treated with antibiotics in the world and inappropriate use is
+also being used in teaching hospitals all over the world.
+40
+
+Examples of irrational drug use are as follows:
+ No drug needed e.g. unnecessary & ineffective antimicrobials or antidiarrhoeals
+given instead of Oral Rehydration Solution.
+ Unsafe drugs e.g. Analgin (Dipyrone) banned in most developed countries, is
+used in many developing countries.
+ Under use of available effective drugs e.g. ORS not used effectively.
+ Ineffective drugs & drugs with doubtful efficacy e.g. unnecessary excessive use
+of tonics & multivitamin preparations
+ Incorrect use of drugs e.g. overuse of Injections
+ Wrong drugs used in unwarranted situations
+Rational use of drug involves using the correct drug with appropriate indication i.e. the
+reason to prescribe the drug should be based on sound clinical consideration appropriate
+drug should be administered keeping in mind the safety, suitability, efficacy and cost.
+Apart from this the duration and administration of drug should also be done
+appropriately. Drug administration should also take into consideration the chances of
+drug reaction. Correct prescription and patient adherence to the treatment should also be
+considered.
+5.2 Interventions
+ A mandated multi-disciplinary national body should be established to coordinate
+medicines use policy
+ Developing evidence-based clinical guidelines in a participatory way that are easy
+to implement and reinforced by prescription audit, etc
+ An essential medicines list should be developed
+ To form a national drug and therapeutics committees
+ Problem-based pharmacotherapy training should be undertaken at regular
+intervals
+ Continuing in-service medical education (CME) is a requirement for licensure of
+health professionals
+41
+
+ Continuous supervision, audit and feedback should be done
+ Independent medicine information to be coordinated by the pharmacist
+ Public education about medicines
+ Appropriate and enforced regulation by drug controller of India
+ While procuring antibiotics, efforts should be made to procure generics only with
+appropriate quality checks before bulk purchases.
+The following three strategies should be followed to improve drug use:
+ Educational strategy: Training, printing materials, media-based approach
+discourage self medication by the general public.
+ Managerial strategy: Monitoring & supervision, generic substitution, patient cost
+sharing (economic incentives) etc
+ Regulatory strategy: enforcement, sanction, drug withdrawal, market control etc
+5.3 Protocol
+To recommend specific intervention measures such as rational use of antibiotics and
+antibiotic policies in hospitals which can be implemented as early as possible.
+Intervention Measures:
+ Formulation of antibiotic policy
+ Education and Training of all prescribers
+ Implementation of infection Control guidelines
+5.3.1 Formulation & implementation of an antibiotic policy
+With quality assured laboratory data in real time develop antibiotic policies that are
+standard national / local treatment guidelines advocating evidence based immunotherapy
+or combination therapy. This must include consideration of spectrum of antibiotics,
+pharmacokinetics / pharmacodynamics, adverse effects, cost and special needs of
+individual patient groups.
+42
+
+5.3.2 Formulation:
+Step I:
+ Compile Local Hospital data based. on AMR
+ Site of infection
+ Geographic Variations (ICUs / Wards / Surgical Site Infections etc.)
+ Percent Distribution of organisms
+ Percent Susceptibility to identified antibiotics
+Step II:
+Put the data in given template:
+ Site of Infection, Type of Infection.
+ Causative pathogens.
+ Recent 12 month antimicrobial data.
+ Capture pathogens contributing to 80-90% of infections.
+ Capture the susceptibility of antimicrobials from highest to lowest.
+ Pneumonia
+ IAI
+ UTI
+ BSI
+ SSTI
+ Surgical Prophylaxis.
+Step III
+ Put in database, based on site of infection?
+ Data will be separate for Ward and ICU isolates
+43
+
+ 5 most common pathogens be identified and most antibiotics in decreasing order
+of sensitivity also be identified. Refer ToR-2 (Page no. 19 to 21) For details
+ Generate the Validity period (X+1yr)
+Hospital surveillance data (Jan-Dec of X year) Validity of these data: Dec X+1yr
+S. No Most % prevalence S. No. Most sensitive 
+common antibiotics in
+pathogens descending order
+1   1  
+2   2  
+3   3  
+4   4  
+5   5  
+5.4 Implementation:
+Defining patient type: Do Risk Stratification for each patient’s type
+TYPE 1 TYPE2 TYPE 3
+Health Care No Yes Prolonged
+Contact No Minimum Major invasive procedures
+Procedures
+Antibiotic Rx No in last 90 days Yes in last 90 days Repeat multiple antibiotics
+History Elderly
+Patients Young – No co- Few co-morbid Immuno-compromised +/-
+Characteristics morbid conditions conditions many co-morbid conditions
+44
+
+Possible No MDRs ESBLs / MRSA ESBLs + Pseudomonas +
+Causative Pathogens MRSA
+Pathogen susceptible to
+common
+antibiotics
+For example, an antibiotic policy for blood stream infections (BSI)
+Note: Patient Type 4 can also be added in special circumstances where suspicion of
+fungal (Candida) infection is highly suspect
+5.4.1 Set up an Antibiotic Management Team (AMT)
+This is a Multi disciplinary team with experts in: Infectious diseases, Internal medicine,
+Intensive care, Surgery, Paediatrics, Clinical microbiology, Pharmacology and Hospital
+pharmacy.
+45
+
+The functions of the AMT are
+• Develop the hospital antimicrobial policy both from existing policy (if any) and
+evidence based guidelines and adapt to suit local circumstances.
+5.4.2 The policy should be for presumptive / empiric therapy and
+prophylactic therapy
+(i) Presumptive/ Empiric antibiotic policy
+The policy should be simple, clear, non-controversial, clinically relevant, flexible
+and applicable to day-to-day practice and available in user friendly format. It
+should also include optimal selection dosage, route of administration, duration,
+alternatives for allergic to first-line agents; adjusted dosage for patients with
+impaired renal functions.
+The policy should risk stratify patients if this has not been done by the
+antimicrobial surveillance
+Previous history of antimicrobials or current antibiotics along with patient co
+morbidities may play a role in final prescribing.
+Note: Case index ratio has not been addressed at present (will be done
+subsequently).
+5.4.3 The presumptive / empiric policy should set the levels for
+prescribing antibiotics:
+ First choice antibiotics: Can be prescribed by all doctors
+ Restricted list of antibiotics: Only after permission from HoD or
+AMT representative
+ Reserve antibiotics: Only after permission from AMT member
+Presumptive therapy only applicable for 48 hrs after that the therapy needs
+to be converted into a definitive therapy (de-escalation step) based on
+evidence whether clinical or microbiological. AMT should interact with
+the unit that prescribes more than two antibiotics and satisfy them to the
+correctness of the regimen.
+46
+
+5.4.4 Prophylactic antibiotic policy
+Procedure for which antibiotic are needed should be posted in Operating Room with
+Optimal agents, dosage, timing, route and duration of administration e.g. Inj Cefuroxime
+1.5 gm I/V before induction of anaesthesia, repeat another dose if procedure extends
+beyond 4 hrs.
+Prophylactic antibiotics should be given for a short duration, free of side effects and
+relatively inexpensive and should not be used as a therapy
+5.4.5 De-escalation for targeted therapy should also be a vital aspect of
+the policy after microbiology reports are available
+5.5 Constructive feedback of policy prior to implementation
+After formulation of the presumptive / empiric & prophylactic policies they should be
+circulated to receive constructive feedback. Policy should be reviewed by respected peers
+who are not the members of the AMT, but are also experts in the relevant field
+.Ownership should be complete.
+5.6 Monitor implementation: we may form Drug and Therapeutics
+Committee which may carry out the following:
+5.6.1 Basis for approval of new drugs: The DTC has to fix criteria for the approval of
+new drugs. Those criteria include safety, efficacy, availability and cost of the medication.
+5.6.2 Fixing of three brands per generic: The DTC may decide to keep a maximum of
+three brands of an approved generic.
+5.6.3 Banning of harmful drugs in the Hospital: The DTC can ban the use of few
+harmful drugs like Phenylpropanolamine (PPA) and Nimesulide in the hospital.
+5.6.4 Removal of irrational fixed dose combinations from the hospital drug list: The
+committee can remove few irrational fixed dose combinations from the hospital drug list.
+47
+
+These combinations include the fixed dose combination of ampicillin with cloxacillin,
+amoxicillin with cloxacillin etc.
+5.6.5 Development of over the counter (OTC) drug list: Hospital DTC should develop
+the OTC drug list for the Hospital. This OTC drug list should also contain the quantity to
+be dispensed
+5.7 Assess outcome of Intervention: as below
+A monthly update of antibiotic consumption of a unit is sent with a comparison of
+other units in the institute this highlights any excess, for e.g. a monthly update on
+antibiotic prescribed can be shared with the doctors of their speciality:
+Unit: Cardiology
+ Your unit prescribed 117 DDD/100 bed-days
+ Average for all specialties: 189 DDD/100 bed-days
+ Average for your specialty: 133 DDD/100 bed-days
+ 3 % of units in this hospital prescribe fewer DDDs of antibiotics per 100 bed-days
+than your unit
+DDDs are a standardized measure of drug consumption used by WHO: They represent
+the average daily maintenance dose of a drug used for its main indication in adults
+Table 1. Breakdown of antibiotic use by class (in DDDs/100 bed-days). When your unit’s
+prescribing rate for an antibiotic class is above the average for all units in this study, it is
+shown in red
+Your unit’s Average for all Average for
+Antibiotic class
+prescribing rate specialties Cardiology
+Penicillins 7 1 1
+Cephalosporins 29 89 26
+BL BLIs 41 35 50
+Quinolones 18 15 32
+Aminoglycosides 4 20 4
+Macrolides 9 7 12
+Clindamycin 3 7 3
+Carbapenems 4 6 2
+48
+Glycopeptides 1 5 4
+
+Figure 1 - The distribution of prescribing rates. The green is your unit and blue
+rectangles represent other units in your specialty and the red rectangles represent all
+units in other specialties of the hospital. Similarly this should be made for each unit at a
+particular hospital
+Note: Confidential: circulation to unit only
+5.7.1 Update and revise
+The policy should be updates every year based on local surveillance of antimicrobial
+susceptibility data, clinical practice and local circumstances
+5.7.2 Set prescription audit targets
+5.8 Education
+Train and educate doctors at all levels for usage of this antibiotic policy.
+Ensure training on types of organisms in each type of infection and the ideal choice
+should be in the form of weekly CMEs seminars etc., in the beginning of the launch of
+the antibiotic policy.
+5.9 Implementation of Infection Control Guidelines
+Ensure Infection prevention guidelines to prevent cross transmission of resistant
+pathogens (guidelines for good infection control practice and SOPs should be circulated
+including waste disposal guidelines to prevent release of antimicrobials in the
+environment through human excreta and other body fluids)
+49
+
+After the IC guidelines are adopted regular point Surveillance Audit are essential aspects
+to ensure implementation
+ Preoperative prophylaxis: Surgeons should regularly follow up on feasibility of
+not giving oral antibiotics on post-op day 2-5 after perioperative antibiotics on
+day one.
+ Audit: should be the collective responsibility of the members of the AMT. For
+this the microbiologist of the hospital can take ward rounds at least once a week
+and do spot or point surveillance.
+ Cost related issues to be decided by the committee set up in each hospital for
+antibiotic policy.
+Reference to the other Terms of Reference can be given where ever necessary.
+50
+
+ToR-6 : Diagnostic methods pertaining to Antimicrobial
+Resistance Monitoring
+Appropriate diagnostic tools already known should be selected as well as new ones
+developed for rapid identification of pathogens for AMR surveillance.
+Robust quality assurance system should be implemented that could be carried out by
+a “neutral” central institute.
+If needed, linkages should be established with some of the existing institutes for
+strengthening quality assurance. This strengthening of quality assurance should span
+animal health, industrial surveillance and environmental surveillance.
+Environmental surveillance should be an interface between veterinary, industrial and
+human health.
+51
+
+7. Conclusions
+ It is imperative that all the clinicians understand the principles and standard
+methods of antibiotic susceptibility tests. They should also insist on the laboratory
+to follow these recommended procedures to generate antibiotic susceptibility test
+reports that are quality assured. Antimicrobial susceptibility data generated based
+on consistent reproducible and comparable data between different laboratories
+will produce better outcomes and help in developing region-wise antibiograms.
+ All the tertiary care hospitals (public or private) need to develop their SOP’s and
+guidelines as per the national guidelines and implement in their setting.
+ The guidelines in the hospital to be reviewed every 6 months; national guidelines
+to be reviewed on yearly basis.
+Public Private Partnership:
+ All health care facilities need to implement the Antibiotic Policy which should be
+one of the components of hospital infection control guidelines & share the data
+with national agency.
+52
+
+8. Important Abbreviations
+AGP : Animal Growth-Promoter
+AMR : Antimicrobial Resistance
+APEDA : Agricultural and Processed Food Products Export Development Authority
+AST : Antibiotic Susceptibility Testing
+ATC : Anatomical Therapeutic Chemical
+BSI : Blood Stream Infection
+CDSCO : Central Drugs Standard Control Organization
+CLSI : Clinical Laboratory Standard Institute
+CME : Continuing Medical Examination
+DCGI : Drug Controller General India
+DDD : Defined Daily Dose
+DTC : Drug Therapeutics Committee
+EQA : External Quality Assurance
+ESBL : Extended Spectrum Beta Lactamase
+EU : European Union
+FDA : Food & Drug Administration
+FSSAI : Food Safety & Standards Authority of India
+GASP : Gonococcal Antimicrobial Susceptibility Programme
+IAI : Intra-abdominal Infection
+ICU : Intensive Care Unit
+MBL : Metallo--Lactamase
+MDR : Multi Drug Resistance
+MPEDA : Marine Products Export Development Authority
+MRSA : Methicillin Resistant Staphylococcus Aureus
+NACP : National AIDS Control Programme
+NDM : New Delhi Metallo--Lactamase
+NVBDCP : National Vector Borne Disease Control Programme
+ORS : Oral Rehydration Therapy
+53
+
+RNTCP : Revised National Tuberculosis Control Programme
+SOP : Standard Operating Procedure
+SSTI : Skin and Soft Tissue Infection
+ToR : Terms of Reference
+URTI : Upper Respiratory Tract Infection
+UTI : Urinary Tract Infection
+VRE : Vancomycin Resistant Enterococcus
+54

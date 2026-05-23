@@ -1,0 +1,765 @@
+FTS: 3114722
+F.No. T-20018/38/2017-NCD
+Directorate General of Health Services
+Ministry of Health & Family Welfare
+Nirman Bhawan, New Delhi
+Dated 22nd February, 2021
+Subject:- Circulation of Draft National Oral Health Policy for public comments through
+MoHFW Website.
+With the aim to provide a framework for prevention of oral diseases and promotion of oral health, a
+draft National Oral Health Policy is proposed by National Oral Health Program Division of Ministry
+of Health and Family Welfare. The same is being circulated for the public comments through this
+MoHFW website.
+The public comments on the draft National Oral Health Policy are invited and may be sent to the
+following
+1. Name of the concerned official:- Dr. L. Swasticharan
+2 Email ld:- nohpindia@gmail.com
+3. Phone no.- 011-23063537
+4. Deadline for receiving comments:- 25th March 2021.
+(Dr. L. Swasticharan)
+Addl. DDG & Director (EMR)
+011-2306 3537
+
+DRAFT NATIONAL ORAL
+HEALTH POLICY
+(An extension of the National Health Policy 2017)
+NATIONAL ORAL HEALTH
+PROGRAMME
+MINISTRY OF HEALTH and FAMILY WELFARE,
+GOVT. OFINDIA
+1
+
+FOREWORD
+It is an honor for me to write the foreword for the new oral health policy in India.
+The aim of the oral health policy is to provide a framework for prevention of oral diseases and
+promotion of health by supporting policies and programs that make a difference to our health. The
+policy recognizes that oral health should be treated like any other serious health issue in the
+country.
+It emphasizes the importance of equity, integration, community participation,
+gender, prevention and promotion, and research as major tools to be used in addressing the oral
+disease burden in India. The oral health policy outlines objectives and suggests strategies to be
+followed and will therefore improve the effectiveness and efficiency of delivery of oral health care
+by adopting safe and effective disease preventive measures. The policy also addresses the
+inequalities and disparities that affect those with the least resources to achieve optimal oral health.
+However, the success of this policy will require the active involvement of the public and private
+sector as well as the community.
+This policy has marked yet another milestone in the Ministry’s determination and
+commitment to improve the health status of its citizens. The improved quality of life resulting from
+enhanced health care will be translated into decreased demand for oral health services and
+increased productivity in the absence of oral diseases. In conclusion, I wish to express my
+appreciation to all those who contributed to the development of this policy.
+2
+
+Contents
+CONTENTS ................................................................................................................................................................. 4
+KEYTERMS ................................................................................................................................................................ 6
+DEFINITIONS ............................................................................................................................................................. 9
+PREAMBLE .............................................................................................................................................................. 12
+EXECUTIVESUMMARY ........................................................................................................................................ 13
+INTRODUCTION ..................................................................................................................................................... 14
+2. SITUATIONALANALYSIS ................................................................................................................................. 16
+BURDEN OFORALDISEASES .............................................................................................................................................................. 16
+SOCIAL DETERMINANTS OFORALHEALTH .................................................................................................................................. 16
+RISKFACTORS........................................................................................................................................................................................ 17
+HUMAN RESOURCES FORORALHEALTH....................................................................................................................................... 17
+ORAL HEALTHCARE SERVICEDELIVERYSYSTEM ........................................................................................................................ 17
+ECONOMIC IMPACT OF ORALHEALTH SERVICES ....................................................................................................................... 18
+3. VALUESANDPRINCIPLES ................................................................................................................................ 19
+PROFESSIONALISM, INTEGRITY AND ETHICS .............................................................................................................................. 19
+UNIVERSALITYAND EQUITY ............................................................................................................................................................. 19
+AFFORDABLE,PATIENT CENTERED, ACCESSIBLE, QUALITYCARE ....................................................................................... 19
+INCLUSIVE PARTNERSHIPS ................................................................................................................................................................ 19
+DYNAMISM AND ADAPTIVENESS .................................................................................................................................................... 19
+4. VISION 20
+5. OBJECTIVESANDTARGETS ............................................................................................................................ 20
+OBJECTIVES 20
+SPECIFIC QUANTITATIVE TARGETS ............................................................................................................................................... 20
+Oral Health Status ....................................................................................................................................... 20
+Health System Performance ........................................................................................................................ 21
+Oral Health System strengthening ............................................................................................................... 21
+Oral Health Management Information ........................................................................................................ 21
+6. POLICYCOMPONENTS ..................................................................................................................................... 22
+ENSURE ADEQUATE INVESTMENT.................................................................................................................................................. 22
+COMPREHENSIVE ORAL HEALTH CARE (PROMOTIVE, PREVENTIVE,CURATIVE AND REHABILITATIVE) ............. 22
+ACCESSIBLE AND AFFORDABLEORALHEALTHCARE ............................................................................................................. 22
+QUALITYOF LIFE ................................................................................................................................................................................ 22
+INTEGRATION ...................................................................................................................................................................................... 23
+Relevant National Health Programs............................................................................................................ 23
+Inter-Ministerial Collaborations ................................................................................................................. 23
+Educational Institutions ............................................................................................................................... 23
+COMMUNITYINVOLVEMENT ............................................................................................................................................................. 23
+3
+
+PARTNERSHIP ........................................................................................................................................................................................ 23
+COMMON RISK FACTOR APPROACH(CRFA) ...................................................................................................... 24
+INFORMATION EDUCATION COMMUNICATION/ BEHAVIORCHANGE COMMUNICATION .............................................. 24
+PATIENT CENTERED QUALITYOF CARE .......................................................................................................................................... 24
+HEALTH SYSTEM STRENGTHENING ............................................................................................................................................... 25
+ORALHEALTH RESEARCH ................................................................................................................................................................. 25
+ACCOUNTABILITY, MONITORING AND EVALUATION ............................................................................................................... 25
+DENTALEDUCATION ........................................................................................................................................................................... 26
+ADVOCACY ............................................................................................................................................................................................ 26
+AVAILABILITY OF AFFORDABLE ORAL HYGIENE PRODUCTS, DENTAL EQUIPMENT,INSTRUMENTS ANDMATERIALS 26
+REGULATORYFRAMEWORK ....................................................................................................................... 27
+PROFESSIONAL EDUCATION REGULATION .................................................................................................................................. 27
+REGULATION OF DENTALCLINICAL ESTABLISHMENTS .......................................................................................................... 27
+REGULATION OF DENTAL EQUIPMENT, INSTRUMENTS AND MATERIALS .......................................................................... 27
+8 Policy Thrust
+9. POLICY REVIEWAND DEVELOPMENT ....................................................................................................... 28
+10. LEGAL ASPECTS .............................................................................................................................................. 28
+11. FINANCIAL IMPLICATIONS.......................................................................................................................... 29
+12. STAKEHOLDERS .............................................................................................................................................. 29
+13. REFERENCES .................................................................................................................................................... 30
+4
+
+Key Terms
+1. GoI – Government of India
+2. MoHFW – Ministry of Health and Family Welfare
+3. NOHP – National Oral Health Programme
+4. NHP – National Health Policy
+5. NHM – National Health Mission
+6. RBSK – Rashtriya Bal Swasthya Karyakram
+7. NPCDCS – National Programme for Prevention and Control of Cancer, Diabetes, CVD
+and Stroke
+8. AYUSH – Ayurveda, Yoga and Naturopathy, Unani, Sidhha and Homeopathy
+9. IVRS – Interactive Voice Response System
+10. IEC – Information Education Communication
+11. BCC – Behaviour Change Communication
+12. PRI – Panchayati Raj Institutions
+13. DORA- Dental Operating Room Assistants
+14. YLD – Years Lost to Disability
+15. CRFA – Common Risk Factor Approach
+16. NCD – Non Communicable Diseases
+17. HWC – Health & Wellness Center
+18. DCI – Dental Council of India
+19. ESIC – Employees’ State Insurance Corporation
+20. BDS – Bachelor of Dental Surgery
+21. MDS – Master of Dental Surgery
+22. CGHS – Central Government Health Scheme
+23. IPHS – Indian Public Health Standards
+24. CRM – Common Review Mission
+25. NHA – National Health Accounts
+26. RSBY – Rashtriya Swasthya Bima Yojana
+27. PM-JAY – Pradhan Mantri Jan Arogya Yojana
+5
+
+28. OHRQoL – Oral Health Related Quality of Life
+29. GDP – Gross Domestic Product
+30. DH – District Hospital
+31. SDH – Sub District Hospital
+32. CHC – Community Health Center
+33. PHC – Primary Health Center
+34. SHC – Sub Health Center
+35. NTCP – National Tobacco Control Programme
+36. NPHCE – National Programme for Health Care of Elderly
+37. NPPCF – National Programme for Prevention and Control of Fluorosis
+38. RKSK – Rashtriya Kishor Swasthya Karyakram
+39. NACO – National AIDS Control Organization
+40. RMNCH+A – Reproductive, Maternal, Newborn, Child and Adolescent Health
+41. CSR – Corporate Social Responsibility
+42. SSR – Scientific Social Responsibility
+43. SHG – Self Help Group
+44. CDE – Continuing Dental Education
+45. NaRRIDS – National Referral and Research Institute for higher Dental Studies
+46. DST – Department of Science and Technology
+47. DBT – Department of Biotechnology
+48. ICMR – Indian Council of Medical Research
+49. CSIR – Council of Scientific and Industrial Research
+50. HMIS – Health Management Information System
+51. IIT – Indian Institute of Technology
+52. NFHS – National Family Health Survey
+53. IDA - Indian Dental Association
+54. NHSRC- National Health System Resource Centre
+6
+
+Definitions
+HEALTH is a state of complete physical, mental and social well-being and not merely the absence
+of disease or infirmity.1
+HEALTH PROMOTION is the process of enabling people to increase control over, and to
+improve their health.2
+ORAL HEALTH is multi-faceted and includes the ability to speak, smile, smell, taste, touch,
+chew, swallow, and convey a range of emotions through facial expressions with confidence and
+without pain, discomfort and disease of the craniofacial complex.3
+DENTISTRY involves the science, practice and research directed to —
+i) Facilitating healthy development of dentition, jaws and dento facial structures.
+ii) Prevention of oral diseases and promotion of oral health.
+iii) Diagnose and use of diagnostic tests, investigations and procedure to decide the normal and
+abnormal state (diseases) of teeth, gums, jaws and related tissues necessary for the functions of
+the oral cavity.
+iv) Perform procedures for the optimization of dental and oral health. These procedures may include
+restoration, rehabilitation, surgery or a combination thereof to restore the functions, structures
+(anatomy) and aesthetics of the stomatognathic system, the masticatory apparatus.
+v) Awareness and working knowledge of the effects of systemic health on dentition and oral cavity,
+and vice c versa to perform the duties of an active member of the health care team including basic
+life support.
+vi) Actions required to promote good systemic health through diagnosis and necessary
+interventions related to oral health conditions.
+vii) Awareness of oral health related issues of the society/nation and facilitate implementation of updated policies of
+State/Government bodies in this regard.
+DENTAL TEAM comprises a mix of dental surgeons and appropriate allied dental personnel,
+which must at all times be headed by a dental surgeon who will be responsible for the diagnosis,
+7
+
+treatment planning, delivery of dental services and continued evaluation of the oral health of the
+patient. The dental surgeon supports, directs and supervises the members of the dental team.5
+DENTAL SURGEON is an appropriately qualified dental practitioner, registered to practice all
+fields related to dentistry.4
+DENTAL HYGIENIST means a person not being a dentist or a medical practitioner, (included
+but not limited to) scales, cleans or polishes teeth, or gives instruction in dental hygiene.4
+DENTAL MECHANIC/ DENTAL TECHNICIAN means a person qualified to (included but
+not limited to) perform laboratory work required for the prosthetic rehabilitation of dental and
+maxillofacial structures, and orthodontic appliances.
+DENTAL OPERATING ROOM ASSISTANT / Dentist Assistant -is a person, not being a
+Dentist or Medical Practitioner; assists the Dental Surgeon in (included but not limited to)
+sterilizing and at the chair side by supplying instruments, handling various dental materials and
+medicines as required by the Dental Surgeon.5
+DENTAL CARIES (tooth decay) results when microbial biofilm (plaque) formed on the tooth
+surface converts the free sugars contained in foods and drinks into acids that dissolve tooth enamel
+and dentine over time. With continued high intake of free sugars, inadequate exposure to fluoride
+and without regular microbial biofilm removable, tooth structures are destroyed, resulting in
+development of cavities and pain, impacts on oral-health-related quality of life, and, in the
+advanced stage, tooth loss and systemic infection.6
+PERIODONTAL (gum) DISEASE affects the tissues that both surround and support the tooth.
+This often presents as bleeding or swollen gums (gingivitis), pain and sometimes as bad breath. In
+its more severe form, loss of gum attachment to the tooth and supporting bone causes “pockets”
+and loosening of teeth(periodontitis).6
+8
+
+TOOTH LOSS Dental caries and periodontal diseases are major causes of tooth loss. Severe tooth
+loss and edentulism (no natural teeth remaining) are widespread and particularly seen among older
+people.6
+ORAL CANCER includes cancers of lip and all subsides of the oral cavity, and oropharynx.6
+ORO-DENTAL TRAUMA is an impact injury to the teeth and/or other hard or soft tissues within
+and around the mouth and oral cavity.6
+DENTAL FLUOROSIS is a hypo-mineralization of tooth enamel caused by the ingestion of
+excessive fluoride by young children with developing teeth.7
+MALOCCLUSION Irregularity in dental occlusion beyond the accepted range of normal level is
+considered as a malocclusion.8
+TEMPOROMANDIBULAR JOINT AND MUSCLE DISORDERS are a group of conditions
+that cause pain and dysfunction in the jaw joint and the muscles that control jaw movement.9
+9
+
+Preamble
+The National Oral Health Policy considers the “citizen of India” at the core of oral health
+promotion, oral disease prevention, oral health care delivery systems strengthening and the
+integration of oral health with general health. It takes into consideration the present burden of oral
+diseases, appropriate oral health awareness of the community, disparities in availability of
+affordable oral health care services, accessibility to oral hygiene aids and improvement in oral
+health related quality of life of the individual and the community.
+The policy as a framework is relevant to national and state level policymakers, health resource
+planners, researchers, academicians, service providers and service seekers across the country. It
+provides a vision for the future goals and objectives to achieve in the short and long terms and
+outlines the priorities to achieve universal health coverage in the context of oral Health The policy
+emphasizes the need for quality oral health research and education. It looks to public health
+institutions and centers of eminence as a partner for building the capacity of the oral healthcare
+delivery system.
+Policy development and implementation is a dynamic process and the success of this policy will
+be contingent on its communication to and involvement of all stakeholders. This policy outlines
+priorities and the expected role of stakeholders. Concurrent monitoring and evaluation for its
+effectiveness and filling of gaps, if any, will be the pillars for its successful implementation.
+10
+
+Executive Summary
+11
+
+Introduction
+Optimum oral health is a key aspect of maintaining general health and enjoying a decent quality
+of life. Altered oral health results in pain, suffering, disability, loss of productivity and low self-
+esteem.10 Oral diseases are one of the leading contributors to disability in India and affect
+individuals of all age groups irrespective of any socioeconomic factors.11 Access to quality oral
+healthcare services are limited and mostly restricted to urban areas.
+With the launch of National Rural Health Mission in 2006 and National Health Mission in 2012
+the access to dental services has improved due to the support given to the states. However, such
+provisions for improving oral health services have mostly been utilized in a limited way by some
+states only leading to overall lack of assured oral health care services both in rural and urban areas.
+Various studies have clearly identified that gap in perceiving the problems due to various oral
+health conditions by the population exist largely because of lack in awareness. This shows the lack
+of demand for oral health services in the population. In a nutshell, gaps are there both in demand
+and supply. Hence, the Government of India is coming out with this Oral Health Policy for
+improving entire spectrum of oral health from planning to implementation.
+National Oral Health Policy has therefore been brought out enhancing an enabling environment to
+all the professionals and institutes who are contributing positively in rendering good quality oral
+health care for the public.
+The policy clearly indicates the positive intent of the Government in improving and uplifting oral
+health care services with cost effective and wider access for all particularly those priority
+populations. It is hoped that under the ambit of the policy, states will be able to leverage the benefit
+in planning and implementation of various oral health care programs. These efforts will lead to
+improve the oral health indicators among the population of the country.
+Optimum oral health is a key aspect of maintaining general health and enjoying a decent quality
+of life. Altered oral health results in pain, suffering, disability, loss of productivity and low self-
+esteem.10 Oral diseases are one of the leading contributors to disability in India and affect
+individuals of all age groups irrespective of any socioeconomic factors.11 Access to quality oral
+healthcare services are limited and mostly restricted to urban areas.
+12
+
+With the launch of National Rural Health Mission in 2006 and National Health Mission in 2012
+the access to dental services has improved due to the support given to the states. However, such
+provisions for improving oral health services have mostly been utilized in a limited way by some
+states only leading to overall lack of assured oral health care services both in rural and urban areas.
+Various studies have clearly identified that gap in perceiving the problems due to various oral
+health conditions by the population exist largely because of lack in awareness. So, even demand
+for oral health services is not visible. In a nutshell, gaps are there both in demand and supply.
+Hence, the Government of India is coming out with this Oral Health Policy for improving entire
+spectrum of oral health from planning to implementation.
+National Oral Health Policy has therefore been brought out enhancing an enabling environment to
+all the professionals and institutes who are contributing positively in rendering good quality oral
+health care for the public.
+The policy clearly indicates the positive intent of the Government in improving and uplifting oral
+health care services with cost effective and wider access for all particularly those living in rural
+areas and urban slums. It is hoped that under the ambit of the policy, states will be able to leverage
+the benefit in planning and implementation of various oral health care programs. These efforts will
+lead to improve the oral health indicators among the population of the country.
+13
+
+2. Situational Analysis
+2.1 Burden of Oral Diseases:
+Oral diseases and conditions such as dental caries, periodontal diseases, malocclusion, oro-facial
+anomalies, dental fluorosis, loss of teeth, temporo-mandibular joint disorders, oro -facial trauma
+and oral cancers have the dubious distinction of affecting more than half of the population globally
+i.e., nearly 3.5 billion people12 Oral diseases and anomalies can manifest themselves as early as at
+the time of birth. Severe periodontal diseases, estimated to affect nearly 10% of the global
+population.6
+The global oral health profile has changed considerably in the past few decades. While many
+countries have shown improvement in various oral health indicators, the same does not hold true
+for India. As per multi-centric oral health survey conducted by Ministry of Health -WHO India
+collaborative bi annum program 2007-08, the prevalence of dental caries among the 12-year- old’s
+ranged between 23.0 % to 71.5 % and adults aged 35-45 years was between 48.1% to 86.4%.
+However, the elderly in 65-74 years had dental caries in the range of 51.6 % to 95.1 %. Similarly,
+periodontal diseases among adults & elderly were in the range of 15.32 % to 77.9 % & 19.9% to
+96.1%.13 The prevalence of untreated dental caries in children below six years was found to be
+49.6 % in India as per the systematic review published in year 2018.14 If this percentage is
+extrapolated to below six years, then the children with untreated dental caries are approximately
+10 crores.
+2.2 Social Determinants of Oral Health:
+Oral diseases are associated with an array of socio-economic and environmental factors including
+income, literacy, hygiene, sanitation, housing, and safe drinking water. Health literacy, specifically
+oral health literacy has a definite social gradient. Lack of awareness of preventive and promotive
+oral health (like mouth rinsing and tooth brushing) and the association of oral health with socio-
+economic factors result in a significant unfelt need for oral health services.15
+14
+
+Risk factors:
+Risk factors for oral diseases include poor oral hygiene, tobacco use, unhealthy cariogenic diet,
+stress, and harmful use of alcohol. Many of these risk factors are in common for major Non-
+Communicable Diseases (NCDs) as well. Targeting these risk factors through the Common Risk
+Factor Approach can therefore help prevent oral diseases and other Non-Communicable
+Diseases.15
+2.3 Human Resources for Oral Health:
+Human resources for oral health include specialty dental surgeons, dental surgeons, dental
+hygienists, dental operating room assistants / dental assistant and dental mechanics, all of whom
+comprise a dental team. The demand for human resources for health (including oral health) is
+estimated to go up with the establishment of Health & Wellness Centers under Ayushman Bharat.
+As per data from the Dental Council of India, there are 2.78 Lakh registered dental surgeons across
+the country as of August2020.4
+The dental education infrastructure has expanded rapidly. There are 313 dental colleges offering
+Bachelor of Dental Surgery (BDS) while 268 offer Master of Dental Surgery (MDS) courses.
+26,949 students were admitted for the Bachelors program and 6501 students were admitted for the
+Master’s program in 2020-21. However, only 110 dental colleges in the country offer
+Diploma course in Dental Hygienists and Dental Mechanics.4
+2.4 Oral Healthcare service delivery system:
+The majority of the oral health care services in the country are rendered through the private sector.
+Oral health service delivery in the public sector is augmented by other organized sectors like
+Central Government Health Scheme, Employees’ State Insurance Corporation, Indian Railways,
+Para Military and Armed Forces.
+The current Indian Public Health Standard norms make provision for oral health services at levels
+of District Hospital, Sub District Hospital and Community Health Center.17 However, the National
+Oral Health Program and the new norms accepted by NHSRC of Govt. of India also extends dental
+health care through primary health centres and health & wellness centers being established around
+the country. 18
+15
+
+2.5 Economic Impact of Oral Health Services:
+Oral diseases contribute to direct and indirect economic burden on the country by expenditure
+towards cost of treatment and loss of man hours.
+From the Current Health Expenditures, Union Government share is Rs. 46896 crores (8.7%) and
+the State Government’s share Rs. 84953 crores (15.8%). Local bodies’ share is Rs. 4339 crores
+(0.8%), Households share (including insurance contributions) about Rs. 367373 crores (68.1%,
+OOPE being 63.2%), enterprises (including insurance contributions) is Rs. 24512 crores (4.5%)
+and NGOs is Rs. 7837 crores (1.5%).18 External/donor funding contributes to about Rs. 3462 crores
+(0.6%). Contribution by Current Dental outpatient curative care Expenditures is Rs. 392.44 crores
+(0.07% of total health expenditures) according to National Health Accounts Estimates for India
+2016-17. 19
+The majority of the total expenditure was incurred more in the offices of general medical
+practitioners than in Government hospitals.20Existing private health insurance organizations
+provide very limited coverage for inpatient, trauma related oral health services, though there is
+scope for expanding the range of coverage by adding top up packages for additional premium.
+Public sector insurances like Rashtriya Swasthya Bima Yojna (RSBY), Central Government
+Health Scheme and Employees’ State Insurance also provide coverage for a limited number of oral
+health procedures. Pradhan Mantri Jan Arogya Yojana (PM-JAY) holds promise to further increase
+the percentage of population covered by public insurance for health care. The policy will also aim
+to promote oral health economic research in at national and regional levels since information in
+this area is incomplete and often disaggregated.21
+16
+
+3. Values and Principles
+3.1 Professionalism, Integrity and Ethics
+The oral health policy commits itself to maintaining the highest professional standards, integrity
+and ethics in oral health service delivery and training of dental professionals of all categories. It
+facilitates a transparent and responsible regulatory environment in the public and private oral
+health care delivery system of the country.
+3.2 Universality and Equity
+The policy envisages providing quality oral health care services to the population of the country
+irrespective of socioeconomic status, gender, geography, disability or any other barrier. It
+channelizes the available resources under the ambit of the National Health Policy for the protection
+of the poor, vulnerable and marginalized who suffer the greatest burden of dental and oral diseases.
+3.3 Affordable, Patient centered, Accessible, Quality care
+The policy commits to provide affordable, safe and quality oral health care services at all health
+facilities. It commits itself to abide by the latest Indian Public Health Standards for provision of
+primary and secondary oral health services. It encompasses access to the highest quality tertiary
+oral health services in the country.
+3.4 Inclusive partnerships
+This policy adopts intra-sectoral and inter-sectoral approaches with the existing organized systems
+of service delivery including but not limited to schools and educational institutions, community
+leaders, professional academia/ academic institutions, research organizations, not for profit
+organizations, relevant ministries, armed and paramilitary forces, Employees’ State Insurance,
+Central Government Health Scheme and railways and health care industry.
+3.5 Dynamism and Adaptiveness
+The knowledge base in oral health care is ever dynamic in nature with evidence-based learning
+from communities and national and international partners coming forth every day. This policy
+aims to adapt to the dynamic nature of oral health care technology and services.
+3.6 Decentralization and flexibility
+17
+
+Oral Health care needs are dynamic and there will be considerable variations in needs at
+different geographical regions, requiring decentralization of regional strategies and flexibility
+in approach to achieve oral health. The policy will facilitated centralization and flexibility
+by promoting creation of regional strategies to achieve outcomes in alignment with national
+oral health policy.
+3.7 Evidence-based policy development and implementation
+Research and evidence that can drive policy changes are lacking. The policy will promote identification
+of knowledge gaps to drive research in those areas to bridge the gap to drive policy changes in future.
+3.8 Community Participation
+Community participation in the form of increased oral health awareness and promoting oral
+health seeking behavior will increase demand for dental services at all levels of healthcare
+delivery systems. This policy will promote community participation in driving supply, uptake
+and utilization of dental services at all levels.21-24
+18
+
+4. Vision
+All the people of India enjoy the highest possible level of dental and oro-facial health, through
+promotive, preventive, curative and rehabilitative services with the highest professional standards,
+integrity, safety, equity and ethics.
+5. Objectives and Targets
+5.1 Objectives
+1. To strengthen oral healthcare delivery system at all levels to render promotive, preventive,
+curative and rehabilitative services.
+2. To promote support for generating evidences, innovations, and implementation of oral
+health policy to control and reduce the risk factors and prevent oral diseases.
+3. To encourage policy driven research, education, implementation and monitoring.
+4. To build the capacity of service providers and also public health facilities for availability of
+skilled oral health care professionals and provision of essential oral health care services.
+5. To ensure integration of oral health in all policies in multi- sectional domains including
+national programs under Health, Education, Work and community related policies.
+6. To identify the Centers of excellence at National, Regional and State levels for generating
+research innovations and evidences to strengthen oral health program in the country
+7. To support Centers of excellence in various activities including capacity building of service
+providers in the states.
+8. To ensure regular monitoring and periodic evaluation of oral health program for improving
+the implementation and outcome envisaged under NOHP.
+9. To delineate roles and responsibilities at each level (national, state and regional levels)
+and develop achievable targets with defined oral health outcome measures at each level
+19
+
+5.2 Specific Quantitative Targets
+The policy’s target is to develop robust and evidence-based outcome measures which will be
+defined to be collected at various levels of health care delivery systems which will form part of
+National Oral Health Strategic Plan document, which will be frequently reviewed and updated.
+5.2.1 Oral Health Status
+1. Establish baseline data for oral disease burden of the country by2025.
+2. Reduce the morbidity and mortality from dental and oro-facial diseases by 15% by2030
+5.2.2 Health System Performance
+1. Increase utilization of public oral health facilities by at least 50% per district by2030.
+2. Increase the coverage of community based awareness programs and procedures for oral
+health through health care facilities by 50% by 2025; and 70% by2030
+5.2.3 Oral Health System strengthening
+Make available assured and appropriate preventive and promotive oral health services at each
+health & wellness center and primary health center by 2025 and in addition, make available assured
+curative oral health services at each Primary Health Center by 2030.
+5.2.4 Oral Health Management Information
+a. Ensure district-level electronic database of information on health system components by2025.
+b. Establish integrated oral health information architecture & exchanges between district &
+primary health centers by2030.
+20
+
+6. Policy Components
+6.1 Ensure Adequate Investment
+The National Health Policy, 2017 has proposed to raise public health expenditure to 2.5% of the Gross
+Domestic Product in a time bound manner. In line with the National Health Policy 2017, this policy looks
+to increase funding towards strengthening and broadening the scope of oral health care in the country. This
+policy acknowledges alternative sources of fund mobilization and will encourage the states to explore and
+utilize these sources.
+6.2 Comprehensive Oral Health Care (Promotive, Preventive, Curative and Rehabilitative)
+This oral health policy focuses on comprehensive oral health care with greater emphasis on promotive and
+preventive measures like promoting healthy eating habits, preventive care and oral health education in
+pregnant women, preventing tobacco/alcohol abuse, Information Education Communication/Behavior
+Change Communication, oral health screening programs, tooth-brushing activities in school, professional
+dental cleaning, fluoride varnish application and pit and fissure sealant programs. This policy aims to make
+available assured and equitable quality oral health.
+6.3 Accessible and Affordable Oral Healthcare:
+This policy proposes to raise adequate infrastructure in the three tier health care delivery system of the
+country with a special focus on rural, hard to reach and tribal areas to improve access to accountable, primary
+oral health care services in line with the universal health coverage philosophy. The health care facilities
+should be able to provide oral health services to all. Further, it recognizes the need to use newer, user-
+friendly technology to increase accessibility to information and services. This policy will aim to define roles
+and responsibilities of systems at national and regional levels for achieving oral health and to decentralize
+development of integrated local or regional oral health policy in alignment with National Oral Health Policy.
+6.4 Quality of Life:
+The policy strives to establish an oral health-promoting environment conducive to lead a quality life. It
+commits to provide appropriate preventive and promotive measures pertaining to oral diseases; to improve
+Oral Health Related Quality of Life for all age groups, with a special focus on priority populations.
+21
+
+6.5 Integration
+This policy envisages integration as an efficient strategy for higher gains in the following areas:
+6.5.1 Relevant National Health Programs
+The policy intends to work with other national health programs which have many overlapping goals.
+Synergistic integration with these programs will yield greater mutual benefit.
+6.5.2 Inter-Ministerial Collaborations
+Oral health determinants being inter-sectoral, the policy supports collaborations with relevant
+programs of various Ministries for a combined effect on policy implementation and outcomes. The
+policy will also emphasize oral health promotion among the target groups of the society or
+population with special health care needs including children, adolescents, expectant mothers,
+geriatric, poor & marginalized population with a focus on road safety, oral health friendly workplace,
+protective gears for sports and other sectors
+6.5.3 Educational Institutions
+The policy looks to strengthen dental and/or medical and public health colleges in the country to act
+as nodal centers for capacity building, monitoring and evaluation. It also will facilitate coordination
+between the State Oral Health Cell and the Dental and/or Medical Colleges for the purpose of
+knowledge sharing, operational research and act as tertiary referral centers.
+6.6 Community involvement
+The policy promotes involvement of community leaders, Panchayati Raj Institutions, Self Help
+Groups and civil society to empower communities to take informed decisions, facilitate need based
+planning, implement, monitor, and evaluate oral health related activities in the local context.
+6.7 Partnership
+Wherever Government oral healthcare services are not adequately available, this policy recognizes
+the need for strategic purchasing of services from the private sector, preferably from not-for-profit
+organizations, for an efficient oral health care delivery and to strengthen preventive and promotive
+oral health activities. The policy aims to utilize the existing organized oral healthcare delivery
+systems including Central Government Health Services, armed forces, paramilitary forces,
+22
+
+railways and Employees’ State Insurance, National Professional organizations like IDA which has
+a large network of members through its State Branches (38 Branches) as well as over 645 local
+branches. Mobilizing expert human resources and leveraging on Corporate Social
+Responsibility/Scientific Social Responsibility may also be explored. To encourage participation
+of private sector, this policy advocates financial and / or non-financial incentives, devoid of
+conflict of interest.
+6.8 Common Risk Factor Approach(CRFA)
+This policy recommends making consorted efforts aligning with other non-communicable disease
+control policies by using Common Risk Factor Approach as a major strategy. It will avoid
+duplication of efforts and address socio political factors like oro-facial trauma, tobacco, alcohol,
+sugar consumption and unhealthy eating habits, to reduce the burden of oro- facial trauma, dental
+caries, oral cancer and periodontal diseases along with other Non-Communicable Diseases.
+6.9 Information Education Communication/ Behavior Change Communication
+The policy supports targeted population-based approaches to augment mass awareness on dental
+and oral diseases, prevention and healthy practices using available contemporary modalities in
+local/ regional context, with special emphasis on high risk and vulnerable populations. There is an
+urgent need to develop effective and core oral health messages which can be used consistently
+over the course of an advocacy campaign or effort. These messages should be aspirational and
+connect advocacy goals with the hopes and values of the people. There is a need to address myths
+and taboos in the country pertaining to oral health that arise from some cultural or regional beliefs.
+6.10 Patient centered quality of care
+This policy recognizes the need for public and private health facilities rendering oral health care services
+to cater patient friendly, need based, and evidence based, quality care, acceptable to the patient, considering
+cultural and social factors. It supports the system of oral health care delivery through well-established and
+documented processes that are replicable across the States.
+6.11 Health System Strengthening
+23
+
+The policy proposes placing trained oral health care personnel at all levels of health care delivery
+and support systems of the country. It supports the development of defined and assured career
+progression paths by establishing hierarchy and creation of oral health directorate in each state.
+The policy also supports knowledge enhancement of oral health professionals by Continuing
+Education. This policy looks to maximize resources, including those supported by the National
+Oral Health Program, to strengthen the oral health infrastructure of the country. This policy also
+advocates opening of oral healthcare units in other organizations and departments not covered
+under Ministry of Health. The oral healthcare units/wing in the existing Medical Colleges will also
+be strengthened to cater to the oral health needs of the population.
+6.12 Oral Health Research
+The policy commits to encourage research in Oral Health and Dental sciences. The areas of research may
+include fundamental dental research, epidemiological, operational and implementation research of national
+importance. It supports the establishment of Centers of Oral Health Research across India. It plans to utilize
+platforms like the National Referral and Research Institute for higher Dental Studies, National Resource
+Centers under the National Oral Health Program, Statistics division of the Ministry of Health and Family
+Welfare, Department of Science and Technology, Department of Biotechnology, Indian Council of Medical
+Research and Council of Scientific and Industrial Research to facilitate oral health research and surveys.
+Collaboration with National/ International Research Organizations/Institutes may be encouraged wherever
+feasible. The policy also has a provision for strengthening of dental education and research at all levels with
+promotion of partnership of academia with industries and other institutes of national/regional importance
+like IIT, IISc, Regional Technical Institutes to increase research and innovation in dental materials,
+equipment and materials so as to strengthen “make in India movement” and cater to “Atma Nirbhar Bharat”
+to promote self-reliance and reduce costs. The policy will facilitate strengthening interdisciplinary care for
+various oro-facial anomalies like cleft lip and palate with active and early involvement of dental specialists
+in multi-disciplinary care to reduce the disease burden. It also emphasizes need of local innovations,
+adaptations and manufacturing of dental equipment, instruments and consumables in India through
+concerted efforts under various Govt. programs and schemes. There is a need to create a research knowledge
+repository to prevent duplication of research and utilization of existing knowledge for enhancing the science
+of dentistry. There is need to create trained workforce for oral health research and to fund, promote and
+strengthen health research capacity for development and implementation of cost-effective preventive
+strategies in oral health.
+24
+
+6.13 Accountability, Monitoring andEvaluation
+This policy supports the development of standardized protocols and establishment of a valid and reliable
+interdisciplinary oral health surveillance system. This will generate data pertaining to all components of
+the oral health care delivery system. It also recommends the use of performance indicators to assess output
+and outcomes of the system. It looks to establishing a central site for aggregating survey results and
+developing a robust Health Management Information System.
+6.14 Dental Education
+The policy is committed to reform dental education by stressing upon competence of dental graduates,
+specialists and para-dental staff produced in the country. It envisages uniform system of education, training
+and assessment throughout the country. There is a need to reform the teaching learning method and
+examination system in line with changing needs and global trends. Also, the policy will stress on global
+health, inter-professional education, technical and nontechnical skill building and capacity building for
+dental educators/teachers and researchers; and to create more post-doctoral training courses for dentists and
+dental specialists to increase trained manpower. In addition to this the policy aims to strengthen the quality
+of higher education in all specialties of dentistry with focus on overall health promotion and promote
+teaching, research and innovation at all levels of dental education.
+6.15 Advocacy
+Advocacy at all levels of governance is required for increased political and financial commitment
+for oral health. Persistent efforts based on available evidences and best practices should be made
+for recognition of oral health in health policy and its integration with related programs.
+6.16 Availability of Affordable Oral Hygiene Products, Dental Equipment, Instruments
+and Materials
+The policy promotes availability of quality assured oral health products for the Indian population at
+affordable costs. Local manufacturing and frugal innovations may be encouraged as a means of controlling
+cost of care and strengthening of supply chain mechanism to ensure dental consumables of good quality
+reach the dental services at all levels especially those at lower levels (frontline). It plans to have the existing
+Government of India regulatory bodies to regulate production of dental equipment, instruments and
+materials. Availability of fluoridated toothpaste, various oral hygiene aids and commonly prescribed drugs
+25
+
+for dental use at lower costs, for commercial use in market or at subsidized rates by the government or by
+reducing the taxation at these items would lead to increase in utilization of these products.
+26
+
+7. Regulatory framework
+7.1 Professional Education Regulation
+The policy is committed to regulate and monitor dental education through a robust system through
+appropriate body of Govt. of India.
+7.2 Regulation of Dental Clinical Establishments
+This policy supports the guidelines as proposed under the Clinical Establishments Act2010 for delivering
+quality oral health care services in all dental establishments through standard operating procedures. The
+policy will advocate facilitation of dental clinic establishment particularly in rural and under-served areas.
+The policy supports compliance of Standard treatment Guidelines by the Dental Clinical Establishments as
+may be issued by Central or State Government from time to time.
+7.3 Regulation of Dental equipment, Instruments and Materials
+There is a need to have strict monitoring of the quality and costing of dental equipment,
+instruments and materials available in the country. The National Oral Health policy recommends
+supporting and strengthening all existing and future regulations related to medical/ dental devices
+and dental materials. The policy shall also support the regulatory framework for Post market
+surveillance / materio-vigilance program of Government of India.
+7.4 Regulation of Commercial determinants of Oral Health Research, Policy and
+Practice
+The policy is committed to identification of social and commercial determinants of common risk factors of
+oral health shared with a range of other non-communicable diseases (NCDs). It aims to create a coherent
+and comprehensive regulation and legislation framework to regulate the commercial determinants to tackle
+these shared risk factors. The policy will promote transparency at all levels and in all procedures to limit
+and clarify the influence of the commercial determinants on oral health research, policy and practice.23,24
+27
+
+8. Policy Thrust
+ Increasing investment in Oral Health Promotion and Service Provisions by strengthening of
+oral health Infrastructure at Health and Wellness Centre
+ Strengthening the public health care system by making states and their trained hierarchical
+inter-professional human resources for the public oral healthcare.
+ Increased monitoring, safety, equity, accessibility, accountability and quality assurance of
+dental healthcare service provision
+ Robust surveillance in oral health following top down approach.
+ Maximum co-existence of oral healthcare along with contemporary general health care
+programs with a strong concept of including oral health in all policies.
+ Commitment towards at par level of dental education and dental service.
+ Promoting meaningful policy driven and interdisciplinary dental research with adequate fund
+allocation for research in oral health domains.24
+9. Policy review and development
+The policy also recommends development of a robust framework for policy evaluation, implementation,
+monitoring and impact assessment which is reviewed periodically as per changing needs. Detailed
+outcome measures, monitoring and evaluation framework will be part of the National Oral Health
+Strategic Plan that will be updated time to time. The monitoring and evaluation framework must be more
+detailed in line with the outcome measures with defined timeline for data collection and strengthening of
+reporting including creating data-reporting, data validation and analysis.
+10. Legal Aspects
+This policy is based on the same core principles of National Health Policy 2017 and abides by
+the same legal framework as NHP 2017.
+28
+
+11. Financial Implications
+The policy document will be a guiding principle to streamline the allocation and disbursement of funds for
+improvement of oral health care infrastructure, uniform horizontal service delivery and quality of care. It
+will frame mechanisms for monitoring the proportionate funding for oral health through National Health
+Accounts. Strengthening of existing data sources under National Health Accounts to capture more detailed
+information on expenditure on dental care, long term care and rehabilitative care in Government/Private
+sector.
+12. Stakeholders
+This policy aims to include the general public, all policy makers, public and private sector dental
+professionals, medical professionals, allied health professionals, relevant ministries, professional
+councils, manufacturers of dental devices and products, not for profit organizations and corporate
+sectors for implementing the strategies laid down in the document.
+29
+
+References
+1. World Health Organization. Available on https://www.who.int/about/who-we-
+are/constitution. [Accessed on 24-08-2020]
+2. World Health Organization. Available on https://www.who.int/healthpromotion/
+conferences/previous/Ottawa/en/. [Accessed on24-08-2020]
+3. FDI World Dental Federation. Available on https://www.fdiworlddental.org/. [Accessed on
+24-08-2020]
+4. Dental Council of India. http://www.dciindia. gov.in/Rule_Regulation /Dentists Act_
+1948.pdf. [Accessed on24-08-2020]
+5. Policy Statement 3.3 – Allied Dental Personnel. Available onhttps://www.ada.org.au.
+[Accessed on24-08-2020]
+6. World Health Organization. Available on https://www.who.int/news-room/fact-
+sheets/detail/oral-health. [Accessed on24-08-2020].
+7. Wong MCM, Glenny AM, Tsang BWK, Lo ECM, Worthington HV, Marinho VCC. Topical
+fluoride as a cause of dental fluorosis in children. Cochrane Database of Systematic Reviews
+2010, Issue 1. Art. No.: CD007693. DOI:10.1002/14651858.CD007693.pub2.
+8. Chestnut IG, Gibson J. 1st ed. Churchill's Pocket Book of Clinical Dentistry United
+Kingdom: Churchill Livingstone, Harcourt Publishers Limited; 2000; p. 260.)
+9. TMJ Disorders. Available on (https://www.nidcr.nih.gov/sites/default/files/2017-12/tmj-
+disorders.pdf). [Accessed on24-08-2020].
+10. Sheiham A. Oral health, general health and quality of life. Bulletin of the World Health
+Organization.2005;83(9):641-720.
+11. Kassebaum NJ, Smith AGC, Bernabé E, et al. Global, Regional, and National Prevalence,
+Incidence, and Disability-Adjusted Life Years for Oral Conditions for 195 Countries, 1990-
+2015: A Systematic Analysis for the Global Burden of Diseases, Injuries, and Risk Factors. J
+Dent Res. 2017;96(4):380-387.doi:10.1177/0022034517693566.
+12. Listl S, GallowayJ, Mossey PA, Marcenes W. Global economic impact of dental diseases.
+Journal of dental research. 2015Oct;94(10):1355-61.
+30
+
+13. Ganesh A, Muthu MS, Mohan A, Kirubakaran R. Prevalence of Early Childhood Caries in
+India - A Systematic Review. Indian J Pediatr. 2019;86(3):276-286. doi:10.1007/s12098- 018-
+2793-y
+14. Shah N, Pandey RM, Duggal R, Mathur VP, Parkash H, Sundaram KR. Oral Health in India.
+A report of Multi-centric study. Director General of Health Services, Ministry of Health and
+Family Welfare, Government of India and WHO collaborative programme. December 2007.
+Available from:http://www.whoindia.org/en/section20/Section30_1525.htm.
+15. Sheiham A,Watt RG. The common risk factor approach: a rational basis for promoting oral
+health. Community Dent Oral Epidemiol. 2000 Dec;28(6):399-406.
+16. Global Burden of Disease Study 2017. Available at
+http://www.healthdata.org/sites/default/files/files/policy_report/2019/GBD_2017_Booklet.pd
+f [Accessed on24-08-2020]
+17. National Health Profile 2018. Available at http://www.india environment portal.
+org.in/files/file/NHP%202018.pdf . [Accessed on24-08-2020].
+18. Indian Public Health Standard. http://www.cghealth.nic.in/cghealth17/ Information/content
+/IPHS/DGHS_IPHS_CommunityHealthCentres.pdf. [Accessed on 24-08-2020].
+19. National Health Systems Resource Centre (MOHFW). National Health Accounts Estimates for India
+2016-17. 2019. [Available from:
+http://nhsrcindia.org/sites/default/files/FINAL%20National%20Health%20Accounts%2 02016-
+17%20Nov%202019-for%20Web.pdf]
+20. 11th Common Review Mission (CRM). http://nhsrcindia.org /sites/default/files/
+11th%20CRM_Report_Web.pdf. [Accessed on 24-08-2020].
+21. Watt RG, Daly B, Allison P, Macpherson LMD, Venturelli R, Listl S, Weyant RJ, Mathur MR,
+Guarnizo-Herreno CC, Celeste RK, Peres MA, Kearns C, Benzian H. Ending the neglect of global oral
+health: time for radical action. Lancet. 2019; 394: 261-272.
+22. World Health Organization. Writing Oral Health Policy. A Manual for Oral Health Managers in the
+WHO African Region. 2005. [Available from:
+https://apps.who.int/iris/bitstream/handle/10665/204462/AFR_ORH_05.1.pdf?sequence=1&isAllowe
+d=y].
+23. Petersen PE. Strengthening of oral health systems: oral health through primary health care. Med Princ
+Pract. 2014;23 Suppl 1(Suppl 1):3-9. doi: 10.1159/000356937. Epub 2014 Feb 12. PMID: 24525450;
+PMCID: PMC5586948.
+24. Peres MA, Macpherson LMD, Weyant RJ, Daly B, Venturelli R, Mathur MR, Listl S, Celeste RK,
+Guarnizo-Herreño CC, Kearns C, Benzian H, Allison P, Watt RG. Oral diseases: a global public health
+challenge. Lancet. 2019;394:249-260.
+31
